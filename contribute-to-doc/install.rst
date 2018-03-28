@@ -39,7 +39,7 @@ Download and install Git from here https://git-scm.com/download/win
 
 	.. code-block:: powershell
 	
-	    git clone https://github.com/preciofishbone/Omnia-Foundation-Docs.git
+	    git clone https://github.com/preciofishbone/OmniaDocs.git
 		
 		
 The source code is now cloned to the current folder
