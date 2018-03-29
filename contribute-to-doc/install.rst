@@ -33,7 +33,7 @@ Download and install Git from here https://git-scm.com/download/win
 
 	.. code-block:: powershell
 	
-	    C:\Git\OMF-docs
+	    C:\Git\OmniaDocs
 		
 2.  In a command prompt, navigate to the folder you just created and execute the following command
 
