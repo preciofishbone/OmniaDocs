@@ -24,7 +24,7 @@ Settings is in this case made through the Notification Panel, see below.
 ### My Tasks as a separate control
 You can place the My Tasks control as a web part on any legacy page, or as a block on a Quick Page.
 
-Here's an example when My Tasks is used on a Quick Page:
+:Here's an example when My Tasks is used on a Quick Page:
 
 (Pic)
 
@@ -50,9 +50,13 @@ When using My Tasks as a separate control, the following settings are avilable:
 + **Day Limit**: (No longer used).
 + **Custom colors** You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
+-
+-
+-
 
 
-**Test med inkopierad text från md-filen**
+**Test med inkopierad text från md-filen**:
+
 The My Tasks Control aggregates all tasks that have been assigned to the current user (from all sites, not only the ones the user is following). 
 
 Note!
