@@ -13,11 +13,11 @@ The My taskslist is often part of the Notification panel but can also be added a
 ### My Tasks list in Notification Panel
 Here's an example of a My Tasks list in Notification Panel:
 
-(Pic)
+-Pic-
 
 The user can then click a site to see more information about the tasks there, for example:
 
-(Pic)
+-Pic-
 
 Settings is in this case made through the Notification Panel, see below.
 
@@ -26,7 +26,7 @@ You can place the My Tasks control as a web part on any legacy page, or as a blo
 
 :Here's an example when My Tasks is used on a Quick Page:
 
-(Pic)
+-Pic-
 
 ## Prerequisites
 ????????
@@ -37,14 +37,14 @@ There are no settings in Omnia Admin för My Tasks.
 ## Settings in the Notification Panel
 If My Tasks is set up as a part of the Notification Panel, the following settings are available:
 
-(Pic)
+-Pic-
 
 ???More text???
 
 ## Settings for the control
 When using My Tasks as a separate control, the following settings are avilable:
 
-(Pic)
+-Pic-
 
 + **Row Limit**: The maximum number of tasks to show in the list.
 + **Day Limit**: (No longer used).
