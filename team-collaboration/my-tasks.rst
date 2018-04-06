@@ -1,6 +1,6 @@
 
 My Tasks
-########
+********
 The My Tasks Control aggregates all tasks that have been assigned to the current user (from all sites, not only the ones the user is following). 
 
 **Note!** The My Tasks Control is based on the search engine in SharePoint. It may take several minutes before a task assigned to the current user in a team site is shown on the start page.
