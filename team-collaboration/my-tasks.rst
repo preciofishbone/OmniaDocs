@@ -25,7 +25,7 @@ My Tasks as a separate control
 ==============================
 You can place the My Tasks control as a web part on any legacy page, or as a block on a Quick Page.
 
-:Here's an example when My Tasks is used on a Quick Page:
+Here's an example when My Tasks is used on a Quick Page:
 
 -Pic-
 
