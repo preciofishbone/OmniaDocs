@@ -7,6 +7,10 @@ The My Tasks Control is based on the search engine in SharePoint. It may take se
 
 All sites with tasks assigned to the user is displayed in a list, with the number of tasks assigned in each site. 
 
+Prerequisites
+=============
+What do describe here?
+
 The user experience
 ===================
 
@@ -34,9 +38,6 @@ Here's an example when My Tasks is used on a Quick Page:
 
 -Pic-
 
-Prerequisites
-=============
-What do describe here?
 
 Omnia Admin settings
 ====================
