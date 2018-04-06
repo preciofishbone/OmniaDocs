@@ -7,6 +7,9 @@ The My Tasks Control is based on the search engine in SharePoint. It may take se
 
 All sites with tasks assigned to the user is displayed in a list, with the number of tasks assigned in each site. 
 
+The user experience
+===================
+
 The My taskslist is often part of the Notification panel but can also be added as a separate control, as a web part on a legacy page, or a block on a Quick Page.
 
 My Tasks list in Notification Panel
