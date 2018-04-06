@@ -1,3 +1,4 @@
+
 My Tasks
 ===========================
 The My Tasks Control aggregates all tasks that have been assigned to the current user (from all sites, not only the ones the user is following). 
