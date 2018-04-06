@@ -10,10 +10,9 @@ All sites with tasks assigned to the user is displayed in a list, with the numbe
 The My taskslist is often part of the Notification panel but can also be added as a separate control, as a web part on a legacy page, or a block on a Quick Page.
 
 My Tasks list in Notification Panel
-***********************************
+"""""""""""""""""""""""""""""""""""
 Here's an example of a My Tasks list in Notification Panel:
 
-**My tasks heading:**
 (Just for testing, not the correct image)
 
 .. image:: notification-settings.png
@@ -25,7 +24,7 @@ The user can then click a site to see more information about the tasks there, fo
 Settings is in this case made through the Notification Panel, see below.
 
 My Tasks as a separate control
-******************************
+""""""""""""""""""""""""""""""
 You can place the My Tasks control as a web part on any legacy page, or as a block on a Quick Page.
 
 Here's an example when My Tasks is used on a Quick Page:
