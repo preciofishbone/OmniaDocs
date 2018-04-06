@@ -36,7 +36,8 @@ Omnia Admin settings
 ====================
 There are no settings in Omnia Admin för My Tasks.
 
-## Settings in the Notification Panel
+Settings in the Notification Panel
+==================================
 If My Tasks is set up as a part of the Notification Panel, the following settings are available:
 
 -Pic-
