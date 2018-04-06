@@ -22,7 +22,7 @@ The user can then click a site to see more information about the tasks there, fo
 Settings is in this case made through the Notification Panel, see below.
 
 My Tasks as a separate control
-==============================
+******************************
 You can place the My Tasks control as a web part on any legacy page, or as a block on a Quick Page.
 
 Here's an example when My Tasks is used on a Quick Page:
@@ -30,15 +30,15 @@ Here's an example when My Tasks is used on a Quick Page:
 -Pic-
 
 Prerequisites
-=============
+*************
 What do describe here?
 
 Omnia Admin settings
-====================
+********************
 There are no settings in Omnia Admin för My Tasks.
 
 Settings in the Notification Panel
-==================================
+**********************************
 If My Tasks is set up as a part of the Notification Panel, the following settings are available:
 
 -Pic-
@@ -46,7 +46,7 @@ If My Tasks is set up as a part of the Notification Panel, the following setting
 ???More text???
 
 Settings for the control
-========================
+************************
 When using My Tasks as a separate control, the following settings are avilable:
 
 -Pic-
