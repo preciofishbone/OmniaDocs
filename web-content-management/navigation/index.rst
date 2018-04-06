@@ -4,6 +4,6 @@ Navigation
 .. toctree::
    :titlesonly:
 
-   megamenu
-   breadcrumb
-   current-navigation
+   megamenu/index
+   breadcrumb/index
+   current-navigation/index

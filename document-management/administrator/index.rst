@@ -4,11 +4,11 @@ Administrator
 .. toctree::
    :titlesonly:
 
-   settings
-   document-profiles
-   document-templates
-   document-types
-   document-reports
-   document-bulk-update
-   unpublish
-   archive
+   settings/index
+   document-profiles/index
+   document-templates/index
+   document-types/index
+   document-reports/index
+   document-bulk-update/index
+   unpublish/index
+   archive/index

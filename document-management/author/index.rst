@@ -4,9 +4,9 @@ Author
 .. toctree::
    :titlesonly:
 
-   controlled-documents-library
-   review-workflow
-   approval-workflow
-   read-understood
-   property-placeholders
-   related-documents
+   controlled-documents-library/index
+   review-workflow/index
+   approval-workflow/index
+   read-understood/index
+   property-placeholders/index
+   related-documents/index

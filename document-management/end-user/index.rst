@@ -1,9 +1,9 @@
-Author
-===========================
+End User
+========
 
 .. toctree::
    :titlesonly:
 
-   controlled-documents-subscription
-   controlled-documents-viewer
-   create-document-wizard
+   controlled-documents-subscription/index
+   controlled-documents-viewer/index
+   create-document-wizard/index

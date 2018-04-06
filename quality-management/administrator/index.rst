@@ -4,5 +4,5 @@ Administrator
 .. toctree::
    :titlesonly:
 
-   settings
-   templates
+   settings/index
+   templates/index

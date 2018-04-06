@@ -4,10 +4,10 @@ My Workplace
 .. toctree::
    :titlesonly:
 
-   notification-panel
-   user-feed
-   my-links
-   common-links
-   cross-site-header
-   quick-search
-   my-recent-documents
+   notification-panel/index
+   user-feed/index
+   my-links/index
+   common-links/index
+   cross-site-header/index
+   quick-search/index
+   my-recent-documents/index

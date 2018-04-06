@@ -4,9 +4,9 @@ Tenant Management
 .. toctree::
    :titlesonly:
 
-   logo
-   central-image-locations
-   tutorials
-   color-themes
-   omnia-profiles
-   targeting-definitions
+   logo/index
+   central-image-locations/index
+   tutorials/index
+   color-themes/index
+   omnia-profiles/index
+   targeting-definitions/index

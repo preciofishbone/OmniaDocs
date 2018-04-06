@@ -4,9 +4,9 @@ News
 .. toctree::
    :titlesonly:
 
-   news-viewer
-   news-archive
-   latest-news
-   related-news
-   scheduled-publishing
-   important-announcements
+   news-viewer/index
+   news-archive/index
+   latest-news/index
+   related-news/index
+   scheduled-publishing/index
+   important-announcements/index

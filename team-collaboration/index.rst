@@ -4,11 +4,11 @@ Team Collaboration
 .. toctree::
    :titlesonly:
 
-   my-tasks
-   my-sites
-   announcements
-   last-updated-documents
-   site-directory
-   site-templates
-   create-site
-   team-site-quick-edit
+   my-tasks/index
+   my-sites/index
+   announcements/index
+   last-updated-documents/index
+   site-directory/index
+   site-templates/index
+   create-site/index
+   team-site-quick-edit/index

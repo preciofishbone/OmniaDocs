@@ -4,6 +4,6 @@ Author
 .. toctree::
    :titlesonly:
 
-   process-library
-   deviations-improvements
-   read-understood
+   process-library/index
+   deviations-improvements/index
+   read-understood/index

@@ -4,10 +4,10 @@ Publishing Features
 .. toctree::
    :titlesonly:
 
-   banners
-   rss-reader
-   quick-poll
-   aggregated-calendar
-   document-rollup
-   people-rollup
-   script-html
+   banners/index
+   rss-reader/index
+   quick-poll/index
+   aggregated-calendar/index
+   document-rollup/index
+   people-rollup/index
+   script-html/index
