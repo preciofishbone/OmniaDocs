@@ -1,4 +1,4 @@
- 
+
 My Tasks
 ########
 The My Tasks Control aggregates all tasks that have been assigned to the current user from all team sites. 
@@ -12,6 +12,8 @@ The My taskslist is often part of the Notification panel but can also be added a
 My Tasks list in Notification Panel
 ***********************************
 Here's an example of a My Tasks list in Notification Panel:
+
+(Just for testing, not the correct image)
 
 .. image:: notification-settings.png
 
