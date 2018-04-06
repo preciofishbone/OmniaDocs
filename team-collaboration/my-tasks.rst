@@ -5,7 +5,7 @@ The My Tasks Control aggregates all tasks that have been assigned to the current
 **Note!**
 The My Tasks Control is based on the search engine in SharePoint. It may take several minutes before a task assigned to the current user in a team site is shown on the start page.
 
-All sites with tasks assigned to the user is displayed in a list, with the number of tasks assigned in each site. 
+All sites with tasks assigned to the user is displayed in a list, with the number of tasks assigned in each site.
 
 Prerequisites
 =============
