@@ -13,6 +13,7 @@ My Tasks list in Notification Panel
 ***********************************
 Here's an example of a My Tasks list in Notification Panel:
 
+**My tasks heading:**
 (Just for testing, not the correct image)
 
 .. image:: notification-settings.png
