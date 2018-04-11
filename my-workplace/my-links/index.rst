@@ -19,6 +19,7 @@ Available icons to the right in this list is used this way:
 + |star| This icon can be clicked to select to show, or not to show, a non-mandatory link. A black star indicates that the link will be shown, a grey star that the link will not be shown. Note: if the user selects "Show all links", all common links are always shown, regardless of this selection. Also note the important difference when used for personal links. When the star is clicked for a personal link, the link is removed.
 .. |star| image:: star-edited.png
    :align: middle
+
 + |i-icon| This icon indicates that information about the link is available, and can be read by clicking the icon.
 .. |i-icon| image:: i-icon-edited.png
    :align: middle
@@ -70,6 +71,9 @@ On the General tab you can set the following:
 + **Item Limit**: The maximum number of items to display before a "Show more" link appears.
 
 Here's some examples of app icons:
+
+.. image:: MyLinksBlockAppIcons.png
+   :width: 40pt
 
 Custom Colors
 -------------
