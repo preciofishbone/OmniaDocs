@@ -54,11 +54,9 @@ Here's an example where My Links is used as a block:
 
 ![My Links](../../Images/my-links-block.png)
 
-Settings or the control
+Settings for the control
 ***********************
-To change the settings for the web part/block, active the edit switch and click  the settings gear.
-
-This will open the settings dialog.
+The following settings are available:
 
 ![My Links Web Part and block Settings](../../Images/my-links-block-settings.png)
 
