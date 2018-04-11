@@ -30,12 +30,12 @@ Use this window when adding a new common link or editing and existing:
    :width: 40pt
 
 + **Title** The title is shown as the clickable text, in My links.
-+ **Url** The link to go to when the user clicks the link.
-+ **Category** Links that are the same category will automatically be sorted together when the user chooses to display the categories.
++ **Url** The url to go to when the user clicks the link.
++ **Category** Links that are the same category will automatically be sorted together when the user chooses to display the categories. (in the My Links example above, the links are sorted by Category).
 + **Information** This field can be used for additional information about the link. If you enter something here, an information icon is shown next to the link, in My links. Users can click the icon to read the information. Not mandatory. 
-+ **Open in New Window** Select to open in a new browser window. Normally a good idea for external links.
-+ **Mandatory** If selected, the link is always shown for all users (or the limited set of users), and can not be deselected. 
-+ **Icon** An icon is always shown for a link. If you would like another icon for this link, select the "Build in" icon set or "Custom", and the choose icon.
++ **Open in New Window** Select to open the url in a new browser window. Normally a good idea for external links.
++ **Mandatory** If selected, the link is always shown for all users (or the limited set of users, if targeted), and can not be deselected. 
++ **Icon** An icon is always shown for a link. If you would like another icon for this link, select the "Build in" icon set or "Custom", and choose icon.
 
 Targeting a link
 ----------------
