@@ -1,4 +1,4 @@
-((Common Links
+Common Links
 ============
 
 Common Links is a tenant scoped feature - the settings are used across all SharePoint sites in Omnia. It makes it possible to create a central list of links, in Omnia Admin, to resources that are commonly used within the organization.
