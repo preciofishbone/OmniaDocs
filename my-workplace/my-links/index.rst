@@ -17,8 +17,8 @@ Here's an example of My Links in the Cross Sites Header:
 
 Available icons to the right of this list is used this way:
 
-.. image:: star.png can be used to select to show, or not to show, a non-Mandatory link.
-.. image:: i.icon.png can be clicked to show more information about a common link, if the admin has added such information.
+.. image:: star.png:: can be used to select to show, or not to show, a non-Mandatory link.
+.. image:: i.icon.png:: can be clicked to show more information about a common link, if the admin has added such information.
 
 ## Adding personal links
 En users can add and remove centrally handled links that are not mandatory, from the list. End users can also add personal links.
