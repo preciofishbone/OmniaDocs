@@ -45,21 +45,9 @@ A link can be targeted to any receivers that has been defined in the Target Defi
 
 [Targeting Definitions](/Docs/en-us/omnia-foundation-admin/targeting-definitions/index.html)
 
-Before you can use targeting for Common Links, you have to activate that option and select the Target Definition to be used for the links.
+When you select "Target to", the the available target groups are shown, for example:
 
-1. Click "Targeting settings".
+.. image:: target-to.png
+   :width: 40pt
 
-![Target settings](../../Images/target-settings-1.png)
-
-Select which Target Definition to use for the links and save.
-
-![Target settings](../../Images/target-settings-2.png)
-
-When targeting has been activated any link can be targeted, if needed. 
-
-1. Create the link as described above.
-2. Select "Target to".
-
-After this step you could either have a drop down list to choose from, or one or more filds where you can select terms for targeting, for example:
-
-![Target to](../../Images/target-to-example.png)
+You select targets for the links from the list(s) the normal way.
