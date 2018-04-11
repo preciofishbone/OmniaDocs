@@ -42,33 +42,28 @@ A user can add a personal link by clicking the option "ADD PERSONAL LINK" and us
 + **Icon**: The user can select from built-in icons based on Font Awesome or any image uploaded to a document library in SharePoint.
 + **Icon background color**: The background color for the icon here. If not setm the default icon background color will be used.
 
-A personal link can be deleted the same way as described above (but for e personal link, the linke is actually deleted, not just removed).
-
-To edit a personal link, hover over the link and click the pen:
-
-![My Links - Edit personal link](../../Images/my-links-edit.png)
-
-## My Links Mobile Navigation
-
+My Links Mobile Navigation
+**************************
 The My links control will not be shown when the screen is below a certain width. When the my links control is hidden, the mobile navigation will be shown. The mobile navigation includes the list of my links, but the user cannot add/remove links from the list.
 
-![My Links Mobile Navigation](../../Images/myy-links-mobile-view.png)
-
-## My Links Web Part and block
+My Links Web Part and block
+***************************
 My links can also be added to any legacy page as a web part and to any Quick Page as a block. Mandatory links, links the user have selected and personal links will be displayed. The links list can not be altered through the web part/block. The my links web part/block settings are web part scoped.
 
 Here's an example where My Links is used as a block:
 
 ![My Links](../../Images/my-links-block.png)
 
-## The settings
+Settings or the control
+***********************
 To change the settings for the web part/block, active the edit switch and click  the settings gear.
 
 This will open the settings dialog.
 
 ![My Links Web Part and block Settings](../../Images/my-links-block-settings.png)
 
-### General
+General
+--------
 On the General tab you can set the following:
 
 + **Title**: Add the title to be displayed for the web part/block.
@@ -80,7 +75,8 @@ Here's some examples of app icons:
 
 ![App Icons](../../Images/MyLinksBlockAppIcons.png)
 
-### Custom Colors
+Custom Colors
+-------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
 ![Custom colors](../../Images/my-links-colors.png)
