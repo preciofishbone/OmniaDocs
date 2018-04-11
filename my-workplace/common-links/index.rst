@@ -1,4 +1,4 @@
-Common Links
+((Common Links
 ============
 
 Common Links is a tenant scoped feature - the settings are used across all SharePoint sites in Omnia. It makes it possible to create a central list of links, in Omnia Admin, to resources that are commonly used within the organization.
@@ -10,7 +10,7 @@ The end user can access the common links in the My Links control. The list conta
 .. image:: my-links-example.png
    :width: 40pt
 
-More information about the My Links control is found here: My Links
+More information about the My Links control is found here: [My Links]
 
 The Omnia Admin settings
 ************************
@@ -41,9 +41,7 @@ Use this window when adding a new common link or editing and existing:
 
 Targeting a link
 ----------------
-A link can be targeted to any receivers that has been defined in the Target Definition selected for Common Links. A targeted link is only available for selection by the target group. No one else will see the link. For more information on Targeting Definitions, see:
-
-[Targeting Definitions](/Docs/en-us/omnia-foundation-admin/targeting-definitions/index.html)
+A link can be targeted to any receivers that has been defined in the Target Definition selected for Common Links. A targeted link is only available for selection by the target group. No one else will see the link. For more information on Targeting Definitions, see: [Targeting Definitions](/Docs/en-us/omnia-foundation-admin/targeting-definitions/index.html)
 
 When you select "Target to", the the available target groups are shown, for example:
 
