@@ -36,8 +36,8 @@ Use this window when adding a new common link or editing and existing:
 + **Open in New Window** Select to open the url in a new browser window. Normally a good idea for external links.
 + **Mandatory** If selected, the link is always shown for all users (or the limited set of users, if targeted), and can not be deselected.
 + **Target to** Use this option to target the link to a certain group. See more information about targeting below.
-+ **Icon** An icon is always shown for a link. If you would like another icon for this link, select the "Build in" icon set or "Custom", and choose icon.
-+ **Icon Background Color** Set the background color for the icon here.
++ **Icon** An icon is always shown for a link. If you would like another icon for this link, select the "Built-in" icon set or "Custom", and choose icon.
++ **Icon Background Color** Set the background color for the icon here. If note set, default icon background color is used.
 
 Targeting a link
 ----------------
