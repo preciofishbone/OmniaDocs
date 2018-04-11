@@ -30,7 +30,7 @@ Available icons to the right in this list is used this way:
 Adding personal links
 *********************
 A user can add a personal link by clicking the option "ADD PERSONAL LINK" and using he following settings:
-
+-b
 .. image:: create-link.png
    :width: 40pt
 
@@ -59,7 +59,7 @@ Settings for the control
 ***********************
 The following settings are available:
 
-.. image:: my-links-block-settings.png
+.. image:: my-links-block-settings-b.png
    :width: 80pt
 
 General
