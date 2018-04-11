@@ -8,7 +8,6 @@ Some links can be mandatory and it's also possible to target links to certain gr
 The end user can access the common links in the My Links control. The list contains all active links. The user can decide which non-mandatory links to display and can add personal links there. Here's and example:
 
 .. image:: my-links-example.png
-   :width: 40pt
 
 More information about the My Links control is found here: [My Links]
 
@@ -27,7 +26,6 @@ Add link
 Use this window when adding a new common link or editing and existing:
 
 .. image:: new-link.png
-   :width: 40pt
 
 + **Title**: The title is shown as the clickable text, in My links.
 + **Url**: The url to go to when the user clicks the link.
@@ -46,6 +44,5 @@ A link can be targeted to any receivers that has been defined in the Target Defi
 When you select "Target to", the the available target groups are shown, for example:
 
 .. image:: target-to.png
-   :width: 40pt
 
 You select targets for the links from the list(s) the normal way.
