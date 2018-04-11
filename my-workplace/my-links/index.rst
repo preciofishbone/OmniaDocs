@@ -17,7 +17,7 @@ Here's an example of My Links in the Cross Sites Header:
 
 Available icons to the right in this list is used this way:
 
-+ |star| This icon can be cliked to select to show, or not to show, a non-mandatory link. A black star indicates that the link will be shown, a grey star that the link will not be shown. Note: if the user selects "Show all links", all common links are always shown, regardless of this selection. Also note the important difference when used for personal links. When the star is clicked for a personal link, the link is removed.
++ |star| This icon can be clicked to select to show, or not to show, a non-mandatory link. A black star indicates that the link will be shown, a grey star that the link will not be shown. Note: if the user selects "Show all links", all common links are always shown, regardless of this selection. Also note the important difference when used for personal links. When the star is clicked for a personal link, the link is removed.
 .. |star| image:: star-edited.png
    :align: middle
 + |i-icon| This icon indicates that information about the link is available, and can be read by clicking the icon.
