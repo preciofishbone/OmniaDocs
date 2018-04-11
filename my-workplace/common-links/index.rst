@@ -7,7 +7,8 @@ Some links can be mandatory and it's also possible to target links to certain gr
 
 The end user can access the common links in the My Links control. The list constains all active links. The user can decide which non-mandatory links to display and can add personal links there. Here's and example:
 
-![Common Links Admin](../../Images/add-link.png)
+.. image:: my-links-example.png
+   :width: 40pt
 
 To create a link, click "Add link" and the following window is shown. The same window is shown when you edit a link.
 
