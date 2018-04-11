@@ -10,8 +10,7 @@ Here's an example of My Links in the Cross Sites Header:
 .. image:: my-links-example.png
    :width: 40pt
 
-+ **Show all links**: Select to show all common links. 
-+ **Show categories**: Select to show category headings for the links. If not selected the list of links is shown in alphabetical order. If selected the list is shown, sorted on the category headings, in alphabetical order (as in the image above).
++ **Show all links**: Select to show all common links.+ **Show categories**: Select to show category headings for the links. If not selected the list of links is shown in alphabetical order. If selected the list is shown, sorted on the category headings, in alphabetical order (as in the image above).
 + **Filter links...**: The list can be filtered using this field.
 + **Add personal link**: This option can be used to add personal links to the list, see below.
 
@@ -30,7 +29,7 @@ Available icons to the right in this list is used this way:
 Adding personal links
 *********************
 A user can add a personal link by clicking the option "ADD PERSONAL LINK" and using he following settings:
--b
+
 .. image:: create-link.png
    :width: 40pt
 
