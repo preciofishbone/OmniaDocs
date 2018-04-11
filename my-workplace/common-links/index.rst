@@ -10,7 +10,7 @@ The end user can access the common links in the My Links control. The list conta
 .. image:: my-links-example.png
    :width: 40pt
 
-Read more about the My Links control here: My Links
+More information about the My Links control is found here: My Links
 
 The Omnia Admin settings
 ************************
