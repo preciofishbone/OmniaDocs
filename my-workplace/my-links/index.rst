@@ -13,8 +13,23 @@ Here's an example of My Links in the Cross Sites Header:
 + **Show all links**: Select to show all centrally handled links. 
 + **Show categories**: Select to show category headings for the links. If not selected the list of links is shown in alphabetical order. If selected the list is shown, sorted on the category headings, in alphabetical order (as in the image above).
 + **Filter links...**: The list can be filtered using this field.
++ **Add personal link**: This option can be used to add personal links to the list, see below.
 
-## Working with personal links
+Available icons to the right of this list is used this way:
+
++------+-----------------------------------+
+| Icon | Description                       |
++============+=============================+
+| .. image:: star.png | column 2           |
++------------+------------+-----------+
+| body row 2 | Cells may span columns.|
++------------+------------+-----------+
+| body row 3 | Cells may  | - Cells   |
++------------+ span rows. | - contain |
+| body row 4 |            | - blocks. |
++------------+------------+-----------+
+
+## Adding personal links
 En users can add and remove centrally handled links that are not mandatory, from the list. End users can also add personal links.
 
 ### Selecting centrally handled links
