@@ -10,9 +10,9 @@ Here's an example of My Links in the Cross Sites Header:
 .. image:: my-links-example.png
    :width: 40pt
 
-- **Filter links...**: The list can be filtered by typing in the top field.
-- **Show all links**: Select to show all centrally handled links. 
-- **Show categories**: Select to show category headings for the links. If not selected the list of links is shown in alphabetical order. If selected the list is shown, sorted on the category headings, in alphabetical order.
++ **Show all links**: Select to show all centrally handled links. 
++ **Show categories**: Select to show category headings for the links. If not selected the list of links is shown in alphabetical order. If selected the list is shown, sorted on the category headings, in alphabetical order (as in the image above).
++ **Filter links...**: The list can be filtered using this field.
 
 ## Working with personal links
 En users can add and remove centrally handled links that are not mandatory, from the list. End users can also add personal links.
