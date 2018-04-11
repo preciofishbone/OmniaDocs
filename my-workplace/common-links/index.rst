@@ -29,15 +29,15 @@ Use this window when adding a new common link or editing and existing:
 .. image:: new-link.png
    :width: 40pt
 
-+ **Title** The title is shown as the clickable text, in My links.
-+ **Url** The url to go to when the user clicks the link.
-+ **Category** Links that are the same category will automatically be sorted together when the user chooses to display the categories. (in the My Links example above, the links are sorted by Category).
-+ **Information** This field can be used for additional information about the link. If you enter something here, an information icon is shown next to the link, in My links. Users can click the icon to read the information. Not mandatory. 
-+ **Open in New Window** Select to open the url in a new browser window. Normally a good idea for external links.
-+ **Mandatory** If selected, the link is always shown for all users (or the limited set of users, if targeted), and can not be deselected.
-+ **Targeting settings** Select "Target to", to target the link to a certain group. See more information about targeting below.
++ **Title**: The title is shown as the clickable text, in My links.
++ **Url**: The url to go to when the user clicks the link.
++ **Category**: Links that are the same category will automatically be sorted together when the user chooses to display the categories. (in the My Links example above, the links are sorted by Category).
++ **Information**: This field can be used for additional information about the link. If you enter something here, an information icon is shown next to the link, in My links. Users can click the icon to read the information. Not mandatory. 
++ **Open in New Window**: Select to open the url in a new browser window. Normally a good idea for external links.
++ **Mandatory**: If selected, the link is always shown for all users (or the limited set of users, if targeted), and can not be deselected.
++ **Targeting settings**: Select "Target to", to target the link to a certain group. See more information about targeting below.
 + **Icon** An icon is always shown for a link. If you would like another icon for this link, select the "Built-in" icon set or "Custom", and choose icon.
-+ **Icon Background Color** Set the background color for the icon here. If note set, default icon background color is used.
++ **Icon Background Color**: Set the background color for the icon here. If note set, default icon background color is used.
 
 Targeting a link
 ----------------
