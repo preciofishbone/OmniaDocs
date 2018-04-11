@@ -10,6 +10,11 @@ The end user can access the common links in the My Links control. The list const
 .. image:: my-links-example.png
    :width: 40pt
 
+Read more about the My Links control here: My Links
+
+The Omnia Admin settings
+************************
+
 To create a link, click "Add link" and the following window is shown. The same window is shown when you edit a link.
 
 ![Add Common Link](../../Images/common_links_new.png)
