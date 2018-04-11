@@ -4,8 +4,15 @@ The notification panel is a concept in Omnia Intranet mainly used on the start p
 
 (New pic!)
 
-Notofication Panel Settings
+Notification Panel Settings
 ***************************
+The following settings are available:
+
+(New pic)
+
+Category Settings
++++++++++++++++++
+
 The following Omnia controls are related to the notification panel:
 
 + Aggregated Calendar
