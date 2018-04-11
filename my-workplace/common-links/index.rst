@@ -26,8 +26,6 @@ Add link
 --------
 Use this window when adding a new common link or editing and existing:
 
-To create a link, click "Add link" and the following window is shown. The same window is shown when you edit a link.
-
 .. image:: new-link.png
    :width: 40pt
 
