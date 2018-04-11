@@ -7,7 +7,8 @@ The My Links control is part of the Cross Site Header and is shown across all Sh
 
 Here's an example of My Links in the Cross Sites Header:
 
-![My Links - No links added yet](../../Images/my-links-example.png)
+.. image:: my-links-example.png
+   :width: 40pt
 
 - **Filter links...**: The list can be filtered by typing in the top field.
 - **Show all links**: Select to show all centrally handled links. 
