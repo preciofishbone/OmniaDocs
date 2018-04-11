@@ -13,7 +13,7 @@ Category Settings
 +++++++++++++++++
 Here you can add, edit and delete categories to be displayed in the Notification Panel. To the left is the list of categories, to the right you can see the settings for the selected category.
 
-.. image:: notification-panel-settings-category
+.. image:: notification-panel-settings-category.png
    :width: 40pt
 
 You can set the order for the categories by using drag and drop.
