@@ -27,22 +27,9 @@ Available icons to the right in this list is used this way:
 .. |pen-icon| image:: pen-icon.png
    :align: middle
    
-## Adding personal links
-En users can add and remove centrally handled links that are not mandatory, from the list. End users can also add personal links.
-
-### Selecting centrally handled links
-To add a link to the personal list from the centrally managed common links, click on "Show all links".
-
-Links that are not added to the personal list will be shown in light gray color. Add a link by hover over it and then click the plus icon (+) next to the link.
-
-![My Links - Add common link](../../Images/my-links-add-common-link.png)
-
-To remove a link from the list, hover the link and click the remove icon  (-) next to the link. If the link is a personally added link.
-
-![My Links - Edit/Remove link](../../Images/my-lniks-remove.png)
-
-### Adding personal links
-To add a personal link, click on the plus icon (+) next to the "Filter links..." text box. An add link form will then be displayed.
+Adding personal links
+*********************
+A user can add a personal link by clicking the option "ADD PERSONAL LINK" and using he following settings:
 
 ![My Links - Add personal link](../../Images/my-links-add.png)
 
