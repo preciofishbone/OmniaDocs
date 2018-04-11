@@ -20,7 +20,7 @@ Available icons to the right in this list is used this way:
 + |star| This icon can be cliked to select to show, or not to show, a non-mandatory link. A black star indicates that the link will be shown, a grey star that the link will not be shown. Note: if the user selects "Show all links", all common links are always shown, regardless of this selection.
 .. |star| image:: star-edited.png
    :align: middle
-+ |i-icon| This icon can be clicked to show more information about a common link, if the admin has added such information. If no such information is avaible, the icon is not shown.
++ |i-icon| This icon that information about the link is available, and can be read by clicking the icon.
 .. |i-icon| image:: i-icon-edited.png
    :align: middle
 + |pen-icon| This icon can be clicked to edit a personal link.
@@ -36,11 +36,11 @@ A user can add a personal link by clicking the option "ADD PERSONAL LINK" and us
 
 + **Title**: The title for the link, shown in the list.
 + **Url**: The link url.
-+ **Category**: Type a ctaegory. Links that share the same category will be grouped together when "Show categories" is selected.
-+ **Information**: It is optional to add information about the link.
++ **Category**: Links that share the same category will be grouped together when "Show categories" is selected.
++ **Information**: It is optional to add information about the link. If added, an i-icon will be shown.
 + **Open in New Window**: Defines whether to open the link in a new window or not.
-+ **Icon**: The user can select from built-in icons based on [Font Awesome](https://fortawesome.github.io/Font-Awesome) or any image uploaded to a document library in SharePoint.
-+ **Icon background color**: Here you can set the background color for the icon, if needed.
++ **Icon**: The user can select from built-in icons based on Font Awesome or any image uploaded to a document library in SharePoint.
++ **Icon background color**: The background color for the icon here. If not setm the default icon background color will be used.
 
 A personal link can be deleted the same way as described above (but for e personal link, the linke is actually deleted, not just removed).
 
