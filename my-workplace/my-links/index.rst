@@ -23,7 +23,10 @@ Available icons to the right in this list is used this way:
 + |i-icon| This icon can be clicked to show more information about a common link, if the admin has added such information. If no such information is avaible, the icon is not shown.
 .. |i-icon| image:: i-icon-edited.png
    :align: middle
-
++ |pen-icon| This icon can be clicked to edit a personal link.
+.. |pen-icon| image:: pen-icon.png
+   :align: middle
+   
 ## Adding personal links
 En users can add and remove centrally handled links that are not mandatory, from the list. End users can also add personal links.
 
