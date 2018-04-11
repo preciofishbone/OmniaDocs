@@ -31,7 +31,8 @@ Adding personal links
 *********************
 A user can add a personal link by clicking the option "ADD PERSONAL LINK" and using he following settings:
 
-![My Links - Add personal link](../../Images/my-links-add.png)
+.. image:: create-link.png
+   :width: 40pt
 
 + **Title**: The title for the link, shown in the list.
 + **Url**: The link url.
