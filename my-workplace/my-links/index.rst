@@ -10,15 +10,23 @@ Here's an example of My Links in the Cross Sites Header:
 .. image:: my-links-example.png
    :width: 40pt
 
-+ **Show all links**: Select to show all centrally handled links. 
++ **Show all links**: Select to show all common links. 
 + **Show categories**: Select to show category headings for the links. If not selected the list of links is shown in alphabetical order. If selected the list is shown, sorted on the category headings, in alphabetical order (as in the image above).
 + **Filter links...**: The list can be filtered using this field.
 + **Add personal link**: This option can be used to add personal links to the list, see below.
 
 Available icons to the right of this list is used this way:
 
-.. image:: star.png:: can be used to select to show, or not to show, a non-Mandatory link.
-.. image:: i.icon.png:: can be clicked to show more information about a common link, if the admin has added such information.
++ The |star| can be used to select to show, or not to show, a non-mandatory link. A black star indicates that at link will be shown, a grey star that the link will not be shown. Note: if the user selects "Show all links", all common links are always shown, regardless of this selection.
+.. |star| image:: star.png
+   :align: middle
++ The |i-icon| an be clicked to show more information about a common link, if the admin has added such information.
+.. |i-icon| image:: i-icon.png
+   :align: middle
+
+.. |biohazard| image:: biohazard.png
+   :align: middle
+   :width: 12
 
 ## Adding personal links
 En users can add and remove centrally handled links that are not mandatory, from the list. End users can also add personal links.
