@@ -71,9 +71,6 @@ On the General tab you can set the following:
 
 Here's some examples of app icons:
 
-.. image:: MyLinksBlockAppIcons.png
-   :width: 40pt
-
 Custom Colors
 -------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
