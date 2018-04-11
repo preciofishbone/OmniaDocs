@@ -24,8 +24,7 @@ Available icons to the right in this list is used this way:
    :align: middle
 + |pen-icon| This icon can be clicked to edit a personal link.
 .. |pen-icon| image:: pen-icon.png
-   :align: middle
-   
+   :align: middle   
 Adding personal links
 *********************
 A user can add a personal link by clicking the option "ADD PERSONAL LINK" and using he following settings:
@@ -73,12 +72,12 @@ On the General tab you can set the following:
 Here's some examples of app icons:
 
 .. image:: MyLinksBlockAppIcons.png
-   :width: 80pt
+   :width: 40pt
 
 Custom Colors
 -------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-.. image:: /my-links-colors.png
+.. image:: my-links-colors.png
    :width: 80pt
    
