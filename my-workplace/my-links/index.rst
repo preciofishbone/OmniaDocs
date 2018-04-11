@@ -18,15 +18,11 @@ Here's an example of My Links in the Cross Sites Header:
 Available icons to the right in this list is used this way:
 
 + The |star| can be used to select to show, or not to show, a non-mandatory link. A black star indicates that at link will be shown, a grey star that the link will not be shown. Note: if the user selects "Show all links", all common links are always shown, regardless of this selection.
-.. |star| image:: star.png
+.. |star| image:: star-edited.png
    :align: middle
 + The |i-icon| an be clicked to show more information about a common link, if the admin has added such information.
-.. |i-icon| image:: i-icon.png
+.. |i-icon| image:: i-icon-edited.png
    :align: middle
-
-.. |biohazard| image:: biohazard.png
-   :align: middle
-   :width: 12
 
 ## Adding personal links
 En users can add and remove centrally handled links that are not mandatory, from the list. End users can also add personal links.
