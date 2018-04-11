@@ -5,7 +5,7 @@ Common Links is a tenant scoped feature - the settings are used across all Share
 
 Some links can be mandatory and it's also possible to target links to certain groups. Permissions to work with Common Links can be delegated to other colleagues.
 
-The end user can access the common links in the My Links control. The list constains all active links. The user can decide which non-mandatory links to display and can add personal links there. Here's and example:
+The end user can access the common links in the My Links control. The list contains all active links. The user can decide which non-mandatory links to display and can add personal links there. Here's and example:
 
 .. image:: my-links-example.png
    :width: 40pt
