@@ -8,7 +8,6 @@ The My Links control is part of the Cross Site Header and is shown across all Sh
 Here's an example of My Links in the Cross Sites Header:
 
 .. image:: my-links-example.png
-   :width: 40pt
 
 + **Show all links**: Select to show all common links.+ **Show categories**: Select to show category headings for the links. If not selected the list of links is shown in alphabetical order. If selected the list is shown, sorted on the category headings, in alphabetical order (as in the image above).
 + **Filter links...**: The list can be filtered using this field.
@@ -31,7 +30,6 @@ Adding personal links
 A user can add a personal link by clicking the option "ADD PERSONAL LINK" and using he following settings:
 
 .. image:: create-link.png
-   :width: 40pt
 
 + **Title**: The title for the link, shown in the list.
 + **Url**: The link url.
@@ -52,14 +50,12 @@ My links can also be added to any legacy page as a web part and to any Quick Pag
 Here's an example where My Links is used as a block:
 
 .. image:: my-links-block.png
-   :width: 40pt
 
 Settings for the control
 ***********************
 The following settings are available:
 
 .. image:: my-links-block-settings-b.png
-   :width: 80pt
 
 General
 --------
@@ -73,12 +69,10 @@ On the General tab you can set the following:
 Here's some examples of app icons:
 
 .. image:: MyLinksBlockAppIcons.png
-   :width: 40pt
 
 Custom Colors
 -------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
 .. image:: my-links-colors.png
-   :width: 80pt
    
