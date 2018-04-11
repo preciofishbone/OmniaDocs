@@ -52,13 +52,15 @@ My links can also be added to any legacy page as a web part and to any Quick Pag
 
 Here's an example where My Links is used as a block:
 
-![My Links](../../Images/my-links-block.png)
+.. image:: my-links-block.png
+   :width: 40pt
 
 Settings for the control
 ***********************
 The following settings are available:
 
-![My Links Web Part and block Settings](../../Images/my-links-block-settings.png)
+.. image:: my-links-block-settings.png
+   :width: 80pt
 
 General
 --------
@@ -71,10 +73,13 @@ On the General tab you can set the following:
 
 Here's some examples of app icons:
 
-![App Icons](../../Images/MyLinksBlockAppIcons.png)
+.. image:: MyLinksBlockAppIcons.png
+   :width: 80pt
 
 Custom Colors
 -------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-![Custom colors](../../Images/my-links-colors.png)
+.. image:: /my-links-colors.png
+   :width: 80pt
+   
