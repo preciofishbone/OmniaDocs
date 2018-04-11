@@ -15,7 +15,7 @@ Here's an example of My Links in the Cross Sites Header:
 + **Filter links...**: The list can be filtered using this field.
 + **Add personal link**: This option can be used to add personal links to the list, see below.
 
-Available icons to the right of this list is used this way:
+Available icons to the right in this list is used this way:
 
 + The |star| can be used to select to show, or not to show, a non-mandatory link. A black star indicates that at link will be shown, a grey star that the link will not be shown. Note: if the user selects "Show all links", all common links are always shown, regardless of this selection.
 .. |star| image:: star.png
