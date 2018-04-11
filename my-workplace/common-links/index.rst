@@ -18,7 +18,7 @@ The existing links are shown in the Common Links list, for example:
 
 .. image:: common-links-list.png
 
-To edit a common link, click the link in the list. The same window as when you add a new link is shown, see below.
+To edit a common link, click the Title in the list. The same window as when you add a new link is shown, see below.
 
 To delete a common link, click the dustbin for the link.
 
