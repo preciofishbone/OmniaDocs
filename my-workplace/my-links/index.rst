@@ -20,7 +20,7 @@ Available icons to the right in this list is used this way:
 + |star| This icon can be cliked to select to show, or not to show, a non-mandatory link. A black star indicates that the link will be shown, a grey star that the link will not be shown. Note: if the user selects "Show all links", all common links are always shown, regardless of this selection.
 .. |star| image:: star-edited.png
    :align: middle
-+ |i-icon| This icon that information about the link is available, and can be read by clicking the icon.
++ |i-icon| This icon indicates that information about the link is available, and can be read by clicking the icon.
 .. |i-icon| image:: i-icon-edited.png
    :align: middle
 + |pen-icon| This icon can be clicked to edit a personal link.
