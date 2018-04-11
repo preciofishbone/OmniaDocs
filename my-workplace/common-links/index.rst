@@ -33,13 +33,13 @@ To create a link, click "Add link" and the following window is shown. The same w
 
 **Icon** An icon is always shown for a link. If you would like another icon for this link, select the "Build in" icon set or "Custom", and the choose icon.
 
-Targeting
----------
+Targeting a link
+----------------
 A link can be targeted to any receivers that has been defined in the Target Definition selected for Common Links. A targeted link is only available for selection by the target group. No one else will see the link. For more information on Targeting Definitions, see:
 
 [Targeting Definitions](/Docs/en-us/omnia-foundation-admin/targeting-definitions/index.html)
 
-Before you can use targeting for Common Links, you have activate that option and select the Target Definition to be used for the links.
+Before you can use targeting for Common Links, you have to activate that option and select the Target Definition to be used for the links.
 
 1. Click "Targeting settings".
 
