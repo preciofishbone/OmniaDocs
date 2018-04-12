@@ -28,9 +28,9 @@ The General tab
 On the General tab you can set the following (most of it normally used by programmers only):
 
 + **Default Result Page**: The url to the default result page in the Enterprise Search Center.
-+ **"All" result source ID** ID can be set if needed.
++ **"All" result source ID**: ID can be set if needed.
 + **People Result Page**: The url to the People result page in the Enterprise Search Center.
-+ **"People" result source ID** ID can be set if needed.
++ **"People" result source ID**: ID can be set if needed.
 + **Row Limit**: The maximum number of search result items in the list.
 
 The Custom colors tab
