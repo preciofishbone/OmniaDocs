@@ -13,16 +13,16 @@ There are three different search scopes available for the end user:
 
 The sorting of the search result is based on the default relevance ranking model in SharePoint.
 
-![Quick Search](../../Images/quick-search-example.png)
+.. image:: quick-search-example.png
 
-## Settings
-To change the settings for the control, activate the Edit switch and click on the settings gear next to the control.
+Settings for the control
+************************
+The following settings are available:
 
-This will open the settings dialog.
+.. image:: Images/quick-search-general.png
 
-![Quick search settings](../../Images/quick-search-general.png)
-
-## General tab
+The General tab
+---------------
 On the General tab you can set the following (most of it normally used by programmers only):
 
 + **Default Result Page**: The url to the default result page in the Enterprise Search Center.
@@ -31,7 +31,8 @@ On the General tab you can set the following (most of it normally used by progra
 + **"People" result source ID** ID can be set if needed.
 + **Row Limit**: The maximum number of search result items in the list.
 
-## Custom colors tab
+The Custom colors tab
+---------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-![Custom colors](../../Images/quick-search-colors.png)
+.. image:: Images/quick-search-colors.png
