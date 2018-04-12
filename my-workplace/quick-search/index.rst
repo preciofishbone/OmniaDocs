@@ -13,6 +13,8 @@ There are three different search scopes available for the end user:
 
 The sorting of the search result is based on the default relevance ranking model in SharePoint.
 
+Here's an example of a search for all content:
+
 .. image:: quick-search-example.png
 
 Settings for the control
