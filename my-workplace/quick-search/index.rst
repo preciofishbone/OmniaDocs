@@ -21,7 +21,7 @@ Settings for the control
 ************************
 The following settings are available:
 
-.. image:: Images/quick-search-general.png
+.. image:: quick-search-general.png
 
 The General tab
 ---------------
@@ -37,4 +37,4 @@ The Custom colors tab
 ---------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-.. image:: Images/quick-search-colors.png
+.. image:: quick-search-colors.png
