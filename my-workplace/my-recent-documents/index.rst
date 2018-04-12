@@ -1,16 +1,18 @@
 My Recent Documents
 ===========================
 
-You can use the My Recent Documents control on an any publishing control. The control displays a lista of all documents the logged in user recently has read or edited.
+You can use the My Recent Documents control on an any publishing control. The control displays a list of all documents the logged in user recently has read or edited.
 
 My Recent Documents is avaiable as a block for Quick Pages and as a web part.
 
-## Settings for the control
+Settings for the control
+************************
 The following settings are available:
 
-![My Recent Documents](../../Images/my-recent-documents-settings.png)
+.. image:: my-recent-documents-settings.png
 
-### General
+The General tab
+----------------
 On this tab you can set the following:
 
 + **Label** Enter the title to be displayed for the control.
@@ -21,7 +23,8 @@ On this tab you can set the following:
 + **Icon**: Select how to display the icons for the document type, Sketched (black and white) or Image (color).
 + **Visible** Set when the control will be visible; always, withing a maximum width or within a minimum width.
 
-### Custom Colors
+The Custom Colors tab
+---------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-![Custom colors](../../Images/my-recent-documents-colors.png)
+.. image:: my-recent-documents-colors.png
