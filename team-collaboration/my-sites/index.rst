@@ -55,7 +55,7 @@ The Custom colors tab
 -----------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set colors for header and icons.
 
-.. image:: my-sites-settings-colors.png
+.. image:: my-sites-settings-colors-b.png
 
 My Sites Mobile Navigation
 ***************************
@@ -66,6 +66,8 @@ The my sites control will not be shown when the screen is below a certain width.
 My Sites Web Part/block
 ************************
 My sites can also be added to any legacy page as a web part and as a block to a Quick Page. The web part/block can be set to display either the "Following" list or the "Latest visited" list from My sites, but the user cannot stop follow sites from the list.
+
+Then the following settings are available:
 
 .. image:: my-sites-block.png
 
