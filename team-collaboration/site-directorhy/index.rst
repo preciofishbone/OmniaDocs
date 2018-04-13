@@ -19,7 +19,7 @@ The user can search for sites using part of, or the whole, names. Note that uppe
 
 The user can follow or unfollow a site by opening the small menu to the right:
 
-.. mage:: site-directory-follow.png
+.. image:: site-directory-follow.png
 
 In the panel opened by this menu additional information about the site can be shown, for example: 
 
@@ -64,7 +64,7 @@ To choose a predefined filter:
 
 2. Select filter from the list.
 
-.. images:: site-directory-settings-filter-2.png
+.. image:: site-directory-settings-filter-2.png
 
 For some filters you can set additional details, for example to only display projects managed by a certain Project Manager, or just display archived projects.
 
