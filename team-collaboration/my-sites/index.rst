@@ -61,7 +61,7 @@ My Sites Web Part/block
 ************************
 My sites can also be added to any legacy page as a web part and as a block to a Quick Page. The web part/block can be set to display either the "Following" list or the "Latest visited" list from My sites, but the user cannot stop follow sites from the list.
 
-Then the following settings are available:
+In this case the following settings are available:
 
 .. image:: my-sites-block.png
 
