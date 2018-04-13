@@ -21,8 +21,7 @@ Four tabs can be available in the control:
 + **MEMBER OF**: Lists all sites the user is member of (has member access to).
 + **ALL**: Can be used to serch for any site, available for the user.
 
-The user can follow a site by clicking the "Follow site" icon, the plus, in the search result or the Last visited or Member of lists.
-
+The user can follow a site by clicking the "Follow site" icon, the plus, in the search result or the Last visited or Member of lists. 
 The user can stop following a site by clicking the "Stop following site" icon, the minus, in any of the lists. 
 
 Two things will happen when a user follows a site:
