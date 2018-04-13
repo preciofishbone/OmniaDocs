@@ -3,7 +3,7 @@ My Sites
 
 The My sites control makes it possible for the end user to navigate to all sites that the user has access to.
 
-.. image:: my-sites.png
+.. image:: my-sites-b.png
 
 The My sites quick search makes it possible for the end user to find sites, that the user has access to, based on any of the following base templates:
 
