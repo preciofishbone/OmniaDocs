@@ -31,7 +31,7 @@ Two things will happen when a user follows a site:
 
 Settings for the control
 *************************
-The following settings is available for the My Sites control
+The following settings is available for the My Sites control:
 
 .. image:: my-sites-settings-new.png
 
@@ -57,12 +57,6 @@ You should primarily set colors through Theme colors in Omnia Admin (System/Sett
 
 .. image:: my-sites-settings-colors-b.png
 
-My Sites Mobile Navigation
-***************************
-The my sites control will not be shown when the screen is below a certain width. When the my sites control is hidden, the mobile navigation will be shown. The mobile navigation includes the "Following" list from My sites, but the user cannot stop follow sites from the list.
-
-.. image:: mysites3.png
-
 My Sites Web Part/block
 ************************
 My sites can also be added to any legacy page as a web part and as a block to a Quick Page. The web part/block can be set to display either the "Following" list or the "Latest visited" list from My sites, but the user cannot stop follow sites from the list.
@@ -76,4 +70,10 @@ Then the following settings are available:
 + **Row Limit**: The maximum number of rows to display before a "Show more" link appears.
 + **Visible** Set when the control will be visible; always, withing a maximum width or within a minimum width.
 + **Custom colors**: You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set colors for header and icons on this tab.
+
+My Sites Mobile Navigation
+***************************
+The my sites control will not be shown when the screen is below a certain width. When the my sites control is hidden, the mobile navigation will be shown. The mobile navigation includes the "Following" list from My sites, but the user cannot stop follow sites from the list.
+
+.. image:: mysites3.png
 
