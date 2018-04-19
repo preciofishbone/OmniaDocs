@@ -9,7 +9,7 @@ High Priority Announcements
 *****************************
 Important Announcements with high priority are displayed below the cross site mega menu on all pages in the intranet, both publishing pages and team sites.
 
-When the message has been read, the user can choose to close the message.
+When the message has been read, the user can choose to close the message, if it is allowed. In the settings for each important announcement, the editor can set if the user can close the message.
 
 .. image:: important-announcements-close.png
 
