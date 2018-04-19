@@ -7,9 +7,7 @@ The Cross Sites Mega Menu control makes it possible for the end user to navigate
 
 Settings
 **********
-To change the settings for the control, active the Edit switch and click the settings gear. 
-
-This will open the settings dialog.
+The following settings are available for the control:
 
 .. image:: cross-sites-settings.png
 
