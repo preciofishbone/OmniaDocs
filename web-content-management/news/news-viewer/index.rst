@@ -74,7 +74,7 @@ On this tab the following settings are available:
 
 "News Roller" view displays all articles matching the query in the same area 5 seconds at a time. The user can manually change which article that is displayed by holding the mouse over the container and click on the arrows. The image is using Image Rendition with ID 1001.
 
-.. image:: Images/news-roller-old-ux.png
+.. image:: news-roller-old-ux.png
 
 "News Listing with Image" displays the news in a list, with a landscape image to the left.
 
