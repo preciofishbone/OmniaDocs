@@ -16,7 +16,5 @@ The following settings are available for the control:
 + **Show Search Box**: Checked if the free text search box should be available.
 + **Show My Drafts Filter**: Check if it should be possible for the end user to show draft news (only relevant for news authors).
 + **Page Size**: Defines the number of news articles displayed per list page.
-+ **Paging Type**: Defines what type of paging that should be used:
-  + *Classic*: The result list will be divided into pages based on the Page Size.
-  + *Scroll*: By default, the page will load as many news articles that can fit the screen. When the user scrolls down, the number of news articles set in Page Size will load.
++ **Paging Type**: Defines what type of paging that should be used: *Classic* The result list will be divided into pages based on the Page Size. *Scroll* By default, the page will load as many news articles that can fit the screen. When the user scrolls down, the number of news articles set in Page Size will load.
   
