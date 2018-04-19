@@ -3,7 +3,7 @@ News Archive
 
 The News Archive control makes it possible for the end user to find news articles published in a specific News Center site.
 
-The News Archive control is deployed as part of the News Center page layout. Note: "Create News" Article is displayed for news editors only.
+The News Archive control is deployed as part of the News Center page layout. Note: "Create News Article" is displayed for news editors only.
 
 .. image:: newsarchive.png
 
