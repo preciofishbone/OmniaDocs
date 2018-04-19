@@ -28,7 +28,7 @@ You should primarily set colors through Theme colors in Omnia Admin (System/Sett
 
 .. image:: cross-sites-colors.png
 
-Th mobile View
+The mobile View
 *****************
 The Cross Site Mega Menu is responsive. In a certain width (optimized for mobile phones and tablets), the menu will go into mobile mode. This view will only display the parent and child structure of the current node, not any siblings.
 
