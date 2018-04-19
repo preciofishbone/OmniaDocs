@@ -3,20 +3,20 @@ News Viewer
 
 The news viewer control displays news articles from one or more News Centers, based on a configured filter.
 
-![News Viewer](../../Images/news-viewer.png)
+.. image:: news-viewer.png
 
-## News Viewer Settings
-To change the settings for the control, activate the Edit switch and then click the settings gear for the control.
-
-This will open the settings dialog. The news viewer settings are divided into three tabs:
+News Viewer Settings
+**********************
+The news viewer settings are divided into three tabs:
 
 + **Query Settings**: Defines which news articles to get from a specific news center.
 + **Display Settings**: Defines how to render the news articles to the end user.
 + **Custom colors**: You should primarily set colors through Theme colors in Omnia Admin but If you still would like custom colors for the control, you can set them using this tab.
 
-![News Viewer Settings - Query](../../Images/news-viewer-settings-query.png)
+.. image:: news-viewer-settings-query.png
 
-### The Query tab
+The Query tab
+---------------
 The **News Center** list displays all publishing sub sites in the site collection that have the "Omnia News Center" app feature activated. You can add News Centers from other Site Collections as well.
 
 Select News Center(s) and set the settings this way:
@@ -24,7 +24,7 @@ Select News Center(s) and set the settings this way:
 1. Select a News Center from the list. If you want news from more than one News Center displayed in this viewer, select the others the same way.(In the image below two News Centers are selected.)
 2. If not all news from the News Center should be displayed, you can set filters. Do do that, click the News Center. Filters are set indepently for each News Center.
 
-![Select News Center](../../Images/select-news-center-new.png)
+.. image:: select-news-center-new.png
 
 Available filters for that News Center are then shown. (What is available can differ depending on how the specific News Center is set up). 
 
@@ -32,7 +32,7 @@ If targeting is activated, you can now select to use it or not. If you do not se
 
 3. You can also add filters here, Click "Add Filter" to do that.
 
-![Add Filter](../../Images/select-news-center-add-filter.png)
+.. image:: select-news-center-add-filter.png
 
 4. Select type of filter in the first field. What is displayed after that depends on that choice. If more than one filter is added to the News Viewer, the news articles must match all filters, to be included in the result.
 
@@ -58,13 +58,14 @@ For the following fields the settings apply for all News Centers selected here:
 1. Click "Add News Center".
 2. Activate the address field and enter the adress to a site in another Site Collection.
 
-![Add Site Collection](../../Images/news-viewer-settings-crossites.png)
+.. image:: news-viewer-settings-crossites.png
 
 3. Click "Resolve".
 
 News Centers in that site are now displayed in the News Center list. You select News Center and handle settings as described above.
 
-### The Display Settings tab
+The Display Settings tab
+---------------------------
 On this tab the following settings are available:
 
 ![News Viewer Settings - Display](../../Images/news-viewer-display.png)
@@ -73,34 +74,33 @@ On this tab the following settings are available:
 
 "News Roller" view displays all articles matching the query in the same area 5 seconds at a time. The user can manually change which article that is displayed by holding the mouse over the container and click on the arrows. The image is using Image Rendition with ID 1001.
 
-![News Viewer News Roller](../../Images/news-roller-old-ux.png)
+.. image:: Images/news-roller-old-ux.png
 
 "News Listing with Image" displays the news in a list, with a landscape image to the left.
 
-![News Viewer New listing with image](../../Images/news-listing-image.old.png)
+.. image:: news-listing-image.old.png
 
 "Top Story" displays a big image with title on a transparent area. If one news article is displayed as Top Story, it will use the image with Landscape image rendition.
 
-![News Viewer News Top Story 1](../../Images/newsviewertopstory1.png)
+.. image:: newsviewertopstory1.png
 
 If two news articles are displayed, it will use the image with Square image rendition. If the news article does not have an image, more metadata about the news article will be shown and the background and text colors will use the [default colors](/Docs/[language]/Omnia%20Admin/default-colors/index.html).
 
-![News Viewer News Top Story 2](../../Images/newsviewertopstory2.png)
+.. image:: newsviewertopstory2.png
 
 If three news articles are displayd, it will use the image with Portrait image rendition.
 
 A "Simple List" view displays the news articles without image in a simple list.
 
-![News Viewer Simplet List](../../Images/news-viewer-simple-list.png) 
+.. image:: news-viewer-simple-list.png 
 
 The "News Roller New UX" view displays all articles matching the query in the same area 5 seconds at a time. The user can manually change which article to displayed by clicking the buttons. The image is using Image Rendition with ID 1001.
 
-![News Viewer New UX](../../Images/news-roller.png) 
+.. image:: news-roller.png 
 
 "News Listing with Image New UX" displays the news in a list, with a square image to the left.
 
-![News Viewer listing with image New UX](../../Images/news-listing-image.png)
-
+.. image:: news-listing-image.png
 
 + **Display News Center link**: Check if the link "Go to News Center" should be available at the end of the News Viewer.
 + **News Center Label**: Here you can change the label displayed for the News Center.
@@ -108,13 +108,17 @@ The "News Roller New UX" view displays all articles matching the query in the sa
 
 If a news article has not been read by the user (it is considered read when the user has browsed to the news article page), the title will be shown in bold.
 
-### The Custom Colors tab
+The Custom Colors tab
+----------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-![Custom colors](../../Images/news-viewer-colors.png)
+.. image:: news-viewer-colors.png
 
-## News Viewer in Notification Panel
+News Viewer in Notification Panel
+***********************************
 The News Viewer control is available in the Notification Panel. If the News Viewer is added to the panel, a notification count icon will be shown if there are news articles in the result that are new to the user (the user has not seen them in the news list before)
 
-## News Viewer Web Part/block
+News Viewer Web Part/block
+****************************
 The News Viewer control can also be added to a legacy page as a web part or as a block to a Quick Page.
+
