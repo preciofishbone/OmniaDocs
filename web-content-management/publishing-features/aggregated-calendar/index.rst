@@ -99,3 +99,4 @@ Aggregated Calendar block and Web Part
 The Aggregated Calendar control can also be added to a Quick Page as a block and to a legacy page as a web part.
 
 
+
