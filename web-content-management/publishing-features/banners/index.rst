@@ -1,11 +1,49 @@
 Banners
 ===========================
 
-A banner can either be centrally managed and reused on several web pages (Reusable Banner or a Banner Group) or created "locally" through the Banner Control.
+A banner can either be centrally managed that can and reused on several web pages (Reusable Banner or a Banner Group) or created "locally" through the Banner Control.
 
+Reusable Banners
+******************
+Reusable banners are created by an administrator and are avilable for editors to use on any publishing page. Reusable banners can also be grouped to a Banner Group. An editor can only add a reusable banner or a banners group to a page. The editor can not edit such banners in any way.
+
+**Note!**
+If a reusable banner should be targeted, that has to be done by an editor when the banner is added to a page.
+
+.. image:: Reusbanner.png
+
+If additional users should be able to create reusable banners, use the "Permissions" option.
+
+Creating a reusable banner works the same way as creating a custom (local) banner, see below.
+
+There is just one extra field. A reusable banner must have a name.
+
+Banner groups
+----------------
+Reusable banners can be grouped. When displayed on a page the banners in the group will alternate every time the user enters the page or refreshes the page. Per default, the banners alternate in the order they are set up, but a page editor can choose to randomize.
+
+To create a banner group, do the following:
+
+1. Se too that all reusable banners for the group are created.
+2. Select "Banner Group".
+
+.. image:: banner-group.png
+
+3. Click "Add banner group".
+
+.. image:: add-banner-group.png
+
+4. Add a name for the group.
+5. Open the list of reusable banners and select the banners for the group, one efter another.
+
+.. image:: banner-group-create.png
+
+The order in which the banners will alternate is from top to bottom, if the editor does not select "Randomize" when adding the banner group to a page. If you would like to change the order, use drag and drop.
+
+.. image:: banner-group-order.png
 
 The Banner Control
-***********************
+**********************
 Through the Banner control a web editor can add banners on a web page.
 
 .. image:: banners.png
