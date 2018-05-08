@@ -32,7 +32,7 @@ The default banner type is a custom banner used only on the current web page. If
 
 Select the reusable banner that you would like to show on the page.
 
-![Banner Settings Reusable Banner](../../Images/select-resuable-banner.png)
+.. image:: select-resuable-banner.png
 
 You can't edit the banner itself. You can just add a reusable banner to the page. 
 
@@ -42,7 +42,7 @@ If banner groups are set up in Omnia Admin, you can add a banner group to the pa
 
 Select the banner group that you would like to show on the page.
 
-![Banner Settings Banner Group](../../Images/select-banner-group.png)
+.. image:: select-banner-group.png
 
 You can't edit the banner group here. You can just add a banner group to the page. But you can choose that the banners in the group will be shown randomized (if not selected, the banners will alternate in the order they are set up).
 
