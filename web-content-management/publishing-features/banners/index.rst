@@ -1,11 +1,16 @@
 Banners
 ===========================
 
+A banner can either be centrally managed and reused on several web pages (Reusable Banner or a Banner Group) or created "locally" through the Banner Control.
+
+
+The Banner Control
+***********************
 Through the Banner control a web editor can add banners on a web page.
 
 .. image:: banners.png
 
-A banner can either be centrally managed and reused on several web pages (Reusable Banner or a Banner Group). The control can also be used for "local" banners, created and edited on a specific web page.
+The control can be used add centraly handled banners to a page, or for "local" banners, created and edited on a specific web page.
 
 The first step is always to add a web part to a legacy page or a block to a Quick Page, for the control.
 
@@ -27,7 +32,7 @@ To access the settings for the control, show the edit icons and click the settin
 This will open the settings dialog.
 
 Adding a reusable banner
-*************************
+--------------------------
 The default banner type is a custom banner used only on the current web page. If you want to use a centrally managed, reusable banner, select "Reusable Banner". This will display all available reusable banners in the list.
 
 Select the reusable banner that you would like to show on the page.
@@ -49,7 +54,7 @@ You can't edit the banner group here. You can just add a banner group to the pag
 .. image:: group-banner-randomize.png
 
 Creating a custom banner
-*************************
+-------------------------
 To create a custom, local banner, select "Banner" and use the following settings:
 
 + **View Template**: Defines how the banner should be structured:
@@ -66,7 +71,7 @@ To create a custom, local banner, select "Banner" and use the following settings
 + **Footer**: If needed, add a footer to the banner and text color, that will be rendered below the content.
 
 Targeting banners
-******************
+-------------------
 A banner can be targeted to any receivers that has been defined in Target Definitions. A targeted banner is only displayed to that group. No one else will see it. It works the same for Reusable banners and Custom banners.
 
 For more information on Targeting Definitions, see:
@@ -86,5 +91,5 @@ To target a banner, do the following:
 .. image:: banner-target-list.png
 
 Banner in Notification Panel
-******************************
+--------------------------------
 It is possible to add a Banner control to the notification panel. Note! The Banner control is mainly used in the notification panel category together with another control that will generate the business logic for the notification count icon. The Banner control doesn't generate a notification count.
