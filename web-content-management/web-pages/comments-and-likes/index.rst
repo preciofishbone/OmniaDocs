@@ -1,7 +1,7 @@
 Comments and Likes
 ==================
 
-.. note:: **Prerequisites**: The Omnia.Intranet extension needs to be installed and the tenant feature Omnia Intranet Social Core needs to be activated.
+**Prerequisites**: The Omnia.Intranet extension needs to be installed and the tenant feature Omnia Intranet Social Core needs to be activated.
 
 When the feature "Omnia Intranet Social" is activated for a site, the control "Likes and Comments" becomes available on that site. The most common use is in a News Center, but the feature can be activated for any publishing site.
 
