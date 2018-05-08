@@ -112,9 +112,7 @@ Targeting banners
 -------------------
 A banner can be targeted to any receivers that has been defined in Target Definitions. A targeted banner is only displayed to that group. No one else will see it. It works the same for Reusable banners and Custom banners.
 
-For more information on Targeting Definitions, see:
-
-.. image:: targeting-definitions/index.html
+For more information on Targeting Definitions, see: (link)targeting-definitions/index.html
 
 To target a banner, do the following:
 
