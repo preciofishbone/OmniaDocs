@@ -1,7 +1,7 @@
 Banners
 ===========================
 
-A banner can either be centrally managed that can and reused on several web pages (Reusable Banner or a Banner Group) or created "locally" through the Banner Control.
+A banner can either be a centrally managed banner that can be reused on several web pages (Reusable Banner or a Banner Group), or created "locally" through the Banner Control.
 
 Reusable Banners
 ******************
