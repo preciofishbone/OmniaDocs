@@ -5,7 +5,7 @@ When browsing for an image using Quick Edit (for publishing pages and news artic
 
 .. image:: imagepicker_editor3.png
 
-Start by selecting an image library. Normally there are one or more central image banks available, and one local image library. The local library is most often calles just "Images".
+Start by selecting an image library. Normally there are one or more central image banks available, and one local image library. The local library is most often called just "Images".
 
 You can't upload images to a central image bank, if you don't have appropriate administrator permissions, but you can to the local image library. When you are allowed to upload images, an "Upload" button is shown, for example:
 
