@@ -61,8 +61,8 @@ If you want to structure the navigation some special way, or if you want to add 
 + **Custom Url**: Select to add a link that is not in the navigation structure. You have to manually add the Url.
 A new navigation term will now be created that will either point to an existing physical page in the system (term-driven page) or point to a static link.
 
-Sort Page <a id="sortpage"></a>
---------------------------------
+Sort Page
+-----------
 Use the up and down arrows to decide the internal sort order of the pages in the navigation.
 
 .. image:: sortpage.png
