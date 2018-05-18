@@ -117,10 +117,10 @@ The navigation tab includes all settings related to navigation for the page.
 
 .. image:: navigationtab.png
 
-**Navigation Term title**: By default, the navigation title will be the same as the page title, but it is possible to customize the navigation title. Check the box "Customize" and then change the title. All navigation components will now display this title instead of the page title.
-**Friendly Url Segment**: The friendly url to the page is built up of segments from all parent nodes in the navigation. The last segment in the url can be edited. By default it is set to the title, but excluding special characters.
-**Navigation Hover Text**: It is also possible to set a hover text. The hover text will appear when the user holds the mouse over the node in the cross-sites-mega-menu and the current navigation.
-**Visibility in menus**: Check "Show in Global Navigation Menu" if you want the navigation node to appear in the mega menu. Check "Show in Current Navigation Menu" if you want the navigation node to appear in current navigation on the left-hand side of the page.
++ **Navigation Term title**: By default, the navigation title will be the same as the page title, but it is possible to customize the navigation title. Check the box "Customize" and then change the title. All navigation components will now display this title instead of the page title.
++ **Friendly Url Segment**: The friendly url to the page is built up of segments from all parent nodes in the navigation. The last segment in the url can be edited. By default it is set to the title, but excluding special characters.
++ **Navigation Hover Text**: It is also possible to set a hover text. The hover text will appear when the user holds the mouse over the node in the cross-sites-mega-menu and the current navigation.
++ **Visibility in menus**: Check "Show in Global Navigation Menu" if you want the navigation node to appear in the mega menu. Check "Show in Current Navigation Menu" if you want the navigation node to appear in current navigation on the left-hand side of the page.
 
 Note! The navigation node will always be visible in the breadcrumb.
 
