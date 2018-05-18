@@ -20,21 +20,7 @@ When the icon is used to open Quick Edit for a page, that page is automatically 
 Tip:
 If you just would like to have a look at the settings for a page, without checking out, open the Settings menu (the cogwheel) and select "Manage Content", to open the Quick edit.
 
-Please find information about the following areas below:
-
-+ [Add Page](#addpage)
-+ [Sort Page](#sortpage)
-+ [General Tab](#generaltab)
-+ [Content Tab](#contenttab)
-+ [Links Tab](#linkstab)
-+ [Properties Tab](#propertiestab)
-+ [Navigation Tab](#navigationtab)
-+ [Site Tab](#sitetab)
-+ [Edit > Save > Publish](#editsavepublish)
-+ [Move Page](#movepage)
-+ [Permissions](#permissions)
-
-Add Page <a id="addpage"></a>
+Add Page
 ******************************
 To add a new page in the navigation structure, browse to the location where you want to add the page and click on the plus icon.
 
@@ -58,7 +44,7 @@ When you choose to add a simple page, the following is shown:
 For a "simple" page, no more settings are needed.
 
 Advanced settings
-******************
+-------------------
 To add a page and break permission inheritance, you use the advanced settings. This is useful for example if a number of publishing pages should be edited by another group of editors, or if a number of pages should have other properties. An example could be that a publishing site contains product information that just certain editors should have permission to edit, or that just dedicated editors should have permission to edit pages with HR information. Such pages could also very well need other properties.
 
 .. image:: addpage3.png
@@ -69,7 +55,7 @@ To add a page and break permission inheritance, you use the advanced settings. T
 If you create a new site, separate libraries and other resources will automatically be created for that site, for example a Documents library and an Image library.
 
 Add link to page
-******************
+-------------------
 If you want to structure the navigation some special way, or if you want to add links to pages in other places in the publishing site for easy access, use "Add link to page".
 
 .. image:: addpage4.png
@@ -85,8 +71,8 @@ Use the up and down arrows to decide the internal sort order of the pages in the
 
 .. image:: sortpage.png
 
-General Tab <a id="generaltab"></a>
-------------------------------------
+General Tab
+**************
 The general tab has three fields:
 
 .. image:: generaltab.png
@@ -96,14 +82,14 @@ The general tab has three fields:
 + **Image**: Browse for an image using the built-in asset picker in SharePoint or enter a url to an external image. The image will be shown on top of the page. Leave blank, if the title should appear on top instead. If the image is internal (stored in the current site collection), a link will appear with the possibility to edit image renditions. Note! The system will automatically add "?RenditionID=1001" to the url when you pick an image using the Browse button. Remove this query string if you want to render the image in original format.
 + **Enable legacy web parts** If Quick Pages is activated, this check box is displayed. Quick Pages loads much, much faster, but legacy web parts can't be used on such pages. If you are about to add a banner or a quick poll to a page, you must see to that this check box is checked.
 
-Content Tab <a id="contenttab"></a>
-*************************************
+Content Tab
+************
 The content tab includes a content editor based on [TinyMCE](https://www.tinymce.com). Click "Edit in Advanced Mode" to use SharePoint content editing instead. Note! If Quick Pages has been activated, Advanced mode is not available.
 
 .. image:: contenttab.png
 
-Links Tab <a id="linkstab"></a>
-***********************************
+Links Tab
+**********
 Using the links tab you can create structured links that will appear on the right-hand side of a page. Four different types of items can be added to the list of links:
 
 + Page
@@ -121,16 +107,16 @@ Edit links
 --------------
 You can edit any item in the list by selecting it in the list.
 
-Properties Tab <a id="propertiestab"></a>
-*******************************************
+Properties Tab
+****************
 The properties tab displays all page properties that have been configured as editable for the current publishing site. The available properties are configured by an administrator in the [publishing feature in Omnia Admin](../omnia-intranet-admin/publishing/index.html).
 
 .. image:: properties.png
 
 Note! If the field "Review Date" is present, you should normally add a suitable date there. Then the page will be indicated in "Content Management" in Omnia Admin, when the date is passed.
 
-Navigation Tab <a id="navigationtab"></a>
-*******************************************
+Navigation Tab
+****************
 The navigation tab includes all settings related to navigation for the page.
 
 .. image:: navigationtab.png
@@ -142,21 +128,21 @@ The navigation tab includes all settings related to navigation for the page.
 
 Note! The navigation node will always be visible in the breadcrumb.
 
-Site Tab <a id="sitetab"></a>
-******************************
+Site Tab
+**********
 The site tab holds information about the current publishing site. It is possible to navigate to the pages library where the physical page is located.
 
 The site permissions part displays all SharePoint groups that have access to the page. Click on "Edit Permissions" to go to the SharePoint UI and add users to the different groups.
 
 .. image:: sitetab.png
 
-Edit > Save > Publish <a id="editsavepublish"></a>
-***************************************************
+Edit - Save - Publish 
+**********************
 If you open the Manage Content UI by clicking on the "Quick Edit" button on a web page, then it will automatically be checked out and ready for editing.
 
 If you click on a page in the navigation structure in the Manage Content UI and the page is not checked out to you, you need to click on "Edit" to start editing.
 
-.. image:: editbutton.png)
+.. image:: editbutton.png
 
 If you click on "Save", all changes will be saved, but the page will still be checked out to you.
 
@@ -168,8 +154,8 @@ If you click on "Publish", the page will be published. Note! The page will not b
 
 If you want to preview changes before you publish a page, you need to save the changes and then click on "Open Page". The page will now be opened in a separate tab.
 
-Move Page <a id="movepage"></a>
-*********************************
+Move Page
+***********
 There are two prerequisites in order to be able to move a page in the navigation structure:
 
 + The page needs to be checked out. pp
@@ -180,8 +166,8 @@ Click on "Move Page" and select a target parent page. If the target parent page 
 + Keep the physical page in the source publishing site and move the navigation node.
 + Move the physical page to the target publishing site.
 
-Delete Page <a id="deletepage"></a>
-************************************
+Delete Page
+*************
 A prerequisite to be able to delete a page is that it doesn't have any children. Click on "Delete Page" to remove the page together with the navigation node.
 
 Note! In the scenario where several navigation nodes (terms) point to the same physical page, only the navigation node will be removed and the physical page will be kept.
@@ -209,8 +195,8 @@ When you are finished, you publish the language edition the same way as for the 
 
 .. image:: translation-publish-delete.png
 
-Permissions <a id="permissions"></a>
-***************************************
+Permissions
+*************
 To be able to edit or delete a page, you need the appropriate access rights to the physical page in SharePoint. The physical page is located in a publishing site and the permissions to the publishing site can be found on the Sites tab.
 
 To be able to add a new page (or page link) in the navigation structure, you need SharePoint "Add Item" access rights in the publishing site where the parent page is located. Example: You want to create a new page below "Utility 13". You need "Add Item" access rights on the publishing site where the physical page utility-13.aspx is located.
