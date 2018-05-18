@@ -3,10 +3,6 @@ Manage Content
 
 In Omnia there are two different ways of editing publishing pages: The Sharepoint way and the Omnia way (Quick Edit). The Omnia Quick Edit makes it a lot easier for an editor to edit an existing page, and to create, move and remove pages. In this chapter the Quick Edit option will be described.
 
-There's also a number of settings for Content Management in Omnia, see:
-
-[Settings for Content Management](/Docs/en-us/omnia-intranet-admin/publishing/index.html)
-
 Omnia Quick Edit can be started for a publishing page this way: 
 
 + Browse to a web page and click on the Quick Edit icon next to the page title. 
