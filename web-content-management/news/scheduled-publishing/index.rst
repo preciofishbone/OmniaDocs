@@ -13,11 +13,15 @@ When Scheduled is activated for a page, the "Publish" button is no longer availa
 
 Activating Scheduled Publishing for a Site
 **************************************************
-Use Admin settings for the active site collection to activate or deactivate Scheduled Publishing:
+Use Admin settings for the active site collection to activate or deactivate Scheduled Publishing. It's found under "Content Management":
+
+.. image:: scheduled-settings.png
+
+The settings available are these:
 
 .. image:: scheduled-publishing.png
 
-Just select the box and save.
+To activate, just select the box and save.
 
 This enables Scheduled Publishing to be used by authors. It is probably most interesting for news but can be activated for any site.
 
