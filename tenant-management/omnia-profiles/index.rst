@@ -5,7 +5,7 @@ You can use this Omnia Adm settings to split a tenant into different profiles. P
 
 .. image:: omnia-profiles.png
 
-The list displays alla current profiles. Use the icons to edit or delete a profile.
+The list displays all current profiles. Use the icons to edit or delete a profile.
 
 .. image:: omnia-profiles-edit-delete.png
 
