@@ -9,7 +9,7 @@ Theme colors is the primary source for colors. The colors you set here will be a
 
 If you would like different colors for some controls you can set them there. If you don't set Custom colors for a control, the theme colors will be used.
 
-Under Custom colors you can set additional colors if needed. 
+Under "Custom colors" you can set additional colors if needed. 
 
 .. image:: default-colors-custom.png
 
