@@ -10,6 +10,8 @@ This documentation is intended for administrators of Omnia Tenants. Settings and
 
 You always have to have the necessary permissions to be able to edit settings. If you can't find any of the options described on this page, you are not permitted to edit settings.
 
+Omnia Admin settings
+*********************
 You find the settings in Omnia Admin the following way:
 
 1. Open the administration menu. 
