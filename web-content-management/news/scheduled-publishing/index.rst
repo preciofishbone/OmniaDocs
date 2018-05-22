@@ -15,7 +15,7 @@ Activating Scheduled Publishing for a Site
 **************************************************
 Use the Omnia Admin settings for the active site collection to activate or deactivate Scheduled Publishing. It's found under "Content Management":
 
-.. image:: scheduled-settings.png
+.. image:: scheduled-settings-border.png
 
 The settings available are these:
 
