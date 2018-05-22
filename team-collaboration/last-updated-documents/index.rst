@@ -14,7 +14,7 @@ Settings for Latest Documents in the Notification Panel is set there, see: The N
 Latest Documents can also be added as a separate control. 
 
 Settings for the control
-------------------------
+*************************
 The following settings are available:
 
 .. image:: latest-dcouments-settings.png
