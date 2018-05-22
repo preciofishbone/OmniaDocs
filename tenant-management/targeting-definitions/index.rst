@@ -16,7 +16,7 @@ Create a new Targeting Definition
 **********************************
 + Open Omnia Admin and go to "Targeting Definitions".
 
-![Targeting Definitions](../../Images/targeting-definitions_menu.png)
+.. image:: targeting-definitions_menu.png
 
 The list of existing definitions is shown.
 
