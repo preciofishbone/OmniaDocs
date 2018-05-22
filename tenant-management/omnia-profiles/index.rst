@@ -23,7 +23,7 @@ When you create a new profile you use the following fields:
 
 Default Mapping
 ******************
-Set the Dafault Mapping here. When a new team site is created it will inherit the Default Mapping and for example display the top navigation from that Site Collection. 
+Set the Default Mapping here. When a new team site is created it will inherit the Default Mapping and for example display the top navigation from that Site Collection. 
 
 .. image:: default-site-mapping.png
 
