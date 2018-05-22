@@ -1,3 +1,4 @@
+
 Introduction
 ===========================
 
@@ -19,6 +20,8 @@ You find the settings in Omnia Admin the following way:
 .. image:: admmenu.png
 
 2. Select Omnia Admin. 
+
+.. image:: omniaadmin.png
 
 Settings for a control
 ***********************
