@@ -13,7 +13,7 @@ When Scheduled is activated for a page, the "Publish" button is no longer availa
 
 Activating Scheduled Publishing for a Site
 **************************************************
-Use Admin settings for the active site collection to activate or deactivate Scheduled Publishing. It's found under "Content Management":
+Use the Omnia Admin settings for the active site collection to activate or deactivate Scheduled Publishing. It's found under "Content Management":
 
 .. image:: scheduled-settings.png
 
