@@ -19,7 +19,7 @@ Use the Omnia Admin settings for the active site collection to activate or deact
 
 The settings available are these:
 
-.. image:: scheduled-publishing.png
+.. image:: scheduled-publishing-box.png
 
 To activate, just select the box and save.
 
