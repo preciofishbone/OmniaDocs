@@ -1,7 +1,7 @@
 Document Rollup
 ===========================
 
-You can use this control on any page, both legacy pages and Quick Pages, and even in a group site. Use it to display selected documents available within the site. Reading permissions apply for the users regardless of the settings in the control.
+You can use this control on any page, both legacy pages and Quick Pages, and even in a team site. Use it to display selected documents available within the site. Reading permissions apply for the users regardless of the settings in the control.
 
 **Note!**
 If Omnia Document Management is installed, and the purpose is to display Controlled Documents, don't use this control, use the "View Controlled Documents" control instead.
