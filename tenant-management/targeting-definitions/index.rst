@@ -14,21 +14,21 @@ The other approach is to create target groups for example based on AD groups or 
 
 Create a new Targeting Definition
 **********************************
-+ Open Omnia Admin and go to "Targeting Definitions".
+1. Open Omnia Admin and go to "Targeting Definitions".
 
 .. image:: targeting-definitions_menu.png
 
 The list of existing definitions is shown.
 
-+ Click "Add Targeting Definition".
+2. Click "Add Targeting Definition".
 
 .. image:: add-targeting-definition_new.png
 
-+ Type an internal name for the definition and click "Add filter".
+3. Type an internal name for the definition and click "Add filter".
 
 .. image:: add-filter_new.png
 
-+ Select type. You can use either a User Profile property or a Group Membership.
+4. Select type. You can use either a User Profile property or a Group Membership.
 
 The available fields for settings change accordingly.
 
