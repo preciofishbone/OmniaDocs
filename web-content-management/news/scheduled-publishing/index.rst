@@ -17,11 +17,9 @@ Use the Omnia Admin settings for the active site collection to activate or deact
 
 .. image:: scheduled-settings-box.png
 
-The settings available are these:
+To activate, just select the box and save.
 
 .. image:: scheduled-publishing.png
-
-To activate, just select the box and save.
 
 This enables Scheduled Publishing to be used by authors. It is probably most interesting for news but can be activated for any site.
 
