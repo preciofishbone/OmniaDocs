@@ -48,7 +48,7 @@ To the right you can choose width for each selected column: auto, as a percentag
 
 The Refiners tab
 -----------------
-Here you select refiners to shor for the list:
+Here you select refiners to show for the list:
 
 .. image:: document-rollup-refiners.png
 
