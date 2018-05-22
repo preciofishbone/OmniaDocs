@@ -36,7 +36,7 @@ Most Omnia Control has additional settings. Settings for a control are normally 
 
 .. image:: cogwheel.png
 
-**Note!** You have to point at the correct control heading to see the right cog wheel. The control heading is not shown until you point at it.
+**Note!** You have to point at the right control heading to see the cog wheel. The control heading is not shown until you point at it.
 
 To add a control to a page
 ***************************
