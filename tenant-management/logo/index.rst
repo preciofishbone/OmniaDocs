@@ -1,9 +1,9 @@
-lLogo
+Logo
 ===========================
 
 The Logo control makes it possible for the end user to go back to the start page of the portal. The logo settings are master page scoped. All sites using this master page will inherit the settings. The logo is shown across all Sharepoint sites in Omnia.
 
-.. image:: Logo.png
+.. image:: logo.png
 
 The settings for the control contains the following:
 
