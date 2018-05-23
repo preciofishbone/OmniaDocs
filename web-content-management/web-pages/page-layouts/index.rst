@@ -3,7 +3,7 @@ Page Layouts
 
 An administrator can use Layout Designer in Omnia Admin to create layouts to be used in Page Designer for Quick Pages.
 
-Using this setting an administrator can select the Page Layouts that should be avalaible for the active Site Collection (applicable for Publishing Sites only).
+Using this settings in Omnia Admin an administrator can select the Page Layouts that should be avalaible for the active Site Collection (applicable for Publishing Sites only).
 
 .. image:: layouts-1.png
 
