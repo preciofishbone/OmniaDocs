@@ -1,27 +1,7 @@
 Page Layouts
 ===========================
 
-An administrator can use Layout Designer (see below) to create layouts to be used in Page Designer for Quick Pages.
 
-Using settings in Omnia Admin an administrator can select the Page Layouts that should be avalaible for the active Site Collection (applicable for Publishing Sites only).
-
-.. image:: layouts-1.png
-
-The list of available Layouts is shown, for example:
-
-.. image:: layouts-2.png
-
-Use the buttons in the middle to move Page Layouts to or from the lists, to decide which layouts should be available here.
-
-You can select several by clicking on them, and deselect the same way.
-
-.. image:: layouts-3.png
-
-One Page Layout is always Default. It's the one with a green symbol. You can select any other layout as the default by pointing at it and clicking "Default".
-
-.. image:: layouts-4.png
-
-Don't forget to save when you're done with all changes.
 
 Layout Designer
 ***************
@@ -129,6 +109,28 @@ When you do any change to a Page Layout, a Version History node is created. You 
 Published editions are noted with an integer, work in progress with a decimal.
 
 .. image:: page-layout-version-history2.png
+
+Settings in Omnia Admin
+***********************
+Using the settings in Omnia Admin an administrator can select the Page Layouts that should be avalaible for the active Site Collection (applicable for Publishing Sites only).
+
+.. image:: layouts-1.png
+
+The list of available Layouts is shown, for example:
+
+.. image:: layouts-2.png
+
+Use the buttons in the middle to move Page Layouts to or from the lists, to decide which layouts should be available here.
+
+You can select several by clicking on them, and deselect the same way.
+
+.. image:: layouts-3.png
+
+One Page Layout is always Default. It's the one with a green symbol. You can select any other layout as the default by pointing at it and clicking "Default".
+
+.. image:: layouts-4.png
+
+Don't forget to save when you're done with all changes.
 
 Page Designer
 **************
