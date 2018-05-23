@@ -1,7 +1,7 @@
 Quick Poll
 ===========================
 
-Through the Quick Poll control a web editor can add a poll on a web page (the questions are created in Omnia Admin). Quick Polls can be added as a web part to any standard Sharepoint page and as a block to any Quick Page.
+Through the Quick Poll control a web editor can add a poll on a web page (the questions are created in Omnia Admin, see Quick Polls Administration, below). Quick Polls can be added as a web part to any standard Sharepoint page and as a block to any Quick Page.
 
 Here's an example on how an end users would see a Quick Poll:
 
@@ -15,9 +15,55 @@ When a user has voted, the present result is shown, for example:
 
 **Note!** Whether a user has answered the poll or not is stored as a cookie in the web browser. If another web browser is used or the cookies are cleared, the user will be able to vote again.
 
+Quick Polls Administrattion
+*****************************
+You use this option in Omnia Admin to create the polls and then any editor can place any active poll on the start page or on any web page in the intranet.
+
+An administrator, and others that are assigned the permissions, can create Quick Polls. Any editor for publishing pages can then add a Quick Poll (or several) to any publisning page. Quick Polls can of course also be added on the start page.
+
+.. image:: quick-polls-admin.png
+
+Create a new Quick Poll
+-------------------------
+
++ Click "Add Quick Poll".
+
+.. image:: add-quick-poll.png
+
+Use the following settings:
+
+.. image:: quick-polls-settings-1.png
+
++ **Question**: Add the question here.
++ **Answers**: Add two or more answers to choose from. The default is two answers. Click "Add answer" to add more answer fields.
++ **Start date**: Select start date and time för the poll.
++ **End date**: Select end date and time for the poll.
+
+**Note!** The Quick Poll must be active to be added to a page - withing the start- and end date. If an editor tries to add a poll that is not active, an error message is shown.
+
+Don't forget to save when your done.
+
+Edit or delete polls
+---------------------
+Use the icons in the list to edit or delete a poll:
+
+.. image:: edit-quickpolls.png
+
+Adding Quick Polls administrators
+----------------------------------
+If other colleagues should be able to create Quick Polls, you add them to the permissions list here:
+
+.. image:: quick-polls-permission.png
+
+Quick Polls results
+-----------------------
+See a Quick Poll's results by clicking the link in the list. The result is shown this way:
+
+.. image:: quick-polls-result.png
+ 
 The settings for the control
 *****************************
-The following settings are available:
+The following settings are available when the control has been added to a page:
 
 .. image:: quick-poll-settings.png
 
