@@ -8,11 +8,8 @@ When Quick Pages is enabled for a site (yes, you activate Quick Pages per site) 
 To enable Quick Pages, do the following:
 
 1. See to that the correct site is the actual site.
-
-2.Open Omnia Admin and go to "Content Management".
-
+2. Open Omnia Admin and go to "Content Management".
 3. Click "Enable Quick Pages".
-
 4. Select option here:
 
 .. image:: enable-quickpages-2.png
