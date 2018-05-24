@@ -5,24 +5,23 @@ An administrator or an editor with the correct permissions can work with Page La
 
 + Layout Designer: Normally used by an administrator, to create layouts to be used in the Page Designer.
 + Page Designer: Normally used by an administrator or an editor to place controls (blocks) in the layout. A block can for example be Page Contents, Related Links or a Banner. For more information on Page Designer, see below.
++ Besides that, there are settings in Omnia Admin.
 
 The prerequisite is that the page is a **Quick Page**. 
 
 You can't use this kind of Page Layout on a standard Sharepoint Page - a page where "Enable legacy web parts" is on.
 
-Besides that, there are settings in Omnia Admin.
-
 The Layout Designer
 ***************
-The Layout Designer is used to create layouts to be used in the Page Designer
+Layout Designer is used to create layouts to be used in Page Designer
 
-Working with the Layout Designer
+Working with Layout Designer
 --------------------------------
 Do the following:
 
 1. Go the page you will be working on.
 2. Open the administration menu.
-3. Select Edit page.
+3. Select "Edit page".
 
 If you have the correct permissions something like this will be shown:
 
@@ -38,11 +37,11 @@ Selecting a Page Layout
 ------------------------
 To select a Page Layout, do the following:
 
-1. Open the list "Layout" an select a layout.
+1. Open the list "Layout" and select a layout.
 
 .. image:: select-page-layout-new.png
 
-If more than one Page Layout is available, you can change page layout for a page this way. You must publish to apply the layout change.
+If more than one Page Layout is available, you can change Page Layout for a page this way. You must publish to apply the layout change.
 
 **Note!** If blocks already are added to the page, they will normally realign to the new layout. If that is not possible, all blocks will be placed in one single Zone. You then have to drag the blocks to the correct Zones.
 
@@ -90,7 +89,7 @@ When you add a new control, it is, per default, aligned (cascaded) to the left. 
 
 Delete, Undo Changes and Publish
 ---------------------------------
-You can delete a Page Layout, undo tha changes you have made and publish the changes, by using the buttons at the top:
+You can delete a Page Layout, undo the changes you have made and publish the changes, by using the buttons at the top:
 
 .. image:: page-layout-delete2.png
 
@@ -98,7 +97,7 @@ Save as a new template
 ------------------------
 When you have made all the changes, you can choose to save the layout as new layout template (base layout). You don't have to publish to be able to do that.
 
-1. Add a new name for the layout and then click Save.
+1. Add a new name for the layout and then click "Save".
 
 .. image:: save-as-new-layout.png
 
@@ -114,7 +113,7 @@ Published editions are noted with an integer, work in progress with a decimal.
 
 Settings in Omnia Admin
 ***********************
-Using the settings in Omnia Admin an administrator can select the Page Layouts that should be avalaible for the active Site Collection (applicable for Publishing Sites only).
+Using the settings in Omnia Admin, an administrator can select the Page Layouts that should be avalaible for the active Site Collection (applicable for Publishing Sites only).
 
 .. image:: layouts-1.png
 
@@ -122,9 +121,7 @@ The list of available Layouts is shown, for example:
 
 .. image:: layouts-2.png
 
-Use the buttons in the middle to move Page Layouts to or from the lists, to decide which layouts should be available here.
-
-You can select several by clicking on them, and deselect the same way.
+Use the buttons in the middle to move Page Layouts to or from the lists, to decide which layouts should be available here. You can select several by clicking on them, and deselect the same way.
 
 .. image:: layouts-3.png
 
@@ -136,7 +133,7 @@ Don't forget to save when you're done with all changes.
 
 Page Designer
 **************
-Here we will describe the Page Designer. For an instruction on how to use the Layout Designer, see above.
+Here we will describe Page Designer. For an instruction on how to use Layout Designer, see above.
 
 A very important difference between a Quick Page and a standard Sharepoint is what the editor can see. The end user will always see the same thing: the latest published version.
 
@@ -153,13 +150,13 @@ To select another Page Layout, do the following:
 2. Open the administration menu.
 3. Select "Edit page".
 
-If you have the correct permissions something like this will be shown:
+If you have the correct permissions, something like this will be shown:
 
 .. image:: page-designer-new2.png
 
 4. Open the "Layout" list and select layout.
 
-![Select Page Layout](../../Images/page-designer-new3.png)
+.. image:: page-designer-new3.png
 
 5. Make changes to the blocks, if necessary (see below).
 6. Publish the page.
@@ -219,7 +216,7 @@ The following is shown:
 
 Save, Undo Changes and Publish
 --------------------------------
-You don't need to save. When you make any change to the page layout is automatically saved and a new node in the Version History is created (see below). 
+You don't need to save. When you make any change the page layout is automatically saved and a new node in the Version History is created (see below). 
 
 If you don't want to save the changes you have made, you can undo these changes this way:
 
@@ -237,7 +234,7 @@ Version History
 --------------------
 When you do any change in the layout for a Quick Page, a Version History node is created. You can use the Version History to go back to any earlier version of the layout. You edit the content the normal way.
 
-1. Open Version History.
+1. Open "Version History".
 
 .. image:: open-version-history_new2.png
 
