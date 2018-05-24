@@ -22,7 +22,7 @@ Here's an example of the information that can be shown:
 
 Note that you can view the Document History by clicking the link here. In the Document History, you can for examnple exact times for publication and comments added by the author during publication.
 
-.. image:: archive-icon-dochistory.png)
+.. image:: archive-icon-dochistory.png
 
 And from here you can even see the workflow history of the document, by clicking that link.
 
