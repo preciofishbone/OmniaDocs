@@ -1,15 +1,18 @@
 Page Layouts
 ===========================
 
-An administrator or an editor with the correct permissions can work with Page Layouts. There are two levels which will normally need different permissions:
-
-+ Layout Designer: Normally used by an administrator, to create layouts to be used in the Page Designer.
-+ Page Designer: Normally used by an administrator or an editor to place controls (blocks) in the layout. A block can for example be Page Contents, Related Links or a Banner. For more information on Page Designer, see below.
-+ Besides that, there are settings in Omnia Admin.
-
-The prerequisite is that the page is a **Quick Page**. 
+An administrator or an editor with the correct permissions can work with Page Layouts. The prerequisite is that the page is a **Quick Page**. 
 
 You can't use this kind of Page Layout on a standard Sharepoint Page - a page where "Enable legacy web parts" is on.
+
+There are two levels which will normally need different permissions:
+
++ Layout Designer: Normally used by an administrator, to create layouts to be used in Page Designer.
++ Page Designer: Normally used by an administrator or an editor to place controls (blocks) in the layout. A block can for example be Page Contents, Related Links or a Banner. For more information on Page Designer, see below.
+
+Besides that, there are settings in Omnia Admin.
+
+The Layout Designer, The Omnia Admin settings and the Page Designer are all descirbed here, and in that order. See the corresponding sections below.
 
 The Layout Designer
 ***************
