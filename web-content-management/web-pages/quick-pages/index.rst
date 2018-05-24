@@ -24,8 +24,6 @@ In this example Quick Pages is on for this page as enabling legacy web parts is 
 
 How to work with Quick Pages is described in "Content Management" (link) here.
 
-bla
-
 
 
 
