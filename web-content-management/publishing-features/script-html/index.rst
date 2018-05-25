@@ -7,6 +7,6 @@ The settings
 *************
 The settings is where you add the code:
 
-.. image:: script-html-settings
+.. image:: script-html-settings.png
 
 Don't forget to save when you're done.
