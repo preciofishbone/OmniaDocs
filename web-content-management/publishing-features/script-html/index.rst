@@ -5,7 +5,7 @@ Script/HTML is a block you can use for various applications to add extra functio
 
 The settings
 *************
-The settings is where you add the code:
+The settings is where you add or edit the code:
 
 .. image:: script-html-settings.png
 
