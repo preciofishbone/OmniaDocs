@@ -56,7 +56,7 @@ The General tab
 --------------------
 Use the fields on this tab the following way:  
 
-.. image:: doctype-generaltab-new.png) 
+.. image:: doctype-generaltab-new.png 
 
 + **Language**: Select language for documents from this Document Type.
 + **Name**: The name is displayed when the author selects Document Type to create, so make sure it’s understandable.
