@@ -44,7 +44,7 @@ Adding a new template
 --------------------------
 Do the following:
 
-+ Click "Add new template".
+1. Click "Add new template".
 
 .. image:: add-new-template.png
 
@@ -54,8 +54,8 @@ Link to Document
 -----------------
 To link to a document:
 
-+ Enter the document-id and click "Find".
-+ When you have found the document, click "Save".
+1. Enter the document-id and click "Find".
+2. When you have found the document, click "Save".
 
 **Note:** When a new edition of the linked document is published, the template is automatically updated. When an editor creates a new document based on document type with a linked document as template, the latest edition is always used. Existing, published documents are not changed.
 
@@ -63,13 +63,13 @@ Upload document
 ---------------
 To upload a document to use as a template:
 
-+ Select "Upload Document".
-+ Set a name. This name is displayed for the author, so make sure it’s really understandable.
-+ Click "Browse"  to find the document on your computer and select it.
+1. Select "Upload Document".
+2. Set a name. This name is displayed for the author, so make sure it’s really understandable.
+3. Click "Browse"  to find the document on your computer and select it.
 
 .. image:: dd-new-template-browse.png
 
-+ Click "Save".
+4. Click "Save".
 
 Editing and removing templates
 -------------------------------
@@ -109,11 +109,11 @@ Adding a property
 ------------------
 On the Property tab you define the properties fields to be used for this Document Profile. You do it the same way either you add a property that will be inherited, or you add a specific property to a Document Profile.
 
-+ To add a new property, click the link.
+1. To add a new property, click the link.
 
 .. image:: add-new-property.png
  
-Set the following:
+2. Set the following:
 
 .. image:: add-property-settings-new.png
  
