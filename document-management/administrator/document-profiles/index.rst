@@ -67,7 +67,7 @@ To upload a document to use as a template:
 2. Set a name. This name is displayed for the author, so make sure it’s really understandable.
 3. Click "Browse"  to find the document on your computer and select it.
 
-.. image:: dd-new-template-browse.png
+.. image:: add-new-template-browse.png
 
 4. Click "Save".
 
@@ -199,7 +199,7 @@ Edit or delete property
 -------------------------
 To edit a property, do the following:
 
-1.click the link.
+1. Click the link.
 
 .. image:: edit-propety.png
 
