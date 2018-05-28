@@ -8,7 +8,7 @@ Document profiles are used for Document Types. You select one Document Profile f
 **Note!**
 Document profiles inherit properties from it's "parents", but you can change status for the properties on a specific profile when nedded. Therefore it can be a good idea to set up all properties that most of the profiles will share, at the top level. For a Document Profile that will not use a certain property, you can set that property to hidden there. A property can even be hidden at the top level, and shown on other levels. The same is true if you have many Document Profiles and work with groups of profiles, you can set all properties the group will share on the group's top level.
 
-+ To create a new Document Profile, click the plus.
+1. To create a new Document Profile, click the plus.
  
 .. image:: document-profiles.png
 
@@ -16,7 +16,7 @@ You can even group Document Profiles.
 
 .. image:: document-profiles-2.png
 
-+ To create a sub profile, select the profile and click the plus.
+1. To create a sub profile, select the profile and click the plus.
 
 Settings for Document Profiles
 *******************************
