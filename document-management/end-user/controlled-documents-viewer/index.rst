@@ -72,3 +72,42 @@ The Design tab
 Here you can set the width for the left and right zone and select colors, if needed.
 
 .. image:: cd-viewer-design.png
+
+The user experience
+*******************
+Once a Controlled Documents Viewer has been added to a publishing page and set up by an editor to decide what Controlled Documents to display, any user that has access to the page can use the control to find Controlled Documents.
+
+Access permissions apply, the controlled documents the user can find using the control, are documents that the user has read permission to. Read permissions are handled in the group sites used by authors to publish Controlled Documents.
+
+At the start, the list contains all documents the control has been set up to display. 
+
+The refiners can be used to display only the documents tagged with a certain property value.
+
+.. image:: controlled-documents-viewer-refiners-new.png
+
+In this example there are 9 documents tagged with the product Cheetah and if that refiner is selected, the list could look like this:
+
+.. image:: controlled-documents-viewer-refined-new.png
+
+Search (if turned on, which is the default) can be used to search for content in the displayed documents.
+
+The columns contain information about the documents. To the right there can be two very useful icons (if turned on, which is default).
+
+Users can click the i-icon to display all properties for the document, for example:
+
+.. image:: controlled-documents-viewer-properties-new.png
+
+Everyone can use the links at the bottom (to be able to open this window, a user must have access to the document) to see the Document History or go to the library to read the other Controlled Documents published from there.
+
+If you are assigned as author to the Controlled Documents library where the document reside, you can use the buttons to create a new draft of the documents or unpublish the document. No one else will see these buttons.
+
+The icon to the far right...
+
+.. image:: controlled-documents-viewer-icon-new.png
+
+... can be used to send feedback on the document.
+
+.. image:: controlled-documents-viewer-feedback.png
+
+The feedback is send to the Controlled Documents library where the documen is published from where the authors can read it. A mail can also be sent (depends on settings) to either the document owner or the approver.
+
