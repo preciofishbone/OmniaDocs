@@ -109,5 +109,5 @@ The icon to the far right...
 
 .. image:: controlled-documents-viewer-feedback.png
 
-The feedback is send to the Controlled Documents library where the documen is published from where the authors can read it. A mail can also be sent (depends on settings) to either the document owner or the approver.
+The feedback is sent to the Controlled Documents library from where the document is published, and the authors can read it there. A mail can also be sent (depends on settings) to either the document owner or the approver.
 
