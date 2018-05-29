@@ -31,7 +31,7 @@ On this tab the following settings are available:
 
 The Query tab
 --------------
-This tab is used to decide what Controlled Documents to display in the control.
+This tab is used to decide which Controlled Documents to display in the control.
 
 .. image:: controlled-documents-viewer-settings-query.png
 
