@@ -44,7 +44,7 @@ You edit a newly created process and an existing one the same way. Note that acc
 
 Edit access mode is activated and some more tabs are shown:
 
-.. image:: dit-mode.png
+.. image:: edit-mode.png
 
 The Graph tab
 --------------
