@@ -15,11 +15,11 @@ Settings for the control
 *************************
 The settings are organized in four tabs, see the sections below.
 
-.. image:: process-viewer-settings-general.png
-
 The General tab
 -------------------
 On this tab the following settings are available:
+
+.. image:: process-viewer-settings-general.png
 
 + **Published process id**: Enter the process id for the process to be displayed. This id will be found in the authoring site.
 + **Process step breadcrumb setting**: Decide to show the process steps in the breadcrumb or not. (Default=Show.)
