@@ -1,4 +1,6 @@
  Create Site
 ===========================
 
-(Will be added soon. Connected to Site Templates.)
+The Create Site process is a combination of Sharepoint standard and some Omnia additions. Here is a description of the Omnia additions.
+
+(Will be added soon.)
