@@ -16,7 +16,7 @@ When the author publishes a document, something like the following is shown:
 
 .. image:: start-publish.png
 
-Exactly which options are available here depends ona anumber of settings.
+Exactly which options are available here depends on a a number of settings. These shown in the image are the most common.
 
 + **Approver**: The author selects one approver from the list. Available approvers depends on various settiings and how the system si set up.
 + **Approval Due Date**: Here the author adds a date when the approval should be made, at the latest. This is just information for the approvers. The Approval workflow is not stopped if this date is passed.
