@@ -9,7 +9,9 @@ The end user can access the common links in the My Links control. The list conta
 
 .. image:: my-links-example.png
 
-More information about the My Links control is found here: [My Links]
+More information about the My Links control is found here: .. _The My Links control: https://
+
+.. _Python: http://www.python.org/
 
 The Omnia Admin settings
 ************************
