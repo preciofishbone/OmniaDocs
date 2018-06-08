@@ -1,7 +1,7 @@
 Approval Workflow
 ===========================
 
-When a document has reached a final version, the document must be published, and, if approval is activated, be approved for publication, to be available for readers. The author then starts an Approval Workflow by selecting "Publish".
+When a document has reached a final version, the document must be published, and, if approval is activated, be approved for publication, to be available for readers. The author then starts Approval Workflow by selecting "Publish".
 
 .. image:: select-publish.png
 
@@ -32,10 +32,13 @@ The task can look like this:
 
 .. image:: approval-task.png
  
-The approver automatically has read access to the document (note! Read access only), until the task is completed.
-If Omnia Intranet is used, the approver is also notified in the notification panel, about the new task, and can choose to open the task from there.
+The approver automatically has read access to the document (note! Read access only), until the task is completed. If Omnia Intranet is used, the approver is also notified in the notification panel, about the new task, and can choose to open the task from there. 
+
 The workflow will be active until the task is completed and the document will be locked for editing during that time.
+
 Approved or Rejected
-If the document is approved for publication, it’s now available for readers. You will receive an e-mail stating that.
-If it’s rejected, there’s some changes the approver would like you to do. You will receive an e-mail stating that the document was rejected and the e-mail also contains a message from the approver. After you have made the changes, you start a new Publish Workflow the same way as before.
+********************
+If the document is approved for publication, it’s now available for readers. The author will receive an e-mail stating that.
+
+If it’s rejected, there’s some changes the approver would like the author to do. The author will receive an e-mail stating that the document was rejected and the e-mail also contains a message from the approver. After changes has been made the changes, the author starts a new Approval Workflow the same way as before.
 
