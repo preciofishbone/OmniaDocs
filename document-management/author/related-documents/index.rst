@@ -14,7 +14,7 @@ Relate documents
 *****************
 Authors can relate documents using the menu for the document on the "Published" tab:
 
-.. image:: relate-documents-q-png
+.. image:: relate-documents-1.png
  
 Then a search for documents to relate to can be conducted. Here’s an example:
 
@@ -38,7 +38,7 @@ Being notified when any related document is updated
 ****************************************************
 To activate notification for related documents, select who is going to be notified. When the option is activate an e-mail is sent to the receiver every time a new edition is published for any related document.
 
-..image:: relate.notify.png
+.. image:: relate-notify.png
 
 Document Owner is always available but other person fields can also be available depending on how Omnia Document Management is set up.
 
