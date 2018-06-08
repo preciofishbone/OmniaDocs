@@ -3,6 +3,8 @@ Approval Workflow
 
 When a document has reached a final version, the document must be published, and, if approval is activated, be approved for publication, to be available for readers. The author then starts an Approval Workflow by selecting "Publish".
 
+.. image:: select-publish.png
+
 All metadata must be properly set before the Approval Workflow is started, so the document will be available in the right lists – if applicable. Some metadata can be mandatory. If all mandatory metadata has not been added, the Approval Workflow can not be started.
 
 **Note!**
