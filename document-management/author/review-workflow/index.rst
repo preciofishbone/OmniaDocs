@@ -18,7 +18,7 @@ The following is shown:
 
 + **Reviewers**: In Reviewers, all colleagues to send to (=appoint as reviewers) is added. Normally, any colleague can be added here. 
 + **Message**: A message to the reviewers is added here. Note that you can only use one message even if you send to several colleagues. 
-+ **Due date:: A date when the review should be finished is entered here. It's only information to the reviewers. Nothing happens when the date is passed.
++ **Due date**: A date when the review should be finished is entered here. It's only information to the reviewers. Nothing happens when the date is passed.
 
 A task is then created for each colleague, and an e-mail is sent to each, with the message entered, and with a link to the document. Here’s an example:
 
