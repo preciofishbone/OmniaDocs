@@ -40,11 +40,11 @@ Something like the following is shown:
 
 .. image:: show-review.png
  
-The status is shown here; whcich reviewers has finished the task, and in that case the comment entered for the task. To see comments and/or changes in the document, open the document.
+Which reviewers has finished the task and not, is shown here. For a finished task the comment entered by the reviewerm is also shown. To see comments and/or changes in the document, open the document.
 
 Cancel a Review Workflow
 ************************************
-If needed, a Review Workflow can be cancelled, or any reason. Note that publication is not possible if a Review Workflow is active for the document.
+If needed, a Review Workflow can be cancelled, for any reason. Note that publication is not possible if a Review Workflow is active for the document, and then has to be cancelled.
 
 1.	Click the link in the column "Status". 
 2.	Click "Cancel Send for Comments Workflow".
