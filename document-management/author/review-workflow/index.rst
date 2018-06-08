@@ -32,7 +32,7 @@ Check status for a Send for Comments Workflow
 **********************************************
 Status for a workflow can be checked at any time. Here’s how:
 
-1.	Click the link in the column Status.
+1.	Click the link in the column "Status".
 
 .. image:: link-in-status.png
  
@@ -42,21 +42,30 @@ Something like the following is shown:
  
 The status is shown here; whcich reviewers has finished the task, and in that case the comment entered for the task. To see comments and/or changes in the document, open the document.
 
-Cancel a Send for Comments Workflow
-If needed, you can always cancel a workflow. The reason could be that you simply have sent to the wrong colleaugues, that you want to end this workflow to start another workflow, or that you will publish the document.
-1.	Click the link in the column Status.
+Cancel a Review Workflow
+************************************
+If needed, a Review Workflow can be cancelled, or any reason. Note that publication is not possible if a Review Workflow is active for the document.
+
+1.	Click the link in the column "Status". 
+2.	Click "Cancel Send for Comments Workflow".
  
-2.	Click Cancel Send for Comments Workflow.
+.. image:: cancel-review-workflow.png
  
-Everyone you sent to are now notified by e-mail that the workflow is cancelled. (And their edit access to the document is also removed.)
+Everyone in the workflow are now notified by e-mail that the workflow is cancelled. And their edit access to the document is also removed.
+
 See Workflow History for the draft
-You can see history from all finished or cancelled workflows for this draft version.
-1.	Click the dot menu for the document.
-2.	Select Workflow History.
- 
+***********************************
+A workflow History is available for the draft document, showing all finished or cancelled workflows for this draft version. The option is available in the menu for the document, for example:
+
+.. image:: select-workflow-history.png
+
 Something like the following is shown:
+
+.. image:: workflow-history.png
  
-3.	Click a workflow to see the details.
-Here’s an example:
+Click the link for a workflow to see the details, for example:
+
+.. image:: workflow-history-details.png
+
  
 
