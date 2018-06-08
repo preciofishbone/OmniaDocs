@@ -8,29 +8,40 @@ The option is called "Send for Comments workflow" and can be sued as many times 
 **Note!**
 Everyone that is appointed as reviewer automatically receives edit access to the document when the workflow is active, and that access is removed when the colleague’s task is completed. Also note that publication is not allowed while a Review Workflow is active for the document.
 
-To use the Send for Comments Workflow, do the following:
-1.	Click the dot menu for the document.
-2.	Select Send for Comments.
- 
+To start the workflow, the author selects "Send for Comments" in the menu for the document, on the Drafts tab, for example:
+
+.. image:: send-for-comments.png
+
 The following is shown:
+
+.. image:: send-for-comments-dialogue.png
+
++ **Reviewers**: In Reviewers, all colleagues to send to (=appoint as reviewers) is added. Normally, any colleague can be added here. 
++ **Message**: A message to the reviewers is added here. Note that you can only use one message even if you send to several colleagues. 
++ **Due date:: A date when the review should be finished is entered here. It's only information to the reviewers. Nothing happens when the date is passed.
+
+A task is then created for each colleague, and an e-mail is sent to each, with the message entered, and with a link to the document. Here’s an example:
+
+.. image:: review-message-example.png
  
-3.	In Reviewers, type the name(s) of the colleagues you will send to. Normally, any colleague can be addressed for comments.
-As it is a name field, when you start typing, a list of users corresponding to what you have typed so far, is shown. You can then select a user in the list, or continue typing.
-4.	Type a message.
-Even if you send to several colleagues, you can only use one message. If what you want different colleagues to do is very different, it may be better to use more than one workflow (but remember that only one workflow can be active at a time, for each document).
-5.	Enter a due date as information on when you expect the review to be finished.
-6.	Click Send.
-A task is created for each colleague, and an e-mail is sent to each, with the message you entered, and with a link to the document. Here’s an example:
- 
-If Omnia Intranet is installed, the colleagues are also notified in the notification panel, about the new task, and can choose to open the task from there.
-The workflow will be active until all tasks are completed, or until you cancel the workflow.
+If Omnia Intranet is installed, the colleagues are also notified in the notification panel, about the new task, and can choose to open the task from there. 
+
+The workflow will be active until all tasks are completed, or until the workflow is cancelled på the author.
+
 Check status for a Send for Comments Workflow
-You can check the status for a workflow any time. Here’s how:
+**********************************************
+Status for a workflow can be checked at any time. Here’s how:
+
 1.	Click the link in the column Status.
+
+.. image:: link-in-status.png
  
 Something like the following is shown:
+
+.. image:: show-review.png
  
-Here you can see if some reviewers has finished the task, and in that case you can see the comment entered for the task. To see comments and/or changes in the document, you have to open the document.
+The status is shown here; whcich reviewers has finished the task, and in that case the comment entered for the task. To see comments and/or changes in the document, open the document.
+
 Cancel a Send for Comments Workflow
 If needed, you can always cancel a workflow. The reason could be that you simply have sent to the wrong colleaugues, that you want to end this workflow to start another workflow, or that you will publish the document.
 1.	Click the link in the column Status.
