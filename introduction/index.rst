@@ -25,7 +25,7 @@ You find the settings in Omnia Admin the following way:
 
 Settings for a control
 ***********************
-Most Omnia Control has additional settings. Settings for a control are normally control scoped. To edit settings for the control, do the following:
+Most Omnia Controls has additional settings. Settings for a control are normally control scoped. To edit settings for the control, do the following:
 
 1. Go the the page where the actual control is placed.
 2. Open the administration menu and select "Edit Page".
