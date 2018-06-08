@@ -12,19 +12,21 @@ Metadata can also have impact on who is available as approver.
 
 Any Send for Comments Workflow must be ended before an Approval Workflow can be started.
  
-When the author publishes a document, the following is shown:
+When the author publishes a document, something like the following is shown:
 
 .. image:: start-publish.png
- 
-5.	Select approver from the list.
-6.	Enter a due date as information on when you expect the task to be completed.
-7.	Select Read rights (see more on that below).
-8.	Select conversion to PDF (see more information below).
-9.	Click Send.
-Regarding Read Rights, the default selection is to use the Default Readers Group from the site’s permissions. You can click Show members to see the permissions. A site administrator (owner) can edit the default read rights.
-If, for some reason, the Read Rights for this particular document should be different, you can select Limit Read Access, and enter the names of the readers, or any group memberships, for example AD groups.
-Regarding conversion to PDF, an administrator can set how this will work, and it can be different for each Document Type – it can be available or not available. Conversion to PDF is only available for docx documents.
-When you click Send, a task is created for the approver, and an e-mail is sent, with a link to the document. Here’s an example:
+
+Exactly which options are available here depends ona anumber of settings.
+
++ **Approver**: The author selects one approver from the list. Available approvers depends on various settiings and how the system si set up.
++ **Approval Due Date**: Here the author adds a date when the approval should be made, at the latest. This is just information for the approvers. The Approval workflow is not stopped if this date is passed.
++ **Read rights**: The default selection is to use the Default Readers Group from the site’s permissions. If needed, the author can click "Show members" to see the permissions. A site administrator (owner) can edit the default read rights. If, for some reason, the Read Rights for this particular document should be different, the author can select "Limit Read Access", and enter the names of the readers, or any group memberships, for example AD groups.
++ **Convert DOCX to PDF**: An administrator can set how this will work, in Omnia Adm, and it can be different for each Document Type – it can be available or not available. Conversion to PDF is only available for docx documents.
++**Notify people**: The auhthor can use this option to notify certain people or groups about the new edition of the document. The notification is sent when the document is approved.
+
+When the author clicks Send, a task is created for the approver, and an e-mail is sent, with a link to the document. Here’s an example:
+
+.. image:: approval-sent.png
  
 The task can look like this:
  
