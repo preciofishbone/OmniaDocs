@@ -30,7 +30,7 @@ Relations to documents are updated for the readers immediately. No new publicati
 
 Remove a related document
 **************************
-To remove a related document from the list, just open the menu, select Related Documents and click the dust bin for the document.
+To remove a related document from the list, just click the dust bin for the document.
 
 .. image:: related-remove.png
  
