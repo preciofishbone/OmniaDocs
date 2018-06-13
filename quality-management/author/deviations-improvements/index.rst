@@ -13,9 +13,9 @@ When a process is edited, all feedback is available on the "Deviation/Improvemen
 
 .. image:: qms-improvement.png
 
-A feeback post can be handled here, information and actions added and history viewed:
+A feedback post can be handled here, information and actions added and history viewed:
 
-.. image:: qms-improvement-settings.png
+.. image:: qms-improvment-settings.png
 
 
 
