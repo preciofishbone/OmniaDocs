@@ -5,6 +5,6 @@ It's possible to create a Process Site Template from a process. The template can
 
 To select a process as the template, use the option "Process Site Template" on the "Advanced" tab in the Processes library.
 
-See this page for more information: [The Process Library]
+See this page for more information: [Link: The Process Library]
 
 
