@@ -9,7 +9,7 @@ The user types a title, selects type of feedback: Improvement, Deviation or Risk
 
 .. image:: qms-feedback-add-border.png
 
-When a process is edited, all feedback is available on the "Deviation/Improvement" tab:
+When a process is edited, all feedback concerning that process, is available on the "Deviation/Improvement" tab:
 
 .. image:: qms-improvement.png
 
