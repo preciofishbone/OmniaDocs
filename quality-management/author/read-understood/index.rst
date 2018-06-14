@@ -21,7 +21,7 @@ Use this tab to type a title and the message text for the e-mail:
 
 .. image:: read-message-tab.png
 
-The name in the field "Owner" will bo noted in the e-mail. Names can be deleted and added in this field, if needed.
+The name in the field "Owner" will be noted in the e-mail. Names can be deleted and added in this field, if needed.
 
 The Link(s) tab
 ****************
