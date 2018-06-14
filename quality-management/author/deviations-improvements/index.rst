@@ -5,7 +5,7 @@ Using the the option "Add Feedback" any user that has access to a published proc
 
 .. image:: qms-add-feedback.png
 
-The users types a title, selects type of feedback: Improvement, Deviation or Risk, adds a text for the feedback and can even attach files:
+The user types a title, selects type of feedback: Improvement, Deviation or Risk, adds a text and can even attach files:
 
 .. image:: qms-feedback-add.png
 
