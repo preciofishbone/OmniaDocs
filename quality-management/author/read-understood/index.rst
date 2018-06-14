@@ -33,7 +33,7 @@ The Recipients tab
 ******************
 All recipients of the e-mail should be added to this tab. Recipients can be both persons and groups.
 
-.. image:: read-recipients.png
+.. image:: read-recipients-tab.png
 
 The Send test message tab
 **************************
