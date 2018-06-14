@@ -27,7 +27,7 @@ The Link(s) tab
 ****************
 Use this tab to add links to process steps that has been changed or added.
 
-.. image:: read-links-tab.png
+.. image:: read-links-tab-borders.png
 
 The Recipients tab
 ******************
