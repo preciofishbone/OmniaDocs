@@ -7,7 +7,7 @@ Using the the option "Add Feedback" any user that has access to a published proc
 
 The user types a title, selects type of feedback: Improvement, Deviation or Risk, adds a text and can even attach files:
 
-.. image:: qms-feedback-add.png
+.. image:: qms-feedback-add-border.png
 
 When a process is edited, all feedback is available on the "Deviation/Improvement" tab:
 
