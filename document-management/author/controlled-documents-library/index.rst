@@ -233,13 +233,13 @@ You can click the dust bin to delete the feedback when you have read it, or keep
 
 Read Receipt Status
 -------------------
-When a document is published, the author can choose to send a notification to some users, and when doing so, can also choose to receive read receipts, to make sure the notification has reached them. The check Read Receipts for a document:
+When a document is published, the author can choose to send a notification to some users, and when doing so, can also choose to receive read receipts, to make sure the notification has reached them. To check Read Receipts for a document:
 
 1.	Click the dot menu for the document.
 2.	Select "Read Receipt status". 
 3. Select the edition to check.
 
-Now you can see a list of those you sent the notification to, there e-mail address and the status, read or not. It can look like this:
+Now you can see a list of those that has received a notification to, there e-mail address and the status, read or not. It can look like this:
 
 .. image:: read-receipt-status.png
  
