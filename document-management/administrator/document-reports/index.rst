@@ -1,7 +1,7 @@
 Document Reports
 ===========================
 
-Under Reports in Omnia Adnin you can click "Expired Reviews" to get a list of all Document Types with expired review intervals.
+Under Reports in Omnia Admin you can click "Expired Reviews" to get a list of all Document Types with expired review intervals.
 
 .. image:: odm-reports-new.png
 
