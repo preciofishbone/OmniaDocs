@@ -1,7 +1,7 @@
 Approval Workflow
 ===========================
 
-When a document has reached a final version, the document must be published, and, if approval is activated, be approved for publication, to be available for readers. The author then starts Approval Workflow by selecting "Publish".
+When a document has reached a final version, the document must be published, and, if approval is activated, be approved for publication, to be available for readers. The author then starts an Approval Workflow by selecting "Publish".
 
 .. image:: select-publish.png
 
