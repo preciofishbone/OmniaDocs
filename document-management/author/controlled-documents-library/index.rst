@@ -69,7 +69,7 @@ Here you can set the following:
 Creating a draft document
 **************************
 When adding documents to a Controlled Documents library the author can either create a new draft or upload a document. If it’s a Controlled Document the author will actually work with here, a document should normally be created from scratch. 
-If it’s a document that will be uses as it is, for example as an appendice, it makes more sense to upload a document.
+If it’s a document that will be used as it is, for example as an appendice, it makes more sense to upload the document.
 
 Creating a new draft document
 ----------------------------------
