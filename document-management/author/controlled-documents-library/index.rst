@@ -27,7 +27,7 @@ When a document is published (approved for publication) it is removed from Draft
 
 Most headings can be used to sort the list.
 
-What fields to display on each tab can be selected in the settings, se below, but note the follwing fields on the "Published" tab:
+What fields to display on each tab can be selected in the settings, se below, but note the following fields on the "Published" tab:
 
 + **Status**: You can see this column on the Drafts tab as well. On the Published tab, status can either be Published or Unpublished.
 + **Document Id**: The first time a Controlled Document is published, it’s assigned a Document Id. This id is then the same through all published editions.
