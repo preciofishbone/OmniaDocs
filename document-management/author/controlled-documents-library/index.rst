@@ -170,7 +170,7 @@ To create a new draft of a published document, do the following:
 2.	Click the dot menu for the document.
 3.	Select "Create Draft".
 
-.. image:: create-new-draft-1.png
+.. image:: create-new-draft-1-border.png
 
 The new draft is created and the "Drafts" tab is automatically activated. The work on the new draft is done exactly as the first time, that a dokcument has been published before does not makes no difference.
 
