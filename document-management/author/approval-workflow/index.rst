@@ -32,7 +32,7 @@ The task can look like this:
 
 .. image:: approval-task.png
  
-The approver automatically has read access to the document (note! Read access only), until the task is completed. If Omnia Intranet is used, the approver is also notified in the notification panel, about the new task, and can choose to open the task from there. 
+The approver automatically has read access to the document (Note! Read access only), until the task is completed. If Omnia Intranet is used, the approver is also notified in the notification panel, about the new task, and can choose to open the task from there. 
 
 The workflow will be active until the task is completed and the document will be locked for editing during that time.
 
