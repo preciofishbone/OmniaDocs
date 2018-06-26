@@ -172,19 +172,19 @@ To create a new draft of a published document, do the following:
 
 .. image:: create-new-draft-1-border.png
 
-The new draft is created and the "Drafts" tab is automatically activated. The work on the new draft is done exactly as the first time, that a dokcument has been published before does not makes no difference.
+The new draft is created and the "Drafts" tab is automatically activated. The work on the new draft is done exactly as the first time. That a dokcument has been published before does not make any difference.
 
-**Note!** There can be only one draft of a given document. If there already is a draft for the document and an author tries to create another on, a message is shown. 
+**Note!** There can be only one draft of a given document. If there already is a draft for the document and an author tries to create another on, a message is shown stating that it's not possible. 
  
 New draft and templates
 -------------------------
 If there is a new version of the template used for the document, the author will be notified and can choose to use the new version of the template, or stick to the old one.
 
-A special case is when a new draft is created from a Word or Excel document that was uploaded rather than created from scratch. When a new draft for a second edition is created, the template can be altered (or rather selected). But using a  template for an uploaded document is never mandatory, the document can always be used as is.
+A special case is when a new draft is created from a Word or Excel document that was uploaded rather than created from scratch. When a new draft for a second edition is created, the template can be altered (or rather selected). But using a template for an uploaded document is never mandatory, the document can always be used as is.
 
-When selecting a template for an uploaded dopcument, it’s always a good idea to use the preview to make sure the selected template actually works for the document.
+When selecting a template for an uploaded document, it’s always a good idea to use the preview to make sure the selected template actually works for the document.
 
 If a template is selected, this document is from now on related to the template the same way as when a new document is created from scratch on the "Drafts" tab.
 
-Evene if a template is not selected for the second edition, the author get a new chance the next time a new draft is created.
+Even if a template is not selected for the second edition, the author gets a new chance the next time a new draft is created.
 
