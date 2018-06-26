@@ -18,7 +18,7 @@ When the author publishes a document, something like the following is shown:
 
 Exactly which options are available here depends on a a number of settings. These shown in the image are the most common.
 
-+ **Approver**: The author selects one approver from the list. Available approvers depends on various settiings and how the system si set up.
++ **Approver**: The author selects one approver from the list. Available approvers depends on various settings and how the system is set up.
 + **Approval Due Date**: Here the author adds a date when the approval should be made, at the latest. This is just information for the approvers. The Approval workflow is not stopped if this date is passed.
 + **Read rights**: The default selection is to use the Default Readers Group from the site’s permissions. If needed, the author can click "Show members" to see the permissions. A site administrator (owner) can edit the default read rights. If, for some reason, the Read Rights for this particular document should be different, the author can select "Limit Read Access", and enter the names of the readers, or any group memberships, for example AD groups.
 + **Convert DOCX to PDF**: An administrator can set how this will work, in Omnia Adm, and it can be different for each Document Type – it can be available or not available. Conversion to PDF is only available for docx documents.
