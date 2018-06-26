@@ -176,7 +176,7 @@ The new draft is created and the "Drafts" tab is automatically activated. The wo
 
 **Note!** There can be only one draft of a given document. If there already is a draft for the document and an author tries to create another on, a message is shown stating that it's not possible. 
  
-New draft and templates
+New drafts and templates
 -------------------------
 If there is a new version of the template used for the document, the author will be notified and can choose to use the new version of the template, or stick to the old one.
 
@@ -187,4 +187,77 @@ When selecting a template for an uploaded document, it’s always a good idea to
 If a template is selected, this document is from now on related to the template the same way as when a new document is created from scratch on the "Drafts" tab.
 
 Even if a template is not selected for the second edition, the author gets a new chance the next time a new draft is created.
+
+More useful Options for a published document
+********************************************
+There are some more useful options for a published document, you can for example check the Properties, see the Document History, see Feedback that users has sent, check Read Recipt status and Move a document.
+
+Checking a documents properties
+-----------------------
+The properties for a published document can be checked this way:
+
+1.	Click the dot menu for the document.
+2.	Select "Properties".
+ 
+The Properties window for the document is shown, for example:
+
+.. image:: document-properties.png
+ 
+The properties can not be edited here. The properties can only be edited when working on a new edition of the document.
+
+Document History
+------------------
+There’s information about each published edition available. To see it, do the following:
+
+1.	Click the dot menu for the document.
+2.	Select "Document History".
+ 
+Here’s an example:
+
+.. image:: document-history.png
+ 
+You can see the publication date for each edition, the author’s comment, if any, and who the document was approved by. The option "Workflow History" for an edition will show information about when workflows was used and the comments entered during the workflows, so here you can even see information from Send for Comments workflows used for the document.
+
+Check Feedback
+--------------
+Any user can send feedback on a published document and that feedback is available for authors here. The read feedback for a document:
+
+1.	Click the dot menu for the document.
+2.	Select "Feedback".
+ 
+The feedback posts for the document is shown, here’s an example:
+
+.. image:: read-feedback.png
+ 
+You can click the dust bin to delete the feedback when you have read it, or keep it for later reference, it’ sup to you.
+
+Read Receipt Status
+-------------------
+When a document is published, the author can choose to send a notification to some users, and when doing so, can also choose to receive read receipts, to make sure the notification has reached them. The check Read Receipts for a document:
+
+1.	Click the dot menu for the document.
+2.	Select "Read Receipt status". 
+3. Select the edition to check.
+
+Now you can see a list of those you sent the notification to, there e-mail address and the status, read or not. It can look like this:
+
+.. image:: read-receipt-status.png
+ 
+A green dot means that the recipient has read the message, a red that he or she has not.
+
+Move a document
+----------------
+A published document can be moved to any other site with a Controlled Documents library. If a draft for a new edition of the document is present, the draft must first be deleted.
+
+**Note!** You must first check and note the URL to the site you want to move the document to.
+
+1.	Click the dot menu for the document.
+2.	Select "Move Document".
+ 
+The following is shown:
+
+.. image:: move-document.png
+ 
+3.	Type the URL to the site in the top field and click Resolve. If the URL is correct the site title is shown in the second field.
+4.	Click "Move".
 
