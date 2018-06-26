@@ -93,7 +93,7 @@ Metadata can also, in some cases, be used as a filter for document lists, to mak
 
 A "tag" icon to the right in a field always indicates that it is a managed metadata field, for example:
 
-.. image:: new-draft-4.png
+.. image:: new-draft-4-border.png
 
 When the properties has beedn entered and the author clicks "Save", the the editing program (for example Microsoft Word for Word files) starts with the chosen document layout. Text and so on is entered normal way. 
 
