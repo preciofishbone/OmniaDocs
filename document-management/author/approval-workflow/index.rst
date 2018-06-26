@@ -40,5 +40,5 @@ Approved or Rejected
 ********************
 If the document is approved for publication, it’s now available for readers. The author will receive an e-mail stating that.
 
-If it’s rejected, there’s some changes the approver would like the author to do. The author will receive an e-mail stating that the document was rejected and the e-mail also contains a message from the approver. After changes has been made the changes, the author starts a new Approval Workflow the same way as before.
+If it’s rejected, there’s some changes the approver would like the author to do. The author will receive an e-mail stating that the document was rejected and a message from the approver. After changes has been made, the author starts a new Approval Workflow the same way as before.
 
