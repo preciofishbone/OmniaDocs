@@ -24,7 +24,7 @@ Exactly which options are available here depends on a a number of settings. Thes
 + **Convert DOCX to PDF**: An administrator can set how this will work, in Omnia Adm, and it can be different for each Document Type – it can be available or not available. Conversion to PDF is only available for docx documents.
 + **Notify people**: The author can use this option to notify certain people or groups about the new edition of the document. The notification is sent when the document is approved.
 
-When the author clicks Send, a task is created for the approver, and an e-mail is sent, with a link to the document. Here’s an example:
+When the author clicks "Send", a task is created for the approver, and an e-mail is sent, with a link to the document. Here’s an example:
 
 .. image:: approval-sent.png
  
