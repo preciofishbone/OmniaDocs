@@ -1,7 +1,7 @@
 Document Profiles
 ===========================
 
-Here you can set up as many document profiles as you need, in the different languages you're using. A document profile has a specific set of properties, and has one or more defined document layouts.If you just have need of one, edit the name, set properties and select layout for the default document profile.  
+Here you can set up as many document profiles as you need, in the different languages you're using. A document profile has a specific set of properties, and has one or more defined document layouts. If you just have need of one, edit the name, set properties and select layout for the default document profile.  
 
 Document profiles are used for Document Types. You select one Document Profile for each Document Type and select which Document Layout to use, from the list defined for the Document Profile.
 
