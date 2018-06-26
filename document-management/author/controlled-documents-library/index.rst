@@ -101,6 +101,58 @@ When the properties has been entered and the author clicks "Save", the editing p
 
 Uploading documents
 --------------------
+An alternative is to upload an existing document, but normally it should be used just for documents that will be used as they are, but will still be handled as Controlled Documents, for example with approval before publishing.
+
+A Document Type has to be selected for an uploaded document and the document has to be tagged with the required metadata, but the template for the Document Type is not used for the first edition of the document, the document will be used with the exeisting template (of any). 
+
+To select Document Type and add metadata, use the option "Properties" in the document's menu, after the document has been uplodade.
+
+To upload documents to use as appendices is a different process, see below.
+
+Upload Appendices
+------------------
+To upload documents to use as appendices to another document, the main Upload option should not be used. Here’s how:
+
+1.	Open the dot menu for the document to add appendices to, and select "Appendices".
+2.	Click "Upload" in the window shown.
+
+.. image:: upload-appendices-1.png
+ 
+3.	Drag and drop one or more documents to the upload window.
+4.	Click "Upload Files" to start the upload.
+ 
+When the upload is finished you can see the file(s) in the Appendices list for the document, for example:
+
+.. image:: upload-appendices-2.png
+ 
+"Edit" can be used to edit the content of the appendix, if the file format is editable. "Rename" can be used to change the document's name. Use "Delete" to remove an appendix from this list.
+
+Appendices can be added to this list continuously up to publication of the document. If appendices needs to be removed or added for a published document, a new edition of the document must be published.
+
+**Note!** An appendix uploaded as shown above will not be visible in the Drafts list, but will only exist as a part of the main document. When a document with appendices is published, both the main document and the appendices are approved in one go. The appendices does not have to be approved separately (but also see below).
+
+Published document as Appendice
+--------------------------------
+Another option is to add a copy of a published document as an appendice. It must be a document that is published from this Controlled Documents library.
+
+**Note!** In this case it is a copy of a document that will be added. There is no link between the published document and the copy, so if a new edition of the Appendice document is published, the copy used as an appendix is NOT updated.
+
+1.	Open the dot menu for the document where you want to add appendices, and select "Appendices".
+2.	Click "Copy from other Document" in the window shown.
+
+.. image:: upload-appendices-3.png
+ 
+3.	Search for the document. 
+4.	Select the documents to add (a copy of) as appendices and click "Copy", for example:
+
+.. image:: upload-appendices-4.png
+ 
+The documents added to the Appendices list this way is handled exactly the same way as a document uploaded as an appendix, see above. (And remember that it is a copy of the original document.)
+
+If the Appendices column is shown, the number of appendices for a document, if any, i shown there, for example:
+
+.. image:: upload-appendices-5.png
+ 
 
 
 
