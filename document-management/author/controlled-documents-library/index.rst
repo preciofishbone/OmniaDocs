@@ -25,7 +25,7 @@ In the Controlled Documents library, authors can find three tabs:
 
 When a document is published (approved for publication) it is removed from Drafts and is available on the "Published" tab. Here the options for creating a new draft, unpublishing and Document History are available.
 
-You can use most headings to sort the list.
+Most headings can be used to sort the list.
 
 Settings for the Controlled Documents library
 **********************************************
