@@ -249,7 +249,7 @@ Move a document
 ----------------
 A published document can be moved to any other site with a Controlled Documents library. If a draft for a new edition of the document is present, the draft must first be deleted.
 
-**Note!** You must first check and note the URL to the site you want to move the document to.
+**Note!** You must first check and note (or copy) the URL to the site you want to move the document to.
 
 1.	Click the dot menu for the document.
 2.	Select "Move Document".
@@ -258,6 +258,6 @@ The following is shown:
 
 .. image:: move-document.png
  
-3.	Type the URL to the site in the top field and click Resolve. If the URL is correct the site title is shown in the second field.
+3.	Type the URL (or paste, if you have copied it) to the site in the top field and click "Resolve". If the URL is correct the site title is shown in the second field.
 4.	Click "Move".
 
