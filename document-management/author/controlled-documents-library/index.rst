@@ -19,7 +19,7 @@ In the Controlled Documents library, authors can find three tabs:
 
 .. image:: controlled-documents-library-new.png
 
-"Drafts" is used when creating and editing drafts for new Controlled Documents or when updating an existing document for a new edition.
+"Drafts" is used when creating and editing drafts for new Controlled Documents or when updating an existing document for a new edition. Note that there are several options available for creating a new draft document, see below.
 
 "Tasks" is a list of tasks for the documents – either for review or for publication – both active and finished.
 
@@ -65,4 +65,44 @@ Here you can set the following:
 + **Sort Direction**: Select Descending or Ascending for the default column selected above.
 + **Show Search Box**: If authors should be able to search for documents in the Published list, select this option.
 + **Select the columns .....**: Check the columns to display in the Published list, and uncheck columns you don't want to display. (But note that the some columns can't be unchecked, they are mandatory.)
+
+Creating a draft document
+**************************
+When adding documents to a Controlled Documents library the author can either create a new draft or upload a document. If it’s a Controlled Document the author will actually work with here, a document should normally be created from scratch. 
+If it’s a document that will be uses as it is, for example as an appendice, it makes more sense to upload a document.
+
+Creating a new draft document
+----------------------------------
+When creating a new draft document from scratch, the first step is to select language and a Document Type:
+
+.. image:: new-draft-1.png
+
+The Document Types are set upp in Omnia Admin.
+
+One or more Document Templates are available for a Document Type. If more than one available, the next step is to select template.
+
+.. image:: new-draft-2.png
+
+The next step is to enter information for the document’s properties (metadata). What that will look like depends on the Document Type. Here’s an example:
+
+.. image:: new-draft-3.png
+
+A number of mandatory fields can be present, marked with an asterisk (*). All mandatory fields must be filled in, or the document can  not be publish, but it does not have be now.
+
+Metadata can also, in some cases, be used as a filter for document lists, to make Controlled Documents available for users, when they are published. Besides that, available approvers can depend on the metadata added. It’s always very important information in metadata fields are added thoroughly.
+
+A "tag" icon to the right in a field always indicates that it is a managed metadata field, for example:
+
+.. image:: new-draft-4.png
+
+When the properties has beedn entered and the author clicks "Save", the the editing program (for example Microsoft Word for Word files) starts with the chosen document layout. Text and so on is entered normal way. 
+
+**Note!** Metadata fields visible in the document, displayed within double brackets, should not be used in the editing process. Information will be added to these fields when the document is published.
+
+Uploading documents
+--------------------
+
+
+
+
 
