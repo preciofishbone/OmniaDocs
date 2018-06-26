@@ -101,17 +101,17 @@ When the properties has been entered and the author clicks "Save", the editing p
 
 Uploading documents
 --------------------
-An alternative is to upload an existing document, but normally it should be used just for documents that will be used as they are, but will still be handled as Controlled Documents, for example with approval before publishing.
+An alternative is to upload an existing document, but normally it should be used just for documents that will be added as they are, but will still be handled as Controlled Documents, for example with approval before publishing.
 
-A Document Type has to be selected for an uploaded document and the document has to be tagged with the required metadata, but the template for the Document Type is not used for the first edition of the document, the document will be used with the exeisting template (of any). 
+A Document Type has to be selected for an uploaded document and the document has to be tagged with the required metadata, or he document can't be published.
+
+The template for the Document Type is not used for the first edition of the document, the document will be used with the exeisting template (of any). The next time a draft is created for an uploaded document, the template can be altered, if needed.
 
 To select Document Type and add metadata, use the option "Properties" in the document's menu, after the document has been uplodade.
 
-To upload documents to use as appendices is a different process, see below.
-
 Upload Appendices
 ------------------
-To upload documents to use as appendices to another document, the main Upload option should not be used. Here’s how:
+To upload documents to use as appendices to another document, the main Upload option does not have be used. 
 
 1.	Open the dot menu for the document to add appendices to, and select "Appendices".
 2.	Click "Upload" in the window shown.
@@ -121,7 +121,7 @@ To upload documents to use as appendices to another document, the main Upload op
 3.	Drag and drop one or more documents to the upload window.
 4.	Click "Upload Files" to start the upload.
  
-When the upload is finished you can see the file(s) in the Appendices list for the document, for example:
+When the upload is finished the file(s) is visible in the Appendices list for the document, for example:
 
 .. image:: upload-appendices-2.png
  
@@ -131,9 +131,9 @@ Appendices can be added to this list continuously up to publication of the docum
 
 **Note!** An appendix uploaded as shown above will not be visible in the Drafts list, but will only exist as a part of the main document. When a document with appendices is published, both the main document and the appendices are approved in one go. The appendices does not have to be approved separately (but also see below).
 
-Published document as Appendice
---------------------------------
-Another option is to add a copy of a published document as an appendice. It must be a document that is published from this Controlled Documents library.
+Published documents as Appendices
+-----------------------------------
+Another option is to add a copy of a published document as an Appendice. It must be a document that is published in this Controlled Documents library.
 
 **Note!** In this case it is a copy of a document that will be added. There is no link between the published document and the copy, so if a new edition of the Appendice document is published, the copy used as an appendix is NOT updated.
 
@@ -149,7 +149,7 @@ Another option is to add a copy of a published document as an appendice. It must
  
 The documents added to the Appendices list this way is handled exactly the same way as a document uploaded as an appendix, see above. (And remember that it is a copy of the original document.)
 
-If the Appendices column is shown, the number of appendices for a document, if any, i shown there, for example:
+If the Appendices column is shown on the Drafts tab, the number of appendices for a document, if any, is shown there, for example:
 
 .. image:: upload-appendices-5.png
  
