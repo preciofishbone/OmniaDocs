@@ -14,7 +14,7 @@ Document profiles inherit properties from it's "parents", but you can change sta
 
 You can even group Document Profiles.
 
-.. image:: document-profiles-2.png
+.. image:: document-profiles-2-border.png
 
 1. To create a sub profile, select the profile and click the plus.
 
