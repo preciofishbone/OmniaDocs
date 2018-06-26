@@ -9,5 +9,5 @@ Here's an example of a report:
 
 .. image:: odm-reports-example.png
 
-If you would like to have a closer look at a document, just the click the link to open the document.
+If you would like to have a closer look at a document, just click the link to open the document.
 
