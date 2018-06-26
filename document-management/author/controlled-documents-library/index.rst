@@ -52,7 +52,7 @@ Here you can set the following:
 
 + **Default Sort Order**: Select the column for default sort order for the list.
 + **Sort Direction**: Select Descending or Ascending for the default column selected above.
-+ **Show Search Box** If authors should be able to search for drafts here, select this option.
++ **Show Search Box**: If authors should be able to search for drafts here, select this option.
 + **Select the columns .....**: Check the columns to display in the Drafts list, and uncheck columns you don't want to display. (But note that the some columns can't be unchecked, they're mandatory.)
 
 The Published tab
