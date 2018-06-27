@@ -56,13 +56,16 @@ The General tab
 --------------------
 Use the fields on this tab the following way:  
 
-.. image:: doctype-generaltab-new.png 
+.. image:: document-type-general-new.png 
 
 + **Language**: Select language for documents from this Document Type.
 + **Name**: The name is displayed when the author selects Document Type to create, so make sure it’s understandable.
 + **Document Profile**: Select a Document Profile.
 + **Document Templates**: Select one of the templates defined for the profile you have chosen. You must always do that even if there’s just one template.
++ **Default Document Template**: Use this option to select one of the templates for this Document Type as the default template. When selecting the Document Type, the author then has this template pre selected.
 + **Allow appendices**: Check this option to allow for appendices. Authors can then tie other documents as appendices to the main documents. This option must be checked to make it possible for this document type.
++ **Allow to be used as template**: (A description will be added soon).
++ **Allow Connect to template**: (A description will be added soon.)
 + **Unique id**: Created by the system.
 + **Enabled**: When selected, this Document Type will be available for authors.
 
