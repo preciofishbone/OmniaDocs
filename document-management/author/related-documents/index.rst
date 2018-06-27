@@ -20,9 +20,9 @@ Then a search for documents to relate to can be conducted. Here’s an example:
 
 .. image:: relate-documents-search.png
  
-"More" info can be used to see a document’s properties. Click the plus to create a relation to a document. Click the triangle at the bottom by 1-10, to go to the next serach page.
+"More" info can be used to see a document’s properties. Click the plus to create a relation to a document. Click the triangle at the bottom by 1-10, to go to the next search page.
 
-Any number of documents in the search result can be related to, and a new search can be conducted to relate to even more documents, if needed. The related document(s) is shown at the top, for example:
+Any number of documents in the search result can be related to, and a new search can be conducted to relate to even more documents, if needed. The related document(s) are shown at the top, for example:
 
 .. image:: documents-related.png
  
