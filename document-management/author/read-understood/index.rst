@@ -20,7 +20,7 @@ Read Receipt Status can be checked for a document on the "Published" tab, this w
 2.	Select "Read Receipt status". 
 3. Select the edition to check.
 
-A list of those that has received a notification with read receipt request is now displayed, there e-mail address and the status are shown, read or not. It can look like this:
+A list of those that has received a notification with read receipt request is now displayed, there e-mail address and the status are shown. It can look like this:
 
 .. image:: read-receipt-status.png
  
