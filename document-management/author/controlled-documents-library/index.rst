@@ -190,7 +190,7 @@ Even if a template is not selected for the second edition, the author gets a new
 
 More useful Options for a published document
 ********************************************
-There are some more useful options for a published document, you can for example check the Properties, see the Document History, see Feedback that users has sent, check Read Recipt status and Move a document.
+There are some more useful options for a published document, you can for example check the Properties, see the Document History, see Feedback that users has sent and Move a document.
 
 Checking a documents properties
 -----------------------
@@ -230,20 +230,6 @@ The feedback posts for the document is shown, here’s an example:
 .. image:: read-feedback.png
  
 You can click the dust bin to delete the feedback when you have read it, or keep it for later reference, it’ sup to you.
-
-Read Receipt Status
--------------------
-When a document is published, the author can choose to send a notification to some users, and when doing so, can also choose to receive read receipts, to make sure the notification has reached them. To check Read Receipts for a document:
-
-1.	Click the dot menu for the document.
-2.	Select "Read Receipt status". 
-3. Select the edition to check.
-
-Now you can see a list of those that has received a notification to, there e-mail address and the status, read or not. It can look like this:
-
-.. image:: read-receipt-status.png
- 
-A green dot means that the recipient has read the message, a red that he or she has not.
 
 Move a document
 ----------------
