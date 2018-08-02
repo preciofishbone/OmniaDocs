@@ -46,7 +46,7 @@ Here's how to add a web part to a legacy page:
 
 1. Go to the page.
 2. Edit the page in advanced mode.
-3. Add the web part to a suitable web part zone. The web part is called "Banner" and is found in the "Omnia" Category.
+3. Add the web part to a suitable web part zone. The web part is found in the "Omnia" Category.
 4. Check in the page. (You must do that to be able to access the settings.)
 
 Here's how to add a block to a Quick Page:
@@ -54,6 +54,6 @@ Here's how to add a block to a Quick Page:
 1. Go to the page.
 2. Open the administraton menu and select "Edit page".
 3. Open the list of blocks.
-4. Use drag and drop to add the block to a suitable area. The block is called "Banner" and is found under Omnia.Intranet.
+4. Use drag and drop to add the block to a suitable area. 
 
 To access the settings for the control, see above.
