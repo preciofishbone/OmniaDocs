@@ -52,7 +52,7 @@ On this tab you can set the following:
 
 .. image:: my-site-settings-2-new.png
 
-+ **Label**: Here you can set the label for "Create new site" so something else.
++ **Label**: Here you can set the label for "Create new site" to something else.
 + **Site Template Group**: Type the name of the template group to be used for creating new sites here, if you use more than one group. The template groups are set up in Omnia Admin when creating or editing site templates.
 + **Link**: (A description will be added soon.)
 
@@ -68,11 +68,13 @@ My sites can also be added to any legacy page as a web part and as a block to a 
 
 In this case the following settings are available:
 
-.. image:: my-sites-block.png
+.. image:: my-sites-blocknew.png
 
 + **Heading**: You can change the heading that is displayed for the control.
 + **Query type**: Select to display either "Following" or "Latest visited".
 + **Row Limit**: The maximum number of rows to display before a "Show more" link appears.
++ **Open in New Window**: Select to open in new window or not when a link (site) is clicked.
++ **Use Letter Avatar**: Select to use a Letter Avatar or not. See above for examples. In the image at the top of the page letter avatars are not used. The third image is an example when avatars are on.
 + **Visible** Set when the control will be visible; always, withing a maximum width or within a minimum width.
 + **Custom colors**: You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set colors for header and icons on this tab.
 
