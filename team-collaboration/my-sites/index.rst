@@ -53,8 +53,8 @@ On this tab you can set the following:
 .. image:: my-site-settings-2-new.png
 
 + **Label**: Here you can set the label for "Create new site" so something else.
-+ **Site Template Group**: Select the template group to be used for creating new sites here.
-+ **Link**: ????????
++ **Site Template Group**: Type the name of the template group to be used for creating new sites here, if you use more than one group. The template groups are set up in Omnia Admin when creating or editing site templates.
++ **Link**: (A description will be added soon.)
 
 The Custom colors tab
 -----------------------
