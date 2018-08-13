@@ -55,8 +55,7 @@ The following can be set on this tab:
 + **User can change privacy**: This option is available for Office 365 Groups only. When active, the user creating the group can change privacy. If not active, all Office 365 Groups will have the privacy setting you set here.
 + **Unique Permissions**: Only available for sub sites. Check if permission inheritance should not be on for sub sites created from this template.
 
-See this page for more information on how to use Template Group: 
-[My Sites](/Docs/en-us/omnia-foundation-controls/my-sites/index.html)
+See this page for more information on how to use Template Group: (Will be added soon.)
 
 The Features tab
 -----------------
@@ -64,11 +63,9 @@ Select all Omnia features that should be active for sites created from this temp
 
 Note that all features are not available for sub sites or Office 365 Groups. These features will be set on site collection level.
 
-See more information about the fetures in the section "Site Scoped Omnia Features" on this page:
-[Omnia Foundation Features](/Docs/en-us/omnia-admin/omnia-foundation-features/index.html)
+See more information about the fetures in the section "Site Scoped Omnia Features" on this page: (Will be added soon)
 
-And here:
-[Omnia Intranet Features](/Docs/en-us/omnia-intranet-features/index.html)
+And here: (will be added soon)
 
 The Properties tab
 -------------------
@@ -87,9 +84,7 @@ If changes for the properties are made in an existing site template, the changes
 
 **Note!** If a properties field is removed from a site template, all data for this field, in all sites created from the template, will be deleted.
 
-See these pages for more information on Site Directory and Site Quick Edit:
-[Site Directory](/Docs/en-us/omnia-foundation-controls/site-directory/index.html)
-[Site Quick Edit](/Docs/en-us/omnia-foundation-controls/site-quick-edit/index.html)
+See these pages for more information on Site Directory and Site Quick Edit: (will be added soon)
 
 Site requests
 ***************
