@@ -42,7 +42,7 @@ On the General tab you can select which tabs to display (All is always displayed
 + **Last visited**: Set the Row Limit, ie the number of site links to be displayed. Select the number of the displayed links to be highlighted (at the top).
 + **Member of**: Select order for the site links: Title or Last Visited.
 + **Open in New Window**: Select to open in new window or not when a link (site) is clicked.
-+ **Use Letter Avatar**: Select to use a Letter Avatar or not. In the image at the top of the page letter avatars are not used. Here's an example when they are:
++ **Use Letter Avatar**: Select to use Letter Avatars or not. In the image at the top of the page letter avatars are not used. Here's an example when they are:
 
 .. image:: avatar-on.png
 
@@ -74,9 +74,9 @@ In this case the following settings are available:
 + **Query type**: Select to display either "Following" or "Latest visited".
 + **Row Limit**: The maximum number of rows to display before a "Show more" link appears.
 + **Open in New Window**: Select to open in new window or not when a link (site) is clicked.
-+ **Use Letter Avatar**: Select to use a Letter Avatar or not. See above for examples. In the image at the top of the page letter avatars are not used. The third image is an example when avatars are on.
++ **Use Letter Avatar**: Select to use Letter Avatars or not. See above for examples. In the image at the top of the page letter avatars are not used. The third image is an example when avatars are on.
 + **Visible** Set when the control will be visible; always, withing a maximum width or within a minimum width.
-+ **Custom colors**: You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set colors for header and icons on this tab.
++ **Custom colors**: You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set colors on this tab.
 
 My Sites Mobile Navigation
 ***************************
