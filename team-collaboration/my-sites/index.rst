@@ -42,7 +42,7 @@ On the General tab you can select which tabs to display (All is always displayed
 + **Last visited**: Set the Row Limit, ie the number of site links to be displayed. Select the number of the displayed links to be highlighted (at the top).
 + **Member of**: Select order for the site links: Title or Last Visited.
 + **Open in new Window**: Select to open in new window or not when a link is clicked.
-+ **Use Letter Avatar**: Select to use a Letter Avatar or not. In the image at the top of the page letter avatars are not used. Here's an example when it is:
++ **Use Letter Avatar**: Select to use a Letter Avatar or not. In the image at the top of the page letter avatars are not used. Here's an example when they are:
 
 .. image:: avatar-on.png
 
