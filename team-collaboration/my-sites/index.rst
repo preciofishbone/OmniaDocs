@@ -5,7 +5,7 @@ The My sites control makes it possible for the end user to navigate to all sites
 
 .. image:: my-sites-b.png
 
-The My sites quick search makes it possible for the end user to find sites, that the user has access to, based on any of the following base templates:
+Using the My sites quick search the user can find sites that the user has access to, based on any of the following base templates:
 
 + Team Site (STS#0)
 + Document Workspace (STS#2)
@@ -18,16 +18,15 @@ Four tabs can be available in the control:
 
 + **FOLLOWING**: Lists all sites that the user are following.
 + **LAST VISITED**: Lists the sites the user has visited recently.
-+ **MEMBER OF**: Lists all sites the user is member of (has member access to).
++ **MEMBER OF**: Lists all sites the user is member of (has member access or owner access to).
 + **ALL**: Can be used to serch for any site, available for the user.
 
-The user can follow a site by clicking the "Follow site" icon, the plus, in the search result or the Last visited or Member of lists. 
-The user can stop following a site by clicking the "Stop following site" icon, the minus, in any of the lists. 
+The user can follow a site by clicking the "Follow" icon, the grey star, in the search result or the Last visited or Member of lists. The user can stop following a site by clicking the "Stop following" icon, the black star, in any of the lists. 
 
 Two things will happen when a user follows a site:
 
 + The site will be available as a quick link in the "Follwing" list in the My sites control.
-+ Any conversations in the newsfeed on the site will be available in the user feed on the start page, in the "Following" tab.
++ Any conversations in the newsfeed on the site will be available in the user feed on the start page.
 
 Settings for the control
 *************************
