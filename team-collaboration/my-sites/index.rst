@@ -32,7 +32,7 @@ Settings for the control
 *************************
 The following settings are available for the My Sites control:
 
-.. image:: my-sites-settings-new.png
+.. image:: my-sites-settings-new2.png
 
 The General tab
 ---------------
@@ -46,7 +46,7 @@ The Site Creation Settings tab
 -------------------------------
 On this tab you can set the following:
 
-.. image:: my-site-settings-2.png
+.. image:: my-site-settings-2-new.png
 
 Here you can set the link Label for creating news sites.
 
@@ -54,7 +54,7 @@ The Custom colors tab
 -----------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set colors for header and icons.
 
-.. image:: my-sites-settings-colors-b.png
+.. image:: my-sites-settings-colors-c.png
 
 My Sites Web Part/block
 ************************
