@@ -21,7 +21,7 @@ Four tabs can be available in the control:
 + **MEMBER OF**: Lists all sites the user is member of (has member access or owner access to).
 + **ALL**: Can be used to serch for any site, available for the user.
 
-The user can follow a site by clicking the "Follow" icon, the grey star, in the search result or the Last visited or Member of lists. The user can stop following a site by clicking the "Stop following" icon, the black star, in any of the lists. 
+The user can follow or unfollow a site by clicking the star, in the search result or the Last visited or Member of lists. A grey star indicates that the site is not followed and a black or colored star indicates that the user follows the site. 
 
 Two things will happen when a user follows a site:
 
@@ -30,7 +30,7 @@ Two things will happen when a user follows a site:
 
 Settings for the control
 *************************
-The following settings is available for the My Sites control:
+The following settings are available for the My Sites control:
 
 .. image:: my-sites-settings-new.png
 
