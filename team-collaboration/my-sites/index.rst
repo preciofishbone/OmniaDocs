@@ -52,11 +52,13 @@ On this tab you can set the following:
 
 .. image:: my-site-settings-2-new.png
 
-Here you can set the link Label for creating news sites.
++ **Label**: Here you can set the label for "Create new site" so something else.
++ **Site Template Group**: Select the template group to be used for creating new sites here.
++ **Link**: ????????
 
 The Custom colors tab
 -----------------------
-You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set colors for header and icons.
+You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set colors for the icons (the star) here.
 
 .. image:: my-sites-settings-colors-c.png
 
