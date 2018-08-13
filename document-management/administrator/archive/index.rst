@@ -16,10 +16,6 @@ You can search for documents and sort the list on the headings, to make it easie
 
 .. image:: archive-icon.png
  
-Here's an example of the information that can be shown:
-
-.. image:: (New pic!)
-
 Note that you can view the Document History by clicking the link here. In the Document History, you can for examnple exact times for publication and comments added by the author during publication.
 
 .. image:: archive-icon-dochistory.png
