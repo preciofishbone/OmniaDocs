@@ -96,6 +96,6 @@ The Custom Colors tab
 --------------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-.. image:: quick-poll-colors.png)
+.. image:: quick-poll-colors.png
 
 
