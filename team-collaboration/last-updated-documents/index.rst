@@ -9,8 +9,6 @@ Latest Documents is often displayed in the Notification Panel, for example:
 
 .. image:: latestdocuments.png
 
-Settings for Latest Documents in the Notification Panel is set there, see: The Notification Panel (link)
-
 Latest Documents can also be added as a separate control. 
 
 Settings for the control
