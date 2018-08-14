@@ -40,7 +40,7 @@ Follow these steps to add a new calendar:
 
 1. Click "+ Add calendar".
 
-![Add Calendar](../../Images/aggregated-add-calendar-new.png)
+.. image:: aggregated-add-calendar-new.png
 
 You can now add calendars from the current site (default) or from any other site in the tenant.
 
@@ -72,7 +72,7 @@ Edit a calendar
 ****************
 If you have permissions to edit a calendar, you can do that by clicking the button in the control:
 
-..image:: aggregated-calendar-addevents.png
+.. image:: aggregated-calendar-addevents.png
 
 Select the calendar in the list and edit or add events as needed.
 
@@ -97,6 +97,4 @@ The Aggregated Calendar control is available in the Notification Panel. If the A
 Aggregated Calendar block and Web Part
 ***************************************
 The Aggregated Calendar control can also be added to a Quick Page as a block and to a legacy page as a web part.
-
-
 
