@@ -9,8 +9,6 @@ The end user can access the common links in the My Links control. The list conta
 
 .. image:: my-links-example.png
 
-More information about the My Links control is found here: [The My Links control]
-
 The Omnia Admin settings
 ************************
 The existing links are shown in the Common Links list, for example:
