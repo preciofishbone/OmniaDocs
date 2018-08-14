@@ -15,7 +15,7 @@ When the message has been read, the user can choose to close the message, if it 
 
 If the user does not actively close the message, the message is shown the full time the administrator has set.
 
-Important Announcements are administrated in [Omnia Admin](/Docs/en-us/omnia-intranet-admin/important-announcements/index.html).
+Important Announcements are administrated in Omnia Admin.
 
 Commenting Important Announcements
 *************************************
