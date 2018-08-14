@@ -55,17 +55,11 @@ The following can be set on this tab:
 + **User can change privacy**: This option is available for Office 365 Groups only. When active, the user creating the group can change privacy. If not active, all Office 365 Groups will have the privacy setting you set here.
 + **Unique Permissions**: Only available for sub sites. Check if permission inheritance should not be on for sub sites created from this template.
 
-See this page for more information on how to use Template Group: (Will be added soon.)
-
 The Features tab
 -----------------
 Select all Omnia features that should be active for sites created from this template. Note that some features are needed in order for notifications to work, for example "Omnia Team Site - Announcements".
 
 Note that all features are not available for sub sites or Office 365 Groups. These features will be set on site collection level.
-
-See more information about the fetures in the section "Site Scoped Omnia Features" on this page: (Will be added soon)
-
-And here: (will be added soon)
 
 The Properties tab
 -------------------
@@ -83,8 +77,6 @@ For each property you can set:
 If changes for the properties are made in an existing site template, the changes will be pushed to all existing sites created from the template. If there are many sites created from the template, this can take considerable time to execute. 
 
 **Note!** If a properties field is removed from a site template, all data for this field, in all sites created from the template, will be deleted.
-
-See these pages for more information on Site Directory and Site Quick Edit: (will be added soon)
 
 Site requests
 ***************
