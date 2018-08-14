@@ -22,7 +22,7 @@ If you would like to add a notification, you use Add Category. Follow these step
 2. Add a category title and select an icon from the Font Awesome library.
 3. Add one or more available view controls (installed in Omnia) from the list.
 4. You can sort the rendering order of the view controls using drag and drop. 
-5. Select notification type: Automatic or Custom. Automatic can be used on all Omnia view controls. This means that the notification count on the category will be calculated based on the result in the view. A custom notification service can be used for legacy web parts or view controls that require specific business logic. Note! If "Custom" is selected, a notification service url needs to be provided (Example: User feed notification url: https://pfp-tc1.azurewebsites.net/api/social/following/new?dayLimit=30)
+5. Select notification type: Automatic or Custom. Automatic can be used on all Omnia view controls. This means that the notification count on the category will be calculated based on the result in the view. A custom notification service can be used for legacy web parts or view controls that require specific business logic.
 
 Edit Category
 -------------
