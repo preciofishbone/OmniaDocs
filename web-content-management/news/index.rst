@@ -10,3 +10,4 @@ News
    related-news/index
    scheduled-publishing/index
    important-announcements/index
+   setup/index
