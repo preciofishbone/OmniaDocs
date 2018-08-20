@@ -108,11 +108,11 @@ todo_include_todos = False
 
 rst_prolog = """
 .. raw:: html
-
-	
-	
-.. include:: /../common/authors.txt
 """
+	
+# Exluded authors.txt (JB 2018-08-20)	
+#.. include:: /../common/authors.txt
+#"""
 
 # -- Options for HTML output ----------------------------------------------
 
