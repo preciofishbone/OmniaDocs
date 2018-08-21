@@ -25,7 +25,7 @@ An important announcement can be tagged with a Type and a Status. When an import
 
 If comments are allowed for an announcement, which is default, you can read the comments by clicking the icon:
 
-.. image:: Important-announcements-comments-read.png
+.. image:: important-comments-read.png
 
 To comment the announcement, or another comment, yourself, you do that the normal way, as any other user would.
 
@@ -64,7 +64,7 @@ When you edit an Important Announcement of High priority you can choose to repub
 
 When you click "Save", the following is shown:
 
-.. image:: important-announcements-republish.png
+.. image:: important-announcements-republish-border.png
 
 To republish the announcement for all users, click "Yes".
 
