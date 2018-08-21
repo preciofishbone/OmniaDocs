@@ -39,7 +39,7 @@ Is a Type or a Status no longer needed? Just click the dust bin.
 
 For Types you can add a title and select an icon:
 
-.. image:: types.png
+.. image:: type.png
 
 For Status you can can do the same, ad a title and select an icon:
 
@@ -64,7 +64,7 @@ When you edit an Important Announcement of High priority you can choose to repub
 
 When you click "Save", the following is shown:
 
-.. image:: important-announcement-republish.png
+.. image:: important-announcements-republish.png
 
 To republish the announcement for all users, click "Yes".
 
@@ -76,10 +76,10 @@ To target an Important Announcement, do the following:
 
 1. Select "Target to".
 
-.. image:: important-announcement-target.png
+.. image:: important-announcements-target.png
 
 2. Open the list and select target.
 
-.. image:: important-announcement-targeted.png
+.. image:: important-announcements-targeted.png
 
 
