@@ -47,7 +47,7 @@ For Status you can can do the same, ad a title and select an icon:
 
 New Important Announcement
 ***************************
-To add a new Important Announcement, click the link "Add Important Announcement".
+To add a new Important Announcement, click the link "Add Important Announcement" and the following is shown:
 
 .. image:: new-important-announcements.png
 
