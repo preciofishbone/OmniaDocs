@@ -7,13 +7,15 @@ Note! The Announcements Control is based on the search engine in SharePoint. It 
 
 Announcements is often a part of the Notification Panel, for example:
 
-.. image:: announcements.png
+.. image:: important-announcements-notification-panel.png
 
-Announcements can also be added as a separate control. 
+Announcements can also be added as a separate control.
+
+Important announcements, the messages, is handled through Omnia Admin, see: 
 
 Settings for the control
 ************************
-The following settings are available for the control:
+When the Announcements control is added as a separat control, the following settings are available:
 
 .. image:: announcement-settings.png
 
