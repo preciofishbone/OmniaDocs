@@ -3,7 +3,7 @@ Important Announcements
 
 The Important Announcements control in the notifiation panel displays all current important announcements with Normal priority. The control has no settings.
 
-.. image:: important-announcements-nofication-panel-frame.png
+.. image:: important-announcements-notification-panel-frame.png
 
 High Priority Announcements
 *****************************
