@@ -1,6 +1,11 @@
 Quick Search
 ===========================
 
+.. toctree::
+   :titlesonly:
+
+   setup/index
+
 The Quick Search control makes it possible for the end user to search for content and people in the portal without going to the Enterprise Search Center. The Quick Search control is shown across all SharePoint sites in Omnia.
 
 The Quick Search settings are master page scoped. All sites using this master page will inherit the settings.
