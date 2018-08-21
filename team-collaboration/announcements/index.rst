@@ -11,11 +11,11 @@ Announcements is often a part of the Notification Panel, for example:
 
 Announcements can also be added as a separate control.
 
-Important announcements, the messages, is handled through Omnia Admin, see: 
+Important announcements, the messages, are created and edited through Omnia Admin, see: :doc:`Omnia Feature </web-content-management/news/important-announcements>`
 
 Settings for the control
 ************************
-When the Announcements control is added as a separat control, the following settings are available:
+When the Announcements control is added as a separate control, the following settings are available:
 
 .. image:: announcement-settings.png
 
