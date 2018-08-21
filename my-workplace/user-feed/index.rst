@@ -14,7 +14,7 @@ User Feed settings
 ******************
 The control has the following settings:
 
-.. image:: user-feed-general.png
+.. image:: user-feed-settings-new.png
 
 + **Title**: You can edit the title displayed for the list.
 + **Default height**: Set the default height in pixels. When there is more to display in the list, a "Show more" button is shown (see image at the top of the page).
