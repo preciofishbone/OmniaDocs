@@ -9,7 +9,7 @@ The settings
 -------------
 The following settings are availble:
 
-.. image:: cross-sites-settings.png
+.. image:: cross-sites-header-settings.png
 
 + **Background color**: The background color for the Cross Sites Heading is set here.
 + **Icon Color**: You can also set color for the icons.
