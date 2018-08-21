@@ -3,8 +3,6 @@ Announcements
 
 The Announcements Control aggregates the latest non expired announcements that the user has read access to. 
 
-Note! The Announcements Control is based on the search engine in SharePoint. It may take several minutes before an announcement created in a team site is shown on the start page.
-
 Announcements is often a part of the Notification Panel, for example:
 
 .. image:: important-announcements-notification-panel-frame.png
