@@ -7,7 +7,7 @@ Note! The Announcements Control is based on the search engine in SharePoint. It 
 
 Announcements is often a part of the Notification Panel, for example:
 
-.. image:: important-announcements-notification-panel.png
+.. image:: important-announcements-notification-panel-frame.png
 
 Announcements can also be added as a separate control.
 
