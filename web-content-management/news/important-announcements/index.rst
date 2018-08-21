@@ -52,10 +52,10 @@ To add a new Important Announcement, click the link "Add Important Announcement"
 .. image:: new-important-announcements.png
 
 1. Add a Title and a Description.
-2. Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages. Important Announcements with Normal priority will be displayed in the notification panel.
+2. Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages. Important Announcements with Normal priority will be displayed in the notification panel, and/or in the separate control, if that is added.
 3. Set the order for this Imortant Announcement when there are several displayed.
 4. Set the start and end date of the Important Announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.
-5. Decide to allow comments or not. The default is to allow comments. If allowed, users can add comments, and even comment other comments (and so can you ofcourse) the same way as for example for news.
+5. Decide to allow comments or not. The default is to allow comments. If allowed, users can add comments, and even comment other comments (and so can you of course) the same way as for example for news.
 6. Decide to let users close an announcement when it's read, or not (only applicable for High priority announcements). Default is on. A good reason to have this option active is that when an announcement is closed, the user can't see any new comments. You can for example use comments to inform about developments and when the problem is solved.
 
 Edit and republish
