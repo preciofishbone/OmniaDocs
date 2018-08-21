@@ -1,12 +1,8 @@
 Important Announcements
 ===========================
 
-The Important Announcements control in the notifiation panel displays all current important announcements with Normal priority. The control has no settings.
+Important Announcements are displayed in the Announcements control, which is often used in the Notification panel, but can also be added as a separate control. See :doc:`Announcements </team-collaboration/announcements/index>`
 
-.. image:: important-announcements-notification-panel-frame.png
-
-High Priority Announcements
-*****************************
 Important Announcements with high priority are displayed below the cross site mega menu on all pages in the intranet, both publishing pages and team sites.
 
 When the message has been read, the user can choose to close the message, if it is allowed. In the settings for each important announcement, the editor can set if the user can close the message.
@@ -15,12 +11,6 @@ When the message has been read, the user can choose to close the message, if it 
 
 If the user does not actively close the message, the message is shown the full time the administrator has set.
 
-Important Announcements are administrated in Omnia Admin.
-
-Commenting Important Announcements
-*************************************
-Important Announcements can be commented (if enabled, which is the defsulat), the same way as pages (for example news).
-
-It's done through the Notification panel. Here's an example:
-
-.. image:: comment-important-message3.png
+Creating and editing Important Announcements
+********************************************
+(Will be added shortly)
