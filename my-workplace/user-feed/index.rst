@@ -1,23 +1,18 @@
 User Feed
 ===========================
 
-The Omnia User Feed can be added through a web part on any Omnia web page or can be part of the Notification Panel.
+The Omnia User Feed can be added as a web part on a legacy page or as a block on a Quick Page. The User Feed can also be part of the  Notification Panel. All feed posts to everyone or from team sites the user is a member of will be shown in the list.
 
-.. image:: userfeed-eng.png
+.. image:: omnia-user-feed.png
 
-Adding a User Feed to a page
-*****************************
-To add a User Feed to a Omnia web page, or the start page, do the following:
+When posting a message here, users can select to make it available to everyone or just to members of a certain team site.
 
-1. Go to the page.
-2. Edit the page in advanced mode.
-3. Add the web part to a suitable web part zone. The web part is called "User Feed" and is found in the "Omnia" Category.
-4. Check in the page. (You must do that to be able to access the settings.)
-5. To access the settings for the control, activate the Edit option and click the settings gear for the control.
+.. image:: user-feed-select.png
+
 
 User Feed settings
 ******************
-The control has the follwing settings:
+The control has the following settings:
 
 .. image:: user-feed-general.png
 
