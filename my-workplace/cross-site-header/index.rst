@@ -1,3 +1,18 @@
 Cross Site Header
 ===========================
-(Will be added soon.)
+
+The Omnia Cross Sites Header is shown in all sites in the tenant and it's where the main menu and other options like My Links and My Sites can be found. Here's an example:
+
+.. image:: cross-sites-header.png
+
+The settings
+-------------
+The following settings are availble:
+
+.. image:: cross-sites-settings.png
+
++ **Background color**: The background color for the Cross Sites Heading is set here.
++ **Icon Color**: You can also set color for the icons.
++ **Enable Legacy Header**: If you for some reason would like to use the Sharepoint standard header instead, select this option.
+
+
