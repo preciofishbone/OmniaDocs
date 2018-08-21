@@ -11,7 +11,7 @@ Important Announcements with high priority are displayed below the cross site me
 
 When the message has been read, the user can choose to close the message, if it is allowed. In the settings for each important announcement, the editor can set if the user can close the message.
 
-.. image:: high-important-announcement.png
+.. image:: high-important-message.png
 
 If the user does not actively close the message, the message is shown the full time the administrator has set.
 
