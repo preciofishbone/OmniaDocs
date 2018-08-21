@@ -34,4 +34,4 @@ User feed in the notification panel
 ***********************************
 In the notification panel "Notification" must be set to "Custom", for the User Feed.
 
-.. image:: user-feed-notif-settings.png
+.. image:: user-feed-notification.png
