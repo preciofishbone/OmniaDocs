@@ -4,7 +4,9 @@ Quick Search
 .. toctree::
    :titlesonly:
 
-   setup/index
+   setup/setup-search-center/index
+   setup/setup-delve-people-search/index
+   setup/setup-result-source/index
 
 The Quick Search control makes it possible for the end user to search for content and people in the portal without going to the Enterprise Search Center. The Quick Search control is shown across all SharePoint sites in Omnia.
 
