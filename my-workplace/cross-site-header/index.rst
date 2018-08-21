@@ -1,7 +1,7 @@
 Cross Site Header
 ===========================
 
-The Omnia Cross Sites Header is shown in all sites in the tenant and it's where the main menu and other options like My Links and My Sites can be found. Here's an example:
+The Omnia Cross Sites Header is shown in all sites in the tenant and it's where the main menu, the logo /which can be used to go back to the start page), Quick Search, and other options like My Links and My Sites can be found. It's based on a master navigation term set in the main publishing portal of the tenant. Here's an example:
 
 .. image:: cross-sites-header.png
 
