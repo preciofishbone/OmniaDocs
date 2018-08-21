@@ -5,7 +5,7 @@ Important Announcements are displayed in the Announcements control, which is oft
 
 Important Announcements with high priority are displayed below the cross site mega menu on all pages in the intranet, both publishing pages and team sites.
 
-When the message has been read, the user can choose to close the message, if it is allowed. In the settings for each important announcement, the editor can set if the user can close the message.
+When the message has been read, the user can choose to close the message by clicking he x, if it is allowed. In the settings for each important announcement, the editor can set if the user will be able to close the message manually.
 
 .. image:: high-important-message.png
 
