@@ -11,7 +11,7 @@ The following settings are availble:
 
 .. image:: cross-sites-header-settings.png
 
-+ **Background color**: The background color for the Cross Sites Heading is set here.
++ **Background Color**: The background color for the Cross Sites Heading is set here.
 + **Icon Color**: You can also set color for the icons.
 + **Enable Legacy Header**: If you for some reason would like to use the Sharepoint standard header instead, select this option.
 
