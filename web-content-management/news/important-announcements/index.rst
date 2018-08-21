@@ -13,7 +13,7 @@ If the user does not actively close the message, the message is shown the full t
 
 Creating and editing Important Announcements
 ********************************************
-You create and edit Inportant Announcements in Omnia Admin.
+You create and edit Important Announcements in Omnia Admin.
 
 Note! The tenant feature "Omnia Important Announcements" needs to be activated in order for the Important Announcements administration page to appear. The administration page displays the history of all important announcements published in the tenant.
 
