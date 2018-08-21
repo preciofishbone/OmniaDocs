@@ -1,2 +1,2 @@
-News Center
+Setup News Center
 ===========================

@@ -1,2 +1,2 @@
-Scheduled Publishing
+Setup Scheduled Publishing
 ===========================
