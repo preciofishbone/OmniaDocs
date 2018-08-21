@@ -17,6 +17,8 @@ Here's an example of a search for all content:
 
 .. image:: quick-search-all.png
 
+Users can select ""Advanced Search" to go to Sharepoints standard search for a more detailed search.
+
 Settings for the control
 ************************
 The following settings are available:
@@ -24,7 +26,8 @@ The following settings are available:
 .. image:: quick-search-settings.png
 
 + **Default Result Page**: The url to the default result page in the Enterprise Search Center.
-+ **"All" result source ID**: ID can be set if needed.
++ **All result source ID**: ID can be set if needed.
++ **Delve Site Url**: The url to the Delve site.
 + **People Result Page**: The url to the People result page in the Enterprise Search Center.
-+ **"People" result source ID**: ID can be set if needed.
-+ **Row Limit**: The maximum number of search result items in the list.
++ **People result source ID**: ID can be set if needed.
++ **Row Limit**: The maximum number of search result items in the list, can be set here.
