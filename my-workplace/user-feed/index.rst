@@ -5,7 +5,7 @@ The Omnia User Feed can be added as a web part on a legacy page or as a block on
 
 .. image:: omnia-user-feed.png
 
-When posting a message here, users can select to make it available to everyone or just to members of a certain team site.
+When posting a message here, users can select to make it available to everyone or just to members of a certain team site. The list displays team sites the user is a member of.
 
 .. image:: user-feed-select.png
 
