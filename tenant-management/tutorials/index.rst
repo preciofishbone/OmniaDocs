@@ -5,6 +5,8 @@ An editor creates and edits tutorials for selected publishing pages. An administ
 
 The administrator options
 **************************
+The administrator options are found in Omnia Admin:
+
 .. image:: tutorial-management.png
 
 All tutorials created in the tenant are displayed in a list, for example:
