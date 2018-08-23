@@ -15,7 +15,7 @@ Here's an example of a My Tasks list in Notification Panel:
 
 .. image:: my-tasks-in-notification.png
 
-The user can then click a site to see more information about the tasks there, for example:
+The user can then click a task to see more information about the task, for example:
 
 .. image:: my-tasks-clicked.png
 
