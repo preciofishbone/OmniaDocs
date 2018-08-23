@@ -34,11 +34,11 @@ To access the Tutorial options, open the Admin menu and select Tutorials.
 
 .. image:: menu-tutorial.png
 
-The following options are then available (example with an existing tutorial):
+The following options are then available (example with an existing Wizard tutorial):
 
 .. image:: tutorial-example.png
 
-There can be either a Wizard or a Tooltip tutorial available for the page, se the first step is always to select this.
+When creating a Tutorial, there can be either a Wizard or a Tooltip tutorial available for the page, so the first step is always to select this.
 
 .. image:: wizard-or-tooltip.png
 
