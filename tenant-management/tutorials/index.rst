@@ -48,7 +48,7 @@ The following options are availble for both Wizard and Tooltip Tutorials.
 
 Use the these icons to go to another Tutorial step:
 
-.. image:: wizard-step.png
+.. image:: wizard-step-new.png
 
 The number of dots in the middle indicates the number of steps, in the image above two.
 
