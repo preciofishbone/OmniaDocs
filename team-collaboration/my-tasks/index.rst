@@ -19,7 +19,9 @@ The user can then click a task to see more information, for example:
 
 .. image:: my-tasks-clicked-border.png
 
-Settings for the control are in this case handled through the notification panel, see: :doc:`Notification Panel  </my-workplace/notification-panel/index>`
+Settings for the control are in this case handled through the notification panel, see:
+
+:doc:`Notification Panel </my-workplace/notification-panel/index>`
 
 My Tasks as a separate control
 ******************************
