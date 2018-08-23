@@ -38,7 +38,7 @@ The following options are then available (example with an existing Wizard tutori
 
 .. image:: tutorial-example.png
 
-When creating a Tutorial, there can be either a Wizard or a Tooltip Tutorial available for the page, so the first step is always to select this.
+When creating a tutorial, there can be either a Wizard or a TooltiptTutorial available for the page, so the first step is always to select this.
 
 .. image:: wizard-or-tooltip.png
 
