@@ -43,7 +43,7 @@ When creating a tutorial, there can be either a Wizard or a Tooltip tutorial ava
 .. image:: wizard-or-tooltip.png
 
 Common options
-**************
+----------------
 The following options are available for both Wizard and Tooltip tutorials.
 
 Use the these icons to go to another Tutorial step:
@@ -63,12 +63,12 @@ The following fields and options are available both types of tutorials:
 + **Save**: Use this button to save your work. Recommendation - save every time you are finished working on a tutorial step, before going to the next step. 
 + **Delete**: This button is used to delete the tutorial for the page. Note! The whole tutorial is deleted, just not the tutorial step. Also note that a tutorial can be deleted in the Tutorial Management in Omnia Admin, as well. 
 
-Options for a Wizard tutorial
-*****************************
+Extra option for a Wizard tutorial
+-----------------------------------
 When working on a Wizard tutorial, you can add an image to a tutorial step (see example above). You can add/replace an image by clicking "Browse". You can use any image from any Image Bank you have access to and even upload an image if needed. 
 
-Options for a Tooltip Wizard
-*****************************
+Extra options for a Tooltip tutorial
+-----------------------------
 The create a tooltip step, do the following:
 
 1. Click the "Add step" button.
