@@ -5,8 +5,13 @@ The Create Site process is a combination of Sharepoint standard and some Omnia a
 
 The settings for My sites has settings for creating new sites, on the "Site Creation Settings tab".
 
-An important aspect is if a user should be able to create a site without approval, or if approval should be needed. That is set per site template.
+.. image:: site-creation-settings.png
 
-When a suser has started the process of creating a new site, most options are Sharepoint standard, with the following excepetions:
+See this page for more information about these settings: :doc:`My Site </team-collaboration/my-sites/index>`
 
-(More to come soon)
+An important aspect is if a user should be able to create a site without approval, or if approval should be needed. That is set per site template, in the Omnia Admin settings.
+
+.. image:: site-create.png
+
+See this page for more information for these settings: :doc:`Site templates </team-collaboration/site-templates/index>`
+
