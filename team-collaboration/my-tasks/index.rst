@@ -17,7 +17,7 @@ Here's an example of a My Tasks list in Notification Panel:
 
 The user can then click a task to see more information about the task, for example:
 
-.. image:: my-tasks-clicked.png
+.. image:: my-tasks-clicked-border.png
 
 Settings for the control are in this case handled through the notification panel, see: The Notification Panel (link)
 
