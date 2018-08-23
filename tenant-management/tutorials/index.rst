@@ -26,11 +26,11 @@ If additional users should be able to manage tutorials, use the "Permissions" op
 
 .. image:: tutorials-permission.png
 
-The editors options
+Editors options
 ********************
-A tutorial is always created for a specific page, the first step is to go the page.
+A tutorial is always created for a specific page, the first step is therefore to go the page.
 
-To access the Tutorial options, open the Admin menu and select Tutorials.
+To access the tutorial options, open the Admin menu and select Tutorials.
 
 .. image:: menu-tutorial.png
 
@@ -44,7 +44,7 @@ When creating a Tutorial, there can be either a Wizard or a Tooltip Tutorial ava
 
 Common options
 **************
-The following options are available for both Wizard and Tooltip Tutorials.
+The following options are available for both Wizard and Tooltip tutorials.
 
 Use the these icons to go to another Tutorial step:
 
@@ -52,27 +52,27 @@ Use the these icons to go to another Tutorial step:
 
 The number of dots in the middle indicates the number of steps, in the example above, two.
 
-The following fields and options are available both types of Tutorials:
+The following fields and options are available both types of tutorials:
 
-+ **Title**: Add/edit the title for the Wizard step.
++ **Title**: Add/edit the title for the tutorial step.
 + **Content**: Use this field to add a description. Note the bar with layout options.
-+ Use the "Add step" button to add a new Tutorial step after the last step. 
++ Use the "Add step" button to add a new tutorial step after the last step. 
 + Use the "Reorder" button to change the order in wich tutorials step are shown (handy if you have added a step that should go before any of the existing steps.) 
-+ Use the "Preview tutorial" button to see the Tutorial as a user would. 
-+ Use the "Display mode" list to select how users should acccess the Tutorial, "Start tutorial automatically", "Show tooltip alert" for new version" or "User starts tutorial manually". 
-+ Use the Save to save your work. Recommendation - save every time you are finished working on a Tutorial step, before going to the next step. 
-+ Use the Delete button to delete the Tutorial for this page. Note! The whole Tutorial is deleted, just not the Tutorial step. 
++ Use the "Preview tutorial" button to see the tutorial as a user would. 
++ Use the "Display mode" list to select how users should acccess the tutorial - "Start tutorial automatically", "Show tooltip alert" for new version" or "User starts tutorial manually". 
++ Use the "Save" button to save your work. Recommendation - save every time you are finished working on a tutorial step, before going to the next step. 
++ Use the "Delete" button to delete the tutorial for this page. Note! The whole tutorial is deleted, just not the tutorial step. Also note that a tutorial can be deleted in the Tutorial Management in Omnia Admin, as well. 
 
-Options for a Wizard Tutorial
+Options for a Wizard tutorial
 *****************************
-When working on a Wizard Tutorial, you can add an image (see example above). You can add/replace an image by clicking "Browse". You can use any image from any Image Bank you have access to and even upload an image if needed. 
+When working on a Wizard tutorial, you can add an image to a tutorial step (see example above). You can add/replace an image by clicking "Browse". You can use any image from any Image Bank you have access to and even upload an image if needed. 
 
 Options for a Tooltip Wizard
 *****************************
 The create a tooltip step, do the following:
 
-1. Click .. image:: add-step-button.png
-2. Select a position on the page to add a Tooltip for.
+1. Click the "Add setp" button.
+2. Select a position on the page to add a tooltip for.
 3. Add a Title and a description (in the Content field).
 
 In the "Selector" field you can see an indication of where the Tooltip step will be placed.
