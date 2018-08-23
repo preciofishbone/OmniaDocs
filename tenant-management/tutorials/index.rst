@@ -56,7 +56,10 @@ The following fields and options are available both types of Tutorials:
 
 + **Title**: Add/edit the title for the Wizard step.
 + **Content**: Use this field to add a description. Note the bar with layout options.
-+ Use the '.. image:: add-step-button.png' button to add a new Tutorial step. 
++ Use the .. |add-step-button| button to add a new Tutorial step. 
+.. |add-step-button| image:: add-step-button.png
+   :align: middle
+   :width: 12
 
 Options for a Wizard Tutorial
 *****************************
