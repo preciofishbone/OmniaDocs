@@ -59,7 +59,7 @@ The following fields and options are available both types of Tutorials:
 + Use the .. |add-step-button| button to add a new Tutorial step. 
 .. |add-step-button| image:: add-step-button.png
    :align: middle
-   :width: 12
+   :width: 10
 
 Options for a Wizard Tutorial
 *****************************
