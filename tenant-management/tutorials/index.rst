@@ -60,23 +60,26 @@ The following fields and options are available both types of Tutorials:
 .. |add-step-button| image:: add-step-button.png
    :align: middle
    :width: 10
-   + Use the .. |reorder-button| button to change the order in wich tutorials step are shown. 
++ Use the .. |reorder-button| button to change the order in wich tutorials step are shown. 
 .. |reorder-button| image:: reorder-button.png
    :align: middle
    :width: 10
-   + Use the .. |preview-tutorial-button| button to see the Tutorial as a user would. 
++ Use the .. |preview-tutorial-button| button to see the Tutorial as a user would. 
 .. |preview-tutorial-button| image:: preview-tutorial-button.png
    :align: middle
    :width: 10
-   + Use the .. |display-mode-button| button to select how users should acccess the Tutorial, "Start tutorial automatically", Show tooltip alert for new version" or "User starts tutorial manually". 
++ Use the .. |display-mode-button| button to select how users should acccess the Tutorial, "Start tutorial automatically", Show tooltip alert for new version" or "User starts tutorial manually". 
 .. |display-mode-button| image:: display-mode-button.png
    :align: middle
    :width: 10
-   + Use the .. |save-button| button to save. Recommendation - save every time you are finished working on a Tutorial step, before going to the next step. 
++ Use the .. |save-button| button to save. Recommendation - save every time you are finished working on a Tutorial step, before going to the next step. 
 .. |save-button| image:: save-button.png
    :align: middle
    :width: 10
-   + Use the .. |delete-button| button to delete the Tutorial for this page Note! The whole Tutorial is deleted, just not the Tutorial step. 
++ Use the .. |delete-button| button to delete the Tutorial for this page Note! The whole Tutorial is deleted, just not the Tutorial step. 
+.. |delete-button| image:: delete-button.png
+   :align: middle
+   :width: 10
 
 Options for a Wizard Tutorial
 *****************************
