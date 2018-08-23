@@ -15,11 +15,11 @@ Here's an example of a My Tasks list in Notification Panel:
 
 .. image:: my-tasks-in-notification.png
 
-The user can then click a task to see more information about the task, for example:
+The user can then click a task to see more information, for example:
 
 .. image:: my-tasks-clicked-border.png
 
-Settings for the control are in this case handled through the notification panel, see: The Notification Panel (link)
+Settings for the control are in this case handled through the notification panel, see: :doc:`Notification Panel  </my-workplace/notification-panel/index>`
 
 My Tasks as a separate control
 ******************************
