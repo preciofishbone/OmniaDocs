@@ -56,12 +56,12 @@ The following fields and options are available both types of tutorials:
 
 + **Title**: Add/edit the title for the tutorial step.
 + **Content**: Use this field to add a description. Note the bar with layout options.
-+ Use the "Add step" button to add a new tutorial step after the last step. 
-+ Use the "Reorder" button to change the order in wich tutorials step are shown (handy if you have added a step that should go before any of the existing steps.) 
-+ Use the "Preview tutorial" button to see the tutorial as a user would. 
-+ Use the "Display mode" list to select how users should acccess the tutorial - "Start tutorial automatically", "Show tooltip alert" for new version" or "User starts tutorial manually". 
-+ Use the "Save" button to save your work. Recommendation - save every time you are finished working on a tutorial step, before going to the next step. 
-+ Use the "Delete" button to delete the tutorial for this page. Note! The whole tutorial is deleted, just not the tutorial step. Also note that a tutorial can be deleted in the Tutorial Management in Omnia Admin, as well. 
++ **Add step**: Use the button to add a new tutorial step after the last step. 
++ **Reorder**: Use this button to change the order in wich tutorials steps are shown (handy if you have added a step that should go before any of the existing steps.) 
++ **Preview tutorial**: When you want to check how the tutorial will look for users, select this button. 
++ **Display mode**: Use the list here to decide how users should acccess the tutorial - "Start tutorial automatically", "Show tooltip alert" for new version" or "User starts tutorial manually". 
++ **Save**: Use this button to save your work. Recommendation - save every time you are finished working on a tutorial step, before going to the next step. 
++ **Delete**: This button is used to delete the tutorial for the page. Note! The whole tutorial is deleted, just not the tutorial step. Also note that a tutorial can be deleted in the Tutorial Management in Omnia Admin, as well. 
 
 Options for a Wizard tutorial
 *****************************
@@ -71,7 +71,7 @@ Options for a Tooltip Wizard
 *****************************
 The create a tooltip step, do the following:
 
-1. Click the "Add setp" button.
+1. Click the "Add step" button.
 2. Select a position on the page to add a tooltip for.
 3. Add a Title and a description (in the Content field).
 
