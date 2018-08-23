@@ -28,7 +28,7 @@ If additional users should be able to manage tutorials, use the "Permissions" op
 
 The editors options
 ********************
-A tutorial is always created for a specific page, there are no options for global tutorials.
+A tutorial is always created for a specific page, the first step is to go the page.
 
 To access the Tutorial options, open the Admin menu and select Tutorials.
 
@@ -38,28 +38,25 @@ The following options are then available (example with an existing Wizard tutori
 
 .. image:: tutorial-example.png
 
-When creating a Tutorial, there can be either a Wizard or a Tooltip tutorial available for the page, so the first step is always to select this.
+When creating a Tutorial, there can be either a Wizard or a Tooltip Tutorial available for the page, so the first step is always to select this.
 
 .. image:: wizard-or-tooltip.png
 
 Common options
 **************
-The following options are availble for both Wizard and Tooltip Tutorials.
+The following options are available for both Wizard and Tooltip Tutorials.
 
 Use the these icons to go to another Tutorial step:
 
 .. image:: wizard-step-new.png
 
-The number of dots in the middle indicates the number of steps, in the image above two.
+The number of dots in the middle indicates the number of steps, in the example above, two.
 
-The following fields and options are available:
+The following fields and options are available both types of Tutorials:
 
 + **Title**: Add/edit the title for the Wizard step.
-
 + **Content**: Use this field to add a description. Note the bar with layout options.
-+ **Selector**: Here you can see what has been selected for a tool tip. Available for 
-
-+ .. image::add-step-button.png Use this button to add a new Tutorial step 
++ .. image:: add-step-button.png Use this button to add a new Tutorial step 
 
 Options for a Wizard Tutorial
 *****************************
