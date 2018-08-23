@@ -1,8 +1,10 @@
 Tutorial Management
 ===========================
 
-An editor creates an edits tutorials for selected publishing pages. Here an administrator can manage tutorials for the tenant.
+An editor creates and edits tutorials for selected publishing pages. An administrator can manage tutorials for the tenant.
 
+The administrator options
+**************************
 .. image:: tutorial-management.png
 
 All tutorials created in the tenant are displayed in a list, for example:
