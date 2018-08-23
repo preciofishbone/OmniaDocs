@@ -3,7 +3,7 @@ Tutorial Management
 
 An editor creates and edits tutorials for selected publishing pages. An administrator can manage tutorials for the tenant.
 
-The administrator options
+Administrator options
 **************************
 The administrator options are found in Omnia Admin:
 
