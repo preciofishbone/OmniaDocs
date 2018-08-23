@@ -63,11 +63,7 @@ The following fields and options are available:
 
 Options for a Wizard Tutorial
 *****************************
-When working on a Wizard Tutorial, you can add an image:
-
-.. image:: image-field.png
-
-You can add an image by clicking "Browse". You can use any image from any Image Bank you have access to and even upload an image if needed. 
+When working on a Wizard Tutorial, you can add an image (see example above). You can add/replace an image by clicking "Browse". You can use any image from any Image Bank you have access to and even upload an image if needed. 
 
 Options for a Tooltip Wizard
 *****************************
