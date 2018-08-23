@@ -4,6 +4,7 @@ Team Collaboration
 .. toctree::
    :titlesonly:
 
+   create-site/index
    my-tasks/index
    my-sites/index
    announcements/index
