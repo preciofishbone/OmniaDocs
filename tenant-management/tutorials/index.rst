@@ -30,9 +30,62 @@ The editors options
 ********************
 A tutorial is always created for a specific page, there are no options for global tutorials.
 
-The editor can use the following options to create and edit a tutorial:
+To access the Tutorial options, open the Admin menu and select Tutorials.
 
-(Will be added Shortly)
+.. image:: menu-tutorial.png
+
+The following options are then available (example with an existing tutorial):
+
+.. image:: tutorial-example.png
+
+There can be either a Wizard or a Tooltip tutorial available for the page, se the first step is always to select this.
+
+.. image:: wizard-or-tooltip.png
+
+Common options
+**************
+The following options are availble for both Wizard and Tooltip Tutorials.
+
+Use the these icons to go to another Tutorial step:
+
+.. image:: wizard-step.png
+
+The number of dots in the middle indicates the number of steps, in the image above two.
+
+The following fields and options are available:
+
++ **Title**: Add/edit the title for the Wizard step.
+
++ **Content**: Use this field to add a description. Note the bar with layout options.
++ **Selector**: Here you can see what has been selected for a tool tip. Available for 
+
++ .. image::add-step-button.png Use this button to add a new Tutorial step 
+
+Options for a Wizard Tutorial
+*****************************
+When working on a Wizard Tutorial, you can add an image:
+
+.. image:: image-field.png
+
+You can add an image by clicking "Browse". You can use any image from any Image Bank you have access to and even upload an image if needed. 
+
+Options for a Tooltip Wizard
+*****************************
+The create a tooltip step, do the following:
+
+1. Click .. image:: add-step-button.png
+2. Select a position on the page to add a Tooltip for.
+3. Add a Title and a description (in the Content field).
+
+In the "Selector" field you can see an indication of where the Tooltip step will be placed.
+
+.. image:: selector.png
+
+
+
+
+
+
 
 
 
