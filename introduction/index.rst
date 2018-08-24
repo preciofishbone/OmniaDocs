@@ -15,7 +15,7 @@ Omnia Admin settings
 *********************
 You find the settings in Omnia Admin the following way:
 
-1. Open the administration menu. 
+1. Open the Actions Menu. 
 
 .. image:: admmenu.png
 
@@ -28,7 +28,7 @@ Settings for a control
 Most Omnia Controls has additional settings. Settings for a control are normally control scoped. To edit settings for the control, do the following:
 
 1. Go the the page where the actual control is placed.
-2. Open the administration menu and select "Edit Page".
+2. Open the Actions Menu and select "Edit Page".
 
 .. image:: editpage.png
 
@@ -52,7 +52,7 @@ Here's how to add a web part to a legacy page:
 Here's how to add a block to a Quick Page:
 
 1. Go to the page.
-2. Open the administraton menu and select "Edit page".
+2. Open the Actions Menu and select "Edit page".
 3. Open the list of blocks.
 4. Use drag and drop to add the block to a suitable area.
 

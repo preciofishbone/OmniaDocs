@@ -34,7 +34,7 @@ The following settings are available:
 
 + **Default Result Page**: The url to the default result page in the Enterprise Search Center.
 + **All result source ID**: ID can be set if needed.
-+ **Delve Site Url**: The url to the Delve site.
++ **Delve Site Url**: If the option "Adcanced Search" should take the user to Delve instead of to the Enterprise Search Center, insert the Url to the Delve site here.
 + **People Result Page**: The url to the People result page in the Enterprise Search Center.
 + **People result source ID**: ID can be set if needed.
 + **Row Limit**: The maximum number of search result items in the list, can be set here.
