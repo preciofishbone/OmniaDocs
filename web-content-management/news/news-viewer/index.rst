@@ -15,7 +15,7 @@ The news viewer settings are divided into three tabs:
 
 .. image:: news-viewer-settings-query.png
 
-The Query tab
+The Query Settings tabtab
 ---------------
 The **News Center** list displays all publishing sub sites in the site collection that have the "Omnia News Center" app feature activated. You can add News Centers from other Site Collections as well.
 
