@@ -29,7 +29,7 @@ Common options
 ----------------
 The following options are available for both Wizard and Tooltip tutorials.
 
-Use the these icons to go to another Tutorial step:
+Use these icons to go to another Tutorial step:
 
 .. image:: wizard-step-new.png
 
