@@ -3,7 +3,7 @@ Tutorial Management
 
 An editor creates and edits tutorials for selected publishing pages. An administrator can manage tutorials for the tenant.
 
-A user's optiond
+A user's options
 *******************
 A tutorial can be set up to start automatically when a page is opened (see more info below). But if it's not, users select the "Tutorial" option in the Admin menu:
 
