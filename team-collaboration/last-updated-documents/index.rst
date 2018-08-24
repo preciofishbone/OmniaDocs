@@ -7,13 +7,13 @@ Note! The Latest Documents control is based on the search engine in SharePoint. 
 
 Latest Documents is often displayed in the Notification Panel, for example:
 
-.. image:: latestdocuments.png
+.. image:: last-updated-documments-notification-panel.png
 
 Latest Documents can also be added as a separate control. 
 
 Settings for the control
 *************************
-The following settings are available:
+When Lats Updated Docucments is added as a seperate control, the following settings are available:
 
 .. image:: latest-dcouments-settings.png
 
