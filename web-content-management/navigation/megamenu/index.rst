@@ -9,7 +9,7 @@ Settings
 **********
 The following settings are available for the control:
 
-.. image:: cross-sites-mega-menu-FNISsettings.png
+.. image:: cross-sites-mega-menu-settings.png
 
 The General tab
 ----------------
