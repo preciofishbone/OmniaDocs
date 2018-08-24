@@ -7,7 +7,7 @@ Note! The Latest Documents control is based on the search engine in SharePoint. 
 
 Latest Documents is often displayed in the Notification Panel, for example:
 
-.. image:: last-updated-documments-notification-panel.png
+.. image:: last-updated-documents-notification-panel.png
 
 Latest Documents can also be added as a separate control. 
 
@@ -15,7 +15,7 @@ Settings for the control
 *************************
 When added as a separate control, the following settings are available for that control:
 
-.. image:: latest-dcouments-settings-new.png
+.. image:: latest-documents-settings-new.png
 
 The General tab
 ----------------
@@ -32,7 +32,7 @@ The Custom Query tab
 ---------------------
 On this tab, the following settings are available:
 
-.. Image:: custum-query-tab.png
+.. Image:: custom-query-tab.png
 
 + **Exclude File Types**: Use this field if certin file types should be displayed in the list.
 + **Query Template**: ???
