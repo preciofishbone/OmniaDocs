@@ -3,34 +3,17 @@ Tutorial Management
 
 An editor creates and edits tutorials for selected publishing pages. An administrator can manage tutorials for the tenant.
 
-Administrator options
-**************************
-The administrator options are found in Omnia Admin:
+The user experience
+*******************
+A tutorial can be set up to start automatically when a page is opened (see more info below). But if it's not, users select the "Tutorial" option in the Admin menu:
 
-.. image:: tutorial-management.png
-
-All tutorials created in the tenant are displayed in a list, for example:
-
-.. image:: all-tutorials.png
-
-+ **Page**: Use the link to the page to go there and check out the tutorial.
-+ **Created by**: Name of the editor that has created the tutorial is shown here.
-+ **Created date**: Date for when the tutorial was initially created is shown here.
-+ **Modified by**: Name of the editor that made the latest changes is shown in this column.
-+ **Modified date**: Date for the latest version of the tutorial is shown here.
-+ **Delete**: If the tutorial on this page should now longer be available, you can click this button. A new tutorial can then be created if and when the need arises. 
-
-Permissions for Tutorial management
-------------------------------------
-If additional users should be able to manage tutorials, use the "Permissions" option to add or delete users.
-
-.. image:: tutorials-permission.png
+.. image:: tutorial-in-admin-menu.png
 
 Editors options
 ********************
-A tutorial is always created for a specific page, the first step is therefore to go the page.
+An editor mus have Edit Permissions to a page to be able to work with tutorials there. A tutorial is always created for a specific page, the first step for the editor is therefore to go the page.
 
-To access the tutorial options, open the Admin menu and select Tutorials.
+The tutorial options are accessed by selecting "Tutorials" in the Admin menu.
 
 .. image:: menu-tutorial.png
 
@@ -78,6 +61,29 @@ The create a tooltip step, do the following:
 In the "Selector" field you can see an indication of where the Tooltip step will be placed.
 
 .. image:: selector.png
+
+Administrator options
+**************************
+The administrator options are found in Omnia Admin:
+
+.. image:: tutorial-management.png
+
+All tutorials created in the tenant are displayed in a list, for example:
+
+.. image:: all-tutorials.png
+
++ **Page**: Use the link to the page to go there and check out the tutorial.
++ **Created by**: Name of the editor that has created the tutorial is shown here.
++ **Created date**: Date for when the tutorial was initially created is shown here.
++ **Modified by**: Name of the editor that made the latest changes is shown in this column.
++ **Modified date**: Date for the latest version of the tutorial is shown here.
++ **Delete**: If the tutorial on this page should now longer be available, you can click this button. A new tutorial can then be created if and when the need arises. 
+
+Permissions for Tutorial management
+------------------------------------
+If additional users should be able to manage tutorials, use the "Permissions" option to add or delete users.
+
+.. image:: tutorials-permission.png
 
 
 
