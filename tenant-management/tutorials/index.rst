@@ -7,7 +7,7 @@ The user experience
 *******************
 A tutorial can be set up to start automatically when a page is opened (see more info below). But if it's not, users select the "Tutorial" option in the Admin menu:
 
-.. image:: tutorial-in-admin-menu.png
+.. image:: tutorial-in-admin-menu-border.png
 
 Editors options
 ********************
