@@ -116,7 +116,7 @@ You should primarily set colors through Theme colors in Omnia Admin (System/Sett
 
 News Viewer in Notification Panel
 ***********************************
-The News Viewer control is available in the Notification Panel. If the News Viewer is added to the panel, a notification count icon will be shown if there are news articles in the result that are new to the user (the user has not seen them in the news list before)
+The News Viewer control is available in the Notification Panel (see the image at the top of the page). If the News Viewer is added to the panel, a notification count icon will be shown if there are news articles in the result that are new to the user (the user has not seen them in the news list before).
 
 News Viewer Web Part/block
 ****************************
