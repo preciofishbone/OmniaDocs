@@ -9,7 +9,7 @@ Settings
 **********
 The following settings are available for the control:
 
-.. image:: cross-sites-settings.png
+.. image:: cross-sites-mega-menu-FNISsettings.png
 
 The General tab
 ----------------
@@ -26,7 +26,7 @@ The Custom Colors tab
 -----------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-.. image:: cross-sites-colors.png
+.. image:: cross-sites-mega-menu-Latest Documents settingscolors.png
 
 The mobile View
 *****************
