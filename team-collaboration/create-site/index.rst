@@ -15,3 +15,15 @@ An important aspect is if a user should be able to create a site without approva
 
 See this page for more information: :doc:`Site templates </team-collaboration/site-templates/index>`
 
+In the Create Site process, the following are Omnia additions:
+
+The first step includes a setting for control Site Directory, if that is used. It is selected as default. Users can deselect the option.
+
+.. image:: make-public-in-site-directory.png
+
+For some types of sites, most often for project sites, there can be an Omnia specific step for the user to set properties. Here's an example:
+
+.. image:: create-seite-properties.png
+
+Properties for this step is set in the site template. See this page for more information: 
+
