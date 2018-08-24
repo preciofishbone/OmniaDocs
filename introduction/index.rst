@@ -28,7 +28,7 @@ Settings for a control
 Most Omnia Controls has additional settings. Settings for a control are normally control scoped. To edit settings for the control, do the following:
 
 1. Go the the page where the actual control is placed.
-2. Open the administration menu and select "Edit Page".
+2. Open the Actions Menu and select "Edit Page".
 
 .. image:: editpage.png
 
