@@ -17,7 +17,7 @@ See this page for more information: :doc:`Site templates </team-collaboration/si
 
 In the Create Site process, the following are Omnia additions:
 
-The first step includes a setting for the control Site Directory, if that is used. The option means a user can fins the site in Site Directory, even without having access to it. "Make Public in Skite Directory" is selected as default. Users can deselect the option.
+The first step includes a setting for the control Site Directory, if that is used. The option means a user can find the site in Site Directory, even without having access to it, and can see that it exists and can request access to the site. "Make Public in Site Directory" is selected as default. 
 
 .. image:: make-public-in-site-directory.png
 
