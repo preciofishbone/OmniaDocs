@@ -14,6 +14,6 @@ The following settings are availble:
 .. image:: cross-sites-header-settings.png
 
 + **Background Color** and **Icon Color**: You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the header, you can set background color and icon color here.
-+ **Enable Legacy Header**: If you for some reason would like to use the Sharepoint standard header instead, select this option. Note that this option removes the Omnia Cross Site Header from ALL sites.
++ **Enable Legacy Header**: The new standard Omnia header is rather slim. If you would like the former Omnia default header, which is for example slightly higher, select this option. The option is valid for all headings in this Omnia Profile (not just the site).
 
 
