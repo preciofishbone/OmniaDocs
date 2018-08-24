@@ -1,7 +1,7 @@
 Megamenu
 ===========================
 
-The Cross Sites Mega Menu control makes it possible for the end user to navigate to any page in the navigation structure. The Cross Sites Mega Menu is displayed across all Sharepoint sites in Omnia.
+The Cross Sites Mega Menu control makes it possible for the end user to navigate to any page in the navigation structure. It is displayed across all Sharepoint sites in Omnia.
 
 .. image:: crosssitemegamenu.png
 
@@ -15,10 +15,10 @@ The General tab
 ----------------
 On this tab you can set the following:
 
-+ **Source Url**: The Cross Sites Mega Menu will be based on the navigation settings used in the site of the source url.
 + **Static Display Levels**: Defines the number of levels in the navigation term set that will always be displayed in the menu.
 + **Dynamic Display Levels**: Defines the number of levels in the navigation term set that should be displayed in the mega menu when a user clicks an item in the static menu.
 + **Show mobile parents siblings**: (A description will be added soon).
++ **Allow external users**: (A description will be added soon).
 
 The Cross Sites Mega Menu settings are master page scoped. All sites using this master page will inherit the settings.
 
