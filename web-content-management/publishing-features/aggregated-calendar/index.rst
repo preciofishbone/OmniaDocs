@@ -1,6 +1,11 @@
 Aggregated Calendar
 ===========================
 
+.. toctree::
+   :titlesonly:
+
+   setup/index
+
 The aggregated calendar control displays events from one or more calendars from any site in the tenant.
 
 .. image:: aggregated-calendar-new.png

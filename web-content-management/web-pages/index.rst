@@ -4,6 +4,7 @@ Web Pages
 .. toctree::
    :titlesonly:
 
+   setup/index
    manage-content/index
    image-picker/index
    page-layouts/index

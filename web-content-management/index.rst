@@ -8,4 +8,3 @@ Web Content Management
    web-pages/index
    news/index
    publishing-features/index
-   setup/index

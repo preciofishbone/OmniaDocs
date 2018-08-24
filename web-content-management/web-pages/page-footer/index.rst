@@ -1,6 +1,11 @@
 Page Footer
 ===========================
 
+.. toctree::
+   :titlesonly:
+
+   setup/index
+
 Use this option to place and edit a footer on all pages in Omnia that uses a certain Master Page.
 
 1. Select Feature.

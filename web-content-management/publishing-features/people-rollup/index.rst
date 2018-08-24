@@ -1,6 +1,11 @@
 People Rollup
 ===========================
 
+.. toctree::
+   :titlesonly:
+
+   setup/index
+
 You can use this control on any page, both legacy pages and Quick Pages, and even in a team site. Use it to display information for one or a number of colleagues. The control can be used for a vast number of applications but some examples are:
 
 + Display contact person for a page or for something else.

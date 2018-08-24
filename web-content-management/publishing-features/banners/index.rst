@@ -1,6 +1,11 @@
 Banners
 ===========================
 
+.. toctree::
+   :titlesonly:
+
+   setup/index
+
 A banner can either be a centrally managed banner that can be reused on several web pages (Reusable Banner or a Banner Group), or created "locally" through the Banner Control.
 
 Reusable Banners

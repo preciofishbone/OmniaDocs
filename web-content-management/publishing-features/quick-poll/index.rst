@@ -1,6 +1,11 @@
 Quick Poll
 ===========================
 
+.. toctree::
+   :titlesonly:
+
+   setup/index
+
 Through the Quick Poll control a web editor can add a poll on a web page (the questions are created in Omnia Admin, see Quick Polls Administration, below). Quick Polls can be added as a web part to any standard Sharepoint page and as a block to any Quick Page.
 
 Here's an example on how an end users would see a Quick Poll:

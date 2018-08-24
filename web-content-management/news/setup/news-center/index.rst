@@ -27,10 +27,8 @@ Setup News Center
 16. Go to Features and activate the site feature “Omnia Image Picker Settings”.
 17. Click on Image Picker in the left-hand navigation.
 18. Select the local Images library.
-19. Select the renditions “Square” and “Landscape (New)”.
-(Note! These renditions are used in the New UX experience in the News Viewer.)
-20. Go to the start page of the news center using its quick page url
-https://customer.sharepoint.com/sites/intra/#/news/Pages/NewsStartPage.aspx.
+19. Select the renditions “Square” and “Landscape (New)”. (Note! These renditions are used in the New UX experience in the News Viewer.)
+20. Go to the start page of the news center using its quick page url https://customer.sharepoint.com/sites/intra/#/news/Pages/NewsStartPage.aspx.
 21. Go into edit mode using the Omnia Edit Switch.
 22. Add the fields Article Date and Enterprise Keywords as filters and change the paging type to Scroll.
  .. image:: wcm-news-setfields.png

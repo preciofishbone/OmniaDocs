@@ -1,6 +1,12 @@
 Multi Lingual Pages
 ===========================
 
+.. toctree::
+   :titlesonly:
+
+   setup/setup-multi-lingual-pages/index
+   setup/change-default-language/index
+
 In Omnia editors can work with more than  one Language Edition of the content for a page. There's no actual settings specifically for languages in Omnia Admin, but there are some prerequisites:
 
 + The Omnia Tenant Feature "Omnia Intranet Multi Lingual" must be active.

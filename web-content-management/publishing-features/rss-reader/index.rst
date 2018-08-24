@@ -1,6 +1,11 @@
 RSS Reader
 ===========================
 
+.. toctree::
+   :titlesonly:
+
+   setup/index
+
 The tenant feature Omnia Intranet RSS Reader must be activated for the RSS Reader control to be available.
 
 The Omnia RSS Reader is available as a web part for standard Sharepoint pages and as a block for Quick Pages.
