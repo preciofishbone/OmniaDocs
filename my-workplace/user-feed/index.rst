@@ -20,7 +20,7 @@ The General tab
 + **Title**: You can edit the title displayed for the list.
 + **Default height**: Set the default height in pixels. When there is more to display in the list, a "Show more" button is shown (see image at the top of the page).
 + **Show everyone site**: If it should be possible to post a meessage to everyone, select this option.
-+ **Everyone team site url**: For posting to Everyone to work, a url to a site all users has access to, must be inserted here. See the Set Up instructions for Quick Search, for mor information.
++ **Everyone team site url**: For posting to Everyone to work, a url to a site all users has access to, must be inserted here. See the Set Up instructions for Quick Search, for more information.
 + **Visible**: You can edit settings for when this control should be visible on a smaller screen. You can select "Always", "Max width", "Min width" and set the width in pixels.
 
 The Custom colors tab
