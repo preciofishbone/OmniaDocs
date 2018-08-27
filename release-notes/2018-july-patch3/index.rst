@@ -10,7 +10,7 @@ Omnia.Foundation (1.0.12849)
 - Fixed Date Time error when editing a page in German.
 - Fixed some issues with the tutorial of type Tooltip.
 
-Omnia.Intranet (1.0.12849)
+Omnia.Intranet (1.0.12862)
 ----------------------------------------
 - Fixed issue with really long titles in News Viewer.
 - Fixed issue with random events of white space in the bottom of the page.
