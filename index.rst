@@ -11,6 +11,7 @@ Topics
    :titlesonly:
 
    introduction/index
+   release-notes/index
    my-workplace/index
    team-collaboration/index
    web-content-management/index
