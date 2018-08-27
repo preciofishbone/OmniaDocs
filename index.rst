@@ -11,11 +11,11 @@ Topics
    :titlesonly:
 
    introduction/index
-   release-notes/index
    my-workplace/index
    team-collaboration/index
    web-content-management/index
    document-management/index
    quality-management/index
    tenant-management/index
+   release-notes/index
    contribute-to-doc/index
