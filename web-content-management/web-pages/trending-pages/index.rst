@@ -1,6 +1,11 @@
 Trending Pages
 ===========================
 
+.. toctree::
+   :titlesonly:
+
+   setup/index
+
 You can use the Trending pages control to display Most liked pages, Most viewed pages or Most commented pages.
 
 The control can be used on any publishing page and is available as a block for Quick Pages or as a web part, and you can of course use several instances of this control on a page.

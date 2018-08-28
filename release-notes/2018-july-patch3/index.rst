@@ -1,7 +1,7 @@
 Release Notes July 2018 Patch 3
 ========================================
 
-Omnia.Foundation (1.0.12849)
+Omnia.Foundation (1.0.12865)
 ----------------------------------------
 - New behaviour in Quick Search. When a quick page is navigated to in the search result, the Quick Search dialog will close.
 - Fixed issue with localization being displayed wrong in many controls.

@@ -10,3 +10,4 @@ Tenant Management
    color-themes/index
    omnia-profiles/index
    targeting-definitions/index
+   features/index
