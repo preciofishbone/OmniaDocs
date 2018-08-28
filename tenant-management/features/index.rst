@@ -13,7 +13,8 @@ Site Collection scoped Omnia Features
 **Omnia Intranet Aggregated Calendar Web Part**
 Deploys a web part definition of the Omnia Control “Aggregated Calendar” to the web part gallery.
 
-**Omnia Intranet Banner Web Part** Deploys a web part definition of the Omnia Control “Banner” to the web part gallery.
+**Omnia Intranet Banner Web Part**
+Deploys a web part definition of the Omnia Control “Banner” to the web part gallery.
 
 **Omnia Intranet Content Management** Requires the SharePoint Publishing Infrastructure to be activated. Deploys the necessary infrastructure for publishing functionality in Omnia. Deploys the following page layouts to the master page gallery:
 
