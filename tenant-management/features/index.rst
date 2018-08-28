@@ -10,7 +10,8 @@ A number of features is part of Omnia Foundation, see:
 
 Site Collection scoped Omnia Features
 ***************************************
-**Omnia Intranet Aggregated Calendar Web Part** Deploys a web part definition of the Omnia Control “Aggregated Calendar” to the web part gallery.
+**Omnia Intranet Aggregated Calendar Web Part**
+Deploys a web part definition of the Omnia Control “Aggregated Calendar” to the web part gallery.
 
 **Omnia Intranet Banner Web Part** Deploys a web part definition of the Omnia Control “Banner” to the web part gallery.
 
