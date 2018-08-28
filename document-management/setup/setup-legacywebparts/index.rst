@@ -1,4 +1,4 @@
-Legacy Web Parts
+Setup Legacy Web Parts
 ==================================
 
 If you need to support legacy web parts, please follow these steps to deploy the web part definitions for all document management web parts.
