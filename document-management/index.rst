@@ -7,3 +7,4 @@ Document Management
    administrator/index
    author/index
    end-user/index
+   setup/index

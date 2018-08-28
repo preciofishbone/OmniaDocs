@@ -1,6 +1,11 @@
 Site Templates
 ===========================
 
+.. toctree::
+   :titlesonly:
+
+   setup/index
+
 There are two different ways of implementing new site templates in Omnia:
 
 1. Implement through code (normally done by a programmer). 

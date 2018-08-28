@@ -1,5 +1,5 @@
 End User
-========
+======================
 
 .. toctree::
    :titlesonly:

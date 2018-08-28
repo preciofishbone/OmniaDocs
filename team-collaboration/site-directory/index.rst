@@ -1,6 +1,11 @@
 Site Directory
 ===========================
 
+.. toctree::
+   :titlesonly:
+
+   setup/index
+
 A Site Directory normally lists all sites the user has some sort of access to, of the site types the Site Directory is set to show.
 
 This is an important difference to the My sites list, where one list displays all sites the user follows, and another list displays all sites the user are a member of.
