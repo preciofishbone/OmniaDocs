@@ -1,0 +1,35 @@
+Omnia Features
+==============
+
+Here all Omnia Site collection features and Site features are listed. It's used for activation and installation of features, normally by a programmer.
+Note that permissions to handle features (activate, deactivate etc) is set on the "Permissions" page under "System", and only Site Collection Features and Site Features are applicable for this documentation. Only Global Administrators can see and edit Tenant scoped Omnia Features.
+Also note that the Features admin page is context sensitive. What will be displayed as on or off relates to the current site.
+A number of features is part of Omnia Foundation, see:
+Features in Omnia Foundation
+Site Collection scoped Omnia Features
+Omnia Intranet Aggregated CalendarWeb Part Deploys a web part definition of the Omnia Control “Aggregated Calendar” to the web part gallery.
+Omnia Intranet Banner WebPart Deploys a web part definition of the Omnia Control “Banner” to the web part gallery.
+Omnia Intranet Content Management Requires the SharePoint Publishing Infrastructure to be activated. Deploys the necessary infrastructure for publishing functionality in Omnia. Deploys the following page layouts to the master page gallery:
+News article
+News start page
+Deploys the content types:
+News Article
+News Start Page
+Omnia Intranet My Links Web Part Deploys a web part definition of the Omnia Control “My Links” to the web part gallery.
+Omnia Intranet News Deploys the necessary infrastructure for news. Deploys the web part definition of the Omnia Control “News Viewer” to the web gallery. Deploys the following page layouts to the master page gallery:
+News article
+News start page
+Deploys the content types:
+News Article
+News Start Page
+Omnia Intranet Quick Polls WebPart Deploys a web part definition of the Omnia Control “Quick Polls” to the web part gallery.
+Site scoped Omnia Features
+Omnia Intranet News Center Turns the site into a News Center. Deploys a new welcome page to the site with the News Start Page layout. Deploys the Enterprise keywords column to the pages library and sets the default value to the Article column to [today]. Enables Contact, Article Date and Enterprise Keywords in view and edit mode. Sets the navigation on the site to structured navigation.
+Omnia Intranet Social Makes comments and likes available in pages on the site.
+Omnia Intranet Team Site – Announcements Deploys an announcements list to the site. Permission will be broken on the list and the members group will have edit access to the list. The “Recent” node in quick launch will be removed.
+Omnia Intranet Team Site – Calendar Deploys a calendar to the site. The “Recent” node in quick launch will be removed.
+Omnia Intranet Team Site – Contacts Deploys a contacts list to the site. The “Recent” node in quick launch will be removed.
+Omnia Intranet Team Site – Controlled Documents Deploys a document library specifically designed for controlled documents. Minor/Major versioning will be added to the library. Permission will be broken on the list. A SharePoint group “Controlled Documents Readers” will be added to the site and be given read access to the library. Everyone except external will be added to this readers group. The owners group will be the only group with contribute rights on the library. The “Recent” node in quick launch will be removed.
+Omnia Intranet Team Site – Links Deploys a links list to the site. The “Recent” node in quick launch will be removed.
+Omnia Intranet Team Site – Reporting Documents Deploys a document library specifically designed for reporting documents. Minor/Major versioning will be added to the library. Permission will be broken on the list. A SharePoint group “Reporting Documents Readers” will be added to the site and be given read access to the library. The owners group will be the only group with contribute rights on the library. The “Recent” node in quick launch will be removed.
+Omnia Intranet Team Site – Tasks Deploys a tasks list to the site. The “Recent” node in quick launch will be removed.
