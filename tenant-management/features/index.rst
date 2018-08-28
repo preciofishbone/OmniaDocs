@@ -28,6 +28,17 @@ Site Collection scoped Omnia Features
 
 **Omnia Core Master Page** Deploys the Omnia master page “portal.master” to the site and remote event receivers to apply the master page to sub sites created. This master page is required for the Omina features such as Omnia Controls, javascript and CSS to function correctly.
 
+**Omnia Document Management Archive Site** Deploys the Archive Site for Omnia Document Management. Note that only one such site should exist per Site Collection.
+
+**Omnia Document Management Authoring infrastructure** Deploys the required artifacts (content types, site columns etc) on site collection level necessary in order to work with controlled documents.
+
+**Omnia Document Management Web Parts** Deploys the Controlled Documents Viewer web part to the site collection.
+Site scoped Omnia Document Management Features
+
+**Omnia Document Management Authoring site** Deploys the required artifacts (document libraries, controls etc) on site level necessary in order to work with controlled documents.
+
+**Omnia Document Management Create Document Wizard (Optional)** Deploys the Omnia Create Document Wizard. When this feature is activated, the Omnia Wizard replaces the standard options for "New" in classic Documents libraries and "Add" in Controlled Documents libraries.
+
 **Omnia Enable External Sharing** Activates the possibility to share the contents of the site collection to external users. It will take central settings, which may prohibit external sharing, into consideration.
 
 **Omnia Intranet Aggregated Calendar Web Part** Deploys a web part definition of the Omnia Control “Aggregated Calendar” to the web part gallery.
