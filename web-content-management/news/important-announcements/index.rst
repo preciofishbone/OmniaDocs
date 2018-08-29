@@ -21,7 +21,7 @@ Commenting an Important Announcement
 -------------------------------------
 If commenting is allowed for Important Announcement (set indivually for each Important Announcement, see below) any user can comment the message. It works the same way as commenting a publishing page, for example news.
 
-.. image:: important-announcement.comment.png
+.. image:: important-announcement-comment.png
 
 
 Creating and editing Important Announcements
