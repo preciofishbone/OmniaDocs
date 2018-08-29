@@ -33,6 +33,12 @@ Here you can set a number of options that may be needed for PDF conversions.
 
 First select the conversion method to see the settings for the method.
 
+Create New Document UI for Controlled Documents
+***********************************************
+Select Classic or Modern UI for new document in Controlles Documents.
+
+.. image:: document-ui.png
+
 Authors of Controlled Documents
 ***********************************
 Here you can set the type of permissions to be used in Controlled Documents libraries in the tenant.
