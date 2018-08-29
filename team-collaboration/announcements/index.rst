@@ -5,11 +5,9 @@ The Announcements Control aggregates the latest non expired announcements that t
 
 Announcements is often a part of the Notification Panel, for example:
 
-.. image:: important-announcements-notification-panel-frame.png
+.. image:: announcements-notification-panel-frame.png
 
 Announcements can also be added as a separate control.
-
-Important announcements, the messages, are created and edited through Omnia Admin, see: :doc:`Important Announcements </web-content-management/news/important-announcements/index>`
 
 Settings for the control
 ************************
