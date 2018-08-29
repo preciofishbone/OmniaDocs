@@ -37,5 +37,5 @@ When used for Controlled Documents, the steps are as follows:
 
 **To the right**:
 
-5. Select a Documents library, which in this case can be Controlled Documents libraries only.
+5. Select the team site wehere the document will be saved in the Controlles Documents library. Only team sites with a Controlled Docuemnts library, and that the author has access to, are shown inte list.
 
