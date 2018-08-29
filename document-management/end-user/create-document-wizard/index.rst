@@ -23,8 +23,13 @@ Here's an example when used for Controlled Documents:
 
 When used for Controlled Documents, the steps are as follows:
 
+**To the left**:
 1. First the author selects type of document to create. 
 2. Add properties in the available fields.
+
+**In the middle**:
 3. Select template (there can be several for each type).
 4. Type a name for the document.
-5. Select Documents library and folder to save the document in, which in this case can be Controlled Documents libraries only.
+
+**To the right**:
+5. Select a Documents library and folder to save the document in, which in this case can be Controlled Documents libraries only.
