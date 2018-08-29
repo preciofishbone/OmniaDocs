@@ -35,7 +35,7 @@ First select the conversion method to see the settings for the method.
 
 Create New Document UI for Controlled Documents
 ***********************************************
-Select Classic or Modern UI for new document in Controlles Documents.
+Select Classic or Modern UI for new document in Controllesd Documents.
 
 .. image:: document-ui.png
 
