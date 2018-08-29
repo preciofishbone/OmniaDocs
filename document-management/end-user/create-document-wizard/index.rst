@@ -44,6 +44,6 @@ If there are any suitable published Controlled Documents to use as a template, t
 
 .. image:: documents-wizard-documents.png
 
-If there are no documents displayed, there are simply no suitable published document available.
+In the above example, the "MX Product Manual" is such a document. If there are no documents displayed, there are simply no suitable published document available.
 
 
