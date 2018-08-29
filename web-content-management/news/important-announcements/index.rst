@@ -1,9 +1,15 @@
 Important Announcements
 ===========================
 
-Important Announcements are displayed in the Announcements control, which is often used in the Notification panel, but can also be added as a separate control. See :doc:`Announcements </team-collaboration/announcements/index>`
+Important Announcements are displayed in the Important Announcements control, which is often used in the Notification panel, but can also be added as a separate control. Important Announcements can either have Normal priority or High priority.
 
-Important Announcements with high priority are displayed below the cross site mega menu on all pages in the intranet, both publishing pages and team sites.
+The end user experience
+***********************
+Important Announcements with Normal priority are shown in Important Announcements control, normaly in the Notification panel, for example:
+
+.. image:: important-announcements-notification-panel-frame.png
+
+Important Announcements with High priority are displayed below the cross site mega menu on all pages in the intranet, both publishing pages and team sites.
 
 When the message has been read, the user can choose to close the message by clicking he x, if it is allowed. In the settings for each important announcement, the editor can set if the user will be able to close the message manually.
 
