@@ -35,7 +35,7 @@ First select the conversion method to see the settings for the method.
 
 Create New Document UI for Controlled Documents
 ***********************************************
-Select Classic or Modern UI for new document in Controllesd Documents.
+Select Classic or Modern UI for new document in Controlled Documents.
 
 .. image:: document-ui.png
 
@@ -45,7 +45,7 @@ Here you can set the type of permissions to be used in Controlled Documents libr
 
 .. image:: authors-controlled.png
 
-+ **Document Authors Group**: This is the default setting. A sepecific permission group will be used for authors.
++ **Document Authors Group**: This is the default setting. A specific permission group will be used for authors.
 + **Site Owners**: All site owners will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
 + **Site Owners and Members**: All site owners and all Members will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
 
