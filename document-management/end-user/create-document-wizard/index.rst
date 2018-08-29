@@ -9,7 +9,11 @@ The Wizard works slightly differently for Controlled Documents and for "normal" 
 
 .. image:: odm-wizard.png
 
-The available templates are shown to the left. In the middle a location (Document Library) to save the new template in is selected, default is the site where the wizard was started. To the far right a folder in the chosen library can be selected.
+When used for "normal" documents the steps are as follows:
+
+1. Select template in the list to te left.
+2. Select a Documents laibrary to save the document in. Default is the Documents library in site where the wizard was started. Any Documents library the user has access to can be selected.
+3. If applicable, select a folder in the chosen library, to save the document in. 
 
 This means any user can use the wizard from any site where the feature is activated to create a document, and save it in the Documents library in any other site that user has access to.
 
@@ -17,4 +21,10 @@ Here's an example when used for Controlled Documents:
 
 .. image:: docwizard-controlled.png
 
-First the author selects type of document to create. When that is done it can look as above and the next steps are to add properties, select template (there can be several for each type), type a name for the document and select location, which in this case can be Controlled Documents libraries only.
+When used for Controlled Documents, the steps are as follows:
+
+1. First the author selects type of document to create. 
+2. Add properties in the available fields.
+3. Select template (there can be several for each type).
+4. Type a name for the document.
+5. Select Documents library and folder to save the document in, which in this case can be Controlled Documents libraries only.
