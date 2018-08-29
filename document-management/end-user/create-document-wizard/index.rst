@@ -11,7 +11,7 @@ The Wizard works slightly differently for Controlled Documents and for "normal" 
 
 The available templates are shown to the left. In the middle a location (Document Library) to save the new template in is selected, default is the site where the wizard was started. To the far right a folder in the chosen library can be selected.
 
-This means any user can use the wizard from any site where the feature is activated to create a document, in the Documents library in any other site that user has access to.
+This means any user can use the wizard from any site where the feature is activated to create a document, and save it in the Documents library in any other site that user has access to.
 
 Here's an example when used for Controlled Documents:
 
