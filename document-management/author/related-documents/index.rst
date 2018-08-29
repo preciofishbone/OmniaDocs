@@ -1,7 +1,7 @@
 Related Documents
 ===========================
 
-An author can use this option to relate a controlled document to other controlled documents, as information that can be shown to document readers. This option can alos be used to make sure someone, for example the document owner, will be notified when a new edition is published for any related document. Any published controlled document can be related to.
+An author can use this option to relate a controlled document to other controlled documents, as information that can be shown to document readers. This option can also be used to make sure someone, for example the document owner, will be notified when a new edition is published for any related document. Any published controlled document can be related to.
 
 The number of related documents is shown to the right of the title, for example:
 
