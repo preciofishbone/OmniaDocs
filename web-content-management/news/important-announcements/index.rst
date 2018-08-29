@@ -5,7 +5,7 @@ Important Announcements are displayed in the Important Announcements control, wh
 
 The end user experience
 ***********************
-Important Announcements with Normal priority are shown in Important Announcements control, normaly in the Notification panel, for example:
+Important Announcements with Normal priority are shown in the Important Announcements control, normaly in the Notification panel, for example:
 
 .. image:: important-announcements-notification-panel-frame.png
 
