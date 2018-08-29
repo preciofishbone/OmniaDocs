@@ -21,7 +21,7 @@ Here's an example when used for Controlled Documents:
 
 .. image:: docwizard-controlled.png
 
-Abny author of Controlled Documents can use the wizard ti create a document in any Controlled Documents libary the author has access to.
+Any author of Controlled Documents can use the wizard to create a Controlled Document in any Controlled Documents libary the author has access to.
 
 When used for Controlled Documents, the steps are as follows:
 
