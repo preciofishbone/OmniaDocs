@@ -5,11 +5,11 @@ Important Announcements are displayed in the Important Announcements control, in
 
 The end user experience
 ***********************
-Important Announcements with Normal priority are shown in the the Notification panel only, for example:
+All Important Announcements messages are shown in the the Notification panel, for example:
 
 .. image:: important-announcements-notification-panel-frame.png
 
-Important Announcements with High priority are displayed below the cross site mega menu on all pages in the intranet, both publishing pages and team sites.
+Imnportant Announcements with Normal priority are shown in the Notification panel only. Important Announcements with High priority are displayed below the cross site mega menu on all pages in the intranet, both publishing pages and team sites.
 
 When the message has been read, the user can choose to close the message by clicking he x, if it is allowed. In the settings for each important announcement, the editor can set if the user will be able to close the message manually.
 
@@ -19,7 +19,7 @@ If the user does not actively close the message, the message is shown the full t
 
 Commenting an Important Announcement
 -------------------------------------
-If commenting is allowed for Important Announcement (set indivually for each Important Announcement, see below) any user can comment the message. It works the same way as commenting a publishing page, for example news. The number of comments for each message are shown in the list, for example:
+If commenting is allowed for the Important Announcement (set indivually for each Important Announcement, see below) any user can comment the message. It works the same way as commenting a publishing page, for example news. The number of comments for each message are shown in the list, for example:
 
 .. image:: important-announcements-notification-panel-list.png
 
@@ -68,7 +68,7 @@ To add a new Important Announcement, click the link "Add Important Announcement"
 .. image:: new-important-announcements.png
 
 1. Add a Title and a Description.
-2. Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages. Important Announcements with Normal priority will be displayed in the notification panel, and/or in the separate control, if that is added.
+2. Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages, and in the Notification panel. Important Announcements with Normal priority will be displayed in the notification panel only.
 3. Set the order for this Imortant Announcement when there are several displayed.
 4. Set the start and end date of the Important Announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.
 5. Decide to allow comments or not. The default is to allow comments. If allowed, users can add comments, and even comment other comments (and so can you of course) the same way as for example for news.
