@@ -25,7 +25,7 @@ If commenting is allowed for the Important Announcement (set indivually for each
 
 To read or add comments, click "Comment(s)" and something like the following is shown:
 
-.. image:: important-announcements-read-new.png
+.. image:: important-announcements-comments-read-new.png
 
 Creating and editing Important Announcements
 ********************************************
