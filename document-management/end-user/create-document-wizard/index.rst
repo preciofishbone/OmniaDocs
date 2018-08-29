@@ -1,7 +1,7 @@
 Create Document Wizard
 ===========================
 
-The Omnia Create New Document Wizard can be used in any site in the tenant, to create new documents, both Controlled Documents and "normal" documents, based on templates set up in the Document Management Settings. Regarding Controlled Documents a new document can even be base on any published Controlled Document.
+The Omnia Create New Document Wizard can be used in any site in the tenant, to create new documents, both Controlled Documents and "normal" documents, based on templates set up in the Document Management Settings. Regarding Controlled Documents a new document can even be based on any published Controlled Document.
 
 When this Site feature ("Omnia Document Management Create Document Wizard") is activated for a site, the Omnia Wizard replaces the standard options for "New" in classic document libraries and "Add" in "Controlled Documents" libraries.
 
@@ -21,15 +21,21 @@ Here's an example when used for Controlled Documents:
 
 .. image:: docwizard-controlled.png
 
+Abny author of Controlled Documents can use the wizard ti create a document in any Controlled Documents libary the author has access to.
+
 When used for Controlled Documents, the steps are as follows:
 
 **To the left**:
-1. First the author selects type of document to create. 
+
+1.Select type of document to create. 
 2. Add properties in the available fields.
 
 **In the middle**:
+
 3. Select template (there can be several for each type).
 4. Type a name for the document.
 
 **To the right**:
-5. Select a Documents library and folder to save the document in, which in this case can be Controlled Documents libraries only.
+
+5. Select a Documents library, which in this case can be Controlled Documents libraries only.
+
