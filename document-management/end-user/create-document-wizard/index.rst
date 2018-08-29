@@ -12,8 +12,8 @@ The Wizard works slightly differently for Controlled Documents and for "normal" 
 When used for "normal" documents the steps are as follows:
 
 1. Select template in the list to te left.
-2. Select a Documents laibrary to save the document in. Default is the Documents library in site where the wizard was started. Any Documents library the user has access to can be selected.
-3. If applicable, select a folder in the chosen library. 
+2. Select a team site to save the document in (in the Documents library there). Default is the site where the wizard was started. Any site the user has access to can be selected.
+3. If applicable, select a folder in the chosen sute (in the Documents library there). 
 
 This means any user can use the wizard from any site where the feature is activated to create a document, and save it in the Documents library in any other site that user has access to.
 
