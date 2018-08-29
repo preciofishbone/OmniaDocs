@@ -21,12 +21,11 @@ Commenting an Important Announcement
 -------------------------------------
 If commenting is allowed for Important Announcement (set indivually for each Important Announcement, see below) any user can comment the message. It works the same way as commenting a publishing page, for example news. The number of comment for each message is shown in the list, for example:
 
-.. image:: important-announcement-comment-list.png
+.. image:: important-announcements-notification-panel-list.png
 
 To read or add comments, click Comment(s) and something like the following is shown:
 
-.. image:: important-announcements-read.png
-
+.. image:: important-announcements-read-new.png
 
 Creating and editing Important Announcements
 ********************************************
