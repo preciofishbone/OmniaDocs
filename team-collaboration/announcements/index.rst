@@ -8,6 +8,7 @@ Announcements is often a part of the Notification Panel, for example:
 .. image:: announcements-in-notification-panel.png
 
 Announcements can also be added as a separate control.
+   
 
 Settings for the control
 ************************
