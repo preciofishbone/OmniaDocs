@@ -1,11 +1,11 @@
 Important Announcements
 ===========================
 
-Important Announcements are displayed in the Important Announcements control, which is often used in the Notification panel, but can also be added as a separate control. Important Announcements can either have Normal priority or High priority.
+Important Announcements are displayed in the Important Announcements control, in the Notification panel. Important Announcements can  have Normal priority or High priority.
 
 The end user experience
 ***********************
-Important Announcements with Normal priority are shown in the Important Announcements control, normaly in the Notification panel, for example:
+Important Announcements with Normal priority are shown in the the Notification panel only, for example:
 
 .. image:: important-announcements-notification-panel-frame.png
 
@@ -19,11 +19,11 @@ If the user does not actively close the message, the message is shown the full t
 
 Commenting an Important Announcement
 -------------------------------------
-If commenting is allowed for Important Announcement (set indivually for each Important Announcement, see below) any user can comment the message. It works the same way as commenting a publishing page, for example news. The number of comment for each message is shown in the list, for example:
+If commenting is allowed for Important Announcement (set indivually for each Important Announcement, see below) any user can comment the message. It works the same way as commenting a publishing page, for example news. The number of comments for each message are shown in the list, for example:
 
 .. image:: important-announcements-notification-panel-list.png
 
-To read or add comments, click Comment(s) and something like the following is shown:
+To read or add comments, click "Comment(s)" and something like the following is shown:
 
 .. image:: important-announcements-read-new.png
 
