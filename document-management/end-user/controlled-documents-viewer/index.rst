@@ -7,10 +7,6 @@ Access permissions apply, a user can never be able to read a controlled document
 
 The Omnia Controlled Documents Viewer can be added and edited by any editor that has edit access to the page.
 
-Here's an example of a list of controlled documents, using the Controlled Documents Viewer:
-
-.. image:: controlled-documents-viewer_new.png
-
 The user experience
 *******************
 Once a Controlled Documents Viewer has been added to a publishing page and set up by an editor to decide what Controlled Documents to display, any user that has access to the page can use the control to find Controlled Documents.
