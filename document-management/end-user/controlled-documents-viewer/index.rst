@@ -3,7 +3,7 @@ Controlled Documents Viewer
 
 The Omnia Controlled Documents Viewer can be used on any publishing page to make certain controlled documents available for users. The control can even be used several times on the same page, for different lists of controlled documents.
 
-Access permissions apply, a user can never be able to read a controlled document he or she does not have permission to read. The system takes care of that. Reading access is handled in the permission group that is called something like "Readers of controlled documents", in group sites where controlled documents are published.
+Access permissions apply, the controlled documents the user can find using the control, are documents that the user has read permission to. Read permissions are handled in the team sites used by authors to publish Controlled Documents.
 
 The Omnia Controlled Documents Viewer can be added and edited by any editor that has edit access to the page.
 
@@ -11,11 +11,7 @@ The user experience
 *******************
 Once a Controlled Documents Viewer has been added to a publishing page and set up by an editor to decide what Controlled Documents to display, any user that has access to the page can use the control to find Controlled Documents.
 
-Access permissions apply, the controlled documents the user can find using the control, are documents that the user has read permission to. Read permissions are handled in the group sites used by authors to publish Controlled Documents.
-
-At the start, the list contains all documents the control has been set up to display. 
-
-The refiners can be used to display only the documents tagged with a certain property value.
+At the start, the list contains all documents the control has been set up to display. The refiners can be used to display only the documents tagged with a certain property value.
 
 .. image:: controlled-documents-viewer-refiners-new.png
 
