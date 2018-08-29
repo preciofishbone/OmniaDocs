@@ -27,7 +27,7 @@ When used for Controlled Documents, the steps are as follows:
 
 **To the left**:
 
-1.Select type of document to create. 
+1. Select type of document to create. 
 2. Add properties in the available fields.
 
 **In the middle**:
