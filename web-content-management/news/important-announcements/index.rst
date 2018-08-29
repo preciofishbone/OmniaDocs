@@ -44,7 +44,7 @@ If comments are allowed for an announcement, which is default, you can read the 
 To comment the announcement, or another comment, yourself, you do that the normal way, as any other user would.
 
 Types and Status
-******************
+-------------------
 You can create Types and Status to use as an indicator for Important Announcements. A list of Types and status can look like this:
 
 .. image:: types-and-status.png
@@ -60,7 +60,7 @@ For Status you can can do the same, ad a title and select an icon:
 .. image:: status.png
 
 New Important Announcement
-***************************
+----------------------------
 To add a new Important Announcement, click the link "Add Important Announcement" and the following is shown:
 
 .. image:: new-important-announcements.png
@@ -73,7 +73,7 @@ To add a new Important Announcement, click the link "Add Important Announcement"
 6. Decide to let users close an announcement when it's read, or not (only applicable for High priority announcements). Default is on. A good reason to have this option active is that when an announcement is closed, the user can't see any new comments. You can for example use comments to inform about developments and when the problem is solved.
 
 Edit and republish
-********************
+-------------------
 When you edit an Important Announcement of High priority you can choose to republish the announcement so even users that has closed the announcement will be able to see the update.
 
 When you click "Save", the following is shown:
@@ -83,7 +83,7 @@ When you click "Save", the following is shown:
 To republish the announcement for all users, click "Yes".
 
 Targeting
-*********
+----------
 An Important Announcement can be targeted to any receivers that has been defined in Target Definitions, see: :doc:`Targeting Definitions </tenant-management/targeting-definitions/index>`
 
 To target an Important Announcement, do the following:
