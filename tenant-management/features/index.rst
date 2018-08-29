@@ -12,7 +12,6 @@ A number of features is part of Omnia Foundation, see:
 
 Site Collection scoped Omnia Features
 ***************************************
-
 **Omnia Aggregated Content Web Parts** Deploys web part definitions of the following Omnia Controls to the web part gallery:
 
 + Announcements
@@ -35,9 +34,6 @@ Site Collection scoped Omnia Features
 **Omnia Document Management Web Parts** Deploys the Controlled Documents Viewer web part to the site collection.
 Site scoped Omnia Document Management Features
 
-**Omnia Document Management Authoring site** Deploys the required artifacts (document libraries, controls etc) on site level necessary in order to work with controlled documents.
-
-**Omnia Document Management Create Document Wizard (Optional)** Deploys the Omnia Create Document Wizard. When this feature is activated, the Omnia Wizard replaces the standard options for "New" in classic Documents libraries and "Add" in Controlled Documents libraries.
 
 **Omnia Enable External Sharing** Activates the possibility to share the contents of the site collection to external users. It will take central settings, which may prohibit external sharing, into consideration.
 
@@ -74,6 +70,10 @@ Omnia User Feed Web Part Deploys a web part definition of the Omnia Control “U
 
 Site scoped Omnia Features
 ***************************
+**Omnia Document Management Authoring site** Deploys the required artifacts (document libraries, controls etc) on site level necessary in order to work with controlled documents.
+
+**Omnia Document Management Create Document Wizard** Deploys the Omnia Create Document Wizard. When this feature is activated, the Omnia Wizard replaces the standard options for "New" in classic Documents libraries and "Add" in Controlled Documents libraries.
+
 **Omnia Intranet News Center** Turns the site into a News Center. Deploys a new welcome page to the site with the News Start Page layout. Deploys the Enterprise keywords column to the pages library and sets the default value to the Article column to [today]. Enables Contact, Article Date and Enterprise Keywords in view and edit mode. Sets the navigation on the site to structured navigation.
 
 **Omnia Intranet Social** Makes comments and likes available in pages on the site.
