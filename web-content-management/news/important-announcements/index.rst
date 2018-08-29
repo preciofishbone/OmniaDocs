@@ -29,11 +29,9 @@ To read or add comments, click "Comment(s)" and something like the following is 
 
 Creating and editing Important Announcements
 ********************************************
-You create and edit Important Announcements in Omnia Admin.
+Global and tenant administrators can add or edit Important Announcements, in Omnia Admin. If additional users should be able to create important announcements, add them using the "Pemissions" option. Users or permission groups can be added.
 
 Note! The tenant feature "Omnia Important Announcements" needs to be activated in order for the Important Announcements administration page to appear. The administration page displays the history of all important announcements published in the tenant.
-
-Global and tenant administrators can add new Important Announcements. If additional users should be able to create important announcements, add them using the "Pemissions" option. You can add users or permission groups.
 
 .. image:: important-announcements-list.png
 
