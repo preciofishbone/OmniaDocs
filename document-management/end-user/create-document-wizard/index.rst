@@ -33,10 +33,17 @@ When used for Controlled Documents, the steps are as follows:
 
 **In the middle**:
 
-3. Select template (there can be several for each type).
+3. Select template (there can be several for each type), or select a published Controlled Document as the template (if any is displayed).
 4. Type a name for the document.
 
 **To the right**:
 
 5. Select the team site where the document will be saved in the Controlled Documents library. Only team sites with a Controlled Documents library, and that the author has access to, are shown inte list.
+
+If there are any suitable published Controlled Documents to use as a template, they will be displayed in the list in the middle, after  type if document has been selected. Here's an example:
+
+.. image:: documents-wizard-documents.png
+
+If there are no documents displayed, there are simply no suitable published document available.
+
 
