@@ -5,7 +5,7 @@ The Announcements Control aggregates the latest non expired announcements that t
 
 Announcements is often a part of the Notification Panel, for example:
 
-.. image:: announcements-notification-panel-frame.png
+.. image:: announcements-in-notification-panel.png
 
 Announcements can also be added as a separate control.
 
