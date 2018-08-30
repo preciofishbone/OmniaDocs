@@ -1,7 +1,7 @@
 Last Updated Documents
 ======================
 
-The Latest Documents control (also called Last Updated Documents) aggregates all documents that have been recently modified from all sites the user is following. 
+The Latest Documents control (also called Latest Updated Documents) aggregates all documents that have been recently modified from all sites the user is following. 
 
 Note! The Latest Documents control is based on the search engine in SharePoint. It may take several minutes before an updated document is shown on the start page.
 
@@ -34,10 +34,10 @@ On this tab, the following settings are available:
 
 .. Image:: custom-query-tab.png
 
-+ **Exclude File Types**: Use this field if certin file types should be displayed in the list.
-+ **Query Template**: ???
-+ **Title Search Property**: ???
-+ **Author Search Property**: ???
++ **Exclude File Types**: Use this field if certain file types should not be displayed in the list. 
++ **Query Template**: For advanced scenarios. One example could be "path: https:://customer.sharepoint.com/sites/extranet" to only show documents from the the extranet site. Another could be fileextension:DOCX to only show docx documents.
++ **Title Search Property**: For advanced scenarios (more information will be added soon).
++ **Author Search Property**: For advanced scenarios (more information will be added soon).
 
 The Custom Colors tab
 ------------------------
