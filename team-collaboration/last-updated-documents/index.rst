@@ -3,9 +3,9 @@ Last Updated Documents
 
 The Latest Documents control (also called Latest Updated Documents) aggregates all documents that have been recently modified from all sites the user is following. 
 
-Note! The Latest Documents control is based on the search engine in SharePoint. It may take several minutes before an updated document is shown on the start page.
+Note! The Last Updated Documents control is based on the search engine in SharePoint. It may take several minutes before an updated document is shown on the start page.
 
-Latest Documents is often displayed in the Notification Panel, for example:
+Last Updated Documents is often displayed in the Notification Panel, for example:
 
 .. image:: last-updated-documents-notification-panel.png
 
