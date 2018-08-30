@@ -9,7 +9,7 @@ Last Updated Documents is often displayed in the Notification Panel, for example
 
 .. image:: last-updated-documents-notification-panel.png
 
-Latest Documents can also be added as a separate control. 
+It can also be added as a separate control. 
 
 Settings for the control
 *************************
