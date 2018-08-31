@@ -17,8 +17,8 @@ On this tab you can set the following:
 
 + **Static Display Levels**: Defines the number of levels in the navigation term set that will always be displayed in the menu.
 + **Dynamic Display Levels**: Defines the number of levels in the navigation term set that should be displayed in the mega menu when a user clicks an item in the static menu.
-+ **Show mobile parents siblings**: (A description will be added soon).
-+ **Allow external users**: (A description will be added soon).
++ **Show mobile parents siblings**: To save space in a mobile environment, this option can be used to select not to show the sub options (siblings) to the main heading (parent).
++ **Allow external users**: If the mega menu should be displayed for external users as well, this option must be selected. Otherwise the external user may experience a CTD.
 
 The Cross Sites Mega Menu settings are master page scoped. All sites using this master page will inherit the settings.
 
