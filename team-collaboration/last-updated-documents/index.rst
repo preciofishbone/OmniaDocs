@@ -37,7 +37,7 @@ On this tab, the following settings are available:
 + **Exclude File Types**: Use this field if certain file types should not be displayed in the list. 
 + **Query Template**: Search querys For advanced scenarios. One example could be fileextension:DOCX to only show docx documents.
 + **Title Search Property**: Normally the standard property Title is shown in the list, but when using a Custom Managed Search Property, the Search Property must be entered here for correct heading to be shown in the list.
-+ **Author Search Property**: Use this field to set which name should be shown as author for a document, if needed. Regarding Controlled Documents this field could for example be used to make sure the name of the author is shown by entering "Published by" here.
++ **Author Search Property**: Use this field to set property for the name to be shown as author for a document, if needed. Regarding Controlled Documents this field could for example be used to make sure the name of the author is shown by entering "Published by" here.
 
 The Custom Colors tab
 ------------------------
