@@ -56,4 +56,4 @@ Here's how to add a block to a Quick Page:
 3. Open the list of blocks.
 4. Use drag and drop to add the block to a suitable area.
 
-To access the settings for the control, see above for more information.
+To access the settings for the control, see above.
