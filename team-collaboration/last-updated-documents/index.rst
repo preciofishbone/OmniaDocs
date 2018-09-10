@@ -1,15 +1,15 @@
 Last Updated Documents
 ======================
 
-The Latest Documents control (also called Latest Updated Documents) aggregates all documents that have been recently modified from all sites the user is following. 
+The Last Updated Documents block aggregates all documents that have been recently modified by someone else from all sites the user is following. 
 
-Note! The Last Updated Documents control is based on the search engine in SharePoint. It may take several minutes before an updated document is shown on the start page.
+Note! The Last Updated Documents block is based on the search engine in SharePoint. It may take several minutes before an updated document is shown in the block.
 
-Last Updated Documents is often displayed in the Notification Panel, for example:
+Last Updated Documents is often used in the Notification Panel, for example:
 
 .. image:: last-updated-documents-notification-panel.png
 
-It can also be added as a separate control. 
+It can also be added as a separate block. 
 
 Settings for the control
 *************************
@@ -36,8 +36,8 @@ On this tab, the following settings are available:
 
 + **Exclude File Types**: Use this field if certain file types should not be displayed in the list. 
 + **Query Template**: Search querys For advanced scenarios. One example could be fileextension:DOCX to only show docx documents.
-+ **Title Search Property**: Normally the standard property Title is shown in the list, but when using a Custom Managed Search Property, the Search Property must be entered here for correct heading to be shown in the list.
-+ **Author Search Property**: Use this field to set property for the name to be shown as author for a document, if needed. Regarding Controlled Documents this field could for example be used to make sure the name of the author is shown by entering "Published by" here.
++ **Title Search Property**: This property decides which Managed Search Property that should be used for the title field in the list. By default, it is set to the Managed Search Property "Title".
++ **Author Search Property**: This property decides which Managed Search Property that should be used for the modified by field in the list. By default, it is set to the Managed Search Property "Author".
 
 The Custom Colors tab
 ------------------------
