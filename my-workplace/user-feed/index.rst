@@ -4,7 +4,8 @@ User Feed
 .. toctree::
    :titlesonly:
 
-   setup/index
+   setup-user-feed/index
+   setup-everyone-site/index
 
 **Note!** The User Feed in Omnia is based on the SharePoint Newsfeed. Microsoft recommends using other techniques withing the Office 365 suite for social capabilities.
 
@@ -40,6 +41,6 @@ You should primarily set colors through Theme colors in Omnia Admin (System/Sett
 
 User feed in the notification panel
 ***********************************
-In the notification panel "Notification" must be set to "Custom", for the User Feed.
+In the notification panel "Notification" should be set to "Custom" and "News Feed Notification Provider".
 
 .. image:: user-feed-notification.png

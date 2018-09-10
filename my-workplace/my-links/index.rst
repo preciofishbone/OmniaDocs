@@ -9,7 +9,8 @@ Here's an example of My Links in the Cross Sites Header:
 
 .. image:: my-links-example.png
 
-+ **Show all links**: Select to show all common links.+ **Show categories**: Select to show category headings for the links. If not selected the list of links is shown in alphabetical order. If selected the list is shown, sorted on the category headings, in alphabetical order (as in the image above).
++ **Show all links**: Select to show all common links.
++ **Show categories**: Select to show category headings for the links. If not selected the list of links is shown in alphabetical order. If selected the list is shown, sorted on the category headings, in alphabetical order (as in the image above).
 + **Filter links...**: The list can be filtered using this field.
 + **Add personal link**: This option can be used to add personal links to the list, see below.
 
@@ -27,7 +28,7 @@ Available icons to the right in this list is used this way:
    :align: middle   
 Adding personal links
 *********************
-A user can add a personal link by clicking the option "ADD PERSONAL LINK" and using he following settings:
+A user can add a personal link by clicking the option "ADD PERSONAL LINK" and using the following settings:
 
 .. image:: create-link.png
 
@@ -37,7 +38,7 @@ A user can add a personal link by clicking the option "ADD PERSONAL LINK" and us
 + **Information**: It is optional to add information about the link. If added, an i-icon will be shown.
 + **Open in New Window**: Defines whether to open the link in a new window or not.
 + **Icon**: The user can select from built-in icons based on Font Awesome or any image uploaded to a document library in SharePoint.
-+ **Icon background color**: The background color for the icon here. If not setm the default icon background color will be used.
++ **Icon background color**: The background color for the icon here. If not set the default icon background color will be used.
 
 My Links Mobile Navigation
 **************************

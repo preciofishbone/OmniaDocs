@@ -5,7 +5,7 @@ Common Links is a tenant scoped feature - the settings are used across all Share
 
 Some links can be mandatory and it's also possible to target links to certain groups. Permissions to work with Common Links can be delegated to other colleagues.
 
-The end user can access the common links in the My Links control. The list contains all active links. The user can decide which non-mandatory links to display and can add personal links there. Here's and example:
+The end user can access the common links in the My Links control. The list contains all active links. The user can decide which non-mandatory links to display and can add personal links there. Here's an example:
 
 .. image:: my-links-example.png
 
@@ -37,7 +37,10 @@ Use this window when adding a new common link or editing and existing:
 
 Targeting a link
 ----------------
-A link can be targeted to any receivers that has been defined in the Target Definition selected for Common Links. A targeted link is only available for selection by the target group. No one else will see the link. For more information on Targeting Definitions, see: [Targeting Definitions](/Docs/en-us/omnia-foundation-admin/targeting-definitions/index.html)
+A link can be targeted to any receivers that has been defined in the Target Definition selected for Common Links.
+A targeted link is only available for selection by the target group.
+No one else will see the link. For more information on Targeting Definitions, see:
+:doc:`Targeting Definitions </tenant-administration/targeting-definitions/index>`
 
 When you select "Target to", the the available target groups are shown, for example:
 
