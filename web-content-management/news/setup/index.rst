@@ -8,3 +8,4 @@ News Setup
    top-stories/index
    scheduled-publishing/index
    targeting/index
+   important-announcements/index

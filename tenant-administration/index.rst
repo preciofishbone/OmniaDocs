@@ -1,4 +1,4 @@
-Tenant Management
+Tenant Administration
 ===========================
 
 .. toctree::

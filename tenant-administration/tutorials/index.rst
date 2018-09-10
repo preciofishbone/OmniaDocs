@@ -1,6 +1,11 @@
 Tutorial Management
 ===========================
 
+.. toctree::
+   :titlesonly:
+
+   setup/index
+
 An editor creates and edits tutorials for selected publishing pages. An administrator can manage tutorials for the tenant.
 
 A user's options
