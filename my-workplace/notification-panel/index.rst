@@ -1,6 +1,6 @@
 Notification Panel
 ===========================
-The notification panel is a concept in Omnia Intranet mainly used on the start page. The purpose is to help the end user to find out what information has been updated within different areas of the portal. There are a number of settings for the visual appearance, here's a common example:
+The notification panel is a concept in Omnia Intranet mainly used on a start page. The purpose is to help end users to find out what information has been updated within different areas of the intranet. There are a number of settings for the visual appearance, here's a common example:
 
 .. image:: notification-panel-exampl-b.png
 
@@ -26,7 +26,7 @@ Here you can add, edit and delete categories to be displayed in the Notification
 
 Add Category
 -------------
-If you would like to add a notification, you use Add Category. Follow these steps:
+If you would like to add a new category in the notification panel, follow these steps:
 
 1. Click "Add Category" on the left-hand side.
 2. Add a category title and select an icon from the Font Awesome library.

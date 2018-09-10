@@ -1,4 +1,4 @@
-User Feed Setup
+Setup User Feed
 ===========================
 
 1. Go to Omnia Admin > Features.
