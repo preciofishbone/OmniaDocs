@@ -1,9 +1,12 @@
 Create Site
 ====================
 
-The Create Site process is a combination of Sharepoint standard and some Omnia additions. Here is a description of the Omnia additions.
+The Create Site function is accessibile via the My Sites navigation control.
 
-The settings for My sites has settings for creating new sites, on the "Site Creation Settings" tab.
+.. image:: my-sites-create-new-site.png
+
+The Create Site function relies on a number of different parts of Omnia.
+In the My Sites navigation control there are settings for the Create Site form.
 
 .. image:: site-creation-settings.png
 
