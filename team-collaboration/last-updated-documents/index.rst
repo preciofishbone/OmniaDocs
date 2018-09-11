@@ -1,15 +1,15 @@
 Last Updated Documents
 ======================
 
-The Last Updated Documents block aggregates all documents that have been recently modified by someone else from all sites the user is following. 
+The Last Updated Documents control aggregates all documents that have been recently modified by someone else from all sites the user is following. 
 
-Note! The Last Updated Documents block is based on the search engine in SharePoint. It may take several minutes before an updated document is shown in the block.
+Note! The Last Updated Documents control is based on the search engine in SharePoint. It may take several minutes before an updated document is shown in the control.
 
 Last Updated Documents is often used in the Notification Panel, for example:
 
 .. image:: last-updated-documents-notification-panel.png
 
-It can also be added as a separate block. 
+It can also be added as a separate control. 
 
 Settings for the control
 *************************
@@ -35,7 +35,7 @@ On this tab, the following settings are available:
 .. Image:: custom-query-tab.png
 
 + **Exclude File Types**: Use this field if certain file types should not be displayed in the list. 
-+ **Query Template**: Search querys For advanced scenarios. One example could be fileextension:DOCX to only show docx documents.
++ **Query Template**: Search querys for advanced scenarios. One example could be "fileextension:DOCX" to only show docx documents.
 + **Title Search Property**: This property decides which Managed Search Property that should be used for the title field in the list. By default, it is set to the Managed Search Property "Title".
 + **Author Search Property**: This property decides which Managed Search Property that should be used for the modified by field in the list. By default, it is set to the Managed Search Property "Author".
 

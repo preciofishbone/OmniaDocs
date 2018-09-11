@@ -12,7 +12,7 @@ In the My Sites navigation control there are settings for the Create Site form.
 
 See this page for more information about these settings: :doc:`My Site </team-collaboration/my-sites/index>`
 
-An important aspect is if a user should be able to create a site without approval, or if approval should be needed. That is set per site template, in the Omnia Admin settings.
+An important aspect of the create site process is whether the user should be able to create the site with approval or not. That is set per site template, in the Omnia Admin settings.
 
 .. image:: site-create-border.png
 

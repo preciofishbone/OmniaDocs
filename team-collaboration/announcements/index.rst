@@ -3,11 +3,11 @@ Announcements
 
 The Announcements Control aggregates the latest non expired announcements that the user has read access to. 
 
-Announcements is often a part of the Notification Panel, for example:
+The Announcements Control is often used as part of the Notification Panel, for example:
 
 .. image:: announcements-in-notification-panel.png
 
-Announcements can also be added as a separate control.   
+The Announcements Control can also be added anywhere on a page.   
 
 Settings for the control
 ************************
@@ -18,7 +18,7 @@ When the Announcements control is added as a separate control, the following set
 The General tab
 ---------------
 + **Row Limit**: Set the maximum number of announcements to display in the list.
-+ **Day Limit**: Set the number of days for how old an announcements is allowed to be, to be shown in the list. This is based on the modified date for the announcement.
++ **Day Limit**: Set the number of days for how old an announcement is allowed to be, to be shown in the list. This is based on the modified date for the announcement.
 + **View**: Select to view the announcements in a single list, in time order or grouped by site.
 
 The Custom colors tab

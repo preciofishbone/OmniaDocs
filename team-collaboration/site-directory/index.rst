@@ -12,13 +12,13 @@ This is an important difference to the My sites list, where one list displays al
 
 An owner of a site can decide to show the site in the Site Directory even for users that has no access, using the setting "Make public in Site Directory", available in "Team Site Quick Edit".
 
-Office 365 team sites that are created with Omnia functionality are also shown in the list. Important to remember is that properties must be set when the Office 365 site is created. There's no options for editing properties for Office 365 team sites.
+Office 365 team sites that are created with Omnia site templates are also shown in the list.
 
-The user can view the list for all sites or for a certin type of site (a "type" is all sites created from a certain site template). 
+The user can view the list for all sites or for a certain type of site (a "type" is all sites created from a certain site template). 
 
 .. image:: sitedirectory-new.png
 
-The user can search for sites using part of, or the whole, names. Note that upper and lower case apply. Here's a search example for "Commun":
+The user can search for sites using the site title.
 
 .. image:: site-directory-search.png
 
@@ -30,13 +30,15 @@ In the panel opened by this menu additional information about the site can be sh
 
 .. image:: site-directory-properties2.png
 
-The properties, that can be shown here, are set for the site template, except "Title" and "Created" which is always used, and displayed as headings in the list. See this description for more information about site template properties: Site templates (link)
+The properties, that can be shown here, are set for the site template, except "Title" and "Created" which is always used, and displayed as headings in the list.
+See this description for more information about site template properties:
+:doc:`Site Templates </team-collaboration/site-templates/index>`
 
-To implement a site directory, note the following:
+To implement a Site Directory, note the following:
 
 +   The Omnia features "Omnia Site Directory" and "Omnia Site Directory Web Parts" must be active.
-+   The site directory can be added as a web part to a standard Sharepoint site or as a block to a Quick Page.
-+   The web part/block can be added to any web part zone/area, but note that the site directory requires some space.
++   The Site Directory can be added as a web part to a standard Sharepoint site or as a block to a Quick Page.
++   The web part/block can be added to any web part zone/area, but note that the Site Directory requires some space.
 
 Settings for the control
 ************************

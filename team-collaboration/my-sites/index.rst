@@ -1,31 +1,22 @@
 My Sites
 ===========================
 
-The My sites control makes it possible for the end user to navigate to all sites that the user has access to.
+The My Sites control makes it possible for an end user to navigate to all sites that the user has access to.
 
 .. image:: my-sites-b-new2.png
 
-Using the My sites quick search the user can find sites that the user has access to, based on any of the following base templates:
+Four tabs can be configured in the control:
 
-+ Team Site (STS#0)
-+ Document Workspace (STS#2)
-+ Project Site (PROJECTSITE#O)
-+ Blog (BLOG#0)
-+ Community Site (COMMUNITY#0)
-+ Wiki Site (WIKI#0)
-
-Four tabs can be available in the control:
-
-+ **FOLLOWING**: Lists all sites that the user are following.
++ **FOLLOWING**: Lists all sites that the user is following.
 + **LAST VISITED**: Lists the sites the user has visited recently.
 + **MEMBER OF**: Lists all sites the user is member of (has member access or owner access to).
-+ **ALL**: Can be used to serch for any site, available for the user.
++ **ALL**: Can be used to search for any site the user has read access to.
 
 The user can follow or unfollow a site by clicking the star, in the search result or the Last visited or Member of lists. A grey star indicates that the site is not followed and a black or colored star indicates that the user follows the site. 
 
 Two things will happen when a user follows a site:
 
-+ The site will be available as a quick link in the "Follwing" list in the My sites control.
++ The site will be available as a quick link in the "Following" tab in the My Sites control.
 + Any conversations in the newsfeed on the site will be available in the user feed on the start page.
 
 Settings for the control
@@ -54,7 +45,7 @@ On this tab you can set the following:
 
 + **Label**: Here you can set the label for "Create new site" to something else.
 + **Site Template Group**: Type the name of the template group to be used for creating new sites here, if you use more than one group. The template groups are set up in Omnia Admin when creating or editing site templates.
-+ **Link**: (A description will be added soon.)
++ **Link**: If a custom form has been created for the Create Site function, the url to the form should be put in here.
 
 The Custom colors tab
 -----------------------
@@ -64,14 +55,14 @@ You should primarily set colors through Theme colors in Omnia Admin (System/Sett
 
 My Sites Web Part/block
 ************************
-My sites can also be added to any legacy page as a web part and as a block to a Quick Page. The web part/block can be set to display either the "Following" list or the "Latest visited" list from My sites, but the user cannot stop follow sites from the list.
+My Sites can also be added to any legacy page as a web part and as a block to a Quick Page. The web part/block can be set to display either the "Following" list or the "Last Visited" list from My Sites, but the user cannot stop follow sites from the list.
 
 In this case the following settings are available:
 
 .. image:: my-sites-blocknew.png
 
 + **Heading**: You can change the heading that is displayed for the control.
-+ **Query type**: Select to display either "Following" or "Latest visited".
++ **Query type**: Select to display either "Following" or "Last Visited".
 + **Row Limit**: The maximum number of rows to display before a "Show more" link appears.
 + **Open in New Window**: Select to open in new window or not when a link (site) is clicked.
 + **Use Letter Avatar**: Select to use Letter Avatars or not. See above for examples. In the image at the top of the page letter avatars are not used. The third image is an example when avatars are on.
@@ -80,7 +71,7 @@ In this case the following settings are available:
 
 My Sites Mobile Navigation
 ***************************
-The my sites control will not be shown when the screen is below a certain width. When the my sites control is hidden, the mobile navigation will be shown. The mobile navigation includes the "Following" list from My sites, but the user cannot stop follow sites from the list.
+The My Sites control will not be shown when the screen is below a certain width. When the My Sites control is hidden, the mobile navigation will be shown. The mobile navigation includes the "Following" list from My Sites, but the user cannot stop follow sites from the list.
 
 .. image:: mysites3.png
 
