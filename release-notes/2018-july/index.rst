@@ -120,3 +120,12 @@ Bug Fixes and Small Improvements
 - In the Details tab in the Process Viewer, a link has been added to the team site where the process is stored. (Quality Management)
 - All Angular 1 dependencies have been removed from QMS. (Quality Management)
 - The design of the Process Viewer has been updated to align with the design of a web page in Omnia Intranet. (Quality Management)
+
+.. toctree::
+   :titlesonly:
+
+   2018-july-patch1/index
+   2018-july-patch2/index
+   2018-july-patch3/index
+   2018-july-patch4/index
+   2018-july-patch5/index
