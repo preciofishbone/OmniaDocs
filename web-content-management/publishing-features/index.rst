@@ -9,5 +9,4 @@ Publishing Features
    quick-poll/index
    aggregated-calendar/index
    document-rollup/index
-   people-rollup/index
    script-html/index
