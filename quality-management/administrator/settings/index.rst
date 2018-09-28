@@ -18,6 +18,6 @@ The columns contain the following information:
 + **Status**: The Status is shown here. When a user sends a feedback posting, the Status will be "New". The author handling the feedback can change the Status to "Suggestion", "In progress", "On hold" or "Closed".
 + **Date**: The Date when the user sent the feedback is shown in this column, the latest at the top. You can click the heading to sort the list with the oldest at the top.
 + **Responsible**: If someone is named as Responsible for this feedback, by any of the process authors, the name will be shown here.
-+ **Process**: For a closer look at the process, click the link here. You can even work with the feedback for the process if you have the right permissions.
++ **Process**: For a closer look at the process, click the link here. You can work with the feedback for the process if you have the right permissions, if needed.
 
 For more information about how to work with feedback for a process, see: :doc:`Deviations/Improvements </quality-management/author/deviations-improvements/index>`
