@@ -7,7 +7,7 @@ Here, an administrator can check the status of all user feedback for all process
 
 .. image:: qms-settings.png
 
-Use "Search" to search the list. Use "Type", "Status", "Responsible", "Date from" and "Date to" to filter the list. An example: If you would like to check the progress of all feedback labeled Risk, select Risk under "Type".
+Use "Search" to search the list. Use "Type", "Status", "Responsible", "Date from" and "Date to" to filter the list. An example: If you would like to check the progress of all feedback postings labeled Risk, select "Risk" under "Type".
 
 Click "Clear" to show the full list after searching or filtering. Use "Export" to export the list to an Excel file.
 
