@@ -20,4 +20,4 @@ The columns contain the following information:
 + **Responsible**: If someone is named as Responsible for this feedback, by any of the process authors, the name will be shown here.
 + **Process**: For a closer look at the process, click the link here. You can even work with the feedback for the process if you have the right permissions.
 
-For more information about how to work with the feedback, see: 
+For more information about how to work with feedback for a process, see: :doc:`Important Announcements </web-content-management/news/important-announcements/index>`
