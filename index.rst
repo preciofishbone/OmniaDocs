@@ -13,6 +13,7 @@ Topics
    introduction/index
    my-workplace/index
    team-collaboration/index
+   people-and-networking/index
    web-content-management/index
    document-management/index
    quality-management/index
