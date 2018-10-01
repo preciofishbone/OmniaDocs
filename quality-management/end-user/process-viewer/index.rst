@@ -15,11 +15,9 @@ The end users experience
 *************************
 The following options are normally available:
 
-+ **Follow**: If this option is available, users can follow a process. For more information about this, see:
-:doc:`My Processes </quality-management/end-user/my-processes/index>`
++ **Follow**: If this option is available, users can follow a process. For more information about this, see: :doc:`My Processes </quality-management/end-user/my-processes/index>`
 
-+ **Add feedback**: If this option is available, a user can send feedback about the process, see:
-:doc:`Deviations/Improvements </quality-management/author/deviations-improvements/index>`
++ **Add feedback**: If this option is available, a user can send feedback about the process, see: :doc:`Deviations/Improvements </quality-management/author/deviations-improvements/index>`
 
 + **Navigation**: If a graph is available users can normally click parts of the graph to go to a sub processes. If process images are shown, they can be used the same way (see below). Normally a navigation is also shown to the left of the graph, for example:
 
