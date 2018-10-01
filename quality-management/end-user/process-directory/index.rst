@@ -3,7 +3,7 @@ Process Directory
 
 The Process Directory control is available as a web part for legacy pages and as a block for Quick Pages.
 
-Here's how a Process list block can look for end users:
+Here's how a Process Directory block can look for end users:
 
 .. image:: process-list-end-users-new.png
 
@@ -46,7 +46,7 @@ Click "Add more filter" to add one or more filters, and then select type of filt
 
 The next step is to add details for the filter:
 
-+ **Title**: Type part of titles to filter on. Example: "Dev" would show any process that has these letters in the title, for example Develop and Development.
++ **Title**: Type part of titles to filter on. Example: "dev" would show any process that has these letters in the title, for example Develop and development.
 + **Owner": Type a full name or part of a name.
 + **Edition**: Select an edition number.
 + **Revision**: Select a revision number.
@@ -57,7 +57,7 @@ Filtering is cumulative. An example: With this list (not filtered):
 
 .. image:: process-directory-no-filter.png
 
-If you add the following filters:
+If the following filters are added:
 
 .. image:: process-directory-filter-example.png
 
