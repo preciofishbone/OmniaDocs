@@ -21,7 +21,6 @@ On this tab the following settings are available:
 
 + **Title**: Set the title for the list, that will be displayed for users.
 + **Process viewer page**: (a description will be added soon.)
-+ **Storage site URL**: (a description will be added soon.)
 + **Number of items per page**: Set the number of items to be displayed on each "page" in the list.
 + **Show filter**: Set if users should be able to filter the list. 
 + **Open process with new tab**: Set what will happen when a users clicks a process link in the list - open in new tab or new page. 
