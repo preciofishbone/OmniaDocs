@@ -47,7 +47,7 @@ Click "Add more filter" to add one or more filters, and then select type of filt
 The next step is to add details for the filter:
 
 + **Title**: Type part of titles to filter on. Example: "dev" would show any process that has these letters in the title, for example Develop and development.
-+ **Owner": Type a full name or part of a name.
++ **Owner**: Type a full name or part of a name.
 + **Edition**: Select an edition number.
 + **Revision**: Select a revision number.
 + **Revision interval**: Select a number for the interval on which to filter.
