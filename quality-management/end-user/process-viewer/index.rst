@@ -11,6 +11,20 @@ Here's an example:
 
 **Note!** This control is best suited to the main part of the page. It will need space.
 
+The end users experience
+*************************
+The following options are normally available:
+
++ **Follow**: If this option is available, users can follow a process. For more information about this, see: :doc:`My Processes </quality-management/end-user/my-processes/index>`
+
++ ** Add feedback**: If this option is available, a user can send feedback about the process, see: :doc:`Deviations/Improvements </quality-management/author/deviations-improvements/index>`
+
++ ** Navigation**: If a graph is available users can normally click parts of the graph to go to a sub processes. If process images are shown, they can be used the same way (see below). Normally a navigation is also shown to the left of the graph, for example:
+
+.. image:: navigation-example.png
+
++ **Description**: A description of the process, or sub process, is shown on this tab. This tab is normally active when the page is first shown.
+
 Document templates for users
 ****************************
 The process can be set up so that users can just not read documents, but also create documents from one or more templates. If creating a document is possible, the "Create Document" link will be shown. Here's an example:
