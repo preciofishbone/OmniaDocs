@@ -7,9 +7,21 @@ This control is used to display the process for end users, where they can naviga
 
 Here's an example:
 
-.. image:: qms-viewer-example.png
+.. image:: process-viewer-new.png
 
 **Note!** This control is best suited to the main part of the page. It will need space.
+
+Document templates for users
+****************************
+The process can be set up so that users can just not read documents, but also create documents from one or more templates. If creating a document is possible, the "Create Document" link will be shown. Here's an example:
+
+.. image:: create-document-link.png
+
+The Create Document Wizard will be used in such a case, for example:
+
+.. image:: create-new-document-example.png
+
+More information about the Create Document Wizard is found here: :doc:`Create Document Wizard </document-management/end-user/create-document-wizard/index>`
 
 Settings for the control
 *************************
