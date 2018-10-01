@@ -3,7 +3,9 @@ Settings
 
 The author(s) of a process can handle user feedback on the tab "Deviation/Improvement", when working with the process.
 
-Here, an administrator can check the status of all user feedback for all processes in the tenant, to make sure that feedback postings are beeing handled. The columns "Status" and "Date" are two important columns to check in that respect, see below.
+Here, an administrator can check the status of feedback for processes in the tenant, to make sure that feedback postings are beeing handled. The columns "Status" and "Date" are two important columns to check in that respect, see below.
+
+**Note!** The administrator needs to have at least read access, for the process to show up in the list here. 
 
 .. image:: qms-settings.png
 
