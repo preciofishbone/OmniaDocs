@@ -24,7 +24,7 @@ On this tab the following settings are available:
 + **Number of items per page**: Set the number of items to be displayed on each "page" in the list.
 + **Show filter**: Set if users should be able to filter the list. 
 + **Open process with new tab**: Set what will happen when a users clicks a process link in the list - open in new tab or new page.
-+ **Sort Property**: ????????
++ **Sort Property**: (A description will be added soon.)
 
 The Columns tab
 ------------------
@@ -36,9 +36,36 @@ You can set the column order and set an exact width for the column (default: Aut
 
 The Filters tab
 ------------------
-This tab is used to set filter options if just some of the avilable processes should be displayed in this list.
+This tab is used to set filter options if just some of the available processes should be displayed in this list.
 
 .. image:: process-directory-filters.png
+
+Click "Add more filter" to add one or more filters, and then select type of filter from the list, for example:
+
+.. image:: process-directory-select-filter.png
+
+The next step is to add details for the filter:
+
++ **Title**: Type part of titles to filter on. Example: "Dev" would show any process that has these letters in the title, for example Develop and Development.
++ **Owner": Type a full name or part of a name.
++ **Edition**: Select an edition number.
++ **Revision**: Select a revision number.
++ **Revision interval**: Select a number for the interval on which to filter.
++ **Tags**: Select one or more of the available tags.
+
+Filtering is cumulative. An example: With this list (not filtered):
+
+.. image:: process-directory-no-filter.png
+
+If you add the following filters:
+
+.. image:: process-directory-filter-example.png
+
+The result could be this list:
+
+.. image:: process-directory-filtered.png
+
+To be shown in this filtered list, a process must contain dev or Dev in the title, AND be tagged with HR.
 
 The Custom Colors tab
 -----------------------
