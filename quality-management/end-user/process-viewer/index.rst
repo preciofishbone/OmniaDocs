@@ -63,7 +63,7 @@ On this tab the following settings are available:
 
 .. image:: process-viewer-settings-general-new.png
 
-+ **Selected Published Process**: Add the name for the process to be shown here. When you start typing the processes that corresponds with what you have typed so far is shown in a list. You can then select from the list or continue typing.
++ **Selected published process**: Add the name for the process to be shown here (As the heading says, the process must be published). When you start typing, the processes that corresponds with what you have typed so far is shown in a list. You can then select from the list or continue typing.
 + **Process step breadcrumb setting**: Decide to show the process steps in the breadcrumb or not. (Default=Show.)
 + **Start link**: (a description will be added soon.)
 
