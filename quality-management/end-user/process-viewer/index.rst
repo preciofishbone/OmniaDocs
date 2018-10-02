@@ -74,7 +74,7 @@ Here you can set the following:
 .. image:: process-viewer-graph-new.png
 
 + **Auto expand child item when selected parent**: (a description will be added soon.)
-+ **Display**: (a description will be added soon.)
++ **Display**: If no graphs should be shown for this process, select this box.
 
 The Left navigation tab
 ------------------------
