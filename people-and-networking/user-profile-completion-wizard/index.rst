@@ -6,3 +6,10 @@ User Profile Completion Wizard
 
    setup/index
 
+The user profile
+
+.. image:: myprofile-block.png
+
+
+
+
