@@ -61,12 +61,11 @@ The General tab
 -------------------
 On this tab the following settings are available:
 
-.. image:: process-viewer-settings-general.png
+.. image:: process-viewer-settings-general-new.png
 
-+ **Published process id**: Enter the process id for the process to be displayed. This id will be found in the authoring site.
++ **Selected Published Process**: Add the name for the process to be shown here. When you start typing the processes that corresponds with what you have typed so far is shown in a list. You can then select from the list or continue typing.
 + **Process step breadcrumb setting**: Decide to show the process steps in the breadcrumb or not. (Default=Show.)
 + **Start link**: (a description will be added soon.)
-+ **Show Controlled Documents**: (a description will be added soon.)
 
 The Graph tab
 -----------------
