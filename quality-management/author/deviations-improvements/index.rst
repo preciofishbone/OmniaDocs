@@ -13,6 +13,9 @@ When a process is edited, all feedback concerning that process, is available on 
 
 .. image:: qms-improvement.png
 
+Working with deviations/improvements
+************************************
+
 A feedback post can be handled here, information and actions added and history viewed:
 
 .. image:: qms-improvment-settings.png
