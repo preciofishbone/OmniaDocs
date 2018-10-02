@@ -27,6 +27,8 @@ The following options are normally available:
 
 + **Documents**: If integrated with Omnia Document Management, a "Documents" tab will be shown. Controlled Documents published to a process will then be listed where appropriate, so that users can read these documents. 
 
+.. image:: process-with-documents.png
+
 Furthermore, the process can be set up so that users can just not read documents, but also create documents from one or more templates. If creating a document is possible, the "Create Document" link will be shown. Here's an example with both documents and a template:
 
 .. image:: create-document-link.png
@@ -36,6 +38,15 @@ When a user creates a document from the template (clicks the link by the templat
 .. image:: create-new-document-example.png
 
 More information about the Create Document Wizard is found here: :doc:`Create Document Wizard </document-management/end-user/create-document-wizard/index>`
+
++ **Tools**: Process authors can publish tools to be used by users. It can for example be useful links or documents. Documents available under this tab can not be controlled documents, but are useful if, for example, Omina QMS is not integrated with Omnia Document Management. Here's an example:
+
+.. image:: process-tools.png
+
++ **Details**: On the "Details" tab more information about the process is shown, for example owner, edition, revision, and when the process weas last edited. Here's an example:
+
+.. image:: process-details.png
+
 
 Settings for the control
 *************************
