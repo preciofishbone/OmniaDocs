@@ -47,6 +47,12 @@ More information about the Create Document Wizard is found here: :doc:`Create Do
 
 .. image:: process-details.png
 
++ **Tasks**: A process author can also add a list of tasks taht should be completed for a process step. If any tasks are added, a "Tasks" tab will be shown, for example:
+
+.. image:: process-tasks.png
+
+This image is also a godd example of when a process author has added images to illustrate the process steps necessary. Users can click the images to get information about each steps and, depending on what is available, tabs, as described above, can be available.
+
 Settings for the control
 *************************
 The settings are organized in four tabs, see the sections below.
