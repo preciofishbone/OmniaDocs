@@ -55,7 +55,7 @@ This image is also a good example of when a process author has added images to i
 
 Settings for the control
 *************************
-The settings are organized in four tabs, see the sections below.
+The settings are organized in five tabs, see the sections below.
 
 The General tab
 -------------------
@@ -71,7 +71,7 @@ The Graph tab
 -----------------
 Here you can set the following:
 
-.. image:: process-viewer-graph.png
+.. image:: process-viewer-graph-new.png
 
 + **Auto expand child item when selected parent**: (a description will be added soon.)
 + **Display**: (a description will be added soon.)
@@ -80,13 +80,18 @@ The Left navigation tab
 ------------------------
 Use this tab to set if left navigation should be available (Default: Show), and if all nodes or just the current should be shown (Default: Current).
 
-.. image:: qms-viewer-left-navigation.png
+.. image:: process-viewer-leftnavigation-new.png
+
+Team Site
+----------
+Use this tab to select if task plannings should be enabled.
+
+.. image:: process-viewer-teamsite.png
 
 The Custom Colors tab
 -----------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-.. image:: process-viewer-colors.png
-
+.. image:: process-viewer-customcolors-new.png
 
 (Not all options are shown in the image.)
