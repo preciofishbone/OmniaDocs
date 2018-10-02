@@ -39,14 +39,13 @@ When a user creates a document from the template (clicks the link by the templat
 
 More information about the Create Document Wizard is found here: :doc:`Create Document Wizard </document-management/end-user/create-document-wizard/index>`
 
-+ **Tools**: Process authors can publish tools to be used by users. It can for example be useful links or documents. Documents available under this tab can not be controlled documents, but are useful if, for example, Omina QMS is not integrated with Omnia Document Management. Here's an example:
++ **Tools**: Process authors can publish tools to be used by users. It can for example be useful links or documents. Documents available under this tab can not be controlled documents, but it can be useful to make documents available on this tab if, for example, Omina QMS is not integrated with Omnia Document Management. Here's an example of links available on the "Tools" tab:
 
 .. image:: process-tools.png
 
 + **Details**: On the "Details" tab more information about the process is shown, for example owner, edition, revision, and when the process weas last edited. Here's an example:
 
 .. image:: process-details.png
-
 
 Settings for the control
 *************************
