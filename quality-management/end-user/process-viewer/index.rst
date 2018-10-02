@@ -25,15 +25,13 @@ The following options are normally available:
 
 + **Description**: A description of the process, or sub process, is shown on this tab. This tab is normally active when the page is first shown.
 
-(More will be added here very soon.)
++ **Documents**: If integrated with Omnia Document Management, a "Documents" tab will be shown. Controlled Documents published to a process will then be listed where appropriate, so that users can read these documents. 
 
-Document templates for users
-****************************
-The process can be set up so that users can just not read documents, but also create documents from one or more templates. If creating a document is possible, the "Create Document" link will be shown. Here's an example:
+Furthermore, the process can be set up so that users can just not read documents, but also create documents from one or more templates. If creating a document is possible, the "Create Document" link will be shown. Here's an example with both documents and a template:
 
 .. image:: create-document-link.png
 
-The Create Document Wizard will be used in such a case, for example:
+When a user creates a document from the template (clicks the link by the template), the Create Document Wizard will be used, for example:
 
 .. image:: create-new-document-example.png
 
