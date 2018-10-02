@@ -84,7 +84,7 @@ Use this tab to set if left navigation should be available (Default: Show), and 
 
 Team Site
 ----------
-Use this tab to select if task plannings should be enabled.
+Use this tab to select if task planning should be enabled.
 
 .. image:: process-viewer-teamsite.png
 
