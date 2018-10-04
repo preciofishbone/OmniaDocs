@@ -24,7 +24,7 @@ On this tab the following settings are available:
 + **Scope**: The most common setting for the scope is "All sites". If "Current site" is selected, all processes (and only these) that exists in the current site will be available in the list.
 + **Number of items per page**: Set the number of items to be displayed on each "page" in the list.
 + **Show filter**: Set if users should be able to filter the list. 
-+ **Open process with new tab**: Set what will happen when a users clicks a process link in the list - open in new tab or new page.
++ **Open process with new tab**: Set what will happen when a user clicks a process link in the list - open in new tab or new page.
 + **Sort Property**: This field needs to contain a sort property, see example in the above image.
 
 The Columns tab
