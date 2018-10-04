@@ -52,7 +52,7 @@ The next step is to add details for the filter:
 + **Edition**: Select an edition number.
 + **Revision**: Select a revision number.
 + **Revision interval**: Select a number for the interval on which to filter.
-+ **Tags**: Select one or more of the available tags. (Available tags are set up centrally, see :doc:`Setup Quality Management </quality-management/setup-quality-management/index>`
++ **Tags**: Select one or more of the available tags. (Available tags are set up centrally, see :doc:`Setup Quality Management </quality-management/setup-quality-management/index>`.)
 
 Filtering is cumulative. An example: With this list (not filtered):
 
