@@ -21,7 +21,7 @@ On this tab the following settings are available:
 
 + **Title**: Set the title for the list, that will be displayed for users.
 + **Process viewer page**: The address to the actual page that was set up for the Process viewer is added to this field.
-+ **Scope**: The most common setting for the scope is "All sites". If "Current site" is selected, all processes (and only these) that exists in the current site are available ine the list.
++ **Scope**: The most common setting for the scope is "All sites". If "Current site" is selected, all processes (and only these) that exists in the current site will be available in the list.
 + **Number of items per page**: Set the number of items to be displayed on each "page" in the list.
 + **Show filter**: Set if users should be able to filter the list. 
 + **Open process with new tab**: Set what will happen when a users clicks a process link in the list - open in new tab or new page.
