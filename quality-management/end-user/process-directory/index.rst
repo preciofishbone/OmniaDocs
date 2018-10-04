@@ -17,14 +17,15 @@ The General tab
 -------------------
 On this tab the following settings are available:
 
-.. image:: process-directory-settings.png
+.. image:: process-directory-settings-general.png
 
 + **Title**: Set the title for the list, that will be displayed for users.
-+ **Process viewer page**: (a description will be added soon.)
++ **Process viewer page**: The address to the actual page that was set up for the Process viewer is added to this field.
++ **Scope**: The most common setting for the scope is "All sites". If "Current site" is selected, all processes (and only these) that exists in the current site are available ine the list.
 + **Number of items per page**: Set the number of items to be displayed on each "page" in the list.
 + **Show filter**: Set if users should be able to filter the list. 
 + **Open process with new tab**: Set what will happen when a users clicks a process link in the list - open in new tab or new page.
-+ **Sort Property**: (A description will be added soon.)
++ **Sort Property**: This field needs to contain a sort property, see example in the above image.
 
 The Columns tab
 ------------------
@@ -51,7 +52,7 @@ The next step is to add details for the filter:
 + **Edition**: Select an edition number.
 + **Revision**: Select a revision number.
 + **Revision interval**: Select a number for the interval on which to filter.
-+ **Tags**: Select one or more of the available tags.
++ **Tags**: Select one or more of the available tags. (Available tags are set up centrally, see :doc:`Setup Quality Management </quality-management/setup-quality-management/index>`
 
 Filtering is cumulative. An example: With this list (not filtered):
 
