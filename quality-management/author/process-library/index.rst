@@ -144,7 +144,7 @@ Any related document is listed on this tab. To relate a new document, click the 
 
 Use this dialog to find and select documents (note the "Add" button at the bottom, not shown in the image):
 
-.. image:: process-library-documents-likst.png
+.. image:: process-library-documents-list.png
 
 The Tools tab
 -----------------
