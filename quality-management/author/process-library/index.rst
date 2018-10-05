@@ -24,7 +24,7 @@ Use the following options to filter the list and more:
 Note that these filters are cumulative. An example: if you filter on a process name and a tag, a process must contain the letters in the name AND be tagged with the tag you have chosen, to be shown in the list.
 
 + **Clear**: Use this button the clear filters and show the full list.
-+ ** New**: Create a new process by using this button. See below for more information.
++ **New**: Create a new process by using this button. See below for more information.
 + **Archived processes**: To see the list of archived processes, click this link. See below for more information.
 
 Navigating between processes
@@ -49,15 +49,15 @@ The following is shown:
 
 If you choose to use a custom image, browse for the image and select it using the Omnia Image Browser.
 
-5. Click Create.
+5. Click "Create".
 
 Important note on custom images
 -------------------------------
-A custom process image with image maps will have a draft and a published status. The images are stored in the local team site, not in a global image bank (but can be uploaded to the process from any source available).
+A custom process image with image maps will have a draft status and a published status. The images are stored in the local team site, not in a global image bank (but can be uploaded to the process from any source available).
 
-When editing a process, a new image can be uploaded to replace the existing custom image. The image maps will remain in place (but can of course be edited).
+When editing a process, a new image can be uploaded to replace the existing custom image. The image maps will remain in place, but can of course be edited.
 
-When a custom image is replaced, you always need to  publish for end users to see the changes.
+When a custom image is replaced, you always need to  publish to make the changes visible for end users.
 
 Archived processes
 *******************
@@ -71,7 +71,7 @@ Here's an example of a list of archived processes:
 
 .. image:: archived-processes.png
 
-You can search the list and sort it by using the headings. A process can be restored by clicking the icon to the far right, and thus be available in the main list.
+You can search the list and sort it by using the headings. A process can be restored by clicking the icon to the far right, and thus be available in the main list for editing and publishing.
 
 .. image:: restore-archived.png
 
