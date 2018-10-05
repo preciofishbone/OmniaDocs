@@ -27,9 +27,9 @@ Note that these filters are cumulative. An example: if you filter on a process n
 + **New**: Create a new process by using this button. See below for more information.
 + **Archived processes**: To see the list of archived processes, click this link. See below for more information.
 
-Navigating between processes
+Navigate between processes
 *****************************
-When you have selected a process you can go back to the main list by selecting "All processes" and you can go to another process by selecting it in the list to the left. Here's an example:
+When you have selected a process you can go back to the main list by selecting "All processes" in the upper left corner and you can go to another process by selecting it in the list to the left. Here's an example:
 
 .. image:: process-library-navigating.png
 
