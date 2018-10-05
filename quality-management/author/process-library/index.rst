@@ -84,7 +84,7 @@ You edit a newly created process and an existing one the same way. Note that acc
 1. Open the process from the list, if it's not already open.
 2. Click "Edit".
 
-.. image:: edit-process-1-newer.png
+.. image:: edit-process-1-newest.png
 
 The Graph tab
 --------------
