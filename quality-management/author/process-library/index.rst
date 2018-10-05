@@ -165,7 +165,7 @@ The list of documents, if any, is shown. If the document isn't uploaded to the t
 
 4. As the last step, click "Add" to add the document to the tools list.
 
-.. image:: process-library-documents-list.png
+.. image:: document-click-add.png
 
 To add a link to anything (for example a page in Omnia, or an internet page) you can reach thorugh a link, select "Custom link" and add the Url, A Title (name for the link), and select to open the link in new window or not, and click "Add".
 
