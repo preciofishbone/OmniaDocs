@@ -5,7 +5,7 @@ The Process library is where members of the team site creates new processes and 
 
 .. image:: processes-library-new.png
 
-Here is some short information on how to do that.
+Here is some basic information on how to do that.
 
 Create a new process
 **********************
