@@ -79,16 +79,12 @@ You can search the list and sort it by using the headings. A process can be rest
 
 Edit a process
 ****************
-You edit a newly created process and an existing one the same way. Note that access mode is read only until you click "Edit". You can browse just some of the tabs in read-only mode. 
+You edit a newly created process and an existing one the same way. Note that access mode is read only until you click "Edit". 
 
 1. Open the process from the list, if it's not already open.
 2. Click "Edit".
 
 .. image:: edit-process-1-newer.png
-
-Edit access mode is activated and some more tabs are shown:
-
-.. image:: edit-mode-new.png
 
 The Graph tab
 --------------
