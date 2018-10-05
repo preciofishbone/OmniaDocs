@@ -84,11 +84,11 @@ You edit a newly created process and an existing one the same way. Note that acc
 1. Open the process from the list, if it's not already open.
 2. Click "Edit".
 
-.. image:: edit-process-1-new.png
+.. image:: edit-process-1-newer.png
 
 Edit access mode is activated and some more tabs are shown:
 
-.. image:: edit-mode.png
+.. image:: edit-mode-new.png
 
 The Graph tab
 --------------
@@ -96,9 +96,13 @@ Use this tab to work with the graphical presentation.
 
 To add a new process step, do the following:
 
-1. Click "Add new process step" - the plus - in any step where you want to create a new step.
+1. Click "Add process step"
 
-.. image:: add-new-step.png
+.. image:: add-process-step-graph.png
+
+or "Add new process step" - the plus - in any step where you want to create a new step.
+
+.. image:: add-new-step-new.png
 
 The following is shown:
 
