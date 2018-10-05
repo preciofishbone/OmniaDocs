@@ -142,7 +142,9 @@ Any related document is listed on this tab. To relate a new document, click the 
 
 .. image:: process-library-documents.png
 
-Use this dialog to find and select documents (note the "Add" button at the bottom, not shown in the image).
+Use this dialog to find and select documents (note the "Add" button at the bottom, not shown in the image):
+
+.. image:: process-library-documents-likst.png
 
 The Tools tab
 -----------------
@@ -155,9 +157,7 @@ Do the following to link to a document:
 1. Select "Document" from the list.
 2. Click "Browse".
 
-The list of documents, if any, is shown (in this example none):
-
-.. image:: process-library-tools-documents.png
+The list of documents, if any, is shown. If the document isn't uploaded to the team site:
 
 3. Click "Upload Document" and upload the document you want to add to Tools, if needed, and then select the document.
 
