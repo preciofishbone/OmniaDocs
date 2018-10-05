@@ -5,7 +5,9 @@ The Process library is where members of the team site creates new processes and 
 
 .. image:: processes-library-new.png
 
-Here is some basic information on how to do that.
+A published process is made available through a Process Viewer, see :doc:`Process Viewer </quality-management/end-user/process-viewer/index>`
+
+Published processes can also be made available through a Process Directory, see :doc:`Process Directory </quality-management/end-user/process-directory/index>`
 
 Create a new process
 **********************
