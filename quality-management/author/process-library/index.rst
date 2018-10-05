@@ -121,7 +121,7 @@ On this tab you can set the following:
 
 The Deviation/Improvement tab
 ------------------------------
-Users can add feedback to processes, via the Process Viewer, and tag them as Improvement, Deviation or Risk. These feedback posts are shown and can be handled on this tab.
+If set up, users can send feedback to a process, via the link "Feedback" in the Process Viewer, and tag the posting as Improvement, Deviation or Risk. These feedback posts are shown and can be handled on this tab.
 
 .. image:: deviation-tab.png
 
