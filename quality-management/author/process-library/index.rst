@@ -3,11 +3,35 @@ Process Library
 
 The Process library is where members of the team site creates new processes and edit existing ones, and where processes are published so others can see them. 
 
-.. image:: processes-library-new.png
+.. image:: processes-library-overall-new.png
 
 A published process is made available through a Process Viewer, see :doc:`Process Viewer </quality-management/end-user/process-viewer/index>`
 
 Published processes can also be made available through a Process Directory, see :doc:`Process Directory </quality-management/end-user/process-directory/index>`
+
+All processes
+*************
+The main list (see image above) displays a list of all processes in this process library. Click any process for details or to start editing the process.
+
+You can click the headings "Name", "Edition", "Revision", "Modified" and "Owner" to switch between ascending and descending sort order.
+
+Use the following options to filter the list and more:
+
++ **Search**: Filter the list by process names. All processes that contain the letters you have entered, somewhere in the process name, are shown.
++ **Owner**: Filter the list on an owners name.
++ **Tags**: Filter the list on one or more of the available tags.
+
+Note that these filters are cumulative. An example: if you filter on a process name and a tag, a process must contain the letters in the name AND be tagged with the tag you have chosen, to be shown in the list.
+
++ **Clear**: Use this button the clear filters and show the full list.
++ ** New**: Create a new process by using this button. See below for more information.
++ **Archived processes**: To see the list of archived processes, click this link. See below for more information.
+
+Navigating between processes
+*****************************
+When you have selected a process you can go back to the main list by selecting "All processes" and you can go to another process by selecting it in the list to the left. Here's an example:
+
+.. image:: process-library-navigating.png
 
 Create a new process
 **********************
@@ -34,6 +58,22 @@ A custom process image with image maps will have a draft and a published status.
 When editing a process, a new image can be uploaded to replace the existing custom image. The image maps will remain in place (but can of course be edited).
 
 When a custom image is replaced, you always need to  publish for end users to see the changes.
+
+Archived processes
+*******************
+A process that no longer is used can be archived, so it's not shown in the main list. Use the "Archive" button when editing the process.
+
+.. image:: archive-button.png
+
+A list of archived processes can be reached by clicking the link "Archived processes" in the main list, see above.
+
+Here's an example of a list of archived processes:
+
+.. image:: archived-processes.png
+
+You can search the list and sort it by using the headings. A process can be restored by clicking the icon to the far right, and thus be available in the main list.
+
+.. image:: restore-archived.png
 
 Edit a process
 ****************
