@@ -169,7 +169,7 @@ The list of documents, if any, is shown. If the document isn't uploaded to the t
 
 To add a link to anything (for example a page in Omnia, or an internet page) you can reach thorugh a link, select "Custom link" and add the Url, A Title (name for the link), and select to open the link in new window or not, and click "Add".
 
-.. image:: process-library-tools-custom.png
+.. image:: process-library-tool-custom.png
 
 To add headings, if nedded, select "Heading, type the heading in the field, and click "Add".
 
