@@ -116,7 +116,7 @@ The following is shown (some options may not be shown, depending on where in the
 
 You can reorder the process graph if needed. Select the menu to the right:
 
-.. image:: select-reorder.png
+.. image:: select-reorder-new.png
 
 Choose what you want to do:
 
