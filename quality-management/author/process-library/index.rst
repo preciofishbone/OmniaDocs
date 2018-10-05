@@ -122,7 +122,7 @@ The General tab
 ------------------
 On this tab you can set the following:
 
-.. image:: general-tab.png
+.. image:: process-library-general.png
 
 + **Name**: Edit the Process Name here if needed.
 + **Owner**: Edit process owner(s) here if needed. Note that process owners is separate from site owners. 
@@ -132,7 +132,7 @@ The Content tab
 -----------------
 Here you add/edit the description for the process. Note the format options. You can also insert images, links and tables.
 
-.. image:: content-tab.png
+.. image:: process-library-content.png
 
 The Related Documents tab
 --------------------------
@@ -140,17 +140,48 @@ If Omnia Document Managament is installed in the current tenant, editors of cont
 
 Any related document is listed on this tab. To relate a new document, click the button.
 
-.. image:: related-documents.png
+.. image:: process-library-documents.png
 
 Use this dialog to find and select documents (note the "Add" button at the bottom, not shown in the image).
 
-.. image:: relate-documents.png
-
 The Tools tab
 -----------------
-Use this tab to link to documents, pages and more. It's very similar to using the Links tab for a publishing page in Omnia.
+Use this tab to link to documents. You can also link to pretty much everything, for example pages, bya adding custom links. In i long tools list, you can add headings for separate sections, to make it easier for user to navigate.
 
-.. image:: tools-tab.png
+.. image:: process-library-tools.png
+
+Do the following to link to a document:
+
+1. Select "Document" from the list.
+2. Click "Browse".
+
+The list of documents, if any, is shown (in this example none):
+
+.. image:: process-library-tools-documents.png
+
+3. Click "Upload Document" and upload the document you want to add to Tools, if needed, and then select the document.
+
+.. image:: process-library-toools-document-select.png
+
+4. As the last step, click "Add" to add the document to the tools list.
+
+.. image:: process-library-documents-list.png
+
+To add a link to anything (for example a page in Omnia, or an internet page) you can reach thorugh a link, select "Custom link" and add the Url, A Title (name for the link), and select to open the link in new window or not, and click "Add".
+
+.. image:: process-library-tools-custom.png
+
+To add headings, if nedded, select "Heading, type the heading in the field, and click "Add".
+
+.. image:: process-library-heading.png
+
+To delete a tool, click the document, link or heading, and select the dust bin.
+
+..image:: process-library-tools-delete.png
+
+If you would like the tools shown in another order, just use drag and drop.
+
+Don't forget to save before you go on to another tab.
 
 The Advanced tab
 -------------------
