@@ -69,7 +69,7 @@ History
 --------
 History for the actions on this feedback is listed on this tab.
 
-.. image:: feedback-history.png
+.. image:: deviations-history-new.png
 
 
 
