@@ -30,6 +30,17 @@ On this tab, the following options are available:
 
 .. image:: feedback-information.png
 
+Use the options this way:
+
++ **Title**: What you see is the title the user added when sending the feedback. Change the title if needed.
++ **Type**: When sending the feedback, the user entered a type. You can change th type here if needed.
++ **Description**: When sending the feedback, the user entered a description. You can edit or add to the description, if needed.
++ **Status**: Status should be changed as the work with the feedback post progresses. When the user sends the feedback, the status is always "New". Status can be changed to "Suggestion", "In progress", "On hold" and "Finished". Note that as feedback postings are visible in a list in Omnia Admin as well, changing status is a great way to show that the feedback is actually dealt with.
++ **Responsible**: When some of the Process Authors has started working on a feedback post, it is a good idea to enter a name in this field so that others can see who's responsible for this feedback post.
++ **Attach files**: Files can be attached using this button. It can be any type of file.
++ **Confidential**: (A description will be added soon.)
++ **Associate process step**: (A description will be added soon.)
++ **Delete**: This feedback post can be deleted, if needed, using this button.
 
 Actions
 --------
@@ -37,7 +48,22 @@ Use this tab to add and edit actions for the feedback.
 
 .. image:: feedback-actions.png
 
+To specify any actions that has taken place or will be needed, click "Add action" and specify using these fields:
 
+.. image:: feedback-actions-add-action.png
+
++ **Title**: Add a title for the action.
++ **Responsible**: The person responsible for the action can be named here.
++ **Due date**: Specify a Due date for the action, if needed.
++ **Status**: Here you can note the status for the action as the work progresses. Status can be "New", "Active", "Done", "On hold" or "Closed".
++ **Description**: Here you can type a description about what this action is about. Note the format options and note that you can add images, links and tabled.
++ **OK**: Click OK to save the action.
+
+Active actions as shown in the list of actions this way:
+
+.. image:: feedback-actions-saved.png
+
+To edit an action, just click on it and the sam fields as decribed above will be available.
 
 History
 --------
