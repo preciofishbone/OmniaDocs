@@ -104,10 +104,9 @@ The following is shown (some options may not be shown, depending on where in the
 
 .. image:: add-process-step-new.png
 
++ **Type**: Type can be Process or Activity. When you select "Process", a second list, where you can choose to create a new Process, a Sub Process, or a Linked Process, is shown. 
 
-+ **Type**: Type can be Process or Activity. When you select "Process", a second list, where you can choose to create a new Process, a Sub Process, or a Linked Process. 
-
-.. image:: add-process-step-subprocess.png
+.. image:: add-process-step-subprocess-border.png
 
 "Activity" is the end of the process or sub process, where you add actions. For an Activity you select which shape to use. When you select "Linked process" you add the link to that process.
 + **Name**: Enter a name for the step here.
