@@ -13,16 +13,16 @@ When a process is edited, all feedback concerning that process, is available on 
 
 .. image:: qms-improvement-new.png
 
+You can use the link to the right to export the list to Excel. You can click the headings to change between ascending and descenading sorting.
+
+You can also add feedback youreslf, for example if you have got feedback som other way than through the system. Just click "New" ad use the tabs as described below.
+
 Working with deviations/improvements
 ************************************
 
 A feedback post can be handled here, information and actions added and history viewed:
 
 .. image:: qms-improvment-settings.png
-
-You can use the link to the right to export the list to Excel. You can click the headings to change between ascending and descenading sorting.
-
-You can also add feedback youreslf, for example if you have got feedback som other way than through the system. Just click "New" ad use the tabs as described below.
 
 When editing feedback, you work with three tabs, se the sections below.
 
