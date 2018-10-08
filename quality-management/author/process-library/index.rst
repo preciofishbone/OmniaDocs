@@ -181,7 +181,7 @@ To add headings, if nedded, select "Heading, type the heading in the field, and 
 
 To delete a tool, click the document, link or heading, and select the dust bin.
 
-..image:: process-library-tools-delete.png
+.. image:: process-library-tools-delete.png
 
 If you would like the tools shown in another order, just use drag and drop.
 
