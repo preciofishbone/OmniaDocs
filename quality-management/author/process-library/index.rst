@@ -109,6 +109,7 @@ The following is shown (some options may not be shown, depending on where in the
 .. image:: add-process-step-subprocess-border.png
 
 "Activity" is the end of the process or sub process, where you add actions. For an Activity you select which shape to use. When you select "Linked process" you add the link to that process.
+
 + **Name**: Enter a name for the step here.
 + **Shape**: Select shape for the process step here. For a "Sub Process" you can choose to use to use Shapes or a Custom image. A sub process can have other sub processes, activities or links to other processes.
 + **Position**: Select position for the new step, in relation to the step where you selected to create the new step - After, Before or Parallell.
