@@ -63,7 +63,7 @@ Active actions as shown in the list of actions this way:
 
 .. image:: feedback-actions-saved.png
 
-To edit an action, just click on it and the sam fields as decribed above will be available.
+To edit an action, just click on it and the same fields as decribed above will be available.
 
 History
 --------
