@@ -201,7 +201,10 @@ On this tab you can set the following:
 
 Review processes
 -----------------
-To see a list of processes that is nearing their review times, open Omnia Admin and select "Process Management" under "Site Collection".
+To see a list of processes that is nearing their review times, do the following:
+
+1. Go to a ite where a Process Library is installed.
+2. Open Omnia Admin and select "Process Management" under "Site Collection".
 
 .. image:: process-review-process-management.png
 
@@ -209,11 +212,9 @@ Then select "Review". Here's an example of a Review list:
 
 .. image:: process-review-list.png
 
-Use the fields at the top to filter the list.
+Use the fields at the top to filter the list. Use "Clear" to clear filtering and see the whole list. Use "Export" to export the list that is shown, to Excel.
 
-Use "Clear" to clear filtering and see the whole list. Use "Export" to export the list that is shown, to Excel.
-
-Also note thet you can click the headings to change sorting between ascending and descending.
+Also note that you can click the headings to change between ascending and descending sorting.
 
 The Deviation/Improvement tab
 ------------------------------
