@@ -20,5 +20,8 @@ A feedback post can be handled here, information and actions added and history v
 
 .. image:: qms-improvment-settings.png
 
+You work with three tabs, se the sections below.
+
+
 
 
