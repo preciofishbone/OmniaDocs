@@ -129,3 +129,4 @@ Bug Fixes and Small Improvements
    2018-july-patch3/index
    2018-july-patch4/index
    2018-july-patch5/index
+   2018-july-patch6/index
