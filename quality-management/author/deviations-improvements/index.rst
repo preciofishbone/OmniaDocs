@@ -59,7 +59,7 @@ To specify any actions that has taken place or will be needed, click "Add action
 + **Description**: Here you can type a description about what this action is about. Note the format options and note that you can add images, links and tabled.
 + **OK**: Click OK to save the action.
 
-Active actions as shown in the list of actions this way:
+Active actions are shown in the list of actions this way:
 
 .. image:: feedback-actions-saved.png
 
