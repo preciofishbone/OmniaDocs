@@ -22,15 +22,11 @@ To work with a feedback post, just click the link.
 Working with deviations/improvements
 ************************************
 
-A feedback post can be handled here, information and actions added and history viewed:
-
-.. image:: qms-improvment-settings.png
-
 When editing feedback, you work with three tabs, se the sections below.
 
 Information
 ------------
-On this tab,, the following options are available:
+On this tab, the following options are available:
 
 .. image:: feedback-information.png
 
