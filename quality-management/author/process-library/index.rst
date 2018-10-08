@@ -183,7 +183,7 @@ To delete a tool, click the document, link or heading, and select the dust bin.
 
 .. image:: process-library-tools-delete.png
 
-If you would like the tools shown in another order, just use drag and drop.
+If you would like the tools to be shown in another order, just use drag and drop.
 
 Don't forget to save before you go on to another tab.
 
