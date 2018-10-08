@@ -196,8 +196,20 @@ On this tab you can set the following:
 + **Tags**: Add tags for the process. This is a metadata list. You can select tags from the list, you can not create new tags here. The tags are important for search. (Available tags are set up centrally, see :doc:`Setup Quality Management </quality-management/setup-quality-management/index>`.)
 + **Show in Process Directory**: Decide if the process could be shown in a possible Process Directory or not (Default: Show).
 + **Process Site Template**: You can create a "Process Site Template" from this process. You can then create a new team site based on this process. Documents you link to and actions you add here will then be set up in the team site created from this template process.
-+ **Review interval**: Set Review interval. When a published process is nearing it's reviewal time, it will be part of the revewial list in Omnia Admin.
++ **Review interval**: Set Review interval. When a published process is nearing it's reviewal time, it will be part of the revewial list in Omnia Admin. (See more information about Review below).
 + **Change comment**: Here you can add a comment about the latest changes for this process.
+
+Review processes
+ººººººººººººººººº
+To see a list of processes that is nearing their review times, open Omnia Admin and select "Process Management" under "Site Collection".
+
+.. image:: process-review-process-management.png
+
+Then select "Review". Here's an example of a Review list:
+
+.. image:: process-review-list.png
+
+
 
 The Deviation/Improvement tab
 ------------------------------
