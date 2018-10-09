@@ -67,7 +67,7 @@ On this tab the following settings are available:
 
 + **Selected published process**: Add the name for the process to be shown here (As the heading says, the process must be published). When you start typing, the processes that corresponds with what you have typed so far is shown in a list. You can then select from the list or continue typing.
 + **Process step breadcrumb setting**: Decide to show the process steps in the breadcrumb or not. (Default=Show.)
-+ **Start link**: (a description will be added soon.)
++ **Start link**: You can use this to set the start link for the breadcrumb. If not used, the breadcrumb will work according to the Omnia Intranet settings.
 
 The Graph tab
 -----------------
@@ -75,7 +75,7 @@ Here you can set the following:
 
 .. image:: process-viewer-graph-new.png
 
-+ **Auto expand child item when selected parent**: (a description will be added soon.)
++ **Auto expand child item when selected parent**: This is an older setting, kept for compatibilty reasons. Not used in later installments.
 + **Display**: If no graphs should be shown for this process, select this box.
 
 The Left navigation tab
@@ -86,7 +86,7 @@ Use this tab to set if left navigation should be available (Default: Show), and 
 
 Team Site
 ----------
-Use this tab to select if task planning should be enabled.
+Use this tab to select if task planning should be enabled. This is valid when a Process Viewer is set up in a team site. If there are more than one Tasks lists in the site, select which Tasks list to use for task planning.
 
 .. image:: process-viewer-teamsite.png
 
