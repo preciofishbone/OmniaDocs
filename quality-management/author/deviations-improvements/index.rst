@@ -38,8 +38,8 @@ Use the options this way:
 + **Status**: Status should be changed as the work with the feedback post progresses. When the user sends the feedback, the status is always "New". Status can be changed to "Suggestion", "In progress", "On hold" and "Finished". Note that as feedback postings are visible in a list in Omnia Admin as well, changing status is a great way to show that the feedback is actually dealt with.
 + **Responsible**: When some of the Process Authors has started working on a feedback post, it is a good idea to enter a name in this field so that others can see who's responsible for this feedback post.
 + **Attach files**: Files can be attached using this button. It can be any type of file.
-+ **Confidential**: (A description will be added soon.)
-+ **Associate process step**: (A description will be added soon.)
++ **Confidential**: This is an old setting. kept for compatibility reasons. Not used in later installments.
++ **Associate process step**: Here you can add information about which process step(s) the feedback is valid for.
 + **Delete**: This feedback post can be deleted, if needed, using this button.
 
 Actions
