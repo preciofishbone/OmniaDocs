@@ -6,4 +6,4 @@ Setup Integration with Omnia QMS
 1. Go to Omnia Admin > System > Extensions.
 2. Click on Omnia.DocumentManagement and set the values:
  - qms enable: true
- - qms web api url: Example: https://omnia1-qm.azurewebsites.net
+ - qms web api url: Example: https://omniacloud-qm.azurewebsites.net
