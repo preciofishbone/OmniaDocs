@@ -80,3 +80,8 @@ Bug Fixes and Small Improvements
 - Fixed issue with showing number fields in Page Properties.
 - Fixed small issue with mega menu that affected a couple of customers.
 - Fixed Aggregated Calendar localization issue.
+
+.. toctree::
+   :titlesonly:
+   
+   2018-september-patch1/index
