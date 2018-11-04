@@ -3,9 +3,9 @@ Release Notes September 2018 Patch 1
 
 Omnia.Foundation (1.0.13546)
 ----------------------------------------
-- Fixed issue with Omnia Fx in certain versions of Edge and IE11.
+- Fixed general issues with Omnia Fx in certain versions of Edge and IE11.
 - Fixed problem with provisioning Office 365 groups using site request approval.
-- Fixed problem with localization in certain part of UX (showing English instead of local language).
+- Fixed problem with localization in certain part of the UX (showing English instead of local language).
 
 Omnia.Intranet (1.0.13549)
 ----------------------------------------
