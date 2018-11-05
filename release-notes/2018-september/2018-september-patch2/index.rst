@@ -1,4 +1,4 @@
-Release Notes September 2018 Patch 1
+Release Notes September 2018 Patch 2
 ========================================
 
 Omnia.Foundation (1.0.13674)
