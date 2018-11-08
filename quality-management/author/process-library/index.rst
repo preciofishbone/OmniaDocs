@@ -131,19 +131,33 @@ For end users to be able to access a linked process you have to create a clickab
 
 .. image:: clickable-1-new.png
 
-3.	Use the list to select the process to create a link to.
+3.	Click "Add process step" to add a process step to link to.
 
 .. image:: clickable-2-new.png
- 
-4.	“Draw” the area for the clickable link.
+
+4. Click in the name field and select a process step in the list.
 
 .. image:: clickable-3-new.png
+
+5. Click "
  
-5.	Click "Save".
+4.	Draw the inserted area to the right place in the graph.
 
 .. image:: clickable-4-new.png
+
+5. Adjust width and height for the area. (Point at an edge, and you can grab and draw the border.)
+
+5.	Click "Save".
+
+.. image:: clickable-5-new.png
  
-You can see the clickable links as slightly darker areas of the image.
+All process steps you have linked to this way, is shown in the list to the left.
+
+You can also add a clickable area to anything you can reach with a link. Use the button "Add Custom Link" to do that.
+
+.. image:: clickable-6-new.png
+
+If you have placed an area for a clickable link in the wrong place, just drag the area to the right place. If you would like to change where an area should link to, just select the area and choose another target in the list to the left.
 
 The General tab
 ------------------
