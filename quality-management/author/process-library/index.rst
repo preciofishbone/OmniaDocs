@@ -124,9 +124,9 @@ Choose what you want to do:
 
 Creating a clickable link to a process
 ---------------------------------------
-For end users to be able to access a linked process you have to create a clickable link (image map) in the Custom image. Here’s how:
+Here’s how to add clickable areas (image maps) to a custom image you have uploaded:
 
-1.	Edit the process in question.
+1.	Edit the process.
 2.	Click "Map process".
 
 .. image:: clickable-1-new.png
@@ -139,13 +139,13 @@ For end users to be able to access a linked process you have to create a clickab
 
 .. image:: clickable-3-new.png
 
-5. Click "
+5. Click "Create".
  
 4.	Draw the inserted area to the right place in the graph.
 
 .. image:: clickable-4-new.png
 
-5. Adjust width and height for the area. (Point at an edge, and you can grab and draw the border.)
+5. Adjust width and height for the area. (Point at an edge, and you can grab and draw the that edge.)
 
 5.	Click "Save".
 
