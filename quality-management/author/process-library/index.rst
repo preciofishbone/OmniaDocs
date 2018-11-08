@@ -122,6 +122,29 @@ Choose what you want to do:
 
 .. image:: reorder-options.png
 
+Creating a clickable link to a process
+---------------------------------------
+For end users to be able to access a linked process you have to create a clickable link (image map) in the Custom image. Here’s how:
+
+1.	Go to the (main) process.
+2.	Click "Map process".
+
+.. image:: clickable-1.png
+
+3.	Select the process to create a link to.
+
+.. image:: clickable-2.png
+ 
+4.	“Draw” the area for the clickable link.
+
+.. image:: clickable-3.png
+ 
+5.	Click "Save".
+
+.. image:: clickable-4.png
+ 
+You can see the clickable links as slightly darker areas of the image.
+
 The General tab
 ------------------
 On this tab you can set the following:
