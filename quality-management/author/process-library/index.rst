@@ -126,22 +126,22 @@ Creating a clickable link to a process
 ---------------------------------------
 For end users to be able to access a linked process you have to create a clickable link (image map) in the Custom image. Here’s how:
 
-1.	Go to the (main) process.
+1.	Go to the process.
 2.	Click "Map process".
 
-.. image:: clickable-1.png
+.. image:: clickable-1-new.png
 
-3.	Select the process to create a link to.
+3.	Use the list to select the process to create a link to.
 
-.. image:: clickable-2.png
+.. image:: clickable-2-new.png
  
 4.	“Draw” the area for the clickable link.
 
-.. image:: clickable-3.png
+.. image:: clickable-3-new.png
  
 5.	Click "Save".
 
-.. image:: clickable-4.png
+.. image:: clickable-4-new.png
  
 You can see the clickable links as slightly darker areas of the image.
 
