@@ -6,13 +6,12 @@ The notification panel is a concept in Omnia Intranet mainly used on a start pag
 
 The following built-in controls will generate automatic notifications in the Notification Panel:
 
-+ My Tasks: When new tasks are assigned to the current user.
++ News Viewer: New news articles.
 + Announcements: When a new announcement is posted which the current user has read access to.
++ My Tasks: When new tasks are assigned to the current user.
 + Last Updated Documents: Documents modified by others in team sites that the current user is following.
-+ My Recent Documents: Last modified documents by the current user.
-+ News Viewer: New news articles posted by others.
 + Aggregated Calendar: New events appearing in the view.
-+ RSS Reader: New RSS items in the feed.
++ Important Announcements: Announcements published by an administrator.
 
 Notification Panel Settings
 ***************************
