@@ -10,11 +10,11 @@ The following built-in controls, if added, will generate automatic notifications
 + Announcements: When a new announcement is posted which the current user has read access to.
 + Controlled Documents Subscription: When a Controlled Document the user subscribes to has been updated (Omnia Document Management functionality). 
 + Important Announcements: When a message is published by an administrator, using the Important Announcement option.
-+ Last Updated Documents: When a document has been modified by by someone else, in a team site that the current user is following.
++ Last Updated Documents: When a document has been modified by someone else, in a team site that the current user is following.
 + My Recent Documents: A listing fo the user's recently edited documents, for easy access.
 + My Tasks: When new tasks are assigned to the current user.
-+ News Viewer: When New news articles is published that the user has read access to.
-+ User Feed
++ News Viewer: When a new news article is published that the user has read access to.
++ User Feed: When new posts are added to a classic user feed in any of the team sites where the user is member.
 
 Notification Panel Settings
 ***************************
