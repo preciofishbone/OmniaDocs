@@ -86,3 +86,4 @@ Bug Fixes and Small Improvements
    
    2018-september-patch1/index
    2018-september-patch2/index
+   2018-september-patch3/index
