@@ -1,18 +1,20 @@
 Notification Panel
 ===========================
-The notification panel is a concept in Omnia Intranet mainly used on a start page. The purpose is to help end users to find out what information has been updated within different areas of the intranet. There are a number of settings for the visual appearance, here's a common example:
+The notification panel is a concept in Omnia Intranet mainly used on a start page. The purpose is to help end users find out what information has been updated within different areas of the intranet. There are a number of settings for the visual appearance, here's a common example:
 
 .. image:: notification-panel-exampl-b.png
 
-The following built-in controls will generate automatic notifications in the Notification Panel:
+The following built-in controls, if added, will generate automatic notifications in the Notification Panel:
 
-+ My Tasks: When new tasks are assigned to the current user.
-+ Announcements: When a new announcement is posted which the current user has read access to.
-+ Last Updated Documents: Documents modified by others in team sites that the current user is following.
-+ My Recent Documents: Last modified documents by the current user.
-+ News Viewer: New news articles posted by others.
 + Aggregated Calendar: New events appearing in the view.
-+ RSS Reader: New RSS items in the feed.
++ Announcements: When a new announcement is posted which the current user has read access to.
++ Controlled Documents Subscription: When a Controlled Document the user subscribes to has been updated (Omnia Document Management functionality). 
++ Important Announcements: When a message is published by an administrator, using the Important Announcement option.
++ Last Updated Documents: When a document has been modified by someone else, in a team site that the current user is following.
++ My Recent Documents: A listing fo the user's recently edited documents, for easy access.
++ My Tasks: When new tasks are assigned to the current user.
++ News Viewer: When a new news article is published that the user has read access to.
++ User Feed: When new posts are added to a classic user feed in any of the team sites where the user is member.
 
 Notification Panel Settings
 ***************************
