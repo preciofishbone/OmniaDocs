@@ -23,7 +23,7 @@ Settings for the control
 *************************
 The following settings are available for the My Sites control:
 
-.. image:: my-sites-settings-general.png
+.. image:: my-site-settings-general.png
 
 The General tab
 ---------------
