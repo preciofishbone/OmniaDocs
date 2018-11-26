@@ -27,6 +27,6 @@ On this tab you can set the following:
 
 The Custom Colors tab
 ---------------------
-You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
+You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control's border, you can set them using this tab. (The list is opened in the image.)
 
 .. image:: my-recent-documents-settings-colors.png
