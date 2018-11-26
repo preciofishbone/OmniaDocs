@@ -58,7 +58,7 @@ Here you can set the following:
 
 .. image:: site-directory-general-limit.png
 
-When you have selected "Limit Site Templates" you can select to show the "All Sites" tab or not - which in this case displays all sites of the chosen types.
++ **Show Tab 'All Sites'**: When you have selected "Limit Site Templates" you can select to show the "All Sites" tab or not - which in this case displays all sites of the chosen types.
 
 The Filter tab
 ------------------
