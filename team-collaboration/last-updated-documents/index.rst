@@ -27,7 +27,7 @@ On this tab you can set the following:
 + **View**: Select to view the announcements in a single list, in time order or grouped by site.
 + **Icon**: Select how to display the icons for the document type, Sketched (black and white) or Image (color).
 + **Open in Client App**: If you would like the document to always be opened in the full version of application (the version installed on the computer, not the online version), check this box.
-+ **Always Show Letter Avatar**: If letter avatars should be used, select this option.  
++ **Always Show Letter Avatar**: If letter avatars should be used, select this option. The red "QT" for Qesh Team in the top image, is an example of a letter avatar.
 
 The Custom Query tab
 ---------------------
