@@ -55,7 +55,7 @@ Here you can set the following:
 + **All Site Templates**: If it should be possible to show all site types in the list, check this box (default).
 + **Limit Site Templates**: If just some site types should be shown in the Site Directory, check this box and select all site types to show from the list. Here's an example with three site types selected:
 
-.. image:: site-directory-limited.png
+.. image:: site-directory-general-limit.png
 
 When you have selected "Limit Site Templates" you can select to show the "All Sites" tab or not - which in this case displays all sites of the chosen types.
 
@@ -67,16 +67,16 @@ To choose a predefined filter:
 
 1. Select "Set predefined filter".
 
-.. image:: site-directory-settings-filter-1.png
+.. image:: site-directory-filter.png
 
 2. Select filter from the list.
 
-.. image:: site-directory-settings-filter-2.png
+.. image:: site-directory-filter-templates.png
 
 For some filters you can set additional details, for example to only display projects managed by a certain Project Manager, or just display archived projects.
 
-.. image:: site-directory-settings-filter-3.png
+.. image:: site-directory-filter-details.png
 
 Tip! Users can create filters to share with others. When a user has searched the directory he or she can click "Filter" and then "Get Filter URL" to display the URL for the search resultat. The Url can then be copied and pasted for example into an e-mail.
 
-.. image:: user-filter.png
+.. image:: site-directory-get-filter-url.png
