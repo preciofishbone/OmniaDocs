@@ -44,7 +44,7 @@ Settings for the control
 ************************
 The following settings are available for the control:
 
-.. image:: site-directory-settings-general.png
+.. image:: site-directory-general.png
 
 The General tab
 -----------------
