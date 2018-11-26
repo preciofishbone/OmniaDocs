@@ -11,7 +11,7 @@ Settings for the control
 ************************
 The following settings are available:
 
-.. image:: my-recent-documents-settings.png
+.. image:: my-recent-documents-settings-general.png
 
 The General tab
 ----------------
@@ -29,4 +29,4 @@ The Custom Colors tab
 ---------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-.. image:: my-recent-documents-colors-b.png
+.. image:: my-recent-documents-settings-colors.png
