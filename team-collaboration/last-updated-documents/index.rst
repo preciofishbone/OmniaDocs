@@ -15,7 +15,7 @@ Settings for the control
 *************************
 When added as a separate control, the following settings are available for that control:
 
-.. image:: latest-documents-settings-new.png
+.. image:: latest-updated-documents-block-general.png
 
 The General tab
 ----------------
@@ -32,7 +32,7 @@ The Custom Query tab
 ---------------------
 On this tab, the following settings are available:
 
-.. Image:: custom-query-tab.png
+.. Image:: latest-updated-documents-block-query.png
 
 + **Exclude File Types**: Use this field if certain file types should not be displayed in the list. 
 + **Query Template**: Search querys for advanced scenarios. One example could be "fileextension:DOCX" to only show docx documents.
@@ -43,4 +43,4 @@ The Custom Colors tab
 ------------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-.. image:: latest-dcouments-colors.png
+.. image:: latest-updated-documents-block-colors.png
