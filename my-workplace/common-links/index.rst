@@ -21,7 +21,7 @@ To delete a common link, click the dustbin for the link.
 
 Add link
 --------
-Use this window when adding a new common link or editing and existing:
+Use this window when adding a new common link or editing an existing:
 
 .. image:: new-link.png
 
