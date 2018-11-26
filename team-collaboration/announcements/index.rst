@@ -20,7 +20,7 @@ The General tab
 + **Row Limit**: Set the maximum number of announcements to display in the list.
 + **Day Limit**: Set the number of days for how old an announcement is allowed to be, to be shown in the list. This is based on the modified date for the announcement.
 + **View**: Select to view the announcements in a single list, in time order or grouped by site.
-+ **Always Show Letter Avatar**: 
++ **Always Show Letter Avatar**: Select this option if letter avatars should be used. (In the top image, avatars is used.)
 + **Include Team News**: 
 
 The Custom colors tab
