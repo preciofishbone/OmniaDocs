@@ -23,7 +23,7 @@ Settings for the control
 *************************
 The following settings are available for the My Sites control:
 
-.. image:: my-sites-settings-new-2.png
+.. image:: my-sites-settings-general.png
 
 The General tab
 ---------------
@@ -36,6 +36,8 @@ On the General tab you can select which tabs to display (All is always displayed
 + **Use Letter Avatar**: Select to use Letter Avatars or not. In the image at the top of the page letter avatars are not used. Here's an example when they are:
 
 .. image:: avatar-on.png
+
++ **Exclude Personal Site**: If personal sites should not be shown in the list, select this option.
 
 The Site Creation Settings tab
 -------------------------------
