@@ -52,6 +52,7 @@ Here you can set the following:
 
 + **Title**: Add the title to be shown for the list.
 + **Page Size**: Set the number of list rows that should be displayed on each page.
++ **Always Show Letter Avatars**: If letter avatars should be shown, select this option. (The image at the top shows letter avatars.)
 + **All Site Templates**: If it should be possible to show all site types in the list, check this box (default).
 + **Limit Site Templates**: If just some site types should be shown in the Site Directory, check this box and select all site types to show from the list. Here's an example with three site types selected:
 
