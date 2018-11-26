@@ -35,7 +35,6 @@ On the General tab you can select which tabs to display (All is always displayed
 + **Open in New Window**: Select to open in new window or not when a link (site) is clicked.
 + **Use Letter Avatar**: Select to use Letter Avatars or not. In the image at the top of the page letter avatars are not used. Here's an example when they are:
 
-.. image:: avatar-on.png
 
 + **Exclude Personal Site**: If personal sites should not be shown in the list, select this option. A personal site is the OneDrive site where a user's files as stored.
 
@@ -68,14 +67,8 @@ In this case the following settings are available:
 + **Row Limit**: The maximum number of rows to display before a "Show more" link appears.
 + **Open in New Window**: Select to open in new window or not when a link (site) is clicked.
 + **Use Letter Avatar**: Select to use Letter Avatars or not. See above for examples. In the image at the top of the page letter avatars are not used. The third image is an example when avatars are on.
-+ **Visible** Set when the control will be visible; always, withing a maximum width or within a minimum width.
++ **Visible**: Set when the control will be visible; always, withing a maximum width or within a minimum width.
 + **Custom colors**: You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set colors on this tab.
 
 .. image:: my-sites-block-color-border.png
-
-My Sites Mobile Navigation
-***************************
-The My Sites control will not be shown when the screen is below a certain width. When the My Sites control is hidden, the mobile navigation will be shown. The mobile navigation includes the "Following" list from My Sites, but the user cannot stop follow sites from the list.
-
-.. image:: mysites3.png
 
