@@ -21,7 +21,7 @@ The General tab
 + **Day Limit**: Set the number of days for how old an announcement is allowed to be, to be shown in the list. This is based on the modified date for the announcement.
 + **View**: Select to view the announcements in a single list, in time order or grouped by site.
 + **Always Show Letter Avatar**: Select this option if letter avatars should be used. (In the top image, avatars is used.)
-+ **Include Team News**: 
++ **Include Team News**: Team News is the type of news that can be created in a modern team site. If these news messages should be included, select this option.
 
 The Custom colors tab
 ----------------------
