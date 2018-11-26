@@ -61,7 +61,7 @@ My Sites can also be added to any legacy page as a web part and as a block to a 
 
 In this case the following settings are available:
 
-.. image:: my-sites-blocknew.png
+.. image:: my-sites-block-general.png
 
 + **Heading**: You can change the heading that is displayed for the control.
 + **Query type**: Select to display either "Following" or "Last Visited".
@@ -70,6 +70,8 @@ In this case the following settings are available:
 + **Use Letter Avatar**: Select to use Letter Avatars or not. See above for examples. In the image at the top of the page letter avatars are not used. The third image is an example when avatars are on.
 + **Visible** Set when the control will be visible; always, withing a maximum width or within a minimum width.
 + **Custom colors**: You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set colors on this tab.
+
+.. image:: my-sites-block-color
 
 My Sites Mobile Navigation
 ***************************
