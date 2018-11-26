@@ -37,7 +37,7 @@ On the General tab you can select which tabs to display (All is always displayed
 
 .. image:: avatar-on.png
 
-+ **Exclude Personal Site**: If personal sites should not be shown in the list, select this option.
++ **Exclude Personal Site**: If personal sites should not be shown in the list, select this option. A personal site is the OneDrive site where a user's files as stored.
 
 The Site Creation Settings tab
 -------------------------------
