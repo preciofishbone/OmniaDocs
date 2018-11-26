@@ -71,7 +71,7 @@ In this case the following settings are available:
 + **Visible** Set when the control will be visible; always, withing a maximum width or within a minimum width.
 + **Custom colors**: You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set colors on this tab.
 
-.. image:: my-sites-block-color-frame.png
+.. image:: my-sites-block-color-border.png
 
 My Sites Mobile Navigation
 ***************************
