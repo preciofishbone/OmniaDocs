@@ -14,7 +14,7 @@ To access Site Quick Edit, open the menu and click the button:
 
 The first tab is used for adding and removing site users:
 
-.. image:: quick-site-users-new.png
+.. image:: quick-edit-site-users-new.png
 
 **Note!** When a user is added to any of the user groups, an e-mail is automatically sent to that user, with a link to the site.
 
