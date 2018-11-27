@@ -10,16 +10,16 @@ Which properties (fields) should be avaible is set in the site template for each
 
 To access Site Quick Edit, open the menu and click the button:
 
-.. image:: sitequickeditbutton.png
+.. image:: site-quick-edit-new.png
 
 The first tab is used for adding and removing site users:
 
-.. image:: siteuserstab.png
+.. image:: quick-site-users-new.png
 
 **Note!** When a user is added to any of the user groups, an e-mail is automatically sent to that user, with a link to the site.
 
 The second tab is used for editing the properties, for example:
 
-.. image:: propertiestab.png
+.. image:: quick-site-properties-new.png
 
 There are no settings for the control.
