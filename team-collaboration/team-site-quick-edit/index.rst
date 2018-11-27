@@ -8,7 +8,7 @@ Site Quick edit is available in team sites and similar, for site owners. The pur
 
 Which properties (fields) should be avaible is set in the site template for each type of site. That can't be changed here. All sites created from a certain template always has the same property fields.
 
-To access Site Quick Edit, click the button:
+To access Site Quick Edit, open the menu and click the button:
 
 .. image:: sitequickeditbutton.png
 
