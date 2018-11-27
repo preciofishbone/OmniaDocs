@@ -6,7 +6,7 @@ Site Quick edit is available in team sites and similar, for site owners. The pur
 + to be able to add and remove site users in a quick and easy way,
 + to be able to edit the properties for the site.
 
-Which properties (fields) should be avaible is set in the site template for each type of site. Tthat can't be changed here. All sites created from a certain template always has the same properties fields.
+Which properties (fields) should be avaible is set in the site template for each type of site. That can't be changed here. All sites created from a certain template always has the same property fields.
 
 To access Site Quick Edit, click the button:
 
