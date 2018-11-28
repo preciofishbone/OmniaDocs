@@ -36,6 +36,7 @@ The following can be set on this tab:
 
 + **Name**: The title of the template, shown under the image.
 + **Language**: Select language for the template. On the "Settings" tab you can set if the user is allowed to change language or not. This option is not available for Office 365 Groups, language is in this case handled through Office 365.
++ **Omnia Profile**: An Omnia Profile can be used for this site template, if profiles are set up. See more info about Omnia Profiles here: :doc:`Omnia Profiles </tenant-administration/omnia-profiles/index>`
 + **Base template**: Select template to base the new template on. If in doubt, select "Team site", it's the most commonly used. This option is not available for Office 365 Groups.
 + **Location** Select location for the sites created from this template. For a site collection site, you can select to create sites from this template in any of the managed paths, normally either /sites or /teams. For sub sites you can select that a site created from this template will be placed as a sub site to the current site, or in a certain site collection (recommended) for example /sites/projects. This option is not available for Office 365 Groups.
 + **Description**: Add important details for the template here, for example when this template should be used.
@@ -51,7 +52,7 @@ The following can be set on this tab:
 + **Permission Level**: Selecting "Self Service" means users can create sites from this template themselves. When you select "Approver" you must also add approver(s). This can be a person or a service account. A notification e-mail is sent to the approver(s) when a user requests a site. All requests are placed in the "Site Requests" list, see below. Approval can be useful to for example make sure name standards are used correctly or the correct template is used for the stated purpose.
 + **Template Group**: You can use headings to group templates. This can be used in the settings for the My Sites control, to define which template group should be available when creating or requesting new sites, in a certain publishing site. 
 + **Display To**: This can be used for targeting templates to a specific group of users.
-+ **Default Administrator**: If empty, the user creating or requesting the site will automatically become the administrator (Owner) of the site. If a specific group or user should be administrator for all sites created from this template, add that group or user. Not available for sub sites.
++ **Default Administrator**: If empty, the user creating or requesting the site will automatically become the administrator (Owner) of the site. If a specific group or user should be administrator for all sites created from this template, add that group or user. Not available for sub sites or Office 365 groups.
 + **Default Secondary Administrator**: If empty, the user creating or requesting the site can set default secondary administrator of the site. If a specific group or user should be secondary administrator for all sites created from this template, add that group or user. Not available for sub sites or Office 365 Groups.
 + **Default Visitors**: You can use this to set a default visitor group (read permissions) to all sites created from this template. Let's say it's a template for community pages - then probably all users of the intranet should have read permission to all pages in the site. Not available for Office 365 Groups.
 + **Default member**: This option is available for Office 365 Groups only. If empty, the user creating the site will automatically become the default user (Owner) of the site. If a specific group or user should be default member for all sites created from this template, add that group or user. 
@@ -60,8 +61,10 @@ The following can be set on this tab:
 + **Storage Quota (GBs)**: You can use this to set maximum storage in Gb that can be used by a site created from this template.
 + **Default Time Zone**: Select default time zone. Can always be changed by the user when creating or requesting a site.
 + **User can select language**: If the user, when creating or requesting a site, should be able to choose language, select this option. Not available for Office 365 Groups.
++ **User can select Omnia Profile**: If the user should be able to select an Omnia Profile during site creation, select this option.
 + **User can change privacy**: This option is available for Office 365 Groups only. When active, the user creating the group can change privacy. If not active, all Office 365 Groups will have the privacy setting you set here.
-+ **Unique Permissions**: Only available for sub sites. Check if permission inheritance should not be on for sub sites created from this template.
++ **Unique Permission**: Only available for sub sites. Check if permission inheritance should not be on for sub sites created from this template.
++ **Send access request to**: Select receiver of access requests. Note that you can use the last option to enter an e-mail to any user of the site, but alos note that a user must have owner permission to be able to grant permission to the site.
 
 The Features tab
 -----------------
@@ -77,8 +80,8 @@ Note that all features are not available for sub sites or Office 365 Groups.
 
 The Properties tab
 -------------------
-In this tab you define which site properties that should be used for sites using this
-template.
+On this tab you define which site properties that should be used for sites using this
+template. This tab is not available for sub sites.
 
 .. image:: site-template-create-properties.png
 
@@ -93,7 +96,7 @@ For each property you can set:
 
 If changes for the properties are made in an existing site template, the changes will be pushed to all existing sites created from the template. If there are many sites created from the template, this can take considerable time to execute. 
 
-**Note!** If a properties field is removed from a site template, all data for this field, in all sites created from the template, will be deleted.
+**Note!** If a properties field is removed from a site template, all data for that field, in all sites created from the template, will be deleted.
 
 Site requests
 ***************
