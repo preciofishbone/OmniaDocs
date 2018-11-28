@@ -18,7 +18,7 @@ An important difference is that a developer can lock parts of, or the whole site
 
 When you enter Site Templates, the existing templates are shown, for example:
 
-.. image:: Site_Templates_1.png
+.. image:: site-templates-1.png
 
 Any existing template can be downloaded as JSON (normally only used by developers).
 
@@ -26,7 +26,7 @@ Create or edit template
 ***********************
 When you create or edit a template, the following fields and options can be used:
 
-.. image:: add-template-new.png
+.. image:: site-template-create-general.png
 
 The first step when creating a new template is always to select "Site collection", "Sub site" or "Office 365 Group". For different kinds of Omnia team sites, you should normally select "Site collection". If you would like to create a standard Office 365 group, click that option. In an Office 365 group you get all the standard tools, for example a group mail. An Office 365 group will be available in "My Sites" the same way as the Omnia sites.
 
@@ -46,6 +46,8 @@ The Settings tab
 -----------------
 The following can be set on this tab:
 
+.. image:: site-template-create-settings.png
+
 + **Permission Level**: Selecting "Self Service" means users can create sites from this template themselves. When you select "Approver" you must also add approver(s). This can be a person or a service account. A notification e-mail is sent to the approver(s) when a user requests a site. All requests are placed in the "Site Requests" list, see below. Approval can be useful to for example make sure name standards are used correctly or the correct template is used for the stated purpose.
 + **Template Group**: You can use headings to group templates. This can be used in the settings for the My Sites control, to define which template group should be available when creating or requesting new sites, in a certain publishing site. 
 + **Display To**: This can be used for targeting templates to a specific group of users.
@@ -63,6 +65,12 @@ The following can be set on this tab:
 
 The Features tab
 -----------------
+The following is available here:
+
+.. image:: site-template-create-features.png
+
+(All features are not shown in the image.)
+
 Select all Omnia features that should be active for sites created from this template.
 
 Note that all features are not available for sub sites or Office 365 Groups.
@@ -71,6 +79,8 @@ The Properties tab
 -------------------
 In this tab you define which site properties that should be used for sites using this
 template.
+
+.. image:: site-template-create-properties.png
 
 The first step is to select "Field type" in the list. For "Managed metadata" you have to select a term set. For "Enterprise Keywords" no settings can be submitted. Enterprise Keywords are always shared throughout the tenant.
 
