@@ -102,11 +102,11 @@ Site requests
 ***************
 When "Approval" is selected for any site templates, all requests are placed in this list. 
 
-.. image:: site-request-option.png
+.. image:: site-requests-option.png
 
 Selections and properties can be edited if needed. From this list an administrator can see the settings and approve or reject the site.
 
-.. image:: site-request.png
+.. image:: site-requests.png
 
 Click a link to browse the settings and properties. The last step is to approve or reject the request. 
 
