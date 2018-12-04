@@ -22,7 +22,7 @@ Settings for the control
 *************************
 The following settings are available:
 
-.. image:: aggregated-calendar-sattings-new.png
+.. image:: aggregated-calendar-sattings.png
 
 + **Add Calendar**: To display events in the aggregated calendar control, at least one calendar needs to be added. See more information below.
 + **Use Targeting**: If targeting should be used for the calendar, select ths box. Targeting has to be set up in Omnia Admin. It's the same settings for all controls that can use targering. 
@@ -39,7 +39,7 @@ Follow these steps to add a new calendar:
 
 1. Click "+ Add calendar".
 
-.. image:: aggregated-add-calendar-new.png
+.. image:: click-add-calendar.png
 
 You can now add calendars from the current site (default) or from any other site in the tenant.
 
@@ -48,12 +48,15 @@ To add calendar from the current site:
 1. Open the list "Calendar" and select calendar.
 2. Click "Add".
 
-.. image:: aggregated-calendar-current-new.png
+.. image:: add-calendar-add.png
 
 To add a calendar from another site:
 
 1. Active the text box.
 2. Enter the url to the site where the calendar is located and click "Resolve".
+
+.. image:: add-site-resolve.png
+
 3. Open the list "Calendar" and select calendar. (If no calendars are found a message will be shown.)
 5. Click "Add".
 
@@ -65,7 +68,7 @@ To remove a calendar just:
 
 1. Click the x for the calendar in the list of active calendars.
 
-.. image:: aggregated-calendar-remove-new.png
+.. image:: remove-calendar.png
 
 Edit a calendar
 ****************
