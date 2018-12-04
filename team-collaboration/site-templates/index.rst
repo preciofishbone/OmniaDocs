@@ -145,7 +145,7 @@ For "Send an email invitation" you can change the requesters choice, if needed.
 
 Here you make the final selection as well - to approve or reject creation od the site. If "Approve" is selected the site is created. If "Reject" is selected, a form is displayed where comments on why the site request was rejected should be entered.
 
-.. image:: manage-requests-rejection.png
+.. image:: manage-request-rejection.png
 
 If a site request is rejected, an e-mail is sent to the requester. A new site request must then be done.
 
