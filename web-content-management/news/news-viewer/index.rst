@@ -75,7 +75,7 @@ On this tab the following settings are available:
 
 .. image:: news-viewer-settings-display-new.png
 
-**View Template**: The view template defines how the result should be rendered on the page. There are four options:
++ **View Template**: The view template defines how the result should be rendered on the page. There are six options:
 
 "News Roller" view displays all articles matching the query in the same area 5 seconds at a time. The user can manually change which article that is displayed by holding the mouse over the container and click on the arrows. The image is using Image Rendition with ID 1001.
 
