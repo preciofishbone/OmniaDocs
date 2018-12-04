@@ -16,7 +16,7 @@ Using the option "Show all events":
 
 Users can access and browse the whole aggregated calendar. It can look like this:
 
-.. image :: show-all-events-shown.png
+.. image:: show-all-events-new.png
 
 Settings for the control
 *************************
