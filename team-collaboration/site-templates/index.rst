@@ -38,7 +38,7 @@ The following can be set on this tab:
 + **Language**: Select language for the template. On the "Settings" tab you can set if the user is allowed to change language or not. This option is not available for Office 365 Groups, language is in this case handled through Office 365.
 + **Omnia Profile**: An Omnia Profile can be used for this site template, if profiles are set up. See more info about Omnia Profiles here: :doc:`Omnia Profiles </tenant-administration/omnia-profiles/index>`
 + **Base template**: Select template to base the new template on. If in doubt, select "Team site", it's the most commonly used. This option is not available for Office 365 Groups.
-+ **Location** Select location for the sites created from this template. For a site collection site, you can select to create sites from this template in any of the managed paths, normally either /sites or /teams. For sub sites you can select that a site created from this template will be placed as a sub site to the current site, or in a certain site collection (recommended) for example /sites/projects. This option is not available for Office 365 Groups.
++ **Location**: Select location for the sites created from this template. For a site collection site, you can select to create sites from this template in any of the managed paths, normally either /sites or /teams. For sub sites you can select that a site created from this template will be placed as a sub site to the current site, or in a certain site collection (recommended) for example /sites/projects. This option is not available for Office 365 Groups.
 + **Description**: Add important details for the template here, for example when this template should be used.
 + **Icon**: The icon is shown in the My Sites lists for all sites created with this template, and in the Site Directory. Useful to, at a quick glance, see what type of site it is. You can use an icon from the built in set, or choose any image as an icon. Not mandatory. This option is not available for Office 365 Groups.
 + **Image**: You can select any image for the template.
@@ -64,7 +64,7 @@ The following can be set on this tab:
 + **User can select Omnia Profile**: If the user should be able to select an Omnia Profile during site creation, select this option.
 + **User can change privacy**: This option is available for Office 365 Groups only. When active, the user creating the group can change privacy. If not active, all Office 365 Groups will have the privacy setting you set here.
 + **Unique Permission**: Only available for sub sites. Check if permission inheritance should not be on for sub sites created from this template.
-+ **Send access request to**: Select receiver of access requests. Note that you can use the last option to enter an e-mail to any user of the site, but alos note that a user must have owner permission to be able to grant permission to the site.
++ **Send access request to**: Select receiver of access requests. Note that you can use the last option to enter an e-mail to any user of the site, but also note that a user must have owner permission to be able to grant permission to the site.
 
 The Features tab
 -----------------
