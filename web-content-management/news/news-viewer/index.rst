@@ -81,17 +81,13 @@ On this tab the following settings are available:
 
 .. image:: news-roller-old-ux.png
 
-"News Listing with Image New UX" displays the news in a list, with a square image to the left.
-
-.. image:: news-listing-image.png
-
 "News Listing with Image" displays the news in a list, with a landscape image to the left.
 
 .. image:: news-listing-image.old.png
 
-"News Listing with Image (New UX)" displays the news in a list, with a squaer image to the left.
+"News Listing with Image New UX" displays the news in a list, with a square image to the left.
 
-.. image:: news-listing-with-image-new-UX.png
+.. image:: news-listing-image.png
 
 "Top Story" displays a big image with title on a transparent area. If one news article is displayed as Top Story, it will use the image with Landscape image rendition.
 
