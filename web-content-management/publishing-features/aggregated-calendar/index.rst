@@ -22,7 +22,7 @@ Settings for the control
 *************************
 The following settings are available:
 
-.. image:: aggregated-calendar-sattings.png
+.. image:: aggregated-calendar-settings.png
 
 + **Add Calendar**: To display events in the aggregated calendar control, at least one calendar needs to be added. See more information below.
 + **Use Targeting**: If targeting should be used for the calendar, select ths box. Targeting has to be set up in Omnia Admin. It's the same settings for all controls that can use targering. 
