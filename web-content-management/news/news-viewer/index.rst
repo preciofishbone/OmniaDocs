@@ -23,6 +23,8 @@ These settings defines which news articles to get from a specific news center.
 
 .. image:: news-viewer-settings-query-new.png
 
+Adding a News Center from the current site
+ººººººººººººººººººººººººººººººººººººººººººº
 When you click "Add News Center", the following is shown:
 
 .. image:: add-news-center.png
@@ -51,11 +53,22 @@ Some fields can be set to "Fixed Managed Metadata value". Only one value from th
 
 A User "Profile Property" filter makes it possible to target news to a specific group of people based on their profile. When User Profile Property is selected, the value listbox will be populated with all available user profile properties in SharePoint. The News Viewer will do a string comparison between the values in the profile and the values set on the news articles. If "Include Child Terms" is checked, it will also include child terms to the terms the news article is tagged with. If "Include Empty" is selected, it will also include news articles that has not been tagged with this meta data property at all. 
 
+5. If targeting is activated, you can now select to use it or not. If you do not select "Use targeting" all targeting settings made by the authors are ignored.
+
 **Note!**
 Regardless of the filters you set here, a user can always read all news articles in the News Center.
 
-5. If targeting is activated, you can now select to use it or not. If you do not select "Use targeting" all targeting settings made by the authors are ignored.
+Adding a News Center from another Site
+ºººººººººººººººººººººººººººººººººººººººº
+1. Click "Add News Center".
+2. Deselct "Current site".
+3. Activate the address field and enter the adress to a site in another Site Collection.
+4. Click "Resolve".
 
+News Centers in that site are now displayed in the News Center list. You select News Center and handle filters and targeting as described above.
+
+Common fields
+-------------
 For the following fields the settings apply for all News Centers selected here:
 
 + **Translated**: For translated news (if any) you can select "Show all languages", "Show default language" or "Show preferred language". Defaul language and proferred language are according to the settings the user has made in his or her profile. 
@@ -63,16 +76,6 @@ For the following fields the settings apply for all News Centers selected here:
 + **Order By**: It is possible to select whether to sort the list by title or article date. Default is article date descending.
 + **Item Limit**: The number of news articles to show in the result can be limited to a maximum number of items.
 + **Priority**: It is common that more than one News Viewer control is added to a page. Dependant on how the different News Viewer controls are configured, a news article may end up in the result in more than one control. The priority setting makes sure that this cannot happen. The priority decides which control that will show the news article in such a case. A lower number (for example 1) takes priority over a higher number (for example 2).
-
-**Adding a News Center from another Site Collection**
-1. Click "Add News Center".
-2. Activate the address field and enter the adress to a site in another Site Collection.
-
-.. image:: news-viewer-settings-crossites.png
-
-3. Click "Resolve".
-
-News Centers in that site are now displayed in the News Center list. You select News Center and handle settings as described above.
 
 The Display Settings tab
 ---------------------------
