@@ -11,7 +11,7 @@ The settings
 *************
 The following settings are available for the control:
 
-.. image:: related-news-settings-new.png
+.. image:: related-news-settings-genereal.png
 
 The General tab
 -------------------
@@ -25,4 +25,4 @@ The Custom Colors tab
 ----------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the controls heading, you can set them using this tab.
 
-.. image:: related-news-colors.png
+.. image:: related-news-settings-colors.png
