@@ -9,14 +9,6 @@ News Viewer Settings
 **********************
 The news viewer settings are divided into three tabs.
 
-
-
-+ **Query Settings**: Defines which news articles to get from a specific news center.
-+ **Display Settings**: Defines how to render the news articles to the end user.
-+ **Custom colors**: You should primarily set colors through Theme colors in Omnia Admin but If you still would like custom colors for the control, you can set them using this tab.
-
-
-
 The Query Settings tab
 -------------------------
 These settings defines which news articles to get from a specific news center.
@@ -24,7 +16,7 @@ These settings defines which news articles to get from a specific news center.
 .. image:: news-viewer-settings-query-new.png
 
 Adding a News Center from the current site
-ººººººººººººººººººººººººººººººººººººººººººº
+-------------------------------------------
 When you click "Add News Center", the following is shown:
 
 .. image:: add-news-center.png
@@ -59,7 +51,7 @@ A User "Profile Property" filter makes it possible to target news to a specific 
 Regardless of the filters you set here, a user can always read all news articles in the News Center.
 
 Adding a News Center from another Site
-ºººººººººººººººººººººººººººººººººººººººº
+---------------------------------------
 1. Click "Add News Center".
 2. Deselct "Current site".
 3. Activate the address field and enter the adress to a site in another Site Collection.
@@ -68,7 +60,7 @@ Adding a News Center from another Site
 News Centers in that site are now displayed in the News Center list. You select News Center and handle filters and targeting as described above.
 
 Common fields
--------------
+--------------
 For the following fields the settings apply for all News Centers selected here:
 
 + **Translated**: For translated news (if any) you can select "Show all languages", "Show default language" or "Show preferred language". Defaul language and proferred language are according to the settings the user has made in his or her profile. 
