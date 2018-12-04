@@ -104,7 +104,7 @@ When "Approval" is selected for any site templates, all requests are placed in t
 
 .. image:: site-requests-option.png
 
-Selections and properties can be edited if needed. From this list an administrator can see the settings and approve or reject the site.
+An administrator selects a request from the list, and can see the settings, edit some of them if needed, and approve or reject creation of the site.
 
 .. image:: site-request-management.png
 
@@ -143,22 +143,30 @@ If for example a central administration should be added as owner for all sites, 
 
 For "Send an email invitation" you can change the requesters choice, if needed.
 
-Here you make the final selection as well - to approve or reject creation od the site. If "Approve" is selected the site is created. If "Reject" is selected, a form is displayed where comments on why the site request was rejected should be entered.
+Here you make the final selection as well - to approve or reject creation of the site. If "Approve" is selected the site is created. If "Reject" is selected, a form is displayed where comments on why the site request was rejected should be entered.
 
 .. image:: manage-request-rejection.png
 
-If a site request is rejected, an e-mail is sent to the requester. A new site request must then be done.
+If a site request is rejected, an e-mail is sent to the requester, with the message you entered. A new site request must then be done.
 
 Settings
 **********
 Use Settings to disable dynamic properties for some site templates, if needed.
 
+.. image:: site-tepmplates-settings-option.png
+
+The settings can look something like this:
+
 .. image:: site-template-settings.png
 
-Use the list to additional sites to disable dynamic properties in. To remove a site (to enable dynamic properties) click the dust bin.
+Use the list to additional sites to disable dynamic properties in. To remove a site from the list, to enable dynamic properties, click the dust bin.
 
 Permissions
 ************
 If additional users should be able to create site templates, use "Permissions" to add them.
+
+.. image:: site-tepmplates-permissions-option.png
+
+You add or remove users from this list:
 
 .. image:: site-template-permissions.png
