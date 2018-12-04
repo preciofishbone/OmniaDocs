@@ -100,7 +100,11 @@ If changes for the properties are made in an existing site template, the changes
 
 Site requests
 ***************
-When "Approval" is selected for any site templates, all requests are placed in this list. Selections and properties can be edited if needed. From this list an administrator can see the settings and approve or reject the site.
+When "Approval" is selected for any site templates, all requests are placed in this list. 
+
+.. image:: site-request-option.png
+
+Selections and properties can be edited if needed. From this list an administrator can see the settings and approve or reject the site.
 
 .. image:: siterequest_1.png
 
