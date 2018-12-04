@@ -33,7 +33,7 @@ Select News Center(s) and set the settings this way:
 Available filters for that News Center are then shown. (What is available can differ depending on how the specific News Center is set up). 
 
 3. Select filter to add.
-4.To add additional filters, click "Add Filter" here.
+4. To add additional filters, click "Add Filter" here.
 
 .. image:: add-additional-filter.png
 
@@ -81,6 +81,10 @@ On this tab the following settings are available:
 
 .. image:: news-roller-old-ux.png
 
+The "News Roller New UX" view displays all articles matching the query in the same area 5 seconds at a time. The user can manually change which article to displayed by clicking the buttons. The image is using Image Rendition with ID 1001.
+
+.. image:: news-roller.png 
+
 "News Listing with Image" displays the news in a list, with a landscape image to the left.
 
 .. image:: news-listing-image.old.png
@@ -102,10 +106,6 @@ If three news articles are displayed, it will use the image with Portrait image 
 A "Simple List" view displays the news articles without image in a simple list.
 
 .. image:: news-viewer-simple-list.png 
-
-The "News Roller New UX" view displays all articles matching the query in the same area 5 seconds at a time. The user can manually change which article to displayed by clicking the buttons. The image is using Image Rendition with ID 1001.
-
-.. image:: news-roller.png 
 
 + **Display News Center link**: Check if the link "Go to News Center" should be available at the end of the News Viewer.
 + **News Center Label**: Here you can change the label displayed for the News Center.
