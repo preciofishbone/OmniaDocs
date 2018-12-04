@@ -6,7 +6,7 @@ This documentation is intended for administrators of Omnia Tenants. Settings and
 
 + Omnia Foundation
 + Omnia Intranet
-+ Omnia Document Managament
++ Omnia Document Management
 + Omnia Quality Management
 
 You always have to have the necessary permissions to be able to edit settings. If you can't find any of the options described on this page, you are not permitted to edit settings.
