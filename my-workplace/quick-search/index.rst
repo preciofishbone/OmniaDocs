@@ -24,7 +24,7 @@ Here's an example of a search for all content:
 
 .. image:: quick-search-all.png
 
-Users can select "Advanced Search" to go to SharePoint standard search for a more detailed search.
+Users can select "Advanced Search" to go to Enterprise Search Center for a more detailed search.
 
 Settings for the control
 ************************
