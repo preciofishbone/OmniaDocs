@@ -81,7 +81,7 @@ The Display Settings tab
 ---------------------------
 On this tab the following settings are available:
 
-.. image:: news-viewer-display.png
+.. image:: news-viewer-settings-display-new.png
 
 **View Template**: The view template defines how the result should be rendered on the page. There are four options:
 
