@@ -151,7 +151,7 @@ If a site request is rejected, an e-mail is sent to the requester, with the mess
 
 Settings
 **********
-Use Settings to disable dynamic properties for some site templates, if needed.
+Use "Settings" to disable dynamic properties for some site templates, if needed.
 
 .. image:: site-templates-settings-option.png
 
