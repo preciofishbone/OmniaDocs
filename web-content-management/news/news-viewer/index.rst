@@ -7,16 +7,22 @@ The news viewer control displays news articles from one or more News Centers, ba
 
 News Viewer Settings
 **********************
-The news viewer settings are divided into three tabs:
+The news viewer settings are divided into three tabs.
+
+
 
 + **Query Settings**: Defines which news articles to get from a specific news center.
 + **Display Settings**: Defines how to render the news articles to the end user.
 + **Custom colors**: You should primarily set colors through Theme colors in Omnia Admin but If you still would like custom colors for the control, you can set them using this tab.
 
-.. image:: news-viewer-settings-query-new.png
+
 
 The Query Settings tab
----------------
+-------------------------
+These settings defines which news articles to get from a specific news center.
+
+.. image:: news-viewer-settings-query-new.png
+
 The **News Center** list displays all publishing sub sites in the site collection that have the "Omnia News Center" app feature activated. You can add News Centers from other Site Collections as well.
 
 Select News Center(s) and set the settings this way:
