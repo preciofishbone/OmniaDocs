@@ -23,6 +23,10 @@ These settings defines which news articles to get from a specific news center.
 
 .. image:: news-viewer-settings-query-new.png
 
+When you click "Add News Center", the following is shown:
+
+.. image:: add-news-center.png
+
 The **News Center** list displays all publishing sub sites in the site collection that have the "Omnia News Center" app feature activated. You can add News Centers from other Site Collections as well.
 
 Select News Center(s) and set the settings this way:
@@ -30,7 +34,7 @@ Select News Center(s) and set the settings this way:
 1. Select a News Center from the list. If you want news from more than one News Center displayed in this viewer, select the others the same way.(In the image below two News Centers are selected.)
 2. If not all news from the News Center should be displayed, you can set filters. Do do that, click the News Center. Filters are set indepently for each News Center.
 
-.. image:: select-news-center-new.png
+.. image:: add-news-center.png
 
 Available filters for that News Center are then shown. (What is available can differ depending on how the specific News Center is set up). 
 
