@@ -1,7 +1,7 @@
 My Recent Documents
 ===========================
 
-You can use the My Recent Documents control on any publishing page. The control displays a list of all documents the logged in user recently has edited. Here's and example:
+You can use the My Recent Documents control on any publishing page. The control displays a list of all documents the logged in user recently has edited. Here's an example:
 
 .. image:: my-recent-documents.png
 
