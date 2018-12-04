@@ -27,24 +27,23 @@ When you click "Add News Center", the following is shown:
 
 .. image:: add-news-center.png
 
-The **News Center** list displays all publishing sub sites in the site collection that have the "Omnia News Center" app feature activated. You can add News Centers from other Site Collections as well.
+The **News Center** list displays all publishing sub sites in the site collection that have the "Omnia News Center" app feature activated. 
+
+To add a news center from another site, add the site url in the field at the top.
 
 Select News Center(s) and set the settings this way:
 
-1. Select a News Center from the list. If you want news from more than one News Center displayed in this viewer, select the others the same way.(In the image below two News Centers are selected.)
-2. If not all news from the News Center should be displayed, you can set filters. Do do that, click the News Center. Filters are set indepently for each News Center.
+1. Select a News Center from the list. If you want news from more than one News Center displayed in this viewer, select the others the same way.
+2. If not all news from the News Center should be displayed, you can set filters. To do that, open the list for the News Center, and click "Add filter". Filters are set indepently for each News Center.
 
-.. image:: add-news-center.png
+.. image:: news-center-add-filter.png
 
 Available filters for that News Center are then shown. (What is available can differ depending on how the specific News Center is set up). 
 
-If targeting is activated, you can now select to use it or not. If you do not select "Use targeting" all targeting settings made by the authors are ignored.
+3. Select filter to add.
+4.To add additional filters, click "Add Filter" here.
 
-3. You can also add filters here, Click "Add Filter" to do that.
-
-.. image:: select-news-center-add-filter.png
-
-4. Select type of filter in the first field. What is displayed after that depends on that choice. If more than one filter is added to the News Viewer, the news articles must match all filters, to be included in the result.
+.. image:: add-additional-filter.png
 
 Filters will limit the news articles shown to the end user based on certain criterias. The filters support Yes/No and Managed Metadata columns. Omnia will list all supported columns from the pages library where the news articles are located. It is possible to filter based on a fixed value or a user profile property. 
  
@@ -57,8 +56,11 @@ A User "Profile Property" filter makes it possible to target news to a specific 
 **Note!**
 Regardless of the filters you set here, a user can always read all news articles in the News Center.
 
+5. If targeting is activated, you can now select to use it or not. If you do not select "Use targeting" all targeting settings made by the authors are ignored.
+
 For the following fields the settings apply for all News Centers selected here:
 
++ **Translated**: For translated news (if any) you can select "Show all languages", "Show default language" or "Show preferred language". Defaul language and proferred language are according to the settings the user has made in his or her profile. 
 + **Period**: A list of predefined values that will decide for how long news articles will be shown in th viewer. It is based on the article date. Select "No Limit" if the query should ignore date.
 + **Order By**: It is possible to select whether to sort the list by title or article date. Default is article date descending.
 + **Item Limit**: The number of news articles to show in the result can be limited to a maximum number of items.
