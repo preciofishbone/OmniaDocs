@@ -108,9 +108,9 @@ Selections and properties can be edited if needed. From this list an administrat
 
 .. image:: site-requests.png
 
-Click a link to browse the settings and properties. The last step is to approve or reject the request. 
+Click a link to browse the settings and properties.  
 
-The process of approval or rejection is done thorugh a number of steps.
+The process of approval or rejection is done thrugh a number of steps. The last step is to approve or reject the request.
 
 Manage requests - Site information
 -----------------------------------
