@@ -9,7 +9,7 @@ The settings
 ***************
 The following settings are available for the control:
 
-.. image:: latest-news-general.png
+.. image:: latest-news-settings-general.png
 
 The General tab
 ---------------------
@@ -23,4 +23,4 @@ The Custom Colors tab
 ----------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-.. image:: latest-news-custom-colors.png
+.. image:: latest-news-colors.png
