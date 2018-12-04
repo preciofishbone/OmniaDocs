@@ -13,7 +13,7 @@ The news viewer settings are divided into three tabs:
 + **Display Settings**: Defines how to render the news articles to the end user.
 + **Custom colors**: You should primarily set colors through Theme colors in Omnia Admin but If you still would like custom colors for the control, you can set them using this tab.
 
-.. image:: news-viewer-settings-query.png
+.. image:: news-viewer-settings-query-new.png
 
 The Query Settings tab
 ---------------
