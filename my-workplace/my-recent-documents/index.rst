@@ -19,11 +19,11 @@ On this tab you can set the following:
 
 + **Title**: Enter the title to be displayed for the control.
 + **Row limit**: Enter number of rows for each "page" in the list.
-+ **Day limit**: Select how far back "recent" should bes.
++ **Day limit**: Select how far back "recent" should be.
 + **View**: Select a simple listing in time order or Grouped by site. 
 + **Icon**: Select how to display the icons for the document type, Sketched (black and white) or Image (color).
-+ **Open in Client App**: If you would like the document to always be opened in the full version of application (the version installed on the computer, not the online version), check this box.
-+ **Visible**: Set when the control will be visible; always, withing a maximum width or within a minimum width.
++ **Open in Client App**: If you would like the document to always be opened in the full version of the application (the version installed on the computer, not the online version), check this box.
++ **Visible**: Set when the control will be visible; always, within a maximum width or within a minimum width.
 
 The Custom Colors tab
 ---------------------
