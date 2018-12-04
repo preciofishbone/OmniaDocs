@@ -106,7 +106,7 @@ When "Approval" is selected for any site templates, all requests are placed in t
 
 Selections and properties can be edited if needed. From this list an administrator can see the settings and approve or reject the site.
 
-.. image:: site-requests.png
+.. image:: site-request-management.png
 
 Click a link to browse the settings and properties.  
 
@@ -129,7 +129,7 @@ Manage requests - Properties
 ----------------------------
 What these settings contain depends on how the site tenplate was set up. This is probably a common example for project sites:
 
-.. image:: manage-requests-properties.png
+.. image:: manage-request-properties.png
 
 If "Approve" is selected the site is created. If "Reject" is selected, a form is displayed where comments on why the site request was rejected should be entered.
 
