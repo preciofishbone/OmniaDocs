@@ -5,11 +5,11 @@ The News Archive control makes it possible for the end user to find news article
 
 The News Archive control is deployed as part of the News Center page layout. Note: "Create News Article" is displayed for news editors only.
 
-.. image:: newsarchive.png
+.. image:: news-center-example.png
 
 The following settings are available for the control:
 
-.. image:: newsarchivesettings.png
+.. image:: news-archive-settings.png
 
 + **News Center**: The drop down displays all news centers deployed to the current site collection. Select the news center that should be shown in the control.
 + **Available fields/Selected Fields**: The Available Fields list displays all supported list columns (Date and Time, Person or Group, Yes/No, Managed Metadata) in the Pages library of the selected News Center site. The Selected Fields will show up as filters to the end user. It is possible to drag and drop the columns to decide in which order the columns should be rendered to the end user.
