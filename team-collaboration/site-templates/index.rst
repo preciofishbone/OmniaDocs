@@ -106,11 +106,30 @@ When "Approval" is selected for any site templates, all requests are placed in t
 
 Selections and properties can be edited if needed. From this list an administrator can see the settings and approve or reject the site.
 
-.. image:: siterequest_1.png
+.. image:: site-request.png
 
 Click a link to browse the settings and properties. The last step is to approve or reject the request. 
 
-.. image:: siterequest_2.png
+The process of approval or rejection is done thorugh a number of steps.
+
+Manage requests - Site information
+-----------------------------------
+Here site information cen be edited if needed:
+
+.. image:: manage-request-site-information.png
+
++ **Title**: If the title of the site does not follow name conventions in your organization, the title can be edited here.
++ **Description**: The description can be edited here, if needed.
++ **Url**: The last part of the Url can be edited if needed.
++ **Language**: If the requester has selected the wrong language, change it here.
++ **Omnia Profile**: If profiles are used, you can select another Omnia Profile if needed. You can find more information on Omnia Profiles here: (link)
++ **Make Public in Site Directory**: This optiin can be changed here.
+
+Manage requests - Properties
+----------------------------
+What these settings contain depends on how the site tenplate was set up. This is probably a common example for project sites:
+
+.. image:: manage-requests-properties.png
 
 If "Approve" is selected the site is created. If "Reject" is selected, a form is displayed where comments on why the site request was rejected should be entered.
 
