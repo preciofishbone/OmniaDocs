@@ -117,7 +117,7 @@ The Custom Colors tab
 ----------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-.. image:: news-viewer-colors.png
+.. image:: news-viewer-settings-colors-new.png
 
 News Viewer in Notification Panel
 ***********************************
