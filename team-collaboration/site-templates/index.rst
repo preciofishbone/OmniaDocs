@@ -129,7 +129,7 @@ Manage requests - Properties
 ----------------------------
 The fields available here depends on how the site template was set up. This is probably a common example for project sites:
 
-.. image:: manage-request-properties.png
+.. image:: manage-requests-properties.png
 
 In name fields, users can be removed or added the ususal way, in other fields metadata can be deleted or added from a fixed list. Note that "Arhcived" cen not be empty. It must be set to either Yes (normally) or No.
 
@@ -137,7 +137,7 @@ Manage requests - users
 ------------------------
 Here users can be added or removed:
 
-.. image:: manage-request-users.png
+.. image:: manage-requests-users.png
 
 If for example a central administration should be added as owner for all sites, this is the place to do that.
 
@@ -145,7 +145,7 @@ For "Send an email invitation" you can change the requesters choice, if needed.
 
 Here you make the final selection as well - to approve or reject creation od the site. If "Approve" is selected the site is created. If "Reject" is selected, a form is displayed where comments on why the site request was rejected should be entered.
 
-.. image:: manage-request-rejection.png
+.. image:: manage-requests-rejection.png
 
 If a site request is rejected, an e-mail is sent to the requester. A new site request must then be done.
 
