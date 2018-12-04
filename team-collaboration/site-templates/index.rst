@@ -122,7 +122,7 @@ Here site information cen be edited if needed:
 + **Description**: The description can be edited here, if needed.
 + **Url**: The last part of the Url can be edited if needed.
 + **Language**: If the requester has selected the wrong language, change it here.
-+ **Omnia Profile**: If profiles are used, you can select another Omnia Profile if needed. You can find more information on Omnia Profiles here: (link)
++ **Omnia Profile**: If profiles are used, you can select another Omnia Profile if needed. You can find more information on Omnia Profiles here: :doc:`Omnia Profiles </tenant-administration/omnia-profiles/index>`
 + **Make Public in Site Directory**: This optiin can be changed here.
 
 Manage requests - Properties
