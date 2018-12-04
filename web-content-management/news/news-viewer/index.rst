@@ -27,9 +27,7 @@ When you click "Add News Center", the following is shown:
 
 .. image:: add-news-center.png
 
-The **News Center** list displays all publishing sub sites in the site collection that have the "Omnia News Center" app feature activated. 
-
-To add a news center from another site, add the site url in the field at the top.
+The **News Center** list displays all publishing sub sites in the site collection that have the "Omnia News Center" app feature activated. You can add a News Center from another site, see below.
 
 Select News Center(s) and set the settings this way:
 
