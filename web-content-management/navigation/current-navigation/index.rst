@@ -3,7 +3,7 @@ Current Navigation
 
 The current navigation control makes it possible for the end user to navigate to siblings, parent nodes and parent node siblings. The control is part of page layouts using left-hand-side navigation.
 
-.. image:: currentnavigation.png
+.. image:: current-navigation-new.png
 
 The current navigation settings are page layout scoped. The settings are valid for a specific page layout within the current site collection.
 
