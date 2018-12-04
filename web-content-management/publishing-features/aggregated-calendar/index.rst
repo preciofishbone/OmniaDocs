@@ -58,7 +58,7 @@ To add a calendar from another site:
 .. image:: add-site-resolve.png
 
 3. Open the list "Calendar" and select calendar. (If no calendars are found a message will be shown.)
-5. Click "Add".
+4. Click "Add".
 
 All selected calendars are shown at the top, just under "Query Settings".
 
