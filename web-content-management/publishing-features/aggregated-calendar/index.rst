@@ -30,14 +30,8 @@ The following settings are available:
 + **Default Period**: Defines periods for the events to be displayed. 
 + **Label**: Label to be shown for the control.
 + **Default View**: Defines how to show the events. Note! Not all views are suitable for all periods, for example it only makes sense to display the Current Month events for the Month View.
-+ **Show Legend**: If legends for the calendars should be visible, select this box (se below for example).
++ **Show Legend**: If legends for the calendars should be visible, select this box. (The two images at the top has this option activated).
 + **Visible**: Defines when the control (the calendars) should be visible: Always, up to a maximum width or to a minimum width. Then define maximum or minimum width in pixels.
-
-When "Show Legend" is activated, it can look like this:
-
-.. image:: aggregated-calendar-legend.png
-
-Note the explanation for the color coding for events.
 
 Add a calendar
 ***************
