@@ -81,9 +81,17 @@ On this tab the following settings are available:
 
 .. image:: news-roller-old-ux.png
 
+"News Listing with Image New UX" displays the news in a list, with a square image to the left.
+
+.. image:: news-listing-image.png
+
 "News Listing with Image" displays the news in a list, with a landscape image to the left.
 
 .. image:: news-listing-image.old.png
+
+"News Listing with Image (New UX)" displays the news in a list, with a squaer image to the left.
+
+.. image:: news-listing-with-image-new-UX.png
 
 "Top Story" displays a big image with title on a transparent area. If one news article is displayed as Top Story, it will use the image with Landscape image rendition.
 
@@ -93,7 +101,7 @@ If two news articles are displayed, it will use the image with Square image rend
 
 .. image:: newsviewertopstory2.png
 
-If three news articles are displayd, it will use the image with Portrait image rendition.
+If three news articles are displayed, it will use the image with Portrait image rendition.
 
 A "Simple List" view displays the news articles without image in a simple list.
 
@@ -102,10 +110,6 @@ A "Simple List" view displays the news articles without image in a simple list.
 The "News Roller New UX" view displays all articles matching the query in the same area 5 seconds at a time. The user can manually change which article to displayed by clicking the buttons. The image is using Image Rendition with ID 1001.
 
 .. image:: news-roller.png 
-
-"News Listing with Image New UX" displays the news in a list, with a square image to the left.
-
-.. image:: news-listing-image.png
 
 + **Display News Center link**: Check if the link "Go to News Center" should be available at the end of the News Viewer.
 + **News Center Label**: Here you can change the label displayed for the News Center.
