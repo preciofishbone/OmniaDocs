@@ -104,7 +104,7 @@ When "Approval" is selected for any site templates, all requests are placed in t
 
 .. image:: siterequest_1.png
 
-Click a link to browse the settings and properties. The last step is to approve or reject the site. 
+Click a link to browse the settings and properties. The last step is to approve or reject the request. 
 
 .. image:: siterequest_2.png
 
