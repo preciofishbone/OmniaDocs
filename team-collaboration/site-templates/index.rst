@@ -153,19 +153,19 @@ Settings
 **********
 Use Settings to disable dynamic properties for some site templates, if needed.
 
-.. image:: site-tepmplates-settings-option.png
+.. image:: site-templates-settings-option.png
 
 The settings can look something like this:
 
 .. image:: site-template-settings.png
 
-Use the list to additional sites to disable dynamic properties in. To remove a site from the list, to enable dynamic properties, click the dust bin.
+Use the list to add additional sites to disable dynamic properties in. To remove a site from the list, to enable dynamic properties, click the dust bin.
 
 Permissions
 ************
 If additional users should be able to create site templates, use "Permissions" to add them.
 
-.. image:: site-tepmplates-permissions-option.png
+.. image:: site-templates-permissions-option.png
 
 You add or remove users from this list:
 
