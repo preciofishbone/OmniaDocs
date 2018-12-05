@@ -159,7 +159,7 @@ Using this tab you can view and export some reports about publishing pages in th
 
 Use the left-most list to select report:
 
-.. image:: manage-content-reports-list-png
+.. image:: manage-content-reports-list.png
 
 + **Usage**: Lists the most viewed pages.
 + **Review**: Lists the pages that needs review.
@@ -167,15 +167,15 @@ Use the left-most list to select report:
 
 You can use the other fields at the top to filter a list:
 
-.. image:: manage-content-reports-filter.png
+.. image:: manage-content-reports-list-filter.png
 
 Use the button to the far right to export the chosen list (filtered if you hav done that) to Excel.
 
-.. image:: manage-content-reports-export-excel.png
+.. image:: manage-content-reports-list-export-excel.png
 
 If the list is long, use the navigation below the list, the navigate to any page within the report.
 
-.. imag:: manage-content-reports-navigation.png
+.. imag:: manage-content-reports-navigate-pages.png
 
 Edit - Save - Publish 
 **********************
