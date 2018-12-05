@@ -71,7 +71,7 @@ General Tab
 **************
 The general tab has three fields:
 
-.. image:: manage.content-general-new.png
+.. image:: manage-content-general-new.png
 
 + **Title**: This is a required field and sets the title of the page. (If this is a term-driven page it will set the term title. If it is a physical page, it will set the Title field of the aspx page.)
 + **Summary**: This text will be shown below the title on the page. (If this is a term-driven page, it will set the term description. If it is a physical page, it will set the Comments field on the aspx page.)
