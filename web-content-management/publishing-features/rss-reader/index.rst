@@ -24,7 +24,7 @@ On this tab you can set the following:
 + **Source** Add the address to the RSS source here.
 + **Title**: You can edit the heading shown for the list here.
 + **Page Size**: Defines the number of objects to display per list "page".
-+ **Open in new window**: If the RSS postings always should be opened in e new window when clicked, select this option.
++ **Open in New Window**: If the RSS postings always should be opened in e new window when clicked, select this option.
 + **Visible**: Defines when the control should be visible: Always, up to a maximum width or to a minimum width. Then define maximum or minimum width in pixels.
 
 The Targeting tab
