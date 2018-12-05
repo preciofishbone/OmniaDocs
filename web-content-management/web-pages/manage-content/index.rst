@@ -145,7 +145,7 @@ Statistics tab
 **************
 Using this tab you can see statistics for the page.
 
-.. image:: manage-contents-statistics-new.png
+.. image:: manage-content-statistics-vision-pagehits.png
 
 Select "Page Hits" or Unique Visitors". If you select Page Hits you can also select "Include Sub Pages".
 
