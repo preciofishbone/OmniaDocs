@@ -7,7 +7,7 @@ Omnia Quick Edit can be started for a publishing page this way:
 
 + Browse to a web page and click on the Quick Edit icon next to the page title. 
 
-.. image:: quickediticon.png
+.. image:: quick-edit-button-new.png
 
 The Quick Edit button is always available for any user that has permissions to edit a certain page, regardless if the "Show/hide edit icons" are on or off.
 
@@ -99,6 +99,10 @@ Four different types of items can be added to the list of links:
 + Heading
 
 A custom link can be created to anything you can reach through an Url. Headings are use to create sections in a longer link list.
+
+The "Related links" in this image is an example of how a links list can look for the reader:
+
+.. image:: manage-content-links-example.png
 
 Sort the links
 ------------------
