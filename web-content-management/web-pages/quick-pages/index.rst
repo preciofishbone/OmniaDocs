@@ -22,5 +22,4 @@ The editor will find the checkbox here:
 
 In this example Quick Pages is on for this page as enabling legacy web parts is not activated.
 
-How to work with Quick Pages is described on the page "Manage Content": :doc:`Omnia Profiles </web-content-management/web-pages/manage-content/index>`
-
+How to work with Quick Pages is described on the page "Manage Content", see: :doc:`Manage Conten </web-content-management/web-pages/manage-content/index>`
