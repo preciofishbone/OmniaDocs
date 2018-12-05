@@ -11,4 +11,4 @@ Click for more details. Here's an example from a Past review date report:
 
 .. image:: past-review-date-report.png
 
-**Tip!**: There's also a number of reports available for publishing pages, when you edit a page, see: 
+**Tip!**: There's also a number of reports available for publishing pages, when you edit a page, see (under "Reports, almost at the end of the page): :doc:`Manage Content </web-content-management/web-pages/manage-content/index>`
