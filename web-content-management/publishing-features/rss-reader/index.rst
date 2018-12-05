@@ -14,7 +14,7 @@ Settings for the control
 *************************
 Here you can set the following:
 
-.. image:: rss-reader-general.png
+.. image:: rss-reader-general-new.png
 
 The General tab
 ------------------
