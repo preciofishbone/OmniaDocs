@@ -86,11 +86,17 @@ The list view displays all events from the selected default period in a list. It
 
 The Month Calendar view displays all events from the selected default period in a monthly calendar. It is possible to navigate from month to month using the navigation arrows at the top. The current day will be shown with a different background color. The user can hover over an event to show detailed information about it.
 
-.. image:: aggregated-month-view.png
+.. image:: aggregated-calendar-month.png
 
 The Week Calendar view displays all events from the selected default period in a weekly calendar. It is possible to navigate from week to week using the navigation arrows at the top. The current day will be shown with a different background color. The user can hover over an event to show detailed information about it.
 
-.. image:: aggregated-week-view.png
+.. image:: aggregated-calendar-week.png
+
+There's also a Summary View:
+
+.. image:: aggregated-calendar-summary.png
+
+(More information on this view will be added soon)
 
 Aggregated Calendar in Notification Panel
 ******************************************
