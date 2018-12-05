@@ -18,12 +18,9 @@ The difference between the first two options is the checkbox the editor will use
 
 The editor will find the checkbox here:
 
-.. image:: enable-quickpages-checkbox.png 
+.. image:: enable-quickpages-checkbox-new.png 
 
 In this example Quick Pages is on for this page as enabling legacy web parts is not activated.
 
-How to work with Quick Pages is described in "Content Management" (link) here.
-
-
-
+How to work with Quick Pages is described on the page "Manage Content": :doc:`Omnia Profiles </web-content-management/web-pages/manage-content/index>`
 
