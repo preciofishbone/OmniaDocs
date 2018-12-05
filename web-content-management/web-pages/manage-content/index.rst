@@ -73,6 +73,7 @@ The general tab has three fields:
 
 .. image:: manage-content-general-new.png
 
++ **Status**: At the top of the page you can status of this particular version of the page. If it says "draft", this version is not published, and therefore not available for others.
 + **Title**: This is a required field and sets the title of the page. (If this is a term-driven page it will set the term title. If it is a physical page, it will set the Title field of the aspx page.)
 + **Summary**: This text will be shown below the title on the page. (If this is a term-driven page, it will set the term description. If it is a physical page, it will set the Comments field on the aspx page.)
 + **Image**: Browse for an image using the built-in asset picker in SharePoint or enter a url to an external image. The image will be shown on top of the page. Leave blank, if the title should appear on top instead. If the image is internal (stored in the current site collection), a link will appear with the possibility to edit image renditions. Note! The system will automatically add "?RenditionID=1001" to the url when you pick an image using the Browse button. Remove this query string if you want to render the image in original format.
@@ -80,7 +81,7 @@ The general tab has three fields:
 
 Content Tab
 ************
-The content tab includes a content editor based on [TinyMCE](https://www.tinymce.com). Click "Edit in Advanced Mode" to use SharePoint content editing instead. Note! If Quick Pages has been activated, Advanced mode is not available.
+The content tab includes a content editor based on [TinyMCE] (https://www.tinymce.com). Click "Edit in Advanced Mode" to use SharePoint content editing instead. Note! If Quick Pages has been activated, Advanced mode is not available. "Edit in Advanced Mode" is missing from the image for that reason.
 
 .. image:: manage-content-content-new.png
 
@@ -109,7 +110,7 @@ You can edit any item in the list by selecting it in the list.
 
 Properties Tab
 ****************
-The properties tab displays all page properties that have been configured as editable for the current publishing site. The available properties are configured by an administrator in the [publishing feature in Omnia Admin](../omnia-intranet-admin/publishing/index.html).
+The properties tab displays all page properties that have been configured as editable for the current publishing site. The available properties are configured by an administrator. See the following page for more information:  link in the (../omnia-intranet-admin/publishing/index.html).
 
 .. image:: manage-content-properties-new.png
 
