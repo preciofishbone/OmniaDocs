@@ -73,7 +73,7 @@ The general tab has three fields:
 
 .. image:: manage-content-general-new.png
 
-+ **Status**: At the top of the page you can status of this particular version of the page. If it says "draft", this version is not published, and therefore not available for others.
++ **Status**: At the top of the page you can see the status of this particular version of the page. If it says "draft", this version is not published, and therefore not available for others.
 + **Title**: This is a required field and sets the title of the page. (If this is a term-driven page it will set the term title. If it is a physical page, it will set the Title field of the aspx page.)
 + **Summary**: This text will be shown below the title on the page. (If this is a term-driven page, it will set the term description. If it is a physical page, it will set the Comments field on the aspx page.)
 + **Image**: Browse for an image using the built-in asset picker in SharePoint or enter a url to an external image. The image will be shown on top of the page. Leave blank, if the title should appear on top instead. If the image is internal (stored in the current site collection), a link will appear with the possibility to edit image renditions. Note! The system will automatically add "?RenditionID=1001" to the url when you pick an image using the Browse button. Remove this query string if you want to render the image in original format.
@@ -100,10 +100,6 @@ Four different types of items can be added to the list of links:
 
 A custom link can be created to anything you can reach through an Url. Headings are use to create sections in a longer link list.
 
-The "Related links" in this image is an example of how a links list can look for the reader:
-
-.. image:: manage-content-links-example.png
-
 Sort the links
 ------------------
 You can sort the links and headings in the list by using drag and drop.
@@ -111,6 +107,10 @@ You can sort the links and headings in the list by using drag and drop.
 Edit links
 --------------
 You can edit any item in the list by selecting it in the list.
+
+"Related links" in this image is an example of how a links list can look when the page is published:
+
+.. image:: manage-content-links-example.png
 
 Properties Tab
 ****************
