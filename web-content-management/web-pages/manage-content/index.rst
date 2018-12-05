@@ -110,7 +110,7 @@ You can edit any item in the list by selecting it in the list.
 
 Properties Tab
 ****************
-The properties tab displays all page properties that have been configured as editable for the current publishing site. The available properties are configured by an administrator. See the following page for more information:  link in the (../omnia-intranet-admin/publishing/index.html).
+The properties tab displays all page properties that have been configured as editable for the current publishing site. The available properties are configured by an administrator using Omnia Admin. 
 
 .. image:: manage-content-properties-new.png
 
@@ -139,37 +139,39 @@ The site permissions part displays all SharePoint groups that have access to the
 
 Statistics tab
 **************
-
+Using this tab you can see statistics for the page.
 
 .. image:: manage-contents-statistics-new.png
 
+Select "Page Hits" or Unique Visitors". If you select Page Hits you can also select "Include Sub Pages".
 
+Also see "Reports" below.
 
 Reports
 ********
-
-
+Using this tab you can view and export some reports about publishing pages in the tenant.
 
 .. image:: manage-content-reports.png
 
-
+Use the left-most list to select report:
 
 .. image:: manage-content-reports-list-png
 
++ **Usage**: Lists the most viewed pages.
++ **Review**: Lists the pages that needs review.
++ **Checked Out**: Lists pages checked out by users.
 
+You can use the other fields at the top to filter a list:
 
 .. image:: manage-content-reports-filter.png
 
-
+Use the button to the far right to export the chosen list (filtered if you hav done that) to Excel.
 
 .. image:: manage-content-reports-export-excel.png
 
-
-
+If the list is long, use the navigation below the list, the navigate to any page within the report.
 
 .. imag:: manage-content-reports-navigation.png
-
-
 
 Edit - Save - Publish 
 **********************
