@@ -155,7 +155,7 @@ Reports
 ********
 Using this tab you can view and export some reports about publishing pages in the tenant.
 
-.. image:: manage-content-reports.png
+.. image:: manage-content-reports-border.png
 
 Use the left-most list to select report:
 
