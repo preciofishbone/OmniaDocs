@@ -10,3 +10,5 @@ Note the two units "Past review date", one for "your" pages, and one for all oth
 Click for more details. Here's an example from a Past review date report:
 
 .. image:: past-review-date-report.png
+
+**Tip!**: There's also a number of reports available for publishing pages, when you edit a page, see: 
