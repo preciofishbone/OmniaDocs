@@ -169,13 +169,13 @@ You can use the other fields at the top to filter a list:
 
 .. image:: manage-content-reports-list-filter.png
 
-Use the button to the far right to export the chosen list (filtered if you hav done that) to Excel.
+Use the button to the far right to export the chosen list (filtered if you have done that) to Excel.
 
 .. image:: manage-content-reports-list-export-excel.png
 
 If the list is long, use the navigation below the list, the navigate to any page within the report.
 
-.. imag:: manage-content-reports-navigate-pages.png
+.. image:: manage-content-reports-navigate-pages.png
 
 Edit - Save - Publish 
 **********************
