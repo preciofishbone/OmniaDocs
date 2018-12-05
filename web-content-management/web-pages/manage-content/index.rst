@@ -175,7 +175,7 @@ Use the button to the far right to export the chosen list (filtered if you have 
 
 If the list is long, use the navigation below the list, the navigate to any page within the report.
 
-.. image:: manage-content-reports-navigate-pages.png
+.. image:: manage-content-reports-navigate-pages-border.png
 
 Edit - Save - Publish 
 **********************
