@@ -71,7 +71,7 @@ General Tab
 **************
 The general tab has three fields:
 
-.. image:: generaltab.png
+.. image:: manage.content-general-new.png
 
 + **Title**: This is a required field and sets the title of the page. (If this is a term-driven page it will set the term title. If it is a physical page, it will set the Title field of the aspx page.)
 + **Summary**: This text will be shown below the title on the page. (If this is a term-driven page, it will set the term description. If it is a physical page, it will set the Comments field on the aspx page.)
@@ -82,11 +82,15 @@ Content Tab
 ************
 The content tab includes a content editor based on [TinyMCE](https://www.tinymce.com). Click "Edit in Advanced Mode" to use SharePoint content editing instead. Note! If Quick Pages has been activated, Advanced mode is not available.
 
-.. image:: contenttab.png
+.. image:: manage-content-content-new.png
 
 Links Tab
 **********
-Using the links tab you can create structured links that will appear on the right-hand side of a page. Four different types of items can be added to the list of links:
+Using the links tab you can create structured links that will appear on the right-hand side of a page. 
+
+.. image:: manage-content-links-new.png
+
+Four different types of items can be added to the list of links:
 
 + Page
 + Document
@@ -107,7 +111,7 @@ Properties Tab
 ****************
 The properties tab displays all page properties that have been configured as editable for the current publishing site. The available properties are configured by an administrator in the [publishing feature in Omnia Admin](../omnia-intranet-admin/publishing/index.html).
 
-.. image:: properties.png
+.. image:: manage-content-properties-new.png
 
 Note! If the field "Review Date" is present, you should normally add a suitable date there. Then the page will be indicated in "Content Management" in Omnia Admin, when the date is passed.
 
@@ -115,7 +119,7 @@ Navigation Tab
 ****************
 The navigation tab includes all settings related to navigation for the page.
 
-.. image:: navigationtab.png
+.. image:: manage-content-navigation-new.png
 
 + **Navigation Term title**: By default, the navigation title will be the same as the page title, but it is possible to customize the navigation title. Check the box "Customize" and then change the title. All navigation components will now display this title instead of the page title.
 + **Friendly Url Segment**: The friendly url to the page is built up of segments from all parent nodes in the navigation. The last segment in the url can be edited. By default it is set to the title, but excluding special characters.
@@ -130,7 +134,41 @@ The site tab holds information about the current publishing site. It is possible
 
 The site permissions part displays all SharePoint groups that have access to the page. Click on "Edit Permissions" to go to the SharePoint UI and add users to the different groups.
 
-.. image:: sitetab.png
+.. image:: manage-content-site-new.png
+
+Statistics tab
+**************
+
+
+.. image:: manage-contents-statistics-new.png
+
+
+
+Reports
+********
+
+
+
+.. image:: manage-content-reports.png
+
+
+
+.. image:: manage-content-reports-list-png
+
+
+
+.. image:: manage-content-reports-filter.png
+
+
+
+.. image:: manage-content-reports-export-excel.png
+
+
+
+
+.. imag:: manage-content-reports-navigation.png
+
+
 
 Edit - Save - Publish 
 **********************
