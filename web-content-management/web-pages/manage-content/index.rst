@@ -226,7 +226,7 @@ If the page already exists in the selected language, it is displayed and you can
 
 If the page does not exist in the selected language, you have to create it:
 
-.. image:: translation-2-new.png
+.. image:: translation-2-new-box.png
 
 When the page is created, and only then, all content from the master language is copied. After that, the language editions of the page are different units, with no connection between them.
 
