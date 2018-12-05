@@ -9,9 +9,9 @@ Omnia Quick Edit can be started for a publishing page this way:
 
 .. image:: quick-edit-button-new.png
 
-The Quick Edit button is always available for any user that has permissions to edit a certain page, regardless if the "Show/hide edit icons" are on or off.
+The Quick Edit button is always available for any user that has permissions to edit a certain page. No need to select to edit the page.
 
-When the icon is used to open Quick Edit for a page, that page is automatically checked out, which means no other editor can edit that page until it's checked in or published.
+When the icon is used to open Quick Edit for a page, that page is automatically checked out, which means no other editor can edit that page until it's published.
 
 Tip:
 If you just would like to have a look at the settings for a page, without checking out, open the Settings menu (the cogwheel) and select "Manage Content", to open the Quick edit.
