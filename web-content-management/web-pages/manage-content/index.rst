@@ -220,13 +220,13 @@ Translations
 *************
 It may be possible to work with the content in several languages. If it is, you can select language while editing a page:
 
-.. image:: translation-select-language.png
+.. image:: translation-1-new.png
 
 If the page already exists in the selected language, it is displayed and you can continue working on the content.
 
 If the page does not exist in the selected language, you have to create it:
 
-.. image:: translation-create-page.png
+.. image:: translation-2-new.png
 
 When the page is created, and only then, all content from the master language is copied. After that, the language editions of the page are different units, with no connection between them.
 
@@ -234,7 +234,7 @@ You can now edit the language edition of the page the normal way. Note that ever
 
 When you are finished, you publish the language edition the same way as for the master page, but now the button is named "Publish Translation". If something went wrong, you can delete the language edition of the page.
 
-.. image:: translation-publish-delete.png
+.. image:: translation-3-new.png
 
 Permissions
 *************
