@@ -49,15 +49,21 @@ The General tab
 -----------------
 On this tab the following settings are available:
 
-.. image:: cd-viewer-general.png
+.. image:: documents-viewer-general-new.png
 
++ **Title**: Add the title shown to users for the control.
 + **Search scope**: The search scope can be either Published Documents or Archived Documents. Published Document is the default.
 + **Default Sort Order**: You can select a default sort order from the list.
 + **Sort Direction**: Set sort direction - Ascending or Descending.
 + **Page Size**: Set the number of documents to be shown on ech "page" of the list.
++ **Paging Type**: Select "Classic", as seen in the images at the top of the page, or "Scroll", see example below.
 + **Show Search Box**: If users should be able to search the documents displayed by the controll, the option should be checked.
 + **Open in Office Web Apps**: If a document, when a user clicks the link, should be opened in Office Web Apps, the option should be checked. If not checked, documents will open in the full application. 
 + **Show "Subscribe To..."**: If the "Subscribe To" column should be displayed, select the box.
+
+Here's an example when Paging Type Scroll is selected:
+
+.. image:: page-type-scroll.png
 
 The Query tab
 --------------
