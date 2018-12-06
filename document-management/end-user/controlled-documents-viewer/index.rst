@@ -66,7 +66,7 @@ The Query tab
 --------------
 This tab is used to decide which Controlled Documents to display in the control.
 
-.. image:: documents-viewer-query-new.png
+.. image:: document-viewer-query-new.png
 
 + **Query Builder**: User the Query Builder to build querys for which documents to show here. Note the example in the image.
 + **Select Documents**: (A description will be added soon.)
@@ -85,7 +85,7 @@ The Filters tab
 -------------------
 On this tab you set filters to show in the viewer:
 
-.. image:: documents-viewer-filters-new.png
+.. image:: document-viewer-filters-new.png
 
 (A description will be added soon.)
 
@@ -93,7 +93,7 @@ The Refiners tab
 -------------------
 This tab is used to set property fields to use as refiners.
 
-.. image:: document-viewer-refiners-new.png
+.. image:: documents-viewer-refiners-new.png
 
 + **Location**: Select where the refiners should be placed: left, right, top.
 + **No Of Columns Per Row**: Set the number of refiners that should be displayed per row.
