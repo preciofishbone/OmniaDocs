@@ -56,20 +56,20 @@ On this tab the following settings are available:
 + **Default Sort Order**: You can select a default sort order from the list.
 + **Sort Direction**: Set sort direction - Ascending or Descending.
 + **Page Size**: Set the number of documents to be shown on ech "page" of the list.
-+ **Paging Type**: Select "Classic", as seen in the images at the top of the page, or "Scroll", see example below.
++ **Paging Type**: Select "Classic", as seen in the images at the top of the page, or "Scroll".
 + **Show Search Box**: If users should be able to search the documents displayed by the controll, the option should be checked.
-+ **Open in Office Web Apps**: If a document, when a user clicks the link, should be opened in Office Web Apps, the option should be checked. If not checked, documents will open in the full application. 
++ **Open in Office Web Apps**: If a document, when a user clicks the link, should be opened in Office Web Apps, the option should be checked. If not checked, documents will open in the full application.
++ **Open in New Window**: If the documents should be opened in a new window, when the user clicks a link, select this option.
 + **Show "Subscribe To..."**: If the "Subscribe To" column should be displayed, select the box.
-
-Here's an example when Paging Type Scroll is selected:
-
-.. image:: page-type-scroll.png
 
 The Query tab
 --------------
 This tab is used to decide which Controlled Documents to display in the control.
 
-.. image:: controlled-documents-viewer-settings-query.png
+.. image:: documents-viewer-query-new.png
+
++ **Query Builder**: User the Query Builder to build querys for which documents to show here. Note the example in the image.
++ **Select Documents**: (A description will be added soon.)
 
 The Columns tab
 -----------------
@@ -85,7 +85,7 @@ The Filters tab
 -------------------
 On this tab you set filters to show in the viewer:
 
-.. image:: cd-viewer-filters.png
+.. image:: documents-viewer-filters-new.png
 
 (A description will be added soon.)
 
@@ -93,15 +93,13 @@ The Refiners tab
 -------------------
 This tab is used to set property fields to use as refiners.
 
-.. image:: cd-viewer-refiners.png
+.. image:: document-viewer-refiners-new.png
 
 + **Location**: Select where the refiners should be placed: left, right, top.
++ **No Of Columns Per Row**: Set the number of refiners that should be displayed per row.
++ **Refiner**: Select the refiners to be used here and set limit and order ny to the right for each refiner.
 + **Limit**: Set the number of values for the refiner to be displayed. If there's more a "Show more" links is shown.
-+ **Order by**: Set the sorter order for the values. Can be either alphabetical order (default) or by Count (number of documents).**Sort + **Direction**: Set sort direction - Ascending or Descending.
-+ **Page Size**: Set the number of documents to be shown on ech "page" of the list.
-+ **Show Search Box**: If users should be able to search the documents displayed by the controll, the option should be checked.
-+ **Open in Office Web Apps**: If a document, when a user clicks the link, should be opened in Office Web Apps, the option should be checked. If not checked, documents will open in the full application. 
-+ **Show "Subscribe To..."**: If the "Subscribe To" column should be dispplayed, select the box.
++ **Order by**: Set the sorter order for the values. Can be either alphabetical order (default) or by Count (number of documents).**Sort 
 
 The Design tab
 ---------------
