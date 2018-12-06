@@ -8,6 +8,6 @@ A document can't be unpublished if a draft has been created for that document. T
 
 The "Unpublish" option can be used on the "Published" tab and is found in a document's menu, for example:
 
-.. image:: unpublish.png
+.. image:: unpublish-new.png
 
  
