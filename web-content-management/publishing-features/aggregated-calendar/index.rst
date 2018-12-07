@@ -88,7 +88,7 @@ You can add events now. To edit and delete events or edit targeting, select the 
 
 Targeting a calendar
 ---------------------
-By default all users of the intranet can see all calendars, but you can set that a calendar should be shown just for som users. Here's how:
+By default all users of the intranet can see all calendars, but you can set that a calendar should be shown just for some users. One example could be a calendar for a specific office. Here's how target a calendar:
 
 1. Select the calendar as shown under *Edit a calendar*.
 2. Click "TARGETING".
