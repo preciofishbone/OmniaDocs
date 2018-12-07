@@ -88,7 +88,7 @@ You can add events now. To edit and delete events or edit targeting, select the 
 
 Targeting a calendar
 ---------------------
-By default all users of the intranet can see all calendars, but calendar can be shown just for a selected group. Here's how:
+By default all users of the intranet can see all calendars, but you can set that a calendar should be shown just for som users. Here's how:
 
 1. Select the calendar as shown under *Edit a calendar*.
 2. Click "TARGETING".
@@ -99,7 +99,7 @@ By default all users of the intranet can see all calendars, but calendar can be 
 
 .. image:: click-target-to.png
 
-4. Use the available fields to target to a specific group.
+4. Use the available fields to target to a specific group of users.
 
 Available fields can differ depending on how targeting is set up in Omnia Admin. Here's a common example:
 
