@@ -82,9 +82,30 @@ If you have permissions to edit a calendar, you can do that this way:
 
 .. image:: aggregated-calendar-select-calendar.png
 
-You can add events now. To edit and delete events, select the event.
+You can add events now. To edit and delete events or edit targeting, select the event.
 
 .. image:: aggregated-calendar-edit-or-delete.png
+
+Targeting a calendar
+---------------------
+By default all users of the intranet can see all calendars, but calendar can be shown just for a selected group. Here's how:
+
+1. Select the calendar as shown under *Edit a calendar*.
+2. Click "TARGETING".
+
+.. image:: aggregated-targeting.png
+
+3. Click "Target to".
+
+.. image:: click-target-to.png
+
+4. Use the available fields to target to a specific group.
+
+Available fields can differ depending on how targeting is set up in Omnia Admin. Here's a common example:
+
+.. image:: aggregated-targering-fields.png
+
+Don't forget to save when you're done.
 
 More on Default views
 ***********************
