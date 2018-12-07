@@ -72,13 +72,19 @@ To remove a calendar just:
 
 Edit a calendar
 ****************
-If you have permissions to edit a calendar, you can do that by clicking the button in the control:
+If you have permissions to edit a calendar, you can do that this way:
 
-.. image:: aggregated-calendar-addevents.png
+1. Click "SHOW ALL EVENTS".
 
-Select the calendar in the list and edit or add events as needed.
+.. image:: aggregated-click-all-events.png
 
-.. image:: aggregated-edit-events.png
+2. Use the list at top left to to select calendar to edit.
+
+.. image:: aggregated-calendar-select-calendar.png
+
+You can add events now. To edit and delete events, select the event.
+
+.. image:: aggregated-calendar-edit-or-delete.png
 
 More on Default views
 ***********************
