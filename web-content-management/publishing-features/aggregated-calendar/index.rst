@@ -123,7 +123,7 @@ There's also a Summary View:
 
 .. image:: aggregated-calendar-summary.png
 
-(More information on this view will be added soon)
+This view is used to show events from the actual day and the next day in a special format.
 
 Aggregated Calendar in Notification Panel
 ******************************************
