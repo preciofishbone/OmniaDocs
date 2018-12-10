@@ -91,6 +91,13 @@ It is possible to select a Video to replace the image on the top of a web page. 
 
 .. image:: MediaPickerYouTube.png
 
+All news rollups that display page images have been updated to support the new Media Picker.
+The news rollups are backward compatible to  support the previous Image Picker. The SharePoint Image Renditions for landsacpe have been updated to a 16:9 ratio. The new values are:
+
+* Landscape, Id 1001: 640px * 360px.
+* Landscape (small size), Id 1004: 320px * 180px.
+* Landscape (New), Id 1005: 640px * 360px.
+
 Document Management for Modern Sites (Document Management)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -119,4 +126,6 @@ All existing Quality Management sites will be updated to use the new look and fe
 Bug Fixes and Small Improvements
 ----------------------------------
 
-- (TODO)
+- Fixed bug in Edit Reusable Banner that could happen in some scenarios.
+- Fixed issue with new Date/Time picker when loading a specific type of dialog for the first time (related to new version of QMS).
+- Fixed some issue with the aspect ratio in the News Roller.
