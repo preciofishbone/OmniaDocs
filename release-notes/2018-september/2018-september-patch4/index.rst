@@ -4,10 +4,10 @@ Release Notes September 2018 Patch 4
 Omnia.Foundation (1.0.14143)
 ----------------------------------------
 - Fixed critical issue with Google Chrome version 71.0.3578.80.
-- Fixed issue with modern header not being able to render in Site Conten on modern sites.
+- Fixed issue with modern header not being able to render in Site Content on modern sites.
 - Fixed issues related to SharePoint 2019.
 - Made sure Omnia Page Layouts can be restored from the Recycle Bin in SharePoint.
-- Fixed issue when creating Communication Site using approval.
+- Fixed issue when creating Communication Sites using approval.
 
 Omnia.Intranet (1.0.14150)
 ----------------------------------------
