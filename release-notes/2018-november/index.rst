@@ -7,16 +7,16 @@ Features
 Yammer Integration
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-It is now possible to use Yammer as the preferred choice for conversations in an Office 365 Group site template.
+From this release, it is possible to use Yammer as the preferred choice for conversations in an Office 365 Group site template.
 
 .. image:: YammerSetup.png
 
-When this option is selected, a Yammer group will be created. The Yammer group will be
-integrated with an Office 365 Group.
+When this option is selected, a Yammer group will be created in the provisioning flow. The Yammer group will be
+automatically connected to a new Office 365 Group and team site.
 
 .. image:: YammerGroup.png
 
-The conversations link in quick launch on the team site will take you to the connected Yammer group.
+The conversations link in Quick Launch will take you to the connected Yammer group.
 
 .. image:: YammerConversationsLink.png
 
@@ -29,14 +29,14 @@ In order for Yammer group provisioning to be enabled in the solution, the follow
 .. image:: YammerRegisterApp.png
 
 4. Note down the Client Id and Client Secret.
-5. Browse to https//www.yammer.com/oauth2/authorize?client_id=[Client Id]&response_type=code&redirect_uri=https://www.yammer.com
+5. Browse to https://www.yammer.com/oauth2/authorize?client_id=[ClientId]&response_type=code&redirect_uri=https://www.yammer.com
 6. Click on Allow to authorize the app.
 7. Copy the Code in the url in the page you get redirected to. (Something like: lirOpPqZXwjTpRXx4ctDA)
-8. Browse to https://www.yammer.com/oauth2/access_token.json?client_id=[Client Id]&client_secret=[Client Secret]&code=[Code]
-9. Note down the token from the JSON response. (Something like: 11503671-bAjUZJODAyrXENlNKJNA)
+8. Browse to https://www.yammer.com/oauth2/access_token.json?client_id=[ClientId]&client_secret=[ClientSecret]&code=[Code]
+9. Note down the token you receive from the JSON response. (Something like: 11503671-bAjUZJODAyrXENlNKJNA)
 10. Go to Omnia Admin > Settings > Azure AD > Yammer Group.
-11. Read through the prerequisites text and make sure your Yammer network is configured accordingly.
-12. Put in the token in Yammer Access Token.
+11. Read the prerequisites text and make sure your Yammer network is configured accordingly.
+12. Put the token into the Yammer Access Token field.
 13. Check the box "I ensure all prerequisites are configured correctly" and save.
 
 Site templates can now use Yammer as its preferred way of handling conversations within a group.
@@ -94,9 +94,9 @@ It is possible to select a Video to replace the image on the top of a web page. 
 All news rollups that display page images have been updated to support the new Media Picker.
 The news rollups are backward compatible to  support the previous Image Picker. The SharePoint Image Renditions for landsacpe have been updated to a 16:9 ratio. The new values are:
 
-* Landscape, Id 1001: 640px * 360px.
-* Landscape (small size), Id 1004: 320px * 180px.
-* Landscape (New), Id 1005: 640px * 360px.
+* 1001 Landscape: 640px * 360px.
+* 1004 Landscape (small size): 320px * 180px.
+* 1005 Landscape (New): 640px * 360px.
 
 Document Management for Modern Sites (Document Management)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
