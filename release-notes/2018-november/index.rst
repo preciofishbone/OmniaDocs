@@ -122,10 +122,11 @@ will be deployed as a modern page.
 
 All existing Quality Management sites will be updated to use the new look and feel.
 
-
 Bug Fixes and Small Improvements
 ----------------------------------
 
+- All blocks can now have a title. It is possible to decide whether a title should be shown or not using a checkbox.
+- All block titles can have custom localization. Use the syntax {en-us:My Title;sv-se:Mina rubrik}.
 - Fixed bug in Edit Reusable Banner that could happen in some scenarios.
 - Fixed issue with new Date/Time picker when loading a specific type of dialog for the first time (related to new version of QMS).
 - Fixed some issue with the aspect ratio in the News Roller.
