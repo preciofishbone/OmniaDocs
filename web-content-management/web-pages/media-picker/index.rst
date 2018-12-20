@@ -76,11 +76,11 @@ Don't forget to save your changes when you're done.
 
 Video
 ******
-For Video, select either "Microsoft Stream" for your company's Office 365 Stream, or YouTube.
+For Video, select either "Microsoft Stream" for your company's Office 365 Stream, or "YouTube".
 
 .. image:: video.png
 
-**Note!** You use this option to generally add a link to a video to a specific page (to the page image area). The link is not saved in the Media Picker, just on the page.
+**Note!** You use this option to add a link to a video on a specific page (to the page image area). The link is not saved in the Media Picker, just on the page.
 
 Here's how to add a video:
 
