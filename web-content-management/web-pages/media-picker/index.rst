@@ -55,10 +55,10 @@ When a bing search has been conducted, something like the following is shown:
 
 .. image:: bing-after-search-border.png
 
-+**Search**: Use this field to conduct a new search.
-+**Size**: Use this field the search result on size; Small, Medium, Large, Wall paper, All.
-+**Aspect**: Here you can filter on the image format; Square, Wide, Tall, All.
-+**Type**: Use his to filter on image type; Clipart, Line, Photo, All.
++ **Search**: Use this field to conduct a new search.
++ **Size**: Use this field the search result on size; Small, Medium, Large, Wall paper, All.
++ **Aspect**: Here you can filter on the image format; Square, Wide, Tall, All.
++ **Type**: Use his to filter on image type; Clipart, Line, Photo, All.
 
 To select an image, double click or select the image and click "SELECT".
 
@@ -70,8 +70,8 @@ When the image has been selected, the following settings can be made:
 
 .. image:: image-settings.png
 
-+**Landscape**: Click the Landscape preview and use the selection on the image to decide wich part of the image to show when it's used in landscape format.
++ **Landscape**: Click the Landscape preview and use the selection on the image to decide wich part of the image to show when it's used in landscape format.
 + **Square**: Click the Square preview and use the selection on the image to decide wich part of the image to show when it's used in square format.
-+**Filters**: Use the filters to adjust the image; Sepia coloring, Grayscale coloring, Brightness, Contrast and Saturation.
++ **Filters**: Use the filters to adjust the image; Sepia coloring, Grayscale coloring, Brightness, Contrast and Saturation.
 
 
