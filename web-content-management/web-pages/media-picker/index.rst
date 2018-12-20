@@ -47,7 +47,7 @@ To select an image, double click on the image, or select the image and click "SE
 
 Bing Search
 ------------
-When selecting "Bing Search" you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set in Omnia Admin (Systems/Settings/Media Picker).
+When selecting "Bing Search" you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set up by an administrator in Omnia Admin (Systems/Settings/Media Picker).
 
 .. image:: bing-search.png
 
@@ -64,6 +64,8 @@ To select and image, double click or select the image and click "SELECT".
 
 .. image:: bing-image-selected.png
 
+Settings for an image
+**********************
 
 
 
