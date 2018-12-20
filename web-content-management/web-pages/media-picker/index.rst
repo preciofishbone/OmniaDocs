@@ -53,7 +53,17 @@ When selecting "Bing Search" you can search for any Bing image, or use the prede
 
 When a bing search has been conducted, something like the following is shown:
 
-.. image:: bing-after-search.png
+.. image:: bing-after-search-border.png
+
++**Search**: Use this field to conduct a new search.
++**Size**: Use this field the search result on size; Small, Medium, Large, Wall paper, All.
++**Aspect**: Here you can filter on the image format; Square, Wide, Tall, All.
++**Type**: Use his to filter on image type; Clipart, Line, Photo, All.
+
+To select and image, double click or select the image and click "SELECT".
+
+.. image:: bing-image-selected.png
+
 
 
 
