@@ -82,7 +82,7 @@ For Video, select either "Microsoft Stream" for your company's Office 365 Stream
 
 .. image:: video.png
 
-**Note!** You use this option to generally add a link to a video to a specific page (to the page image area). The link is not saved in the Media Picker, just in the page.
+**Note!** You use this option to generally add a link to a video to a specific page (to the page image area). The link is not saved in the Media Picker, just on the page.
 
 Here's how to add a video:
 
@@ -94,7 +94,7 @@ Now the following settings are available:
 
 .. image:: stream-settings.png
 
-+ ** Start at**: If the video should not start at the beginning, set when it should start. Use the format minutes:seconds.
++ **Start at**: If the video should not start at the beginning, set when it should start. Use the format minutes:seconds.
 + **Autoplay**: If the vidoe should start automatically when a user opens the page, select this option.
 + **Show info**: If the information about the video should be shown, select this option.
 
