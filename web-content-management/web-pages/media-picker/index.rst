@@ -4,7 +4,7 @@ Media Picker
 .. toctree::
    :titlesonly:
 
-   setup-media-picker/index
+   setup/index
     
 The Media Picker can be used to add an image or a video to the page image area. Any image on the editor's computer can be selected, as well as from any central image location registered in Omnia Admin. An image can be pasted from the clipboard as well. Besides that Bing can be used to find images. Regarding Bing, only images that are free to use and share will be available.
 
