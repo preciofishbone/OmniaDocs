@@ -5,9 +5,7 @@ The Media Picker can be used to add an image or a video to the page image area. 
 
 Videos can be selected from your company's Stream in Office 365, or from YouTube.
 
-To use the Media Picker instead of the Image picker, the Media Picker needs to be activated in Omnia Admin (Systems/Settings/Intranet Core).
-
-More information about the Image Picker is found here: (Link)
+To use the Media Picker instead of the Image picker, the Media Picker needs to be activated in Omnia Admin (Systems/Settings/Intranet Core). If the Media Picker is not activated, the Image Picker will be used instead, see: (Link)
 
 Here's how to use the Media Picker:
 
