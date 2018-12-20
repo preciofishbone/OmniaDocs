@@ -49,3 +49,11 @@ Bing Search
 ------------
 When selecting "Bing Search" you can search for any Bing image, or use the predefined search categories, if any is set up. Bing search categories can be set in Omnia Admin (Systems/Settings/Media Picker).
 
+.. image:: bing-search.png
+
+When a bing search has been conducted, something like the following is shown:
+
+.. image:: bing-after-search.png
+
+
+
