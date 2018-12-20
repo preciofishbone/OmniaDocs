@@ -56,9 +56,9 @@ When a bing search has been conducted, something like the following is shown:
 .. image:: bing-after-search-border.png
 
 + **Search**: Use this field to conduct a new search.
-+ **Size**: Use this field the search result on size; Small, Medium, Large, Wall paper, All.
++ **Size**: Use this field the filter the search result on size; Small, Medium, Large, Wall paper, All.
 + **Aspect**: Here you can filter on the image format; Square, Wide, Tall, All.
-+ **Type**: Use his to filter on image type; Clipart, Line, Photo, All.
++ **Type**: Use this to filter on image type; Clipart, Line, Photo, All.
 
 To select an image, double click or select the image and click "SELECT".
 
