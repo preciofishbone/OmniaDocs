@@ -12,7 +12,7 @@ Here's how to active the Media Picker:
 
 .. image:: intranet-core-settings.png
 
-Set up predefined Bing Search categegories
+Set up predefined Bing Search categories
 *******************************************
 1. Open Omnia Admin and select System/Settings/Media Picker.
 2. Click "Add".
