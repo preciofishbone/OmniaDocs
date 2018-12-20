@@ -7,7 +7,7 @@ Web Pages
    setup/index
    manage-content/index
    image-picker/index
-   media-picker
+   media-picker/index
    page-layouts/index
    page-properties/index
    page-footer/index
