@@ -15,8 +15,8 @@ When browsing for a page image using Quick Edit (for publishing pages and news a
 
 .. image:: mediapicker.png
 
-Selecting an image
-*******************
+Image
+******
 The first step is to select an image and then some basic settings can be made, see below.
 
 My Computer
@@ -74,4 +74,27 @@ When the image has been selected, the following settings can be made:
 + **Square**: Click the Square preview and use the selection on the image to decide wich part of the image to show when it's used in square format.
 + **Filters**: Use the filters to adjust the image; Sepia coloring, Grayscale coloring, Brightness, Contrast and Saturation.
 
+Don't forget to save your changes when you're done.
+
+Video
+******
+For Video, select either "Microsoft Stream" for your company's Office 365 Stream, or YouTube.
+
+.. image:: video.png
+
+**Note!** You use this option to generally add a link to a video to a specific page (to the page image area). The link is not saved in the Media Picker, just in the page.
+
+Here's how to add a video:
+
+1. Go to the video.
+2. Copy the Url for the video.
+3. Paste the Url here.
+
+Now the following settings are available:
+
+.. image:: stream-settings.png
+
++ ** Start at**: If the video should not start at the beginning, set when it should start. Use the format minutes:seconds.
++ **Autoplay**: If the vidoe should start automatically when a user opens the page, select this option.
++ **Show info**: If the information about the video should be shown, select this option.
 
