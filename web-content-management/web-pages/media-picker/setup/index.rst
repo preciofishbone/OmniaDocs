@@ -21,7 +21,7 @@ Set up predefined Bing Search categegories
 
 + **Display text**: Add the "Heading" for the catagory.
 + **Search Keyword**: Add the search keyword to be executed.
-+ **Image**: Add an image to represent ethh category.
++ **Image**: Add an image to represent the category.
 + **Opacity**: Some opacity is needed to show the text on the image. Yo can change opacity here.
 
 To edit or delete a category, point at the category and select the pen or the waste bin respectively.
