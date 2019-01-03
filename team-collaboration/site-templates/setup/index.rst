@@ -6,7 +6,7 @@ Setup Site Templates
 
 Enable Yammer group provisioning
 *********************************
-In order for Yammer group provisioning to be enabled in the solution, the following steps needs to be carried out:
+If you would like to use Yammer as the conversations tool in team sites (available for Office 365 groups only) - Yammer group provisioning needs to be enabled in the solution. The following steps needs to be carried out:
 
 1.	Make sure Azure Services is enabled in Omnia Admin.
 2.	Login to Yammer with a Network Admin account. (This account will be used by Omnia to provision new Yammer groups.)
