@@ -92,7 +92,7 @@ It is possible to select a Video to replace the image on the top of a web page. 
 .. image:: MediaPickerYouTube.png
 
 All news rollups that display page images have been updated to support the new Media Picker.
-The news rollups are backward compatible to  support the previous Image Picker. The SharePoint Image Renditions for landsacpe have been updated to a 16:9 ratio. The new values are:
+The news rollups are backward compatible to  support the previous Image Picker. The SharePoint Image Renditions for landscape have been updated to a 16:9 ratio. The new values are:
 
 * 1001 Landscape: 640px * 360px.
 * 1004 Landscape (small size): 320px * 180px.
