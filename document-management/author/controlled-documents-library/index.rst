@@ -88,17 +88,21 @@ Creating a new draft document
 ----------------------------------
 When creating a new draft document from scratch, the first step is to select language and a Document Type:
 
-.. image:: new-draft-1.png
+.. image:: new-draft-1-new.png
 
 The Document Types are set up in Omnia Admin.
 
 One or more Document Templates are available for a Document Type. If more than one is available, the next step is to select template.
 
-.. image:: new-draft-2.png
+.. image:: new-draft-2-new.png
+
+And enter a Title and a File Name.
+
+.. image:: new-draft-2b-new.png
 
 And then, the next step is to enter information for the document’s properties (metadata). What that will look like depends on the Document Type. Here’s an example:
 
-.. image:: new-draft-3.png
+.. image:: new-draft-3-new.png
 
 A number of mandatory fields can be present, marked with an asterisk (*). All mandatory fields must be filled in, or the document can  not be published, but it does not have be now.
 
@@ -106,9 +110,9 @@ Metadata can also, in some cases, be used as a filter for document lists, to mak
 
 A "tag" icon to the right in a field always indicates that it is a managed metadata field, for example:
 
-.. image:: new-draft-4-border.png
+.. image:: new-draft-4-new.png
 
-When the properties has been entered and the author clicks "Save", the editing program (for example Microsoft Word for Word files) starts with the chosen document layout. Text and so on is entered the normal way. 
+When the properties has been entered and the author clicks "Create", the editing program (for example Microsoft Word for Word files) starts with the chosen document layout. Text and so on is entered the normal way. 
 
 **Note!** Metadata fields visible in the document, displayed within double brackets, should not be used in the editing process. Information will be added to these fields when the document is published.
 
@@ -124,7 +128,9 @@ To select Document Type and add metadata, use the option "Properties" in the doc
 
 Upload Appendices
 ------------------
-To upload documents to use as appendices to another document, the main Upload option does not have be used. 
+To upload documents to use as appendices to another document, the main upload option should not be used.
+
+Note that status must be "Draft" for the option to be available. If a document is sent for comments or for approval, appendices can not be uploaded to that document.
 
 1.	Open the dot menu for the document to add appendices to, and select "Appendices".
 2.	Click "Upload" in the window shown.
