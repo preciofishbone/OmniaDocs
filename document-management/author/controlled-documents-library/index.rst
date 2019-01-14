@@ -178,7 +178,7 @@ To create a new draft of a published document, do the following:
 2.	Click the dot menu for the document.
 3.	Select "Create Draft".
 
-.. image:: create-new-draft-1-border.png
+.. image:: create-new-draft-1-new.png
 
 The new draft is created and the "Drafts" tab is automatically activated. The work on the new draft is done exactly as the first time. That a dokcument has been published before does not make any difference.
 
@@ -209,7 +209,7 @@ The properties for a published document can be checked this way:
  
 The Properties window for the document is shown, for example:
 
-.. image:: document-properties.png
+.. image:: document-properties-new.png
  
 The properties can not be edited here. The properties can only be edited when working on a new edition of the document.
 
@@ -222,7 +222,7 @@ There’s information about each published edition available. To see it, do the 
  
 Here’s an example:
 
-.. image:: document-history.png
+.. image:: document-history-new.png
  
 You can see the publication date for each edition, the author’s comment, if any, and who the document was approved by. The option "Workflow History" for an edition will show information about when workflows was used and the comments entered during the workflows, so here you can even see information from Send for Comments workflows used for the document.
 
@@ -246,7 +246,7 @@ A published document can be moved to any other site with a Controlled Documents 
  
 The following is shown:
 
-.. image:: move-document.png
+.. image:: move-document-new.png
  
 3.	Type the URL (or paste, if you have copied it) to the site in the top field and click "Resolve". If the URL is correct the site title is shown in the second field.
 4.	Click "Move".
