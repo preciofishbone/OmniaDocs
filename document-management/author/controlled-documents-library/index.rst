@@ -41,7 +41,7 @@ The General tab
 -----------------
 Here you can use the following settings:
 
-.. image:: cdl-settings-general-new.png
+.. image:: cdl-settings-general-new-border.png
 
 + **Default tab**: Decide which tab will be shown when an author enters the Controlled Documents library.
 + **Number of rows to display on each page**: Set the number of rows to display before navigation to the next page will be shown at the bottom of the list.
