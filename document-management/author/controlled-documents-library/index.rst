@@ -135,14 +135,14 @@ Note that status must be "Draft" for the option to be available. If a document i
 1.	Open the dot menu for the document to add appendices to, and select "Appendices".
 2.	Click "Upload" in the window shown.
 
-.. image:: upload-appendices-1.png
+.. image:: upload-appendices-1-new.png
  
 3.	Drag and drop one or more documents to the upload window.
 4.	Click "Upload Files" to start the upload.
  
 When the upload is finished the file(s) is visible in the Appendices list for the document, for example:
 
-.. image:: upload-appendices-2.png
+.. image:: upload-appendices-2-new.png
  
 "Edit" can be used to edit the content of the appendix, if the file format is editable. "Rename" can be used to change the document's name. Use "Delete" to remove an appendix from this list.
 
@@ -159,19 +159,15 @@ Another option is to add a copy of a published document as an Appendice. It must
 1.	Open the dot menu for the document where you want to add appendices, and select "Appendices".
 2.	Click "Copy from other Document" in the window shown.
 
-.. image:: upload-appendices-3.png
+.. image:: upload-appendices-3-new.png
  
 3.	Search for the document. 
 4.	Select the documents to add (a copy of) as appendices and click "Copy", for example:
 
-.. image:: upload-appendices-4.png
+.. image:: upload-appendices-4-new.png
  
 The documents added to the Appendices list this way is handled exactly the same way as a document uploaded as an appendix, see above. (And remember that it is a copy of the original document.)
 
-If the Appendices column is shown on the Drafts tab, the number of appendices for a document, if any, is shown there, for example:
-
-.. image:: upload-appendices-5.png
- 
 Creating a new draft from a published document
 ***********************************************
 The work on a draft for a new edition of a document can be started whenever it’s convenient. The existing published edition is still available for readers until it’s replaced, when the new edition is published.
