@@ -33,13 +33,15 @@ Settings for the Controlled Documents library
 **********************************************
 As a Site Administrator you can set a number of settings for the three lists in the Controlled Documents library.
 
+**Note!**: You must edit the page in order for the settings to be available!
+
 Don't forget to save when you have changed any settings. The "Save" button is at the very bottom of the window.
 
 The General tab
 -----------------
 Here you can use the following settings:
 
-.. image:: cdl-settings-general.png
+.. image:: cdl-settings-general-new.png
 
 + **Default tab**: Decide which tab will be shown when an author enters the Controlled Documents library.
 + **Number of rows to display on each page**: Set the number of rows to display before navigation to the next page will be shown at the bottom of the list.
@@ -50,7 +52,7 @@ The Drafts tab
 ----------------
 Here you can set the following:
 
-.. image:: cdl-settings-draft.png
+.. image:: cdl-settings-draft-new.png
 
 + **Default Sort Order**: Select the column for default sort order for the list.
 + **Sort Direction**: Select Descending or Ascending for the default column selected above.
@@ -61,12 +63,21 @@ The Published tab
 -------------------
 Here you can set the following:
 
-.. image:: cdl-settings-published.png
+.. image:: cdl-settings-published-new.png
 
 + **Default Sort Order**: Select the column for default sort order for the list.
 + **Sort Direction**: Select Descending or Ascending for the default column selected above.
 + **Show Search Box**: If authors should be able to search for documents in the Published list, select this option.
 + **Select the columns .....**: Check the columns to display in the Published list, and uncheck columns you don't want to display. (But note that the some columns can't be unchecked, they are mandatory.)
+
+The Document Types tab
+----------------------
+You can set the following on this tab:
+
+.. image:: cdl-settings-types-new.png
+
++ **Language**: Select language for the document types to be shown in the list below.
++ **Document types**: Select which Document Types should be available when authors adds new draft documents here.
 
 Creating a draft document
 **************************
