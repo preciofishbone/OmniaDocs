@@ -233,11 +233,7 @@ Any user can send feedback on a published document and that feedback is availabl
 1.	Click the dot menu for the document.
 2.	Select "Feedback".
  
-The feedback posts for the document is shown, here’s an example:
-
-.. image:: read-feedback.png
- 
-You can click the dust bin to delete the feedback when you have read it, or keep it for later reference, it’ sup to you.
+The feedback posts for the document is shown. You can click the dust bin to delete the feedback when you have read it, or keep it for later reference, it’ sup to you.
 
 Move a document
 ----------------
