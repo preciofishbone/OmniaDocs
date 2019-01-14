@@ -130,7 +130,7 @@ Upload Appendices
 ------------------
 To upload documents to use as appendices to another document, the main upload option should not be used.
 
-Note that status must be "Draft" for the option to be available. If a document is sent for comments or for approval, appendices can not be uploaded to that document.
+Note that status must be "Draft" for the option to be available. If a document is sent for comments or for approval, appendices can not be uploaded to that document. Also note that a Document Type contains a setting that states if appendices are allowed or not. For a document tied to a Document Type with appendices not allowed, the Appendices option is not available (gray).
 
 1.	Open the dot menu for the document to add appendices to, and select "Appendices".
 2.	Click "Upload" in the window shown.
