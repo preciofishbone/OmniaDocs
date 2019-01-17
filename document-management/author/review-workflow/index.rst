@@ -44,7 +44,7 @@ Which reviewers has finished the task and not, is shown here. For a finished tas
 
 Cancel a Review Workflow
 ************************************
-If needed, a Review Workflow can be cancelled, for any reason. Note that publication is not possible if a Review Workflow is active for the document, and then has to be cancelled.
+If needed, a Review Workflow can be cancelled, for any reason. Note that publication is not possible if a Review Workflow is active for the document.The Review workflow has to be cancelled before the Publication Workflow can be started.
 
 1.	Click the link in the column "Status". 
 2.	Click "Cancel Send for Comments Workflow".
