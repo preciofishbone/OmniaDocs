@@ -10,11 +10,11 @@ Everyone that is appointed as reviewer automatically receives edit access to the
 
 To start the workflow, the author selects "Send for Comments" in the menu for the document, on the Drafts tab, for example:
 
-.. image:: send-for-comments.png
+.. image:: send-for-comments-new.png
 
 The following is shown:
 
-.. image:: send-for-comments-dialogue.png
+.. image:: send-for-comments-dialogue-new.png
 
 + **Reviewers**: In Reviewers, all colleagues to send to (=appoint as reviewers) is added. Normally, any colleague can be added here. 
 + **Message**: A message to the reviewers is added here. Note that you can only use one message even if you send to several colleagues. 
@@ -22,7 +22,7 @@ The following is shown:
 
 A task is then created for each colleague, and an e-mail is sent to each, with the message entered, and with a link to the document. Here’s an example:
 
-.. image:: review-message-example.png
+.. image:: review-message-example-new.png
  
 If Omnia Intranet is installed, the colleagues are also notified in the notification panel, about the new task, and can choose to open the task from there. 
 
@@ -34,11 +34,11 @@ Status for a workflow can be checked at any time. Here’s how:
 
 1.	Click the link in the column "Status".
 
-.. image:: link-in-status.png
+.. image:: link-in-status-new.png
  
 Something like the following is shown:
 
-.. image:: show-review.png
+.. image:: show-review-new.png
  
 Which reviewers has finished the task and not, is shown here. For a finished task the comment entered by the reviewerm is also shown. To see comments and/or changes in the document, open the document.
 
@@ -49,7 +49,7 @@ If needed, a Review Workflow can be cancelled, for any reason. Note that publica
 1.	Click the link in the column "Status". 
 2.	Click "Cancel Send for Comments Workflow".
  
-.. image:: cancel-review-workflow.png
+.. image:: cancel-review-workflow-new.png
  
 Everyone in the workflow are now notified by e-mail that the workflow is cancelled. And their edit access to the document is also removed.
 
@@ -57,7 +57,7 @@ See Workflow History for the draft
 ***********************************
 A workflow History is available for the draft document, showing all finished or cancelled workflows for this draft version. The option is available in the menu for the document, for example:
 
-.. image:: select-workflow-history.png
+.. image:: select-workflow-history-new.png
 
 Something like the following is shown:
 
@@ -65,7 +65,7 @@ Something like the following is shown:
  
 Click the link for a workflow to see the details, for example:
 
-.. image:: workflow-history-details.png
+.. image:: workflow-history-details-new.png
 
  
 
