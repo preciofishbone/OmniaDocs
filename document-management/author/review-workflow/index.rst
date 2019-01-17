@@ -61,7 +61,7 @@ A workflow History is available for the draft document, showing all finished or 
 
 Something like the following is shown:
 
-.. image:: workflow-history.png
+.. image:: workflow-history-new.png
  
 Click the link for a workflow to see the details, for example:
 
