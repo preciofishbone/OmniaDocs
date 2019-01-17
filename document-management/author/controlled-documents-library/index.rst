@@ -77,7 +77,7 @@ You can set the following on this tab:
 .. image:: cdl-settings-types-new.png
 
 + **Language**: Select language for the Document Types to be shown in the list below.
-+ **Document types**: Select which Document Types should be available when authors adds new draft documents here.
++ **Document types**: Select which Document Types should be suggested when authors adds new draft documents here. If empty, all Controlled Documents templates will be available.
 
 Creating a draft document
 **************************
