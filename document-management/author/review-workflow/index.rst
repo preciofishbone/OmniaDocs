@@ -63,7 +63,7 @@ Something like the following is shown:
 
 .. image:: workflow-history-new.png
  
-Click the link for a workflow to see the details, for example:
+Click the workflow to see the details, for example:
 
 .. image:: workflow-history-details-new.png
 
