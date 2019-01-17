@@ -40,7 +40,7 @@ Something like the following is shown:
 
 .. image:: show-review-new.png
  
-Which reviewers has finished the task and not, is shown here. For a finished task the comment entered by the reviewerm is also shown. To see comments and/or changes in the document, open the document.
+Which reviewers has finished the task and not, is shown here. For a finished task the comment entered by the reviewer is also shown. To see comments and/or changes in the document, open the document.
 
 Cancel a Review Workflow
 ************************************
