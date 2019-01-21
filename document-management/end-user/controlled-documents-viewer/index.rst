@@ -73,7 +73,9 @@ This tab is used to decide which Controlled Documents to display in the control.
 .. image:: controlled-documents-viewer-query-new2.png
 
 + **Query Builder**: User the Query Builder to build querys for which documents to show here. Note the example in the image.
-+ **Select Documents**: (A description will be added soon.)
++ **Select Documents**: Use this option to select a number of documents to be shown in the control. Use search to find the documents. See the example below. Don't forget to save the selection (Save button at the bottom).
+
+.. image:: controlled-documents-viewer-select-dolcuments.png
 
 The Columns tab
 -----------------
