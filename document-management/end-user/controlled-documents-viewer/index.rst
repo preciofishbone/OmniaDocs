@@ -25,7 +25,7 @@ The columns contain information about the documents. To the right there can be t
 
 Users can click the i-icon to display all properties for the document.
 
-.. image:: controlled-documents-viewer-refined-info.
+.. image:: controlled-documents-viewer-refined-info.png
 
 Here's an example:
 
