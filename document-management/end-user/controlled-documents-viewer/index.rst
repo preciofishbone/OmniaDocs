@@ -55,8 +55,6 @@ On this tab the following settings are available:
 
 .. image:: controlled-documents-viewer-refiners-new2.png
 
-+ **Location**: Select wheredocuments-viewer-general-ne2w.png
-
 + **Title**: Add the title shown to users for the control.
 + **Search scope**: The search scope can be either Published Documents or Archived Documents. Published Document is the default.
 + **Default Sort Order**: You can select a default sort order from the list.
