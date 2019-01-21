@@ -10,8 +10,8 @@ The Omnia Controlled Documents Viewer can be added and edited by any editor that
 The user experience
 *******************
 Once a Controlled Documents Viewer has been added to a publishing page and set up by an editor to decide what Controlled Documents to display, any user that has access to the page can use the control to find Controlled Documents.
-
-At the start, the list contains all documents the control has been set up to display. The refiners can be used to display only the documents tagged with a certain property value.
+ 
+Normally (but this can be set, see below), at the start the list contains all documents the control has been set up to display. The refiners can be used to display only the documents tagged with a certain property value.
 
 .. image:: document-center.png
 
