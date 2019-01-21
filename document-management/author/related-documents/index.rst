@@ -34,7 +34,7 @@ Remove a related document
 **************************
 To remove a related document from the list, just click the dust bin for the document.
 
-.. image:: related-remove-new.png
+.. image:: related-remov-new.png
  
 Being notified when any related document is updated
 ****************************************************
