@@ -23,7 +23,11 @@ Search (if turned on, which is the default) can be used to search for content in
 
 The columns contain information about the documents. To the right there can be two very useful icons (if turned on, which is default).
 
-Users can click the i-icon to display all properties for the document, for example:
+Users can click the i-icon to display all properties for the document.
+
+.. image:: controlled-documents-viewer-refined-info.
+
+Here's an example:
 
 .. image:: controlled-documents-viewer-properties-new2.png
 
