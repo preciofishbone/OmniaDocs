@@ -5,7 +5,7 @@ An author can use this option to relate a controlled document to other controlle
 
 The number of related documents is shown to the right of the title, for example:
 
-.. image:: related-documents-list.png
+.. image:: related-documents-list-new.png
  
 **Note!**
 Relations between documents works just one way. If document A is related to document B, that is not shown for readers of document B. If document B should be related to document A as well, that has to be added for document B.
@@ -14,11 +14,11 @@ Relate documents
 *****************
 Authors can relate documents using the menu for the document on the "Published" tab:
 
-.. image:: relate-documents-1.png
+.. image:: relate-documents-1-new.png
  
 Then a search for documents to relate to can be conducted. Here’s an example:
 
-.. image:: relate-documents-search.png
+.. image:: relate-documents-search-new.png
  
 The i-icon can be used to see a document’s properties. 
 
@@ -26,7 +26,7 @@ Click the plus to create a relation to a document.
 
 Any number of documents in the search result can be related to, and a new search can be conducted to relate to even more documents, if needed. The related document(s) are shown at the top, for example:
 
-.. image:: documents-related.png
+.. image:: documents-related-new.png
  
 Relations to documents are updated for the readers immediately. No new publication is needed.
 
@@ -34,13 +34,13 @@ Remove a related document
 **************************
 To remove a related document from the list, just click the dust bin for the document.
 
-.. image:: related-remove.png
+.. image:: related-remove-new.png
  
 Being notified when any related document is updated
 ****************************************************
 To activate notification for related documents, select who is going to be notified. When the option is activate an e-mail is sent to the receiver every time a new edition is published for any related document.
 
-.. image:: related-notify.png
+.. image:: related-notify-new.png
 
 Document Owner is always available but other person fields can also be available depending on how Omnia Document Management is set up.
 
