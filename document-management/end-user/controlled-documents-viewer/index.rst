@@ -70,7 +70,7 @@ The Query tab
 --------------
 This tab is used to decide which Controlled Documents to display in the control.
 
-.. image:: document-viewer-query-new2.png
+.. image:: controlled-documents-viewer-query-new2.png
 
 + **Query Builder**: User the Query Builder to build querys for which documents to show here. Note the example in the image.
 + **Select Documents**: (A description will be added soon.)
@@ -79,7 +79,7 @@ The Columns tab
 -----------------
 Use this tab to decide which columns to display for the list.
 
-.. image:: document-viewer-columns-new2.png
+.. image:: controlled-documents-viewer-columns-new2.png
 
 Just select the columns to display. The options to the far right can be used to set an exact width for the column.
 
@@ -89,7 +89,7 @@ The Filters tab
 -------------------
 On this tab you set filters to show in the viewer:
 
-.. image:: document-viewer-filters-new2.png
+.. image:: controlled-documents-viewer-filters-new2.png
 
 (A description will be added soon.)
 
