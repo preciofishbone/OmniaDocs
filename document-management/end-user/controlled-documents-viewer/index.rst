@@ -13,11 +13,11 @@ Once a Controlled Documents Viewer has been added to a publishing page and set u
 
 At the start, the list contains all documents the control has been set up to display. The refiners can be used to display only the documents tagged with a certain property value.
 
-.. image:: controlled-documents-viewer-refiners-new2.png
+.. image:: document-center.png
 
-In this example there are 9 documents tagged with the product Cheetah and if that refiner is selected, the list could look like this:
+In this example there are 7 documents tagged with the product Cheetah and if that refiner is selected, the list could look like this:
 
-.. image:: controlled-documents-viewer-refined-new2.png
+.. image:: document-center-cheetah.png
 
 Search (if turned on, which is the default) can be used to search for content in the displayed documents.
 
