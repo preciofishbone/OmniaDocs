@@ -37,11 +37,11 @@ If you are assigned as author to the Controlled Documents library where the docu
 
 The icon to the far right...
 
-.. image:: controlled-documents-viewer-icon.png
+.. image:: controlled-documents-viewer-refined-icon.png
 
 ... can be used to send feedback on the document.
 
-.. image:: controlled-documents-feedback-new.png
+.. image:: controlled-documents-viewer-feedback-new.png
 
 The feedback is sent to the Controlled Documents library from where the document is published, and the authors can read it there. A mail can also be sent (depends on settings) to either the document owner or the approver.
 
