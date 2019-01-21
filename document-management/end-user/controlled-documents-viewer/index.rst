@@ -27,9 +27,9 @@ Users can click the i-icon to display all properties for the document, for examp
 
 .. image:: controlled-documents-viewer-properties-new2.png
 
-Everyone can use the links at the bottom (to be able to open this window, a user must have access to the document) to see the Document History or go to the library to read the other Controlled Documents published from there.
+Everyone can use the links at the top (to be able to open this window, a user must have access to the document) to see the Document History or go to the library to read the other Controlled Documents published from there.
 
-If you are assigned as author to the Controlled Documents library where the document reside, you can use the buttons to create a new draft of the documents or unpublish the document. No one else will see these buttons.
+If you are assigned as author to the Controlled Documents library where the document reside, you can use the buttons at the bottom to create a new draft of the documents or unpublish the document. No one else will see these buttons.
 
 The icon to the far right...
 
