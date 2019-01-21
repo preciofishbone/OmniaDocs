@@ -37,7 +37,7 @@ If you are assigned as author to the Controlled Documents library where the docu
 
 The icon to the far right...
 
-.. image:: controlled-documents-viewer-refined-icon.png
+.. image:: controlled-documents-viewer-refined-feedback-icon.png
 
 ... can be used to send feedback on the document.
 
