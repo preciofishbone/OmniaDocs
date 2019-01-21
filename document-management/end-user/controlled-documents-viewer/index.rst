@@ -93,7 +93,10 @@ On this tab you set filters to show in the viewer:
 
 .. image:: controlled-documents-viewer-filters-new2.png
 
-(A description will be added soon.)
++ **Location**: Select where to place the filters: Top, Left or Right.
++ **No Of Columns Per Row**: Default settings is 3 columns per row. Set a different value if needed.
++ **Run query on no filter selection**: If this option is selected, all documents available as per the settings on the Query tab will be shown in the list. If this option is not selected, the list will be empty until the user makes a search.
++ **Filter**: Select the filter(s) to be shown, if any. Then select Type for each filter. 
 
 The Refiners tab
 -------------------
@@ -104,8 +107,6 @@ This tab is used to set property fields to use as refiners.
 + **Location**: Select where the refiners should be placed: left, right, top.
 + **No Of Columns Per Row**: Set the number of refiners that should be displayed per row.
 + **Refiner**: Select the refiners to be used here and set limit and order ny to the right for each refiner.
-+ **Limit**: Set the number of values for the refiner to be displayed. If there's more a "Show more" links is shown.
-+ **Order by**: Set the sorter order for the values. Can be either alphabetical order (default) or by Count (number of documents).**Sort 
 
 The Design tab
 ---------------
