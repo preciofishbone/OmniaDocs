@@ -13,11 +13,11 @@ Once a Controlled Documents Viewer has been added to a publishing page and set u
 
 At the start, the list contains all documents the control has been set up to display. The refiners can be used to display only the documents tagged with a certain property value.
 
-.. image:: controlled-documents-viewer-refiners-new.png
+.. image:: controlled-documents-viewer-refiners-new2.png
 
 In this example there are 9 documents tagged with the product Cheetah and if that refiner is selected, the list could look like this:
 
-.. image:: controlled-documents-viewer-refined-new.png
+.. image:: controlled-documents-viewer-refined-new2.png
 
 Search (if turned on, which is the default) can be used to search for content in the displayed documents.
 
@@ -25,7 +25,7 @@ The columns contain information about the documents. To the right there can be t
 
 Users can click the i-icon to display all properties for the document, for example:
 
-.. image:: controlled-documents-viewer-properties-new.png
+.. image:: controlled-documents-viewer-properties-new2.png
 
 Everyone can use the links at the bottom (to be able to open this window, a user must have access to the document) to see the Document History or go to the library to read the other Controlled Documents published from there.
 
@@ -33,11 +33,11 @@ If you are assigned as author to the Controlled Documents library where the docu
 
 The icon to the far right...
 
-.. image:: controlled-documents-viewer-icon-new.png
+.. image:: controlled-documents-viewer-icon-new2.png
 
 ... can be used to send feedback on the document.
 
-.. image:: controlled-documents-viewer-feedback.png
+.. image:: controlled-documents-viewer-feedback-new2.png
 
 The feedback is sent to the Controlled Documents library from where the document is published, and the authors can read it there. A mail can also be sent (depends on settings) to either the document owner or the approver.
 
@@ -49,7 +49,9 @@ The General tab
 -----------------
 On this tab the following settings are available:
 
-.. image:: documents-viewer-general-new.png
+.. image:: controlled-documents-viewer-refiners-new2.png
+
++ **Location**: Select wheredocuments-viewer-general-ne2w.png
 
 + **Title**: Add the title shown to users for the control.
 + **Search scope**: The search scope can be either Published Documents or Archived Documents. Published Document is the default.
@@ -66,7 +68,7 @@ The Query tab
 --------------
 This tab is used to decide which Controlled Documents to display in the control.
 
-.. image:: document-viewer-query-new.png
+.. image:: document-viewer-query-new2.png
 
 + **Query Builder**: User the Query Builder to build querys for which documents to show here. Note the example in the image.
 + **Select Documents**: (A description will be added soon.)
@@ -75,7 +77,7 @@ The Columns tab
 -----------------
 Use this tab to decide which columns to display for the list.
 
-.. image:: cd-viewer-columns.png
+.. image:: document-viewer-columns-new2.png
 
 Just select the columns to display. The options to the far right can be used to set an exact width for the column.
 
@@ -85,7 +87,7 @@ The Filters tab
 -------------------
 On this tab you set filters to show in the viewer:
 
-.. image:: document-viewer-filters-new.png
+.. image:: document-viewer-filters-new2.png
 
 (A description will be added soon.)
 
@@ -93,7 +95,7 @@ The Refiners tab
 -------------------
 This tab is used to set property fields to use as refiners.
 
-.. image:: documents-viewer-refiners-new.png
+.. image:: controlled-documents-viewer-refiners-new2.png
 
 + **Location**: Select where the refiners should be placed: left, right, top.
 + **No Of Columns Per Row**: Set the number of refiners that should be displayed per row.
@@ -105,5 +107,5 @@ The Design tab
 ---------------
 Here you can set the width for the left and right zone and select colors, if needed.
 
-.. image:: cd-viewer-design.png
+.. image:: controlled-documents-viewer-design-new2.png
 
