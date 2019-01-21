@@ -37,7 +37,7 @@ The icon to the far right...
 
 ... can be used to send feedback on the document.
 
-.. image:: controlled-documents-viewer-feedback-new2.png
+.. image:: controlled-documents-viewer-feedback-new.png
 
 The feedback is sent to the Controlled Documents library from where the document is published, and the authors can read it there. A mail can also be sent (depends on settings) to either the document owner or the approver.
 
