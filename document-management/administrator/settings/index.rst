@@ -5,7 +5,7 @@ Under "Settings" in Omnia Admin, the following is available:
 
 Display Format (Server or Client)
 ***********************************
-Set the date and time format that should be used in ODM. I needed, you cen set different values for the server and clients respectively. If you’re not certain what the result will be for a certain format, a preview is shown to the far right:
+Set the date and time format that should be used in ODM. I needed, you can set different values for the server and clients respectively. If you’re not certain what the result will be for a certain format, a preview is shown to the far right:
 
 .. image:: odm-display-format.png
 
@@ -50,3 +50,17 @@ Here you can set the type of permissions to be used in Controlled Documents libr
 + **Site Owners and Members**: All site owners and all Members will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
 
 **Note!** This setting is not activated right away. It's actived when the feature "Omnia Document Management Authoring Site" is either activated or updated for a site.
+
+Approvers Group ????????????????
+***************
+Here you can set the type of permissions to be used in Controlled Documents libraries in the tenant.
+
+.. image:: authors-controlled.png
+
++ **Document Authors Group**: This is the default setting. A specific permission group will be used for authors.
++ **Site Owners**: All site owners will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
++ **Site Owners and Members**: All site owners and all Members will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
+
+**Note!** This setting is not activated right away. It's actived when the feature "Omnia Document Management Authoring Site" is either activated or updated for a site.
+
+

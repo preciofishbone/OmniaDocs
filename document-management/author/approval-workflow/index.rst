@@ -3,7 +3,7 @@ Approval Workflow
 
 When a document has reached a final version, the document must be published, and, if approval is activated, be approved for publication, to be available for readers. The author then starts an Approval Workflow by selecting "Publish".
 
-.. image:: approval-workflow-new.png
+.. image:: approval-1-new.png
 
 All metadata must be properly set before the Approval Workflow is started, so the document will be available in the right lists – if applicable. Some metadata can be mandatory. If all mandatory metadata has not been added, the Approval Workflow can not be started.
 
@@ -14,16 +14,17 @@ Any Send for Comments Workflow must be ended before an Approval Workflow can be 
  
 When the author publishes a document, something like the following is shown:
 
-.. image:: approval-workflow-2-new.png
+.. image:: approval-2-new.png
 
-Exactly which options are available here depends on a a number of settings. These shown in the image are the most common.
+Exactly which options are available here depends on a a number of settings (All options are not shown in the image above). 
 
 + **Approver**: The author selects one approver from the list. Available approvers depends on various settings and how the system is set up.
 + **Approval Due Date**: Here the author adds a date when the approval should be made, at the latest. This is just information for the approvers. The Approval workflow is not stopped if this date is passed.
 + **Comment**: Use this field to add information about theh approval, to be sent to the approver.
 + **Read rights**: The default selection is to use the Default Readers Group from the site’s permissions. If needed, the author can click "Show members" to see the permissions. A site administrator (owner) can edit the default read rights. If, for some reason, the Read Rights for this particular document should be different, the author can select "Limit Read Access", and enter the names of the readers, or any group memberships, for example AD groups.
-+ **Convert DOCX to PDF**: An administrator can set how this will work, in Omnia Adm, and it can be different for each Document Type – it can be available or not available. Conversion to PDF is only available for docx documents.
++ **Convert DOCX to PDF**: An administrator can set how this will work, in Omnia Adm, and it can be different for each Document Type – it can be available or not available. Conversion to PDF is only available for docx documents. A preview of the PDF doucment is available through the link (Preview document).
 + **Notify people**: The author can use this option to notify certain people or groups about the new edition of the document. The notification is sent when the document is approved.
++ **Require Read Receipt**: When notifying people, the author can also select this option for read receipts to be sent to the site.
 
 When the author clicks "Send", a task is created for the approver, and an e-mail is sent, with a link to the document. Here’s an example:
 

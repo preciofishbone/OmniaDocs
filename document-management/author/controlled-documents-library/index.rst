@@ -17,7 +17,7 @@ When a group site has been set up for Controlled Documents authoring, the follow
 
 In the Controlled Documents library, authors can find three tabs:
 
-.. image:: controlled-documents-library-new.png
+.. image:: controlled-documents-library-1-new.png
 
 "Drafts" is used when creating and editing drafts for new Controlled Documents or when updating an existing document for a new edition. Note that there are several options available for creating a new draft document, see below.
 
@@ -27,16 +27,13 @@ When a document is published (approved for publication) it is removed from Draft
 
 Most headings can be used to sort the list.
 
-What fields to display on each tab can be selected in the settings, se below, but note the following fields on the "Published" tab:
-
-+ **Status**: You can see this column on the Drafts tab as well. On the Published tab, status can either be Published or Unpublished.
-+ **Document Id**: The first time a Controlled Document is published, it’s assigned a Document Id. This id is then the same through all published editions.
-+ **Edition**: Here you can see which edition is the latest for each document. 
-+ **Document Owner**: Displays the name of the Document Owner.
+What fields to display on each tab can be selected in the settings, se below.
 
 Settings for the Controlled Documents library
 **********************************************
 As a Site Administrator you can set a number of settings for the three lists in the Controlled Documents library.
+
+**Note!**: You must edit the page in order for the settings to be available!
 
 Don't forget to save when you have changed any settings. The "Save" button is at the very bottom of the window.
 
@@ -44,7 +41,7 @@ The General tab
 -----------------
 Here you can use the following settings:
 
-.. image:: cdl-settings-general.png
+.. image:: cdl-settings-general-new-border.png
 
 + **Default tab**: Decide which tab will be shown when an author enters the Controlled Documents library.
 + **Number of rows to display on each page**: Set the number of rows to display before navigation to the next page will be shown at the bottom of the list.
@@ -55,7 +52,7 @@ The Drafts tab
 ----------------
 Here you can set the following:
 
-.. image:: cdl-settings-draft.png
+.. image:: cdl-settings-draft-new.png
 
 + **Default Sort Order**: Select the column for default sort order for the list.
 + **Sort Direction**: Select Descending or Ascending for the default column selected above.
@@ -66,12 +63,21 @@ The Published tab
 -------------------
 Here you can set the following:
 
-.. image:: cdl-settings-published.png
+.. image:: cdl-settings-published-new.png
 
 + **Default Sort Order**: Select the column for default sort order for the list.
 + **Sort Direction**: Select Descending or Ascending for the default column selected above.
 + **Show Search Box**: If authors should be able to search for documents in the Published list, select this option.
 + **Select the columns .....**: Check the columns to display in the Published list, and uncheck columns you don't want to display. (But note that the some columns can't be unchecked, they are mandatory.)
+
+The Document Types tab
+----------------------
+You can set the following on this tab:
+
+.. image:: cdl-settings-types-new.png
+
++ **Language**: Select language for the Document Types to be shown in the list below.
++ **Document types**: Select which Document Types should be suggested when authors adds new draft documents here. If empty, all Controlled Documents templates will be available.
 
 Creating a draft document
 **************************
@@ -82,17 +88,21 @@ Creating a new draft document
 ----------------------------------
 When creating a new draft document from scratch, the first step is to select language and a Document Type:
 
-.. image:: new-draft-1.png
+.. image:: new-draft-1-new.png
 
 The Document Types are set up in Omnia Admin.
 
 One or more Document Templates are available for a Document Type. If more than one is available, the next step is to select template.
 
-.. image:: new-draft-2.png
+.. image:: new-draft-2-new.png
+
+And enter a Title and a File Name.
+
+.. image:: new-draft-2b-new.png
 
 And then, the next step is to enter information for the document’s properties (metadata). What that will look like depends on the Document Type. Here’s an example:
 
-.. image:: new-draft-3.png
+.. image:: new-draft-3-new.png
 
 A number of mandatory fields can be present, marked with an asterisk (*). All mandatory fields must be filled in, or the document can  not be published, but it does not have be now.
 
@@ -100,9 +110,9 @@ Metadata can also, in some cases, be used as a filter for document lists, to mak
 
 A "tag" icon to the right in a field always indicates that it is a managed metadata field, for example:
 
-.. image:: new-draft-4-border.png
+.. image:: new-draft-4-new.png
 
-When the properties has been entered and the author clicks "Save", the editing program (for example Microsoft Word for Word files) starts with the chosen document layout. Text and so on is entered the normal way. 
+When the properties has been entered and the author clicks "Create", the editing program (for example Microsoft Word for Word files) starts with the chosen document layout. Text and so on is entered the normal way. 
 
 **Note!** Metadata fields visible in the document, displayed within double brackets, should not be used in the editing process. Information will be added to these fields when the document is published.
 
@@ -118,19 +128,21 @@ To select Document Type and add metadata, use the option "Properties" in the doc
 
 Upload Appendices
 ------------------
-To upload documents to use as appendices to another document, the main Upload option does not have be used. 
+To upload documents to use as appendices to another document, the main upload option should not be used.
+
+Note that status must be "Draft" for the option to be available. If a document is sent for comments or for approval, appendices can not be uploaded to that document. Also note that a Document Type contains a setting that states if appendices are allowed or not. For a document tied to a Document Type with appendices not allowed, the Appendices option is not available (gray).
 
 1.	Open the dot menu for the document to add appendices to, and select "Appendices".
 2.	Click "Upload" in the window shown.
 
-.. image:: upload-appendices-1.png
+.. image:: upload-appendices-1-new.png
  
 3.	Drag and drop one or more documents to the upload window.
 4.	Click "Upload Files" to start the upload.
  
 When the upload is finished the file(s) is visible in the Appendices list for the document, for example:
 
-.. image:: upload-appendices-2.png
+.. image:: upload-appendices-2-new.png
  
 "Edit" can be used to edit the content of the appendix, if the file format is editable. "Rename" can be used to change the document's name. Use "Delete" to remove an appendix from this list.
 
@@ -147,19 +159,15 @@ Another option is to add a copy of a published document as an Appendice. It must
 1.	Open the dot menu for the document where you want to add appendices, and select "Appendices".
 2.	Click "Copy from other Document" in the window shown.
 
-.. image:: upload-appendices-3.png
+.. image:: upload-appendices-3-new.png
  
 3.	Search for the document. 
 4.	Select the documents to add (a copy of) as appendices and click "Copy", for example:
 
-.. image:: upload-appendices-4.png
+.. image:: upload-appendices-4-new.png
  
 The documents added to the Appendices list this way is handled exactly the same way as a document uploaded as an appendix, see above. (And remember that it is a copy of the original document.)
 
-If the Appendices column is shown on the Drafts tab, the number of appendices for a document, if any, is shown there, for example:
-
-.. image:: upload-appendices-5.png
- 
 Creating a new draft from a published document
 ***********************************************
 The work on a draft for a new edition of a document can be started whenever it’s convenient. The existing published edition is still available for readers until it’s replaced, when the new edition is published.
@@ -170,7 +178,7 @@ To create a new draft of a published document, do the following:
 2.	Click the dot menu for the document.
 3.	Select "Create Draft".
 
-.. image:: create-new-draft-1-border.png
+.. image:: create-new-draft-1-new.png
 
 The new draft is created and the "Drafts" tab is automatically activated. The work on the new draft is done exactly as the first time. That a dokcument has been published before does not make any difference.
 
@@ -201,7 +209,7 @@ The properties for a published document can be checked this way:
  
 The Properties window for the document is shown, for example:
 
-.. image:: document-properties.png
+.. image:: document-properties-new.png
  
 The properties can not be edited here. The properties can only be edited when working on a new edition of the document.
 
@@ -214,7 +222,7 @@ There’s information about each published edition available. To see it, do the 
  
 Here’s an example:
 
-.. image:: document-history.png
+.. image:: document-history-new.png
  
 You can see the publication date for each edition, the author’s comment, if any, and who the document was approved by. The option "Workflow History" for an edition will show information about when workflows was used and the comments entered during the workflows, so here you can even see information from Send for Comments workflows used for the document.
 
@@ -225,11 +233,7 @@ Any user can send feedback on a published document and that feedback is availabl
 1.	Click the dot menu for the document.
 2.	Select "Feedback".
  
-The feedback posts for the document is shown, here’s an example:
-
-.. image:: read-feedback.png
- 
-You can click the dust bin to delete the feedback when you have read it, or keep it for later reference, it’ sup to you.
+The feedback posts for the document is shown. You can click the dust bin to delete the feedback when you have read it, or keep it for later reference, it’ sup to you.
 
 Move a document
 ----------------
@@ -242,7 +246,7 @@ A published document can be moved to any other site with a Controlled Documents 
  
 The following is shown:
 
-.. image:: move-document.png
+.. image:: move-document-new.png
  
 3.	Type the URL (or paste, if you have copied it) to the site in the top field and click "Resolve". If the URL is correct the site title is shown in the second field.
 4.	Click "Move".

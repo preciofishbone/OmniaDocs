@@ -10,34 +10,38 @@ The Omnia Controlled Documents Viewer can be added and edited by any editor that
 The user experience
 *******************
 Once a Controlled Documents Viewer has been added to a publishing page and set up by an editor to decide what Controlled Documents to display, any user that has access to the page can use the control to find Controlled Documents.
+ 
+Normally (but this can be set, see below), at the start the list contains all documents the control has been set up to display. The refiners can be used to display only the documents tagged with a certain property value.
 
-At the start, the list contains all documents the control has been set up to display. The refiners can be used to display only the documents tagged with a certain property value.
+.. image:: document-center.png
 
-.. image:: controlled-documents-viewer-refiners-new.png
+In this example there are 7 documents tagged with the product Cheetah and if that refiner is selected, the list could look like this:
 
-In this example there are 9 documents tagged with the product Cheetah and if that refiner is selected, the list could look like this:
-
-.. image:: controlled-documents-viewer-refined-new.png
+.. image:: document-center-cheetah.png
 
 Search (if turned on, which is the default) can be used to search for content in the displayed documents.
 
 The columns contain information about the documents. To the right there can be two very useful icons (if turned on, which is default).
 
-Users can click the i-icon to display all properties for the document, for example:
+Users can click the i-icon to display all properties for the document.
 
-.. image:: controlled-documents-viewer-properties-new.png
+.. image:: controlled-documents-viewer-refined-info.png
 
-Everyone can use the links at the bottom (to be able to open this window, a user must have access to the document) to see the Document History or go to the library to read the other Controlled Documents published from there.
+Here's an example:
 
-If you are assigned as author to the Controlled Documents library where the document reside, you can use the buttons to create a new draft of the documents or unpublish the document. No one else will see these buttons.
+.. image:: controlled-documents-viewer-properties-new2.png
+
+Everyone can use the links at the top (to be able to open this window, a user must have access to the document) to see the Document History or go to the library to read the other Controlled Documents published from there.
+
+If you are assigned as author to the Controlled Documents library where the document reside, you can use the buttons at the bottom to create a new draft of the documents or unpublish the document. No one else will see these buttons.
 
 The icon to the far right...
 
-.. image:: controlled-documents-viewer-icon-new.png
+.. image:: controlled-documents-viewer-refined-feedback-icon.png
 
 ... can be used to send feedback on the document.
 
-.. image:: controlled-documents-viewer-feedback.png
+.. image:: controlled-documents-viewer-feedback-new.png
 
 The feedback is sent to the Controlled Documents library from where the document is published, and the authors can read it there. A mail can also be sent (depends on settings) to either the document owner or the approver.
 
@@ -49,7 +53,7 @@ The General tab
 -----------------
 On this tab the following settings are available:
 
-.. image:: documents-viewer-general-new.png
+.. image:: controlled-documents-viewer-refiners-new2.png
 
 + **Title**: Add the title shown to users for the control.
 + **Search scope**: The search scope can be either Published Documents or Archived Documents. Published Document is the default.
@@ -66,16 +70,18 @@ The Query tab
 --------------
 This tab is used to decide which Controlled Documents to display in the control.
 
-.. image:: document-viewer-query-new.png
+.. image:: controlled-documents-viewer-query-new2.png
 
 + **Query Builder**: User the Query Builder to build querys for which documents to show here. Note the example in the image.
-+ **Select Documents**: (A description will be added soon.)
++ **Select Documents**: Use this option to select a number of documents to be shown in the control. Use search to find the documents. See the example below. Don't forget to save the selection (Save button at the bottom).
+
+.. image:: controlled-documents-viewer-select-dolcuments.png
 
 The Columns tab
 -----------------
 Use this tab to decide which columns to display for the list.
 
-.. image:: cd-viewer-columns.png
+.. image:: controlled-documents-viewer-columns-new2.png
 
 Just select the columns to display. The options to the far right can be used to set an exact width for the column.
 
@@ -85,25 +91,26 @@ The Filters tab
 -------------------
 On this tab you set filters to show in the viewer:
 
-.. image:: document-viewer-filters-new.png
+.. image:: controlled-documents-viewer-filters-new2.png
 
-(A description will be added soon.)
++ **Location**: Select where to place the filters: Top, Left or Right.
++ **No Of Columns Per Row**: Default settings is 3 columns per row. Set a different value if needed.
++ **Run query on no filter selection**: If this option is selected, all documents available as per the settings on the Query tab will be shown in the list. If this option is not selected, the list will be empty until the user makes a search.
++ **Filter**: Select the filter(s) to be shown, if any. Then select Type for each filter. 
 
 The Refiners tab
 -------------------
 This tab is used to set property fields to use as refiners.
 
-.. image:: documents-viewer-refiners-new.png
+.. image:: controlled-documents-viewer-refiners-new2.png
 
 + **Location**: Select where the refiners should be placed: left, right, top.
 + **No Of Columns Per Row**: Set the number of refiners that should be displayed per row.
 + **Refiner**: Select the refiners to be used here and set limit and order ny to the right for each refiner.
-+ **Limit**: Set the number of values for the refiner to be displayed. If there's more a "Show more" links is shown.
-+ **Order by**: Set the sorter order for the values. Can be either alphabetical order (default) or by Count (number of documents).**Sort 
 
 The Design tab
 ---------------
 Here you can set the width for the left and right zone and select colors, if needed.
 
-.. image:: cd-viewer-design.png
+.. image:: controlled-documents-viewer-design-new2.png
 
