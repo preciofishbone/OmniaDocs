@@ -130,3 +130,8 @@ Bug Fixes and Small Improvements
 - Fixed bug in Edit Reusable Banner that could happen in some scenarios.
 - Fixed issue with new Date/Time picker when loading a specific type of dialog for the first time (related to new version of QMS).
 - Fixed some issue with the aspect ratio in the News Roller.
+
+.. toctree::
+   :titlesonly:
+   
+   2018-november-patch1/index
