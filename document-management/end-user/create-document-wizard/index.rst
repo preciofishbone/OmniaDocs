@@ -7,7 +7,7 @@ When this Site feature ("Omnia Document Management Create Document Wizard") is a
 
 The Wizard works slightly differently for Controlled Documents and for "normal" documents. Here's an example when used for normal documents:
 
-.. image:: odm-wizard.png
+.. image:: odm-wizard-new.png
 
 When used for "normal" documents the steps are as follows:
 
