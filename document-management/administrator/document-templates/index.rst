@@ -7,7 +7,7 @@ Management of Document Templates is handled here. The templates can be available
 
 The list of available templates can look like this:
 
-.. image:: document-templates-list-new.png
+.. image:: document-templates-list-new-border.png
 
 + **Language**: Select language for a list of templates in that language.
 + **(Symbol)**: This colummn indicates the file type.
