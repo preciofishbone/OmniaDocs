@@ -7,7 +7,7 @@ Management of Document Templates is handled here. The templates can be available
 
 The list of available templates can look like this:
 
-.. image:: document-templates-list.png
+.. image:: document-templates-list-new.png
 
 + **Language**: Select language for a list of templates in that language.
 + **(Symbol)**: This colummn indicates the file type.
@@ -17,7 +17,7 @@ The list of available templates can look like this:
 
 To edit the settings for a template, or to delete it, use the icons:
 
-.. image:: document-templates-list-icons.png
+.. image:: document-templates-list-icons-new.png
 
 **Tip!** When editing a template you can “update” by uploading another, updated file, but still use the same template name and other settings.
 
