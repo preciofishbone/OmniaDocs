@@ -14,6 +14,7 @@ The list of available templates can look like this:
 + **Template Name**: Name of the template.
 + **Scope**: In this column you can see if the template is applicable for Controlled Documents Only, or for general documents as well (in this case the field is empty).
 + **Document Profile**: States which Document Profile the template is connected to. You can go to the settings for the Document Profile by clicking the link.
++ **Categories**: States category set for the template, if any.
 
 To edit the settings for a template, or to delete it, use the icons:
 
