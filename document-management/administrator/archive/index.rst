@@ -7,18 +7,21 @@ A copy of all published document's editions are normally placed in an archive, b
 
 The following information is available in the archive:
 
-.. image:: archived-documents.png
+.. image:: archived-documents-new.png
  
 You can search for documents and sort the list on the headings, to make it easier to find information about a certain document edition.
 
-+ To open the specific edition of a document, click the link.
-+ To find out more about a documents edition, click the i-icon.
+There's a folder for all editions fo a document, and within that folder you find a folder for each edition.
 
-.. image:: archive-icon.png
+.. image:: archived-documents-editions.png
+
+To be able to see information about a specific edition, open the editions folder, select the document and click the i-icon.
+
+.. image:: archive-icon-new.png
  
-Note that you can view the Document History by clicking the link here. In the Document History, you can for examnple exact times for publication and comments added by the author during publication.
+Information about the edition, for example dates and time for the period when the edition was published, is shown to the right.
 
-.. image:: archive-icon-dochistory.png
+.. image:: archive-info.png
 
-And from here you can even see the workflow history of the document, by clicking that link.
+
 
