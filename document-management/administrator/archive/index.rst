@@ -7,7 +7,7 @@ A copy of all published document's editions are normally placed in an archive, b
 
 The following information is available in the archive:
 
-.. image:: archived-documents-new.png
+.. image:: archived-documents-new-border.png
  
 You can search for documents and sort the list on the headings, to make it easier to find information about a certain document edition.
 
