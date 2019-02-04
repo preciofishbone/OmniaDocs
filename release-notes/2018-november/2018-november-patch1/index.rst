@@ -1,7 +1,7 @@
 Release Notes November 2018 Patch 1
 ========================================
 
-Omnia.Foundation (1.0.14949)
+Omnia.Foundation (1.0.14988)
 ----------------------------------------
 - Fixed a couple of issues with the Term Picker.
 - Fixed issue with validation in People Picker.
@@ -14,8 +14,9 @@ Omnia.Foundation (1.0.14949)
 - Added support for Canadian French language.
 - Made sure extensions can use their own version of CSOM.
 - Secured the site provisioning flow when the SharePoint API is not responding as expected.
+- Removed information logs from the Term Picker.
 
-Omnia.Intranet (1.0.14949)
+Omnia.Intranet (1.0.14980)
 ----------------------------------------
 - Fixed a number of issues related to the Aggregated Calendar.
 - Fixed issue with the User Feed for customers running in Site Collection Only Mode.
@@ -68,8 +69,11 @@ Omnia.Intranet (1.0.14949)
 - Fixed design issue in certain dialogs in IE11. Icons from the header was shown above the dialog.
 - Fixed issue in IE11 in the actions menu when words wrap.
 - Made sure column settings in the People Rollup block fall back to default language if translation does not exist.
+- Fixed issues related to moving pages in Manage Content from one sub site to another.
+- Fixed stretch profile images People Rollup and Page Properties blocks.
+- Fixed critical issue with Followed Sites in My Sites navigation and Last Updated Documents caused by an update by Microsoft in SharePoint Online.
 
-Omnia.DocumentManagement (1.0.14937)
+Omnia.DocumentManagement (1.0.14997)
 ----------------------------------------
 - All dependencies to Angular 1 have been removed. Document Management is no longer dependent on the feature "Omnia Angular1 Support" being activated.
 - Fixed issue with a certain status on a controlled document in the Drafts view making it stuck when loading the view.
@@ -83,6 +87,8 @@ Omnia.DocumentManagement (1.0.14937)
 - Fixed issue with HTML in custom localizations not being rendered as expected.
 - Performance improvements when getting Document Types.
 - Fixed issue with buttons in Controlled Documents Library not being displayed correctly in some environments.
+- Ensured the Edition property is shown again in the Properties dialog.
+- Made sure HTML was rendered correctly for custom localization texts.
 
 Omnia.QMS (1.0.14859)
 -----------------------------------------
