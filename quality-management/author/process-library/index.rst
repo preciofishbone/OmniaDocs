@@ -65,17 +65,17 @@ A process that no longer is used can be archived, so it's not shown in the main 
 
 **Note!** An archived process can not be published. A published process is automatically unpublished when you select to archive the process.
 
-.. image:: archive-button-new.png
+.. image:: archive-button-new-border.png
 
 A list of archived processes can be reached by clicking the link "Archived processes" in the main list, see above.
 
 Here's an example of a list of archived processes:
 
-.. image:: archived-processes-new.png
+.. image:: archived-processes-new-border.png
 
 You can search the list and sort it by using the headings. A process can be restored by clicking the icon to the far right, and thus be available in the main list for editing and publishing.
 
-.. image:: restore-archived-new.png
+.. image:: restore-archived-new-border.png
 
 Edit a process
 ****************
