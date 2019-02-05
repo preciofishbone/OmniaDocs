@@ -3,7 +3,7 @@ Process Library
 
 The Process library is where members of the team site creates new processes and edit existing ones, and where processes are published so others can see them. 
 
-.. image:: processes-library-overall-new2.png
+.. image:: process-library-overall-new2-border.png
 
 A published process is made available through a Process Viewer, see :doc:`Process Viewer </quality-management/end-user/process-viewer/index>`
 
@@ -31,7 +31,7 @@ Navigate between processes
 *****************************
 When you have selected a process you can go back to the main list by selecting "All processes" in the upper left corner and you can go to another process by selecting it in the list to the left. Here's an example:
 
-.. image:: process-library-navigating-new.png
+.. image:: process-library-navigating-new-border.png
 
 Create a new process
 **********************
