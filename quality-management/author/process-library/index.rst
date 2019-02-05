@@ -178,7 +178,7 @@ Any related document is listed on this tab. To relate a new document, click the 
 
 .. image:: process-library-documents-new.png
 
-Use this dialog to find and select documents (note the "Add" button at the bottom, not shown in the image):
+Use this dialog to find and select documents:
 
 .. image:: process-library-documents-list-new.png
 
@@ -257,7 +257,7 @@ The Deviation/Improvement tab
 ------------------------------
 If set up, users can send feedback to a process, via the link "Feedback" in the Process Viewer, and tag the posting as Improvement, Deviation or Risk. These feedback posts are shown and can be handled on this tab.
 
-.. image:: deviation-tab.png
+.. image:: deviation-tab-new.png
 
 You can use the "New" button to add feedback here yourself.
 
