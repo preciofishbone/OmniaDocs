@@ -228,7 +228,7 @@ The Advanced tab
 -------------------
 On this tab you can set the following:
 
-.. image:: process-library-advanced.png
+.. image:: process-library-advanced-border.png
 
 + **Tags**: Add tags for the process. This is a metadata list. You can select tags from the list, you can not create new tags here. The tags are important for search. (Available tags are set up centrally, see :doc:`Setup Quality Management </quality-management/setup-quality-management/index>`.)
 + **Show in Process Directory**: Decide if the process could be shown in a possible Process Directory or not (Default: Show).
