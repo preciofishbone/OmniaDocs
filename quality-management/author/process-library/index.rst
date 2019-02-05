@@ -3,7 +3,7 @@ Process Library
 
 The Process library is where members of the team site creates new processes and edit existing ones, and where processes are published so others can see them. 
 
-.. image:: processes-library-overall-new.png
+.. image:: processes-library-overall-new2.png
 
 A published process is made available through a Process Viewer, see :doc:`Process Viewer </quality-management/end-user/process-viewer/index>`
 
@@ -31,7 +31,7 @@ Navigate between processes
 *****************************
 When you have selected a process you can go back to the main list by selecting "All processes" in the upper left corner and you can go to another process by selecting it in the list to the left. Here's an example:
 
-.. image:: process-library-navigating.png
+.. image:: process-library-navigating-new.png
 
 Create a new process
 **********************
@@ -41,7 +41,7 @@ To create a new process:
 
 The following is shown:
 
-.. image:: create-new-process.png
+.. image:: create-new-process-new.png
 
 2. Enter a name for the process.
 3. Add or delete owners if needed.
@@ -65,17 +65,17 @@ A process that no longer is used can be archived, so it's not shown in the main 
 
 **Note!** An archived process can not be published. A published process is automatically unpublished when you select to archive the process.
 
-.. image:: archive-button.png
+.. image:: archive-button-new.png
 
 A list of archived processes can be reached by clicking the link "Archived processes" in the main list, see above.
 
 Here's an example of a list of archived processes:
 
-.. image:: archived-processes.png
+.. image:: archived-processes-new.png
 
 You can search the list and sort it by using the headings. A process can be restored by clicking the icon to the far right, and thus be available in the main list for editing and publishing.
 
-.. image:: restore-archived.png
+.. image:: restore-archived-new.png
 
 Edit a process
 ****************
@@ -84,7 +84,7 @@ You edit a newly created process and an existing one the same way. Note that acc
 1. Open the process from the list, if it's not already open.
 2. Click "Edit".
 
-.. image:: edit-process-1-newest.png
+.. image:: edit-process-1-evennewer.png
 
 The Graph tab
 --------------
@@ -94,19 +94,19 @@ To add a new process step, do the following:
 
 1. Click "Add process step"
 
-.. image:: add-process-step-graph.png
+.. image:: add-process-step-graph-new.png
 
 or "Add new process step" - the plus - in any step where you want to create a new step.
 
-.. image:: add-new-step-new.png
+.. image:: add-new-step-new2.png
 
 The following is shown (some options may not be shown, depending on where in the process you add something):
 
-.. image:: add-process-step-new.png
+.. image:: add-process-step-new2.png
 
 + **Type**: Type can be Process or Activity. When you select "Process", a second list, where you can choose to create a new Process, a Sub Process, or a Linked Process, is shown. 
 
-.. image:: add-process-step-subprocess-border.png
+.. image:: add-process-step-subprocess-new.png
 
 "Activity" is the end of the process or sub process, where you add actions. For an Activity you select which shape to use. When you select "Linked process" you add the link to that process.
 
@@ -116,11 +116,11 @@ The following is shown (some options may not be shown, depending on where in the
 
 You can reorder the process graph if needed. Select the menu to the right:
 
-.. image:: select-reorder-new.png
+.. image:: select-reorder-new2.png
 
 Choose what you want to do:
 
-.. image:: reorder-options.png
+.. image:: reorder-options-new.png
 
 Creating a clickable link to a process
 ---------------------------------------
