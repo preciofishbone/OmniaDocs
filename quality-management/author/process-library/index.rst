@@ -214,7 +214,7 @@ To add a link to anything (for example a page in Omnia, or an internet page) you
 
 To add headings, if nedded, select "Heading, type the heading in the field, and click "Save".
 
-.. image:: process-library-heading-New.png
+.. image:: process-library-heading-new.png
 
 To edit or delete a tool, click the icon for the tool.
 
