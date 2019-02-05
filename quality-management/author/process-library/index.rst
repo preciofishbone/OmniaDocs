@@ -240,12 +240,12 @@ Review processes
 -----------------
 To see a list of processes that is nearing their review times, do the following:
 
-1. Go to a ite where a Process Library is installed.
+1. Go to a site where a Process Library is installed.
 2. Open Omnia Admin and select "Process Management" under "Site Collection".
 
 .. image:: process-review-process-management.png
 
-Then select "Review". Here's an example of a Review list:
+Then select "Reviews". Here's an example of a Review list:
 
 .. image:: process-review-list.png
 
