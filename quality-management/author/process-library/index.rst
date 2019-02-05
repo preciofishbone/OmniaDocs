@@ -124,40 +124,33 @@ Choose what you want to do:
 
 Creating a clickable link to a process
 ---------------------------------------
-Here’s how to add clickable areas (image maps) to a custom image you have uploaded:
+Here’s how to add clickable areas (image maps) to a custom image you have uploaded.
 
-1.	Edit the process.
-2.	Click "Map process".
+1. Make sure everything you may want to link to is present in the lilst. If not, use ADD PROCESS STEP and ADD CUSTOM LINK to create Process Steps or links.
 
-.. image:: clickable-1-new.png
+.. image:: clickable-step-1.png
 
-3.	Click "Add process step" to add a process step to link to.
+2.	Edit the process.
+3.	Open the list and select what you want to link to.
 
-.. image:: clickable-2-new.png
+.. image:: clickable-link-open-list.png
 
-4. Click in the name field and select a process step in the list.
+4. Select the shape for the clickable area.
 
-.. image:: clickable-3-new.png
-
-5. Click "Create".
+.. image:: clickable-shape.png
  
-4.	Draw the inserted area to the right place in the graph.
+5.	Draw the area in the right place in the graph.
 
-.. image:: clickable-4-new.png
+.. image:: clickable-added.png
 
-5. Adjust width and height for the area. (Point at an edge, and you can grab and draw the that edge.)
+6. Adjust width and height for the area. (Point at an edge, and you can grab and draw that edge.)
+7.	Click "Save".
 
-5.	Click "Save".
-
-.. image:: clickable-5-new.png
+.. image:: clickable-save.png
  
-All process steps you have linked to this way, is shown in the list to the left.
+If you have placed an area for a clickable link in the wrong place, just drag the area to the right place. To delete a clickable are, select it and click the dust bin.
 
-You can also add a clickable area to anything you can reach with a link. Use the button "Add Custom Link" to do that.
-
-.. image:: clickable-6-new.png
-
-If you have placed an area for a clickable link in the wrong place, just drag the area to the right place. If you would like to change where an area should link to, just select the area and choose another target in the list to the left.
+.. image:: clickable-dustbin.png
 
 The General tab
 ------------------
