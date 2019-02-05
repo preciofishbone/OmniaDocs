@@ -137,7 +137,7 @@ Here’s how to add clickable areas (image maps) to a custom image you have uplo
 
 4. Select the shape for the clickable area.
 
-.. image:: clickable-shape.png
+.. image:: clickable-shape-border.png
  
 5.	Draw the area in the right place in the graph.
 
@@ -148,7 +148,9 @@ Here’s how to add clickable areas (image maps) to a custom image you have uplo
 
 .. image:: clickable-save.png
  
-If you have placed an area for a clickable link in the wrong place, just drag the area to the right place. To delete a clickable are, select it and click the dust bin.
+If you have placed an area for a clickable link in the wrong place, just drag the area to the right place. 
+
+To delete a clickable are, select it and click the dust bin.
 
 .. image:: clickable-dustbin.png
 
