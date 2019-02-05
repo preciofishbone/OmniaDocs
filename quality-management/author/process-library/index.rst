@@ -98,11 +98,11 @@ To add a new process step, do the following:
 
 or "Add new process step" - the plus - in any step where you want to create a new step.
 
-.. image:: add-new-step-new2.png
+.. image:: add-new-step-new-2.png
 
 The following is shown (some options may not be shown, depending on where in the process you add something):
 
-.. image:: add-process-step-new2.png
+.. image:: add-process-step-new-2.png
 
 + **Type**: Type can be Process or Activity. When you select "Process", a second list, where you can choose to create a new Process, a Sub Process, or a Linked Process, is shown. 
 
