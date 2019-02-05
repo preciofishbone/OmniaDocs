@@ -192,7 +192,7 @@ Do the following to link to a document:
 
 1. Select "ADD TOOL".
 
-.. image:: process-library-tools-add-tool.pong
+.. image:: process-library-tools-add-tool.png
 
 2. Select "Document" from the list.
 3. Click "Browse".
@@ -201,7 +201,7 @@ The list of documents, if any, is shown. If the document isn't uploaded to the t
 
 4. Click "Upload Document" and upload the document you want to add to Tools, if needed, and then select the document.
 
-.. image:: process-library-tools-document-select.png
+.. image:: process-library-toools-document-select.png
 
 5. As the last step, click "Add" to add the document to the tools list.
 
