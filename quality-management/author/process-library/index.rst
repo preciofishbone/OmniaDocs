@@ -208,17 +208,17 @@ The list of documents, if any, is shown. If the document isn't uploaded to the t
 
 .. image:: tools-document-click-save.png
 
-To add a link to anything (for example a page in Omnia, or an internet page) you can reach through a link, select "Custom link" and add the Url, A Title (name for the link), and select to open the link in new window or not, and click "Add".
+To add a link to anything (for example a page in Omnia, or an internet page) you can reach through a link, select "Custom link" and add the Url, A Title (name for the link), and select to open the link in new window or not, and click "Save".
 
-.. image:: process-library-tool-custom.png
+.. image:: process-library-tool-custom-new.png
 
-To add headings, if nedded, select "Heading, type the heading in the field, and click "Add".
+To add headings, if nedded, select "Heading, type the heading in the field, and click "Save".
 
-.. image:: process-library-heading.png
+.. image:: process-library-heading-New.png
 
-To delete a tool, click the document, link or heading, and select the dust bin.
+To edit or delete a tool, click the icon for the tool.
 
-.. image:: process-library-tools-delete.png
+.. image:: process-library-tools-delete-new.png
 
 If you would like the tools to be shown in another order, just use drag and drop.
 
