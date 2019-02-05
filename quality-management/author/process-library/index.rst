@@ -158,7 +158,7 @@ The General tab
 ------------------
 On this tab you can set the following:
 
-.. image:: process-library-general.png
+.. image:: process-library-general-new.png
 
 + **Name**: Edit the Process Name here if needed.
 + **Owner**: Edit process owner(s) here if needed. Note that process owners is separate from site owners. 
@@ -168,7 +168,7 @@ The Content tab
 -----------------
 Here you add/edit the description for the process. Note the format options. You can also insert images, links and tables.
 
-.. image:: process-library-content.png
+.. image:: process-library-content-new.png
 
 The Related Documents tab
 --------------------------
@@ -176,30 +176,34 @@ If Omnia Document Managament is installed in the current tenant, editors of cont
 
 Any related document is listed on this tab. To relate a new document, click the button.
 
-.. image:: process-library-documents.png
+.. image:: process-library-documents-new.png
 
 Use this dialog to find and select documents (note the "Add" button at the bottom, not shown in the image):
 
-.. image:: process-library-documents-list.png
+.. image:: process-library-documents-list-new.png
 
 The Tools tab
 -----------------
 Use this tab to link to documents. You can also link to pretty much everything, for example pages, bya adding custom links. In i long tools list, you can add headings for separate sections, to make it easier for user to navigate.
 
-.. image:: process-library-tools.png
+.. image:: process-library-tools-new.png
 
 Do the following to link to a document:
 
-1. Select "Document" from the list.
-2. Click "Browse".
+1. Select "ADD TOOL".
+
+.. image:: process-library-tools-add-tool.pong
+
+2. Select "Document" from the list.
+3. Click "Browse".
 
 The list of documents, if any, is shown. If the document isn't uploaded to the team site:
 
-3. Click "Upload Document" and upload the document you want to add to Tools, if needed, and then select the document.
+4. Click "Upload Document" and upload the document you want to add to Tools, if needed, and then select the document.
 
-.. image:: process-library-toools-document-select.png
+.. image:: process-library-tools-document-select.png
 
-4. As the last step, click "Add" to add the document to the tools list.
+5. As the last step, click "Add" to add the document to the tools list.
 
 .. image:: document-click-add.png
 
