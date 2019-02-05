@@ -236,23 +236,6 @@ On this tab you can set the following:
 + **Review interval**: Set Review interval. When a published process is nearing it's reviewal time, it will be part of the revewial list in Omnia Admin. (See more information about Review below).
 + **Change comment**: Here you can add a comment about the latest changes for this process.
 
-Review processes
------------------
-To see a list of processes that is nearing their review times, do the following:
-
-1. Go to a site where a Process Library is installed.
-2. Open Omnia Admin and select "Process Management" under "Site Collection".
-
-.. image:: process-review-process-management.png
-
-Then select "Reviews". Here's an example of a Review list:
-
-.. image:: process-review-list.png
-
-Use the fields at the top to filter the list. Use "Clear" to clear filtering and see the whole list. Use "Export" to export the list that is shown, to Excel.
-
-Also note that you can click the headings to change between ascending and descending sorting.
-
 The Deviation/Improvement tab
 ------------------------------
 If set up, users can send feedback to a process, via the link "Feedback" in the Process Viewer, and tag the posting as Improvement, Deviation or Risk. These feedback posts are shown and can be handled on this tab.
@@ -269,3 +252,19 @@ To publish the process, just click "Publish".
 
 To be able to publish a process, you have to have the correct permission. If you don't have the permission, the Publish button is grey.
 
+Review processes
+-----------------
+To see a list of processes that is nearing their review times, do the following:
+
+1. Go to a site where a Process Library is installed.
+2. Open Omnia Admin and select "Process Management" under "Site Collection".
+
+.. image:: process-review-process-management.png
+
+Then select "Reviews". Here's an example of a Review list:
+
+.. image:: process-review-list.png
+
+Use the fields at the top to filter the list. Use "Clear" to clear filtering and see the whole list. Use "Export" to export the list that is shown, to Excel.
+
+Also note that you can click the headings to change between ascending and descending sorting.
