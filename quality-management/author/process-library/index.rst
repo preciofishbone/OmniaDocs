@@ -200,14 +200,15 @@ Do the following to link to a document:
 The list of documents, if any, is shown. If the document isn't uploaded to the team site:
 
 4. Click "Upload Document" and upload the document you want to add to Tools, if needed, and then select the document.
+5. Select the document and click "OK".
 
-.. image:: process-library-toools-document-select.png
+.. image:: select-document-ok.png
 
-5. As the last step, click "Add" to add the document to the tools list.
+6. As the last step, click "Save" to add the document to the tools list.
 
-.. image:: document-click-add.png
+.. image:: tools-document-click-save.png
 
-To add a link to anything (for example a page in Omnia, or an internet page) you can reach thorugh a link, select "Custom link" and add the Url, A Title (name for the link), and select to open the link in new window or not, and click "Add".
+To add a link to anything (for example a page in Omnia, or an internet page) you can reach through a link, select "Custom link" and add the Url, A Title (name for the link), and select to open the link in new window or not, and click "Add".
 
 .. image:: process-library-tool-custom.png
 
