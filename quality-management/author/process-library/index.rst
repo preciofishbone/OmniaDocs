@@ -253,7 +253,7 @@ To publish the process, just click "Publish".
 To be able to publish a process, you have to have the correct permission. If you don't have the permission, the Publish button is grey.
 
 Review processes
------------------
+******************
 To see a list of processes that is nearing their review times, do the following:
 
 1. Go to a site where a Process Library is installed.
