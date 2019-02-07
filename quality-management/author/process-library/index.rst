@@ -263,7 +263,11 @@ More information is found here: :doc:`Deviations/Improvements </quality-manageme
 
 Revert to an earlier version
 *****************************
-If somthing goes really wrong when editing a process, you can revert back to an earlier version. Use the option "Revert" in the menu to the right.
+If something goes really wrong when editing a process, you can revert back to an earlier draft version of the process. 
+
+**Note!**: Draft versions are only available until you publish. When a process is published, all draft versions for that edition of the process are removed. You can not revert back to an earlier published version.
+
+Use the option "Revert" in the menu to the right.
 
 .. image:: revert-process-1.png
 
