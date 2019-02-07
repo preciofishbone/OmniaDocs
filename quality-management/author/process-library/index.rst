@@ -128,6 +128,7 @@ The following is shown (some options may not be shown, depending on where in the
 
 + **Name**: Enter a name for the step here.
 + **Shape**: Select shape for the process step here. For a "Sub Process" you can choose to use to use Shapes or a Custom image. A sub process can have other sub processes, activities or links to other processes.
++ **Custom image**: When creating a sub process or a new process, you can use a custom image.
 + **Position**: Select position for the new step, in relation to the step where you selected to create the new step - After, Before or Parallell.
 
 You can reorder the process graph if needed. Select the menu to the right:
