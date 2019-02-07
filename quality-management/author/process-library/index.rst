@@ -17,15 +17,17 @@ You can click the headings "Name", "Edition", "Revision", "Modified" and "Owner"
 
 Use the following options to filter the list and more:
 
+.. image:: process-filter-options
+
 + **Search**: Filter the list by process names. All processes that contain the letters you have entered, somewhere in the process name, are shown.
 + **Owner**: Filter the list on an owners name.
 + **Tags**: Filter the list on one or more of the available tags.
 
 Note that these filters are cumulative. An example: if you filter on a process name and a tag, a process must contain the letters in the name AND be tagged with the tag you have chosen, to be shown in the list.
 
-+ **Clear**: Use this button the clear filters and show the full list.
 + **New**: Create a new process by using this button. See below for more information.
 + **Archived processes**: To see the list of archived processes, click this link. See below for more information.
++ **Deviations/Improvements**: Use this option to work with deviations and improvements.
 
 Navigate between processes
 *****************************
