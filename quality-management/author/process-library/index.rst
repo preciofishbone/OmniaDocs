@@ -31,9 +31,15 @@ Note that these filters are cumulative. An example: if you filter on a process n
 
 Navigate between processes
 *****************************
-When you have selected a process you can go back to the main list by selecting "All processes" in the upper left corner and you can go to another process by selecting it in the list to the left. Here's an example:
+When you have selected a process you can go back to the main list by selecting "All processes" in the upper left corner.
 
-.. image:: process-library-navigating-new-border.png
+.. image:: process-library-navigating-new-all-processes.png
+
+You can go to another process in the left navigation. Click the button to open the left navigation.
+
+.. image:: process-library-left-navigation.png
+
+Click the button again to close the left navigation.
 
 Create a new process
 **********************
