@@ -73,7 +73,7 @@ Archived processes
 *******************
 A process that no longer is used can be archived, so it's not shown in the main list. Open the menu to the right: 
 
-.. image:: process-library-menu.png
+.. image:: process-library-menu-border.png
 
 ..and select "Archive" when editing the process.
 
