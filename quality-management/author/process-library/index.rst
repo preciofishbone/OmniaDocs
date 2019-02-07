@@ -283,7 +283,7 @@ A process can be moved to another team site if needed. It's done this way:
 
 The name of the site should now be displayed in the second field, for example:
 
-.. image:: move-procoess-2.png
+.. image:: move-process-2.png
 
 4. Select "Move".
 
