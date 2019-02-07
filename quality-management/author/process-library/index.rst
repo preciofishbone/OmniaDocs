@@ -267,6 +267,26 @@ To publish the process, just click "Publish".
 
 To be able to publish a process, you have to have the correct permission. If you don't have the permission, the Publish button is grey.
 
+Move a process
+**************
+A process can be moved to another team site if needed. It's done this way:
+
+1. Go to the team site you will move the process to and copy the URL.
+
+**Note!**: The URL should be to the Team site itself, not to the process library in that site.
+
+2. Open the menu to the right and select "Move".
+
+.. image:: move-process-1.png
+
+3. Paste the URL in the top field.
+
+The name of the site should now be displayed in the second field, for example:
+
+.. image:: move-procoess-2.png
+
+4. Select "Move".
+
 Review processes
 ******************
 To see a list of processes that is nearing their review times, do the following:
