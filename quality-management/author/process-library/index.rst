@@ -185,7 +185,7 @@ The Content tab
 -----------------
 Here you add/edit the description for the process. Note the format options. You can also insert images, links and tables.
 
-.. image:: process-library-content-new.png
+.. image:: process-library-content-new2.png
 
 The Related Documents tab
 --------------------------
