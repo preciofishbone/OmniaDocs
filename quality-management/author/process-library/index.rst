@@ -55,7 +55,7 @@ The following is shown:
 3. Add or delete owners if needed.
 4. Choose if you are going to use the shapes from the Omnia QMS library or a custom image.
 
-If you choose to use a custom image, browse for the image and select it using the Omnia Image Browser.
+If you choose to use a custom image, click "Select Image" and find and open the image.
 
 5. Click "Create".
 
