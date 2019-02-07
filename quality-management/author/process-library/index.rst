@@ -73,11 +73,11 @@ Archived processes
 *******************
 A process that no longer is used can be archived, so it's not shown in the main list. Open the menu to the right: 
 
-.. image:: process-library-menu-border.png
+.. image:: process-library-menu.png
 
 ..and select "Archive" when editing the process.
 
-.. image:: archive-process.png
+.. image:: archive-process-border.png
 
 **Note!** An archived process can not be published. A published process is automatically unpublished when you select to archive the process.
 
