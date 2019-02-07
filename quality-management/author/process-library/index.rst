@@ -114,7 +114,7 @@ To add a new process step, do the following:
 
 or "Add new process step" - the plus - in any step where you want to create a new step.
 
-.. image:: add-new-step-new-1.png
+.. image:: add-new-step-new-1-plus.png
 
 The following is shown (some options may not be shown, depending on where in the process you add something):
 
