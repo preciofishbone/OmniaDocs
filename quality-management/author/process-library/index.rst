@@ -17,7 +17,7 @@ You can click the headings "Name", "Edition", "Revision", "Modified" and "Owner"
 
 Use the following options to filter the list and more:
 
-.. image:: process-filter-options
+.. image:: process-filter-options.png
 
 + **Search**: Filter the list by process names. All processes that contain the letters you have entered, somewhere in the process name, are shown.
 + **Owner**: Filter the list on an owners name.
