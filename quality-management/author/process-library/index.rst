@@ -143,7 +143,7 @@ Creating a clickable link to a process
 ---------------------------------------
 Here’s how to add clickable areas (image maps) to a custom image you have uploaded.
 
-1. Make sure everything you may want to link to is present in the lilst. If not, use ADD PROCESS STEP and ADD CUSTOM LINK to create Process Steps or links.
+1. Make sure everything you may want to link to is present in the list. If not, use ADD PROCESS STEP and ADD CUSTOM LINK to create Process Steps or links.
 
 .. image:: clickable-step-1.png
 
@@ -167,7 +167,7 @@ Here’s how to add clickable areas (image maps) to a custom image you have uplo
  
 If you have placed an area for a clickable link in the wrong place, just drag the area to the right place. 
 
-To delete a clickable are, select it and click the dust bin.
+To delete a clickable area, select it and click the dust bin.
 
 .. image:: clickable-dustbin.png
 
