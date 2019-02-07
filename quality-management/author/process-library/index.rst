@@ -265,11 +265,11 @@ Revert to an earlier version
 *****************************
 If somthing goes really wrong when editing a process, you can revert back to an earlier version. Use the option "Revert" in the menu to the right.
 
-.. image:: revert-process-1-png.
+.. image:: revert-process-1.png
 
 In the list shown you select which version to revert to.
 
-.. image:: revert.process-2.png
+.. image:: revert-process-2.png
 
 Publish a process
 ******************
