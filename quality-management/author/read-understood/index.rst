@@ -35,8 +35,8 @@ Use this tab to add links to process steps that has been changed or added.
 
 .. image:: read-links-tab-borders.png
 
-Confirmation
-*************
+The Confirmation tab
+*********************
 If "Email message with conformation" is selected, this tab is shown.
 
 .. image:: read-understood-confirmation.png
