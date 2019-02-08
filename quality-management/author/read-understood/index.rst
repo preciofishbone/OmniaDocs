@@ -37,7 +37,7 @@ Use this tab to add links to process steps that has been changed or added.
 
 Confirmation
 *************
-If "Email message with conformation is selected, this tab is shown.
+If "Email message with conformation" is selected, this tab is shown.
 
 .. image:: read-understood-confirmation.png
 
