@@ -5,6 +5,12 @@ Use this option in Omnia Admin to send messages to managers or others to make su
 
 **Note!** The scope for this option is Site Collection so each team site has it's own list.
 
+1. Select "Process Management" under "Site Collection".
+
+.. image:: read-understood-png
+
+2. Then select "Read and understood".
+
 All Read & Understood items (if any) for the current team site, will be shown in the list.
 
 .. image:: read-and-understood.png
