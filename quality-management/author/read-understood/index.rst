@@ -1,7 +1,7 @@
 Read & Understood
 ===========================
 
-Use this option in Omnia Adm to send messages to managers or others to make sure they are aware of changes or additons in a process.
+Use this option in Omnia Admin to send messages to managers or others to make sure they are aware of changes or additions in a process.
 
 **Note!** The scope for this option is Site Collection so each team site has it's own list.
 
