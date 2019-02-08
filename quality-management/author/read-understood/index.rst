@@ -42,7 +42,7 @@ If "Email message with conformation" is selected, this tab is shown.
 .. image:: read-understood-confirmation.png
 
 + **Verification text**: You must enter a text here to be able to send the message.
-+ **Deadline**: You can add a deadline for reading the message.
++ **Deadline**: You can add a deadline for reading the message. If the deadline is passed, it will be noted with the whole post in the Read amd understood list marked with read text.
 + **Reminder**: You can set a date for a reminder to be sent if the recipient hasn't read the message yet.
 
 The Recipients tab
