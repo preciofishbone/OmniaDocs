@@ -35,6 +35,16 @@ Use this tab to add links to process steps that has been changed or added.
 
 .. image:: read-links-tab-borders.png
 
+Confirmation
+*************
+If "Email message with conformation is selected, this tab is shown.
+
+.. image:: read-understood-confirmation.png
+
++ **Verification text**: You must enter a text here to be able to send the message.
++ **Deadline**: You can add a deadline for reading the message.
++ **Reminder**: You can set a date for a reminder to be sent if the recipient hasn't read the message yet.
+
 The Recipients tab
 ******************
 All recipients of the e-mail should be added to this tab. Recipients can be both persons and groups.
