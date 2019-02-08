@@ -7,7 +7,7 @@ Use this option in Omnia Admin to send messages to managers or others to make su
 
 1. Select "Process Management" under "Site Collection".
 
-.. image:: read-understood-png
+.. image:: read-understood.png
 
 2. Then select "Read and understood".
 
