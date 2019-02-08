@@ -48,7 +48,7 @@ Use this tab to add and edit actions for the feedback.
 
 .. image:: feedback-actions.png
 
-To specify any actions that has taken place or will be needed, click "Add action" and specify using these fields:
+To specify any actions that has taken place or will be needed, click "Add" and specify using these fields:
 
 .. image:: feedback-actions-add-action.png
 
@@ -57,7 +57,7 @@ To specify any actions that has taken place or will be needed, click "Add action
 + **Due date**: Specify a Due date for the action, if needed.
 + **Status**: Here you can note the status for the action as the work progresses. Status can be "New", "Active", "Done", "On hold" or "Closed".
 + **Description**: Here you can type a description about what this action is about. Note the format options and note that you can add images, links and tabled.
-+ **OK**: Click OK to save the action.
++ **Save**: Click Save to save the action.
 
 Active actions are shown in the list of actions this way:
 
