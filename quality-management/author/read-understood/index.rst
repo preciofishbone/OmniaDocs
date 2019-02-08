@@ -53,7 +53,7 @@ All recipients of the e-mail should be added to this tab. Recipients can be both
 
 The Send test message tab
 **************************
-To make sure that added e-mail addresses are still valid, use this tab to send a test message. If any address is no longer valid, you will see a message here.
+To make sure that added e-mail addresses are still valid, use this tab to send a test message. If any address is no longer valid, you will see a notification here.
 
 .. image:: read-test-message.png
 
