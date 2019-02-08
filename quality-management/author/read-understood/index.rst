@@ -13,7 +13,7 @@ Use this option in Omnia Admin to send messages to managers or others to make su
 
 All Read & Understood items (if any) for the current team site, will be shown in the list.
 
-.. image:: read-and-understood.png
+.. image:: read-understood-list.png
 
 When sending a new message, first choose a one way Email message, or an Email message with confirmation.
 
