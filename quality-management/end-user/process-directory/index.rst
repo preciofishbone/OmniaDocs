@@ -69,7 +69,7 @@ If the following filters are added:
 
 The result could be this list:
 
-.. image:: process-directory-filterednew.png
+.. image:: process-directory-filtered-new.png
 
 To be shown in this filtered list, a process must contain dev or Dev in the title, AND be tagged with HR.
 
