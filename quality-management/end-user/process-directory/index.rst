@@ -57,17 +57,19 @@ This tab is used to set filter options if just some of the available processes s
 
 3. Click "Add more filter" to add more filter rows and.
 
+To remove a filter row, click the dust bin.
+
 Filtering is cumulative. An example: With this list (not filtered):
 
-.. image:: process-directory-no-filter.png
+.. image:: process-directory-no-filter-new.png
 
 If the following filters are added:
 
-.. image:: process-directory-filter-example.png
+.. image:: process-directory-filter-example-new.png
 
 The result could be this list:
 
-.. image:: process-directory-filtered.png
+.. image:: process-directory-filterednew.png
 
 To be shown in this filtered list, a process must contain dev or Dev in the title, AND be tagged with HR.
 
@@ -75,4 +77,4 @@ The Custom Colors tab
 -----------------------
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
-.. image:: process-directory-colors.png
+.. image:: process-directory-colors-new.png
