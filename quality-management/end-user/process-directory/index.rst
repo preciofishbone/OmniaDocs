@@ -5,7 +5,7 @@ The Process Directory control is available as a web part for legacy pages and as
 
 Here's how a Process Directory block can look for end users:
 
-.. image:: process-list-end-users-new.png
+.. image:: process-list-end-users-new2.png
 
 **Note!** The control is best suited to the main part of the page. It will need space.
 
@@ -17,7 +17,7 @@ The General tab
 -------------------
 On this tab the following settings are available:
 
-.. image:: process-directory-settings-general.png
+.. image:: process-directory-settings-general-new.png
 
 + **Title**: Set the title for the list, that will be displayed for users.
 + **Process viewer page**: The address to the actual page that was set up for the Process viewer is added to this field.
@@ -26,6 +26,7 @@ On this tab the following settings are available:
 + **Show filter**: Set if users should be able to filter the list. 
 + **Open process with new tab**: Set what will happen when a user clicks a process link in the list - open in new tab or new page.
 + **Sort Property**: This field needs to contain a sort property, see example in the above image.
++ **Ascending**: Keep this selected for ascending sorting. Deselect for descending sorting.
 
 The Columns tab
 ------------------
