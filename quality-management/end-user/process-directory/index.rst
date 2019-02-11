@@ -40,13 +40,13 @@ The Filters tab
 ------------------
 This tab is used to set filter options if just some of the available processes should be displayed in this list.
 
-.. image:: process-directory-filters.png
+.. image:: process-directory-filters-new.png
 
-Click "Add more filter" to add one or more filters, and then select type of filter from the list, for example:
+1. Open the list to select type of filter.
 
-.. image:: process-directory-select-filter.png
+.. image:: process-directory-select-filter-new.png
 
-The next step is to add details for the filter:
+2. The next step is to add details for the filter:
 
 + **Title**: Type part of titles to filter on. Example: "dev" would show any process that has these letters in the title, for example Develop and development.
 + **Owner**: Type a full name or part of a name.
@@ -54,6 +54,8 @@ The next step is to add details for the filter:
 + **Revision**: Select a revision number.
 + **Revision interval**: Select a number for the interval on which to filter.
 + **Tags**: Select one or more of the available tags. (Available tags are set up centrally, see :doc:`Setup Quality Management </quality-management/setup/index>`.)
+
+3. Click "Add more filter" to add more filter rows and.
 
 Filtering is cumulative. An example: With this list (not filtered):
 
