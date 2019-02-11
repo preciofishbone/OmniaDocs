@@ -32,7 +32,7 @@ The Columns tab
 ------------------
 Use this tab to decide which columns to display for the list.
 
-.. image:: process-directory-columns.png
+.. image:: process-directory-columns-new.png
 
 You can set the column order and set an exact width for the column (default: Auto). You can also turn the filter option on or off for each column, meaning if the column should be used for filtering or not.
 
