@@ -3,15 +3,15 @@ Deviations/Improvements
 
 Using the the option "Add Feedback" any user that has access to a published process can send feedback:
 
-.. image:: qms-add-feedback.png
+.. image:: qms-add-feedback-new.png
 
 The user types a title, selects type of feedback: Improvement, Deviation or Risk, adds a text and can even attach files:
 
-.. image:: qms-feedback-add-border.png
+.. image:: qms-feedback-add-new.png
 
 When a process is edited, all feedback concerning that process, is available on the "Deviation/Improvement" tab:
 
-.. image:: qms-improvement-new.png
+.. image:: qms-improvement-new2.png
 
 You can use the link to the right to export the list to Excel. You can click the headings to change between ascending and descending sorting.
 
@@ -28,7 +28,7 @@ Information
 ------------
 On this tab, the following options are available:
 
-.. image:: feedback-information.png
+.. image:: feedback-information-new.png
 
 Use the options this way:
 
@@ -46,9 +46,9 @@ Actions
 --------
 Use this tab to add and edit actions for the feedback.
 
-.. image:: feedback-actions.png
+.. image:: feedback-actions-new.png
 
-To specify any actions that has taken place or will be needed, click "Add action" and specify using these fields:
+To specify any actions that has taken place or will be needed, click "Add" and specify using these fields:
 
 .. image:: feedback-actions-add-action.png
 
@@ -61,7 +61,7 @@ To specify any actions that has taken place or will be needed, click "Add action
 
 Active actions are shown in the list of actions this way:
 
-.. image:: feedback-actions-saved.png
+.. image:: feedback-actions-saved-new.png
 
 To edit an action, just click on it and the same fields as decribed above will be available.
 
@@ -69,9 +69,5 @@ History
 --------
 History for the actions on this feedback is listed on this tab.
 
-.. image:: deviations-history-new.png
-
-
-
-
+.. image:: deviations-history-new2.png
 

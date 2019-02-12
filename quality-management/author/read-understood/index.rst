@@ -1,13 +1,19 @@
 Read & Understood
 ===========================
 
-Use this option in Omnia Adm to send messages to managers or others to make sure they are aware of changes or additons in a process.
+Use this option in Omnia Admin to send messages to managers or others to make sure they are aware of changes or additions in a process.
 
 **Note!** The scope for this option is Site Collection so each team site has it's own list.
 
+1. Select "Process Management" under "Site Collection".
+
+.. image:: read-understood.png
+
+2. Then select "Read and understood".
+
 All Read & Understood items (if any) for the current team site, will be shown in the list.
 
-.. image:: read-and-understood.png
+.. image:: read-understood-list.png
 
 When sending a new message, first choose a one way Email message, or an Email message with confirmation.
 
@@ -29,6 +35,16 @@ Use this tab to add links to process steps that has been changed or added.
 
 .. image:: read-links-tab-borders.png
 
+The Confirmation tab
+*********************
+If "Email message with conformation" is selected, this tab is shown.
+
+.. image:: read-understood-confirmation.png
+
++ **Verification text**: You must enter a text here to be able to send the message.
++ **Deadline**: You can add a deadline for reading the message. If the deadline is passed, it will be noted with the whole post in the Read amd understood list marked with read text.
++ **Reminder**: You can set a date for a reminder to be sent if the recipient hasn't read the message yet.
+
 The Recipients tab
 ******************
 All recipients of the e-mail should be added to this tab. Recipients can be both persons and groups.
@@ -37,7 +53,7 @@ All recipients of the e-mail should be added to this tab. Recipients can be both
 
 The Send test message tab
 **************************
-To make sure that added e-mail addresses are still valid, use this tab to send a test message. If any address is no longer valid, you will see a message here.
+To make sure that added e-mail addresses are still valid, use this tab to send a test message. If any address is no longer valid, you will see a notification here.
 
 .. image:: read-test-message.png
 

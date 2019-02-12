@@ -3,7 +3,7 @@ Process Library
 
 The Process library is where members of the team site creates new processes and edit existing ones, and where processes are published so others can see them. 
 
-.. image:: processes-library-overall-new.png
+.. image:: process-library-overall-new2-border.png
 
 A published process is made available through a Process Viewer, see :doc:`Process Viewer </quality-management/end-user/process-viewer/index>`
 
@@ -17,21 +17,29 @@ You can click the headings "Name", "Edition", "Revision", "Modified" and "Owner"
 
 Use the following options to filter the list and more:
 
+.. image:: process-filter-options.png
+
 + **Search**: Filter the list by process names. All processes that contain the letters you have entered, somewhere in the process name, are shown.
 + **Owner**: Filter the list on an owners name.
 + **Tags**: Filter the list on one or more of the available tags.
 
 Note that these filters are cumulative. An example: if you filter on a process name and a tag, a process must contain the letters in the name AND be tagged with the tag you have chosen, to be shown in the list.
 
-+ **Clear**: Use this button the clear filters and show the full list.
 + **New**: Create a new process by using this button. See below for more information.
 + **Archived processes**: To see the list of archived processes, click this link. See below for more information.
++ **Deviations/Improvements**: Use this option to work with deviations and improvements.
 
 Navigate between processes
 *****************************
-When you have selected a process you can go back to the main list by selecting "All processes" in the upper left corner and you can go to another process by selecting it in the list to the left. Here's an example:
+When you have selected a process you can go back to the main list by selecting "All processes" in the upper left corner.
 
-.. image:: process-library-navigating.png
+.. image:: process-library-navigating-new-all-processes.png
+
+You can go to another process in the left navigation. Click the button to open the left navigation.
+
+.. image:: process-library-left-navigation.png
+
+Click the button again to close the left navigation.
 
 Create a new process
 **********************
@@ -41,13 +49,13 @@ To create a new process:
 
 The following is shown:
 
-.. image:: create-new-process.png
+.. image:: create-new-process-new.png
 
 2. Enter a name for the process.
 3. Add or delete owners if needed.
 4. Choose if you are going to use the shapes from the Omnia QMS library or a custom image.
 
-If you choose to use a custom image, browse for the image and select it using the Omnia Image Browser.
+If you choose to use a custom image, click "Select Image" and find and open the image.
 
 5. Click "Create".
 
@@ -61,21 +69,27 @@ When a custom image is replaced, you always need to  publish to make the changes
 
 Archived processes
 *******************
-A process that no longer is used can be archived, so it's not shown in the main list. Use the "Archive" button when editing the process.
+A process that no longer is used can be archived, so it's not shown in the main list. Open the menu to the right: 
+
+.. image:: process-library-menu.png
+
+..and select "Archive" when editing the process.
+
+.. image:: archive-process-border.png
 
 **Note!** An archived process can not be published. A published process is automatically unpublished when you select to archive the process.
 
-.. image:: archive-button.png
+.. image:: archive-button-new-border.png
 
 A list of archived processes can be reached by clicking the link "Archived processes" in the main list, see above.
 
 Here's an example of a list of archived processes:
 
-.. image:: archived-processes.png
+.. image:: archived-processes-new-border.png
 
 You can search the list and sort it by using the headings. A process can be restored by clicking the icon to the far right, and thus be available in the main list for editing and publishing.
 
-.. image:: restore-archived.png
+.. image:: restore-archived-new-border.png
 
 Edit a process
 ****************
@@ -84,7 +98,7 @@ You edit a newly created process and an existing one the same way. Note that acc
 1. Open the process from the list, if it's not already open.
 2. Click "Edit".
 
-.. image:: edit-process-1-newest.png
+.. image:: edit-process-1-evennewer-border.png
 
 The Graph tab
 --------------
@@ -94,76 +108,72 @@ To add a new process step, do the following:
 
 1. Click "Add process step"
 
-.. image:: add-process-step-graph.png
+.. image:: add-process-step-graph-new.png
 
 or "Add new process step" - the plus - in any step where you want to create a new step.
 
-.. image:: add-new-step-new.png
+.. image:: add-new-step-new-1-plus.png
 
 The following is shown (some options may not be shown, depending on where in the process you add something):
 
-.. image:: add-process-step-new.png
+.. image:: add-process-step-new-2.png
 
 + **Type**: Type can be Process or Activity. When you select "Process", a second list, where you can choose to create a new Process, a Sub Process, or a Linked Process, is shown. 
 
-.. image:: add-process-step-subprocess-border.png
+.. image:: add-process-step-subprocess-new.png
 
 "Activity" is the end of the process or sub process, where you add actions. For an Activity you select which shape to use. When you select "Linked process" you add the link to that process.
 
 + **Name**: Enter a name for the step here.
 + **Shape**: Select shape for the process step here. For a "Sub Process" you can choose to use to use Shapes or a Custom image. A sub process can have other sub processes, activities or links to other processes.
++ **Custom image**: When creating a sub process or a new process, you can use a custom image.
 + **Position**: Select position for the new step, in relation to the step where you selected to create the new step - After, Before or Parallell.
 
 You can reorder the process graph if needed. Select the menu to the right:
 
-.. image:: select-reorder-new.png
+.. image:: select-reorder-new2.png
 
 Choose what you want to do:
 
-.. image:: reorder-options.png
+.. image:: reorder-options-new.png
 
 Creating a clickable link to a process
 ---------------------------------------
-Here’s how to add clickable areas (image maps) to a custom image you have uploaded:
+Here’s how to add clickable areas (image maps) to a custom image you have uploaded.
 
-1.	Edit the process.
-2.	Click "Map process".
+1. Make sure everything you may want to link to is present in the list. If not, use ADD PROCESS STEP and ADD CUSTOM LINK to create Process Steps or links.
 
-.. image:: clickable-1-new.png
+.. image:: clickable-step-1.png
 
-3.	Click "Add process step" to add a process step to link to.
+2.	Edit the process.
+3.	Open the list and select what you want to link to.
 
-.. image:: clickable-2-new.png
+.. image:: clickable-link-open-list.png
 
-4. Click in the name field and select a process step in the list.
+4. Select the shape for the clickable area.
 
-.. image:: clickable-3-new.png
-
-5. Click "Create".
+.. image:: clickable-shape-border.png
  
-4.	Draw the inserted area to the right place in the graph.
+5.	Draw the area in the right place in the graph.
 
-.. image:: clickable-4-new.png
+.. image:: clickable-added.png
 
-5. Adjust width and height for the area. (Point at an edge, and you can grab and draw the that edge.)
+6. Adjust width and height for the area. (Point at an edge, and you can grab and draw that edge.)
+7.	Click "Save".
 
-5.	Click "Save".
-
-.. image:: clickable-5-new.png
+.. image:: clickable-save.png
  
-All process steps you have linked to this way, is shown in the list to the left.
+If you have placed an area for a clickable link in the wrong place, just drag the area to the right place. 
 
-You can also add a clickable area to anything you can reach with a link. Use the button "Add Custom Link" to do that.
+To delete a clickable area, select it and click the dust bin.
 
-.. image:: clickable-6-new.png
-
-If you have placed an area for a clickable link in the wrong place, just drag the area to the right place. If you would like to change where an area should link to, just select the area and choose another target in the list to the left.
+.. image:: clickable-dustbin.png
 
 The General tab
 ------------------
 On this tab you can set the following:
 
-.. image:: process-library-general.png
+.. image:: process-library-general-new.png
 
 + **Name**: Edit the Process Name here if needed.
 + **Owner**: Edit process owner(s) here if needed. Note that process owners is separate from site owners. 
@@ -173,7 +183,7 @@ The Content tab
 -----------------
 Here you add/edit the description for the process. Note the format options. You can also insert images, links and tables.
 
-.. image:: process-library-content.png
+.. image:: process-library-content-new2.png
 
 The Related Documents tab
 --------------------------
@@ -181,44 +191,49 @@ If Omnia Document Managament is installed in the current tenant, editors of cont
 
 Any related document is listed on this tab. To relate a new document, click the button.
 
-.. image:: process-library-documents.png
+.. image:: process-library-documents-new.png
 
-Use this dialog to find and select documents (note the "Add" button at the bottom, not shown in the image):
+Use this dialog to find and select documents:
 
-.. image:: process-library-documents-list.png
+.. image:: process-library-documents-list-new.png
 
 The Tools tab
 -----------------
 Use this tab to link to documents. You can also link to pretty much everything, for example pages, bya adding custom links. In i long tools list, you can add headings for separate sections, to make it easier for user to navigate.
 
-.. image:: process-library-tools.png
+.. image:: process-library-tools-new.png
 
 Do the following to link to a document:
 
-1. Select "Document" from the list.
-2. Click "Browse".
+1. Select "ADD TOOL".
+
+.. image:: process-library-tools-add-tool.png
+
+2. Select "Document" from the list.
+3. Click "Browse".
 
 The list of documents, if any, is shown. If the document isn't uploaded to the team site:
 
-3. Click "Upload Document" and upload the document you want to add to Tools, if needed, and then select the document.
+4. Click "Upload Document" and upload the document you want to add to Tools, if needed, and then select the document.
+5. Select the document and click "OK".
 
-.. image:: process-library-toools-document-select.png
+.. image:: select-document-ok.png
 
-4. As the last step, click "Add" to add the document to the tools list.
+6. As the last step, click "Save" to add the document to the tools list.
 
-.. image:: document-click-add.png
+.. image:: tools-document-click-save.png
 
-To add a link to anything (for example a page in Omnia, or an internet page) you can reach thorugh a link, select "Custom link" and add the Url, A Title (name for the link), and select to open the link in new window or not, and click "Add".
+To add a link to anything (for example a page in Omnia, or an internet page) you can reach through a link, select "Custom link" and add the Url, A Title (name for the link), and select to open the link in new window or not, and click "Save".
 
-.. image:: process-library-tool-custom.png
+.. image:: process-library-tool-custom-new.png
 
-To add headings, if nedded, select "Heading, type the heading in the field, and click "Add".
+To add headings, if nedded, select "Heading, type the heading in the field, and click "Save".
 
-.. image:: process-library-heading.png
+.. image:: process-library-heading-new.png
 
-To delete a tool, click the document, link or heading, and select the dust bin.
+To edit or delete a tool, click the icon for the tool.
 
-.. image:: process-library-tools-delete.png
+.. image:: process-library-tools-delete-new.png
 
 If you would like the tools to be shown in another order, just use drag and drop.
 
@@ -228,7 +243,7 @@ The Advanced tab
 -------------------
 On this tab you can set the following:
 
-.. image:: advanced-tab-new2.png
+.. image:: process-library-advanced-border.png
 
 + **Tags**: Add tags for the process. This is a metadata list. You can select tags from the list, you can not create new tags here. The tags are important for search. (Available tags are set up centrally, see :doc:`Setup Quality Management </quality-management/setup-quality-management/index>`.)
 + **Show in Process Directory**: Decide if the process could be shown in a possible Process Directory or not (Default: Show).
@@ -236,32 +251,29 @@ On this tab you can set the following:
 + **Review interval**: Set Review interval. When a published process is nearing it's reviewal time, it will be part of the revewial list in Omnia Admin. (See more information about Review below).
 + **Change comment**: Here you can add a comment about the latest changes for this process.
 
-Review processes
------------------
-To see a list of processes that is nearing their review times, do the following:
-
-1. Go to a ite where a Process Library is installed.
-2. Open Omnia Admin and select "Process Management" under "Site Collection".
-
-.. image:: process-review-process-management.png
-
-Then select "Review". Here's an example of a Review list:
-
-.. image:: process-review-list.png
-
-Use the fields at the top to filter the list. Use "Clear" to clear filtering and see the whole list. Use "Export" to export the list that is shown, to Excel.
-
-Also note that you can click the headings to change between ascending and descending sorting.
-
 The Deviation/Improvement tab
 ------------------------------
 If set up, users can send feedback to a process, via the link "Feedback" in the Process Viewer, and tag the posting as Improvement, Deviation or Risk. These feedback posts are shown and can be handled on this tab.
 
-.. image:: deviation-tab.png
+.. image:: deviation-tab-new.png
 
 You can use the "New" button to add feedback here yourself.
 
 More information is found here: :doc:`Deviations/Improvements </quality-management/author/deviations-improvements/index>`
+
+Revert to an earlier version
+*****************************
+If something goes really wrong when editing a process, you can revert back to an earlier draft version of the process. 
+
+**Note!**: Draft versions are only available until you publish. When a process is published, all draft versions for that edition of the process are removed. You can not revert back to an earlier published version.
+
+Use the option "Revert" in the menu to the right.
+
+.. image:: revert-process-1.png
+
+In the list shown you select which version to revert to.
+
+.. image:: revert-process-2.png
 
 Publish a process
 ******************
@@ -269,3 +281,39 @@ To publish the process, just click "Publish".
 
 To be able to publish a process, you have to have the correct permission. If you don't have the permission, the Publish button is grey.
 
+Move a process
+**************
+A process can be moved to another team site if needed. It's done this way:
+
+1. Go to the team site you will move the process to and copy the URL.
+
+**Note!**: The URL should be to the Team site itself, not to the process library in that site.
+
+2. Open the menu to the right and select "Move".
+
+.. image:: move-process-1.png
+
+3. Paste the URL in the top field.
+
+The name of the site should now be displayed in the second field, for example:
+
+.. image:: move-process-2.png
+
+4. Select "Move".
+
+Review processes
+******************
+To see a list of processes that is nearing their review times, do the following:
+
+1. Go to a site where a Process Library is installed.
+2. Open Omnia Admin and select "Process Management" under "Site Collection".
+
+.. image:: process-review-process-management.png
+
+Then select "Reviews". Here's an example of a Review list:
+
+.. image:: process-review-list.png
+
+Use the fields at the top to filter the list. Use "Clear" to clear filtering and see the whole list. Use "Export" to export the list that is shown, to Excel.
+
+Also note that you can click the headings to change between ascending and descending sorting.
