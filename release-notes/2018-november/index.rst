@@ -135,3 +135,4 @@ Bug Fixes and Small Improvements
    :titlesonly:
    
    2018-november-patch1/index
+   2018-november-patch2/index
