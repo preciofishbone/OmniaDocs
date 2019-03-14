@@ -21,7 +21,7 @@ Omnia.DocumentManagement (1.0.15041)
 - Fixed issue with certain special characters being corrupt when publishing a document.
 - Fixed error that could occur if document with broken read rights was published a second time.
 - Fixed issue with the action menu not appearing for draft documents in certain sites.
-- Fixed issue with settings icon not appearing as expected for the Controlle Documents Viewer in certain scenarios.
+- Fixed issue with settings icon not appearing as expected for the Controlled Documents Viewer in certain scenarios.
 - Fixed issue with some documents not being able to be moved to another site.
 - Fixed issue with the edit columns settings dialog showing all columns unchecked in modern sites. 
 

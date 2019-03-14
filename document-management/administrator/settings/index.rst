@@ -51,7 +51,7 @@ Here you can set the type of permissions to be used in Controlled Documents libr
 
 **Note!** This setting is not activated right away. It's actived when the feature "Omnia Document Management Authoring Site" is either activated or updated for a site.
 
-Approvers Group ????????????????
+Approvers Group
 ***************
 Here you can set the type of permissions to be used in Controlled Documents libraries in the tenant.
 
@@ -61,6 +61,4 @@ Here you can set the type of permissions to be used in Controlled Documents libr
 + **Site Owners**: All site owners will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
 + **Site Owners and Members**: All site owners and all Members will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
 
-**Note!** This setting is not activated right away. It's actived when the feature "Omnia Document Management Authoring Site" is either activated or updated for a site.
-
-
+**Note!** This setting is not enabled right away. It will be enabled when the feature "Omnia Document Management Authoring Site" is either activated or updated for a site.
