@@ -136,3 +136,4 @@ Bug Fixes and Small Improvements
    
    2018-november-patch1/index
    2018-november-patch2/index
+   2018-november-patch3/index
