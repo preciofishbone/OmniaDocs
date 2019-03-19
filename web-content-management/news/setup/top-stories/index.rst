@@ -11,4 +11,6 @@ Setup Top Stories
 6. Go to Omnia Admin > Content Management > Page Properties.
 7. Select the News Center site using the Site Picker.
 8. Add the Top Story property to edit mode and give the group News Top Story Editors the permission to change the value.
+(Note! This feature does not support indirect membership of the group via AD Security Groups.)
+
  .. image:: wcm-news-pageproperties.png
