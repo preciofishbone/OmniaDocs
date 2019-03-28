@@ -9,11 +9,11 @@ The control makes it possible for the end user to like and comment a specific we
 
 .. image:: commentsandlikes.png
 
-It is possible for the end user to edit and delete a comment, made by the user, by clicking the edit pencil icon. Note! A Site Collection administrator can delete any comment.
+It is possible for the end user to edit and delete a comment, made by the user, by clicking the edit pencil icon. 
 
 .. image:: commentsandlikeseditdelete.png
 
-A deleted comment will be replaced by a text showing who deleted the comment.
+If there are now answers to the comment it will just be removed. If there are answers, the  comment will be replaced with a text that states that it has been deleted and by whom. Everyone can delete their own comments. A Site Collection administrator can delete any comment. 
 
 .. image:: commentsandlikescommentdeleted.png
 
