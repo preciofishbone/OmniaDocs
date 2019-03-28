@@ -13,7 +13,7 @@ It is possible for the end user to edit and delete a comment, made by the user, 
 
 .. image:: commentsandlikeseditdelete.png
 
-If there are now answers to the comment it will just be removed. If there are answers, the  comment will be replaced with a text that states that it has been deleted and by whom. Everyone can delete their own comments. A Site Collection administrator can delete any comment. 
+When a comment is deleted it works this way: If there are now answers to the comment it will just be removed. If there are answers, the  comment will be replaced with a text that states that it has been deleted and by whom. Everyone can delete their own comments. A Site Collection administrator can delete any comment. 
 
 .. image:: commentsandlikescommentdeleted.png
 
@@ -30,7 +30,7 @@ Comments and multilingual sites
 ********************************
 The default setting is that comments are visible per language only, English comments on English pages only, Swedish comments on Swedish pages only, and so fort, but it's possible to set that all comments should be shown an all pages, regardless of language set for the page. The setting is done in Omnia Admin under Content Management/Multilingual Social Settings.
 
-.. image:: multilingual-social-setting.png
+.. image:: mutlilingual-social-setting.png
 
 The setting is valid for the whole site collection.
 
@@ -44,9 +44,4 @@ A user writing a comment can use mentions to send a message to someone, for exam
 
 Note!
 Likes on comments does not affect trending in any way.
-
-
-
-
-
 
