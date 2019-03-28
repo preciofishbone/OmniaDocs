@@ -30,7 +30,7 @@ The user has to type another name that is allowed, and when it is, the message c
 
 The first step also includes a setting for the control Site Directory, if that is used. The option means a user can find the site in Site Directory, even without having access to it, and can see that it exists and can request access to the site. "Make Public in Site Directory" is selected as default. 
 
-.. image:: create-site-make-public.png
+.. image:: create-site-make-public-0328.png
 
 For some types of sites, most often for project sites, there can be an Omnia specific step for the user to set properties. Here's an example:
 
