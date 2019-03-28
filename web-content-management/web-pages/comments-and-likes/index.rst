@@ -26,8 +26,14 @@ This will open the settings dialog.
 - **Enable Likes**: Defines whether it should be possible for the end user to use Likes in the site or not.
 - **Enable Comments**: Defines whether it should be possible for the end user to use comments in the site or not.
 
+Comments and multilingual sites
+********************************
+The default setting is that comments are visible per language only, Enlish comments on English pages only, Swedish comments on Swedish pages only, and so fort, but it's possible to set that all comments should be shown an all pages, regardless of language set for a page.
+
+
+
 More on Likes and Comments
---------------------------
+***************************
 Users can like comments as well as pages.
 
 A user can click the hand to see a list of the users that has liked the page or comment.
