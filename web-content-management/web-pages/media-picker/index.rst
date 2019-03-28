@@ -79,13 +79,28 @@ Settings for an image
 ----------------------
 When the image has been selected, the following settings can be made:
 
-.. image:: image-settings.png
+.. image:: global-image-bank-settings-new.png
 
++ **Image Type**: Set image type in the list.Can be used for filtering the image list, see above.
++ **Image Categpry**: Set image category from the list. Can be used for filtering the image, see above.
++ **Custom**: Set a custom shape using the eight squares as handles, just draw to the desired shape. When a custom image is used in a page image area the full width of the area is used and the height of the area is adapted.
 + **Landscape**: Click the Landscape preview and use the selection on the image to decide wich part of the image to show when it's used in landscape format.
 + **Square**: Click the Square preview and use the selection on the image to decide wich part of the image to show when it's used in square format.
 + **Filters**: Use the filters to adjust the image; Sepia coloring, Grayscale coloring, Brightness, Contrast and Saturation.
 
 Don't forget to save your changes when you're done.
+
+When adding an image to contents, an image decription must be added:
+
+.. image:: image-description.png
+
+Images that are too big
+-----------------------
+If a user uploads an image that is too big, a warning is shown and the user can select to make the image "Web safe", that is downsizd to the to the maximum size for images set, or keep the original size.
+
+.. image:: media-picker-make-web-safe.png
+
+The setting for maximum image size is set in Omnia Admin, see (Link)
 
 Video
 ******
