@@ -28,9 +28,11 @@ This will open the settings dialog.
 
 Comments and multilingual sites
 ********************************
-The default setting is that comments are visible per language only, Enlish comments on English pages only, Swedish comments on Swedish pages only, and so fort, but it's possible to set that all comments should be shown an all pages, regardless of language set for a page.
+The default setting is that comments are visible per language only, English comments on English pages only, Swedish comments on Swedish pages only, and so fort, but it's possible to set that all comments should be shown an all pages, regardless of language set for the page. The setting is done in Omnia Admin under Content Management/Multilingual Social Settings.
 
+.. image:: multilingual-social-setting.png
 
+The setting is valid for the whole site collection.
 
 More on Likes and Comments
 ***************************
