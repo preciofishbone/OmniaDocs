@@ -22,7 +22,7 @@ In the Create Site process, the following are Omnia additions:
 
 The site creation process is fully compliant with Office 365 Group Naming Policies. When a user enters a site name in the first step a check will be performed against the policies and if the name is not allowed it's not possible to create the site. It can look like this:
 
-.. image:: o365-naming-policies-blocked-word-border.png
+.. image:: o365-naming-policies-blocked-word_border.png
 
 The user has to type another name that is allowed, and when it is, the message can look like this:
 
