@@ -32,7 +32,15 @@ Global Image Bank
 ------------------
 When selecting "Global Image Bank", you see a preview of all images there. Use "Search" to search for an image. You can use the slider to the top right to change the preview size.
 
-.. image:: global-image-bank.png
+.. image:: global-image-bank-new.png
+
+The image bank can be filtered on image type:
+
+.. image:: global-image-bank-filter-type.png
+
+and on Image Category:
+
+.. image:: global-image-bank-filter-category.png
 
 To select an image, double click on the image, or select the image and click "SELECT".
 
