@@ -3,7 +3,7 @@ Create Site
 
 The Create Site function is accessibile via the My Sites navigation control.
 
-.. image:: my-sites-create-new-site.png
+.. image:: create-site-0328.png
 
 The Create Site function relies on a number of different parts of Omnia.
 In the My Sites navigation control there are settings for the Create Site form.
