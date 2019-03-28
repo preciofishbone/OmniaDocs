@@ -82,7 +82,7 @@ When the image has been selected, the following settings can be made:
 .. image:: global-image-bank-settings-new.png
 
 + **Image Type**: Select image type. Can be used for filtering the image list, see above.
-+ **Image Categpry**: Select image category. Can be used for filtering the list, see above.
++ **Image Category**: Select image category. Can be used for filtering the list, see above.
 + **Custom**: Set a custom shape using the eight squares as handles. Just draw to the desired shape. When a custom image is used in a page image area the full width of the area is used and the height of the area is adapted.
 + **Landscape**: Click the Landscape preview and use the selection on the image to decide wich part of the image to show when it's used in landscape format.
 + **Square**: Click the Square preview and use the selection on the image to decide wich part of the image to show when it's used in square format.
@@ -100,7 +100,7 @@ If a user uploads an image that is too big, a warning is shown and the user can 
 
 .. image:: media-picker-make-web-safe.png
 
-The setting for maximum image size is set in Omnia Admin, see (Link)
+The setting for maximum image size is set in Omnia Admin, see the "Setup Media Picker (link at the top of m this page).
 
 Video
 ******
