@@ -6,7 +6,7 @@ Media Picker
 
    setup/index
     
-The Media Picker can be used to add an image or a video to the page image area. Any image on the editor's computer can be selected, as well as from any central image location registered in Omnia Admin. An image can be pasted from the clipboard as well. Besides that Bing can be used to find images. Regarding Bing, only images that are free to use and share will be available.
+The Media Picker can be used to add an image or a video to the page image area or to the page content. Any image on the editor's computer can be selected, as well as from any central image location registered in Omnia Admin. An image can be pasted from the clipboard as well. Besides that Bing can be used to find images. Regarding Bing, only images that are free to use and share will be available.
 
 Videos can be selected from your company's Stream in Office 365, or from YouTube.
 
@@ -14,7 +14,7 @@ To use the Media Picker it needs to be activated in Omnia Admin (Systems/Setting
 
 Here's how to use the Media Picker:
 
-When browsing for a page image using Quick Edit (for publishing pages and news article pages), the Media Picker is opened:
+When browsing for an image using Quick Edit (for publishing pages and news article pages), the Media Picker is opened:
 
 .. image:: mediapicker.png
 
