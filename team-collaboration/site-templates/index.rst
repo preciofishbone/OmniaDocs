@@ -63,6 +63,7 @@ The following can be set on this tab:
 + **User can select language**: If the user, when creating or requesting a site, should be able to choose language, select this option. Not available for Office 365 Groups.
 + **User can select Omnia Profile**: If the user should be able to select an Omnia Profile during site creation, select this option.
 + **User can change privacy**: This option is available for Office 365 Groups only. When active, the user creating the group can change privacy. If not active, all Office 365 Groups will have the privacy setting you set here.
++ **Allow Administration if Sharepoint Groups**: Available for Office 365 groups only. Check this option if it should possible to handle traditional Sharepoint Sharepoint groupd in the site.
 + **Unique Permission**: Only available for sub sites. Check if permission inheritance should not be on for sub sites created from this template.
 + **Send access request to**: Select receiver of access requests. Note that you can use the last option to enter an e-mail to any user of the site, but also note that a user must have owner permission to be able to grant permission to the site.
 
