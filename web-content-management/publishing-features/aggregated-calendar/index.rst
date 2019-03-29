@@ -32,7 +32,6 @@ The following settings are available:
 + **Item Limit**: Default setting is "No Limit". You can limit the number of rows shown by selecting "Row Limit" and set the number of rows. 
 + **Show Title**: Label to be shown for the control.
 + **Show Legend**: If legends for the calendars should be visible, select this box. (The two images at the top has this option activated).
-+ **Visible**: Defines when the control (the calendars) should be visible: Always, up to a maximum width or to a minimum width. Then define maximum or minimum width in pixels.
 
 Add a calendar
 ***************
