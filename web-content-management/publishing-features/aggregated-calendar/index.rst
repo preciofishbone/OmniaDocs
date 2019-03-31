@@ -22,16 +22,16 @@ Settings for the control
 *************************
 The following settings are available:
 
-.. image:: aggregated-calendar-settings.png
+.. image:: aggregated-calendar-settings-0329.png
 
 + **Add Calendar**: To display events in the aggregated calendar control, at least one calendar needs to be added. See more information below.
 + **Use Targeting**: If targeting should be used for the calendar, select ths box. Targeting has to be set up in Omnia Admin. It's the same settings for all controls that can use targering. 
 + **Accent Color**: Defines the color for some objects, for example date and event name. Another color can be selected from the list.
-+ **Default Period**: Defines periods for the events to be displayed. 
-+ **Label**: Label to be shown for the control.
 + **Default View**: Defines how to show the events. Note! Not all views are suitable for all periods, for example it only makes sense to display the Current Month events for the Month View.
++ **Default Period**: Defines periods for the events to be displayed. 
++ **Item Limit**: Default setting is "No Limit". You can limit the number of rows shown by selecting "Row Limit" and set the number of rows. 
++ **Show Title**: Label to be shown for the control.
 + **Show Legend**: If legends for the calendars should be visible, select this box. (The two images at the top has this option activated).
-+ **Visible**: Defines when the control (the calendars) should be visible: Always, up to a maximum width or to a minimum width. Then define maximum or minimum width in pixels.
 
 Add a calendar
 ***************
