@@ -1,5 +1,8 @@
-Release Notes Mars 2019
+Release Notes March 2019
 ========================================
+
+- Omnia.Foundation 1.0.15438
+- Omnia.Intranet 1.0.15513
 
 Features
 ---------------------------------
@@ -61,3 +64,4 @@ Bug Fixes and Small Improvements
 - Updated the Conversation link to Teams in team sites to a more stable version.
 - Added setting to allow the possibility to have labels on categories in the Notification Panel and decide number of categories per row.
 - Added setting to the Site Directory block to decide whether to open the sites in a new window/tab or not.
+- Fixed token timing issue in onprem environments. This could case temporary unexpected errors for users.
