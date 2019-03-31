@@ -1,8 +1,10 @@
 Release Notes March 2019
 ========================================
 
-- Omnia.Foundation 1.0.15438
-- Omnia.Intranet 1.0.15513
+- Omnia.Foundation (1.0.15438)
+- Omnia.Intranet (1.0.15513)
+- Omnia.QMS (TBD)
+- Omnia.DocumentsManagement (TBD)
 
 Features
 ---------------------------------
