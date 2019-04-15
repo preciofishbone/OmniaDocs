@@ -3,7 +3,7 @@ Release Notes March 2019
 
 - Omnia.Foundation (1.0.15438)
 - Omnia.Intranet (1.0.15513)
-- Omnia.QMS (TBD)
+- Omnia.QMS (1.0.15624)
 - Omnia.DocumentsManagement (TBD)
 
 Features
@@ -50,6 +50,17 @@ For multilingual publishing portals, it is now possible to configure the comment
 
 Changed behaviour when deleting a comment. If a comment is deleted it will be totally removed from the comments feed. It will only show the message "Comment has been deleted by..." if the comment has replies.
 
+Status on Process Steps (QMS)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It is possible on a process to configure it as a template for a one or more site templates. A new feature added to process templates is the possibility to configure a number of available statuses on a process step.
+
+.. image:: qms-process-status.png
+
+This configuration can then be used on a team site to set status on process steps for this specific process instance.
+
+.. image:: qms-teamsite-process-status.png
+
 Bug Fixes and Small Improvements
 ----------------------------------
 
@@ -67,3 +78,17 @@ Bug Fixes and Small Improvements
 - Added setting to allow the possibility to have labels on categories in the Notification Panel and decide number of categories per row.
 - Added setting to the Site Directory block to decide whether to open the sites in a new window/tab or not.
 - Fixed token timing issue in onprem environments. This could case temporary unexpected errors for users.
+- Performance improvements on the Publish function. (QMS)
+- Fixed issue when clicking "Enter" in search box in Process Directory. (QMS)
+- Fixed problem uploading large file size in Tools. (QMS)
+- Replaced sub process and process item labels with process step. (QMS)
+- Improved read-only mode in Process Library. (QMS)
+- Fixed size of Process Library in modern sites do that it uses 100% of the column width. (QMS)
+- Performance improvements when loading process. (QMS)
+- Show text on all shapes. (QMS)
+- Made it possible to associate a SharePoint Task list to the Process library. If Task list is associated, actions in issues will become SharePoint tasks. (QMS)
+- When you go from edit to read mode in the Process library it stays on the same tab. (QMS)
+- Fixed issue with moring process from sub site to parent site. (QMS)
+- Changed ui flow. When a process step is created, it stays on the current process. (QMS)
+- Deviations/Improvements are renamed Issues. (QMS)
+- Made sure the content area use a bigger height. (QMS)
