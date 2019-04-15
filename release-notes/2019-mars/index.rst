@@ -4,7 +4,7 @@ Release Notes March 2019
 - Omnia.Foundation (1.0.15438)
 - Omnia.Intranet (1.0.15513)
 - Omnia.QMS (1.0.15624)
-- Omnia.DocumentsManagement (1.0.15631)
+- Omnia.DocumentManagement (1.0.15631)
 
 Features
 ---------------------------------
