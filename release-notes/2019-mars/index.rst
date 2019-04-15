@@ -4,7 +4,7 @@ Release Notes March 2019
 - Omnia.Foundation (1.0.15438)
 - Omnia.Intranet (1.0.15513)
 - Omnia.QMS (1.0.15624)
-- Omnia.DocumentsManagement (TBD)
+- Omnia.DocumentsManagement (1.0.15631)
 
 Features
 ---------------------------------
@@ -50,6 +50,15 @@ For multilingual publishing portals, it is now possible to configure the comment
 
 Changed behaviour when deleting a comment. If a comment is deleted it will be totally removed from the comments feed. It will only show the message "Comment has been deleted by..." if the comment has replies.
 
+Compliant with Microsoft Teams
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Both QMS and DM can now run in Microsoft Teams.
+
+.. image:: dm-microsoft-teams-integration.png
+
+.. image:: qms-microsoft-teams-integration.png
+
 Status on Process Steps (QMS)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -60,6 +69,33 @@ It is possible on a process to configure it as a template for a one or more site
 This configuration can then be used on a team site to set status on process steps for this specific process instance.
 
 .. image:: qms-teamsite-process-status.png
+
+Retention Policies and Termination of Documents
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It is possible to setup a Retention Manager in the Document Management settings.
+
+.. image:: dm-settings-retentionmanager.png
+
+If a Retention Manager is setup, a new tab will be visible on Document Types to set a Retention Policy.
+
+.. image:: dm-documenttype-retention.png
+
+When a controlled document is published, a Retention Date will be set on the document based on the policy.
+The Retention Manager will get an e-mail when the Retention Date of a document is reached. The e-mail will include a link to a page where the document can be terminated (completely removed from the system).
+
+.. image:: dm-documenttermination.png
+
+In order to completely remove a controlled document from the system (termination), you need to find the document based on the unique document id. The Document Termination page will show all files that will be deleted from the system (drafts, appendices, hidden files, published and archived files). Once a controlled document is terminated, it can not be restored.
+(The individual files can be recycled from SharePoint for an additional period of time).
+
+Document History (DM)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A new Place Holder can be added to documents to show the history of a document: [[_DocHistory]].
+The Place Holder will be replaced by a document table on publishing.
+
+.. image:: dm-placeholder-documenthistory.png
 
 Bug Fixes and Small Improvements
 ----------------------------------
@@ -92,3 +128,19 @@ Bug Fixes and Small Improvements
 - Changed ui flow. When a process step is created, it stays on the current process. (QMS)
 - Deviations/Improvements are renamed Issues. (QMS)
 - Made sure the content area use a bigger height. (QMS)
+- Fixed issue with the date picker closing when selecting another year than the current one. (DM)
+- Fixed issue with the Document Id property not being correctly used in related documents. (DM)
+- Fixed issue with certain users getting error in the Create Document Wizard when no suggested site exist. (DM)
+- Fixed issue with the Controlled Documents Viewer not loading in SP2013. (DM)
+- Fixed issue with the following tab in the Create Document wizard. (DM)
+- Fixed issue with some special characters messing up content in a DOCX document when published. (DM)
+- Fixed some problems with the upload document dialog in IE11. (DM)
+- Performance improvements in the Drafts and Published view in the Controlled Documents Library. (DM)
+- Fixed problem opening appendix from appendices dialog. (DM)
+- Fixed issue with the "Convert to PDF" mandatory setting not being mandatory anymore. (DM)
+- If a document did not have any custom properties, the title and file name were hidden in the properties diaolg. This has now been fixed. (DM)
+- Performance improvements on the statistics number in Omnia Admin. (DM)
+- Fixed issue with default properties not showing up for uploaded documents. (DM)
+- Fixed some issues with the term picker in document properties when having many terms selected. (DM)
+- Made it possible to provision sites based on the Project Site base template with Document Management. (DM)
+- Fixed the logic of the notifications in the Document Subscription block. (DM)
