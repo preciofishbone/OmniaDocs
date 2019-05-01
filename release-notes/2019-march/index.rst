@@ -144,3 +144,8 @@ Bug Fixes and Small Improvements
 - Fixed some issues with the term picker in document properties when having many terms selected. (DM)
 - Made it possible to provision sites based on the Project Site base template with Document Management. (DM)
 - Fixed the logic of the notifications in the Document Subscription block. (DM)
+
+.. toctree::
+   :titlesonly:
+   
+   2019-march-patch1/index
