@@ -73,7 +73,7 @@ When a Retention Manager is set up, a new tab will be available for Document Typ
 
 .. image:: retention-tab.png
 
-A new tab is also added in the settings - Document Termination - where all documents with expired Retention will be listed:
+A new tab is also added for Document Management - Document Termination - where all documents with expired Retention will be listed:
 
 .. image:: document-termination.png
 
