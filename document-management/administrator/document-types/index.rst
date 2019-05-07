@@ -173,7 +173,7 @@ If Retention is activated, this tab is shown for all Document Types:
 
 .. image:: retention-tab.png
 
-Use this tab to set up an Retention Policy.
+Use this tab to set up a Retention Policy.
 
 + **Limit Retention**: Deselect this option if a Retention Policy should not be set for this Document Type.
 + **Calculated**: You can select to calculate the number of years on either when the document was first published or when it was last published.
