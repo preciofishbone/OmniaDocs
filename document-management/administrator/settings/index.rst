@@ -62,3 +62,15 @@ Here you can set the type of permissions to be used in Controlled Documents libr
 + **Site Owners and Members**: All site owners and all Members will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
 
 **Note!** This setting is not enabled right away. It will be enabled when the feature "Omnia Document Management Authoring Site" is either activated or updated for a site.
+
+Retention Manager
+*******************
+A Retention Manager can be activated by added a name of the Rentention Manager here.
+
+.. image:: retention-manager.png
+
+When a Retention Manager is set up, a new tab will be available for Document Types, where a Retention Policy can be added:
+
+.. image:: retention-policy.png
+
+See this page for more information: (link xxxx)
