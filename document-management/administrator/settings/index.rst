@@ -71,6 +71,10 @@ A Retention Manager can be activated by adding a name of a Rentention Manager he
 
 When a Retention Manager is set up, a new tab will be available for Document Types, where a Retention Policy can be added:
 
-.. image:: retention-policy.png
+.. image:: retention-tab.png
 
-See this page for more information: (link xxxx)
+A new tab is also added in the settings - Document Termination - where all documents with expired Retention will be listed:
+
+.. image:: document-termination.png
+
+See this page for more information about the Document Termination tab: (Link XXX)
