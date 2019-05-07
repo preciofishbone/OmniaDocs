@@ -13,3 +13,6 @@ When creating a process template it is  possibility to configure a number of ava
 
 This configuration can then be used on a team site to set status on process steps for this specific process instance.
 
+.. image:: qms-using-status.png
+
+
