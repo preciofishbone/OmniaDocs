@@ -166,3 +166,18 @@ You can decide that a certain Document Type should not be archived. If the Docum
 Do the following, if you don't want to use the default settings:
 
 1. Select "Custom".
+
+The Retention tab
+------------------
+If Retention is activated, this tab is shown for all Document Types:
+
+.. image:: retention-tab.png
+
+Use this tab to set up an Retention Policy.
+
++ **Limit Retention**: Deselect this option if a Retention Policy should not be set for this Document Type.
++ **Calculated**: You can select to calculate the number of years on either when the document was first published or when it was last published.
++ **Years**: Add the number of years for the Retention Policy for this Document Type.
++ **Specific Date**: (A desciption will be added soon).
+
+
