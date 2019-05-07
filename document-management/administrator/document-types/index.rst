@@ -180,4 +180,4 @@ Use this tab to set up an Retention Policy.
 + **Years**: Add the number of years for the Retention Policy for this Document Type.
 + **Specific Date**: (A desciption will be added soon).
 
-
+When the set Retention time has passed, the Retention Manager will receive an e-mail. The e-mail includes a link to a page where the document can be terminated (completely removed from the system). 
