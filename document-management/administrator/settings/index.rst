@@ -65,7 +65,7 @@ Here you can set the type of permissions to be used in Controlled Documents libr
 
 Retention Manager
 *******************
-A Retention Manager can be activated by added a name of the Rentention Manager here.
+A Retention Manager can be activated by adding a name of a Rentention Manager here.
 
 .. image:: retention-manager.png
 
