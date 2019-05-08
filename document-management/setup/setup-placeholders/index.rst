@@ -18,6 +18,14 @@ You can use the following short names for built-in properties in ODM:
 - _Lang: Content Language:
 - _RevDate: Review Date.
 
+There's also a special Place Holder if you need to show Document History somewhere in the document:
+
+[[_DocHistory]]
+
+On publication this Place Holder will be replaced with a table listing all editions, for example:
+
+.. image:: place-holder.png
+
 If you want dates to be displayed with the appropriate format you can use the following syntax for date and date including time:
 
 [[_PubDate|Date]]
