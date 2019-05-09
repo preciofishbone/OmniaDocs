@@ -135,7 +135,7 @@ Delete a process step
 ----------------------
 To delete a process step, do the following:
 
-1. Enter the settings for the process step (for example,click the graphic representation for the step).
+1. Enter the settings for the process step (for example, click the graphic representation for the step).
 2. Open the menu to the right.
 
 .. image:: delete-process-step-1.png
