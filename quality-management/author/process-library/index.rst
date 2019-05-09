@@ -146,7 +146,7 @@ To delete a process step, do the following:
 
 4. Select "OK" (or "CANCEL" if you're not sure).
 
-.. image:: elete-process-step-ok.png
+.. image:: delete-process-step-ok.png
 
 Reorder the process graph
 --------------------------
