@@ -54,7 +54,7 @@ Here you can set the following:
 + **Title**: If the Title is shown: Add the title here.
 + **Page Size**: Set the number of list rows that should be displayed on each page.
 + **Always Show Letter Avatars**: If letter avatars should be shown, select this option. (The image at the top shows letter avatars.)
-+ **Open in New Window**: Select this option if trhe site should be opened in a new window when a user clicks a link in the list. Default = opened in the same window.
++ **Open in New Window**: Select this option if the site should be opened in a new window when a user clicks a link in the list. Default = opened in the same window.
 + **All Site Templates**: If it should be possible to show all site types in the list, check this box (default).
 + **Limit Site Templates**: If just some site types should be shown in the Site Directory, check this box and select all site types to show from the list. Here's an example with three site types selected:
 
