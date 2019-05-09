@@ -58,8 +58,7 @@ Here, the following settings are available:
 
 .. image:: notification-panel-layout-tab-new.png
 
-+ **Tab Layout**: Select Tab Layout: "Responsive" - On small screens the tabs will be shown horizontally, on larger screens it will be shown vertically; "Horizontal" - The tabs will always be shown horizontally; "Vertical" - The tabs will always be shown vertically. 
-Note! Additional design can be applied using a customer specific CSS extension.
++ **Tab Layout**: Select Tab Layout: "Responsive" - On small screens the tabs will be shown horizontally, on larger screens it will be shown vertically; "Horizontal" - The tabs will always be shown horizontally; "Vertical" - The tabs will always be shown vertically. Note! Additional design can be applied using a customer specific CSS extension.
 + **Category Settings for Horizontal Layout**: These settings are available for "Respensive" and "Horizontal". Select to show icons and labels or not, in the Notification Panel.
 + **Categories per row**: This settings is available for "Respensive" and "Horizontal": Use it to set the number of categories to be shown on each "page" in the Notification Panel.
 
