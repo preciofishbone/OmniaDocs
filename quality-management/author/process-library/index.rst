@@ -104,6 +104,8 @@ The Graph tab
 --------------
 Use this tab to work with the graphical presentation.
 
+Add a new process step
+------------------------
 To add a new process step, do the following:
 
 1. Click "Add process step"
@@ -129,6 +131,25 @@ The following is shown (some options may not be shown, depending on where in the
 + **Custom image**: When creating a sub process or a new process, you can use a custom image.
 + **Position**: Select position for the new step, in relation to the step where you selected to create the new step - After, Before or Parallell.
 
+Delete a process step
+----------------------
+To delete a process step, do the following:
+
+1. Enter the settings for the process step (for example,click the graphic representation for the step).
+2. Open the menu to the right.
+
+.. image:: delete-process-step-1.png
+
+3. Select "Delete".
+
+.. image:: delete-process-step-2.png
+
+4. Select "OK" (or "CANCEL" if you're not sure).
+
+.. image:: elete-process-step-ok.png
+
+Reorder the process graph
+--------------------------
 You can reorder the process graph if needed. Select the menu to the right:
 
 .. image:: select-reorder-new2.png
