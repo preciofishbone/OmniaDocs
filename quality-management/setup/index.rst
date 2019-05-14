@@ -22,6 +22,18 @@ Set up Term Sets
  - term set id for document type
  - term set id for tags and search tags
  
+Core Feature
+----------------------------------
+1. Go to Omnia Admin > Features.
+#. Activate the tenant feature “Omnia QMS Core”.
+
+.. toctree::
+   :titlesonly:
+
+   setup-processdirectory/index
+   setup-processauthoring/index
+
+
 Associate a SharePoint Task list to a Process library
 --------------------------------------------------------
 It is possible to associate a SharePoint Task list to the Process library. If a Task list is associated, actions in issues will become SharePoint tasks.
@@ -38,16 +50,4 @@ It is possible to associate a SharePoint Task list to the Process library. If a 
 .. image:: associate-tasks-list-settings-tasks.png
 
 6. Save.
-
-Core Feature
-----------------------------------
-1. Go to Omnia Admin > Features.
-#. Activate the tenant feature “Omnia QMS Core”.
-
-.. toctree::
-   :titlesonly:
-
-   setup-processdirectory/index
-   setup-processauthoring/index
-
 
