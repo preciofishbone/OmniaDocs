@@ -32,4 +32,3 @@ Core Feature
 
    setup-processdirectory/index
    setup-processauthoring/index
-
