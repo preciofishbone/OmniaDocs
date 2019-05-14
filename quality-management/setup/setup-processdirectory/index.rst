@@ -16,9 +16,11 @@ It is possible to associate a SharePoint Task list with the Process library (in 
 
 .. image:: associate-tasks-list-click-settings.png
 
-4. Select "Tasks" for "Task List".
+4. Select "Tasks" or "Document Tasks" for "Task List".
 
-.. image:: associate-tasks-list-settings-tasks.png
+.. image:: associate-tasks-list-settings.png
+
+(To not associate with a Task list, "Task List" should be empty.)
 
 5. Save.
 
