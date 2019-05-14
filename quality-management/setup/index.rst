@@ -38,7 +38,7 @@ Associate a SharePoint Task list to a Process library
 --------------------------------------------------------
 It is possible to associate a SharePoint Task list to the Process library. If a Task list is associated, actions in issues will become SharePoint tasks.
  
-1. Got to the Process Library.
+1. Go to the Process Library.
 2. Click "Edit".
 3. Click the settings icon.
 
