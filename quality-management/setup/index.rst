@@ -21,6 +21,23 @@ Set up Term Sets
  - term store id
  - term set id for document type
  - term set id for tags and search tags
+ 
+Associate a SharePoint Task list to a Process library
+--------------------------------------------------------
+It is possible to associate a SharePoint Task list to the Process library. If a Task list is associated, actions in issues will become SharePoint tasks.
+ 
+1. Activate the Core Feature (see below).
+2. Create the Process Library.
+3. Click "Edit".
+4. Click the settings icon.
+
+.. image:: associate-tasks-list-click-settings.png
+
+5. Select "Tasks" for "Task List".
+
+.. image:: associate-tasks-list-settings-tasks.png
+
+6. Save.
 
 Core Feature
 ----------------------------------
