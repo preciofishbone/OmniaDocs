@@ -1,7 +1,7 @@
 Document Termination
 ======================
 
-when the Retention Date of a document is reached, the Retention Manager will receive an e-mail. The e-mail contains a link to the Document Termination page:
+When the Retention Date of a document is reached, the Retention Manager will receive an e-mail. The e-mail contains a link to the Document Termination page:
 
 .. image:: termination-empty-list.png
 
