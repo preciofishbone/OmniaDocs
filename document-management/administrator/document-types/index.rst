@@ -178,8 +178,6 @@ Use this tab to set up a Retention Policy.
 + **Limit Retention**: Deselect this option if a Retention Policy should not be set for this Document Type.
 + **Calculated**: You can select to calculate the number of years on either when the document was first published or when it was last published.
 + **Years**: Add the number of years for the Retention Policy for this Document Type.
-+ **Specific Date**: Select this option to allow authors to set a specific Retention Date, and then select the Retention Date field in the list.
-
-**Note!** Before selecting "Specific Date" here, a Date property (field) for Retention Date must be added to the Document Type.
++ **Specific Date**: Select this option to allow authors to set a specific Retention Date, and then select the Retention Date field in the list. **Note!** Before selecting "Specific Date" here, a Date property (field) for Retention Date must be added to the Document Profile used in the Document Type. The Property type must be "Date" for this field.
 
 When the set Retention time has passed, the Retention Manager will receive an e-mail. The e-mail includes a link to a page where the document can be terminated (completely removed from the system). 
