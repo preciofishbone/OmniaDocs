@@ -1,9 +1,9 @@
-Review Workflow
+Send for Comments
 ===========================
 
-Authors can use the Review Workfloe to get input from one or more colleagues in an organized way, or even to get help to type some part of the text. When the Workflow is active, all users that has been added as reviewers can edit the document, regardless of what access they normally have to the site. If it’s a Microsoft Word document – the option “Track changes” is automatically turned on so all comments/changes can be seen by everyone.
+Authors can use the Send for Comments Workflow to get input from one or more colleagues in an organized way, or even to get help to type some part of the text. When the Workflow is active, all users that has been added as reviewers can edit the document, regardless of what access they normally have to the site. If it’s a Microsoft Word document – the option “Track changes” is automatically turned on so all comments/changes can be seen by everyone.
 
-The option is called "Send for Comments workflow" and can be sued as many times as is needed before publication of an edition, but there can only be one such workflow active at a time, for each document. On the other hand, using this the workflow is optional. The author can always choose to publish directly. 
+The option can be found in the document context menu and is called "Send for Comments". It can be run as many times as needed before the publishing of an edition, but there can only be one such workflow active at a time, for each document. On the other hand, using this the workflow is optional. The author can always choose to publish directly. 
 
 **Note!**
 Everyone that is appointed as reviewer automatically receives edit access to the document when the workflow is active, and that access is removed when the colleague’s task is completed. Also note that publication is not allowed while a Review Workflow is active for the document.
@@ -26,7 +26,7 @@ A task is then created for each colleague, and an e-mail is sent to each, with t
  
 If Omnia Intranet is installed, the colleagues are also notified in the notification panel, about the new task, and can choose to open the task from there. 
 
-The workflow will be active until all tasks are completed, or until the workflow is cancelled på the author.
+The workflow will be active until the due date of the workflow is reached, all tasks are completed or the workflow is cancelled på the author.
 
 Check status for a Send for Comments Workflow
 **********************************************
@@ -42,9 +42,9 @@ Something like the following is shown:
  
 Which reviewers has finished the task and not, is shown here. For a finished task the comment entered by the reviewer is also shown. To see comments and/or changes in the document, open the document.
 
-Cancel a Review Workflow
+Cancel a Send for Comments Workflow
 ************************************
-If needed, a Review Workflow can be cancelled, for any reason. Note that publication is not possible if a Review Workflow is active for the document.The Review workflow has to be cancelled before the Publication Workflow can be started.
+If needed, a Send for Comments Workflow can be cancelled, for any reason. Note that publication is not possible if a Send for Comments Workflow is active for the document.The Send for Comments workflow has to be cancelled before the Publication Workflow can be started.
 
 1.	Click the link in the column "Status". 
 2.	Click "Cancel Send for Comments Workflow".

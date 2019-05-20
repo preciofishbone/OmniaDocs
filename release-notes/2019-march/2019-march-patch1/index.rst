@@ -1,7 +1,7 @@
 Release Notes March 2019 Patch 1
 ========================================
 
-Omnia.Foundation (1.0.15729)
+Omnia.Foundation (1.0.15754)
 ----------------------------------------
 - Fixed issue with long term names in term picker.
 - Fixed problem with access tokens in onprem environments.
