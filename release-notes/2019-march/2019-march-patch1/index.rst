@@ -36,3 +36,15 @@ Omnia.Intranet (1.0.15734)
 - Fixed issues showing events in the Aggregated Calendar on a modern team site.
 - Fixed time zone issue with time stamp when editing a page.
 - Fixed issue with the Date Picker in Safari browsers.
+
+Omnia.DocumentManagement (1.0.15959)
+----------------------------------------
+- Fixed issue with required fields on publishing in IE11.
+- Fixed issue related to saving term based approvers on a Document Type.
+- Fixed issue with too high permissions required to update the settings on the Controlled Documents Library in a team site.
+- Fixed problem with searching on specific terms in the bulk update UI in Omnia Admin.
+- Made sure that the PDF folder in the drafts library is ensured if removed by mistake.
+- Prevent updates of documents in the bulk update UI that has a draft version.
+- Fixed an issue with the placeholder ODMApprovedBy not being updated correctly in the header of a document.
+- Fixed issue with a special character in the metadata merge in DOCX.
+- Fixed problem with search refiners in the Controlled Documents Viewer in SharePoint 2013 environments.
