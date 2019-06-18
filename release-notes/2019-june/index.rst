@@ -2,7 +2,7 @@ Release Notes June 2019
 ========================================
 
 - Omnia.Foundation (1.0.16056)
-- Omnia.Intranet (1.0.16053)
+- Omnia.Intranet (1.0.16061)
 - Omnia.QMS (Cooming Soon)
 - Omnia.DocumentManagement (Cooming Soon)
 
