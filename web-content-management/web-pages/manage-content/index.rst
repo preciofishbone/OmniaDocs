@@ -243,7 +243,7 @@ It's possible to restore a deleted page to the Navigation Menu, if the deleted p
 **Note!**
 If you restore a page in the navigation node that already exists in the structure, a copy will be created in the Pages library.
 
-To restore a page fo the Navigation menu, do the following:
+To restore a page to the Navigation Menu, do the following:
 
 1. Go to the Recycle bin in SharePoint.
 2. Restore the aspx page.
@@ -255,7 +255,7 @@ To restore a page fo the Navigation menu, do the following:
 
 .. image:: restorepage-restorecopypage.png
 
-5. Find the page that you restored from the Recycle Bin and select it.
+5. Find the page that you restored from the Recycle bin and select it.
 
 .. image:: restorepage-searchpage.png
 
