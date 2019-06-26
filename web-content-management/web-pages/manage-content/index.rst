@@ -236,6 +236,33 @@ When you are finished, you publish the language edition the same way as for the 
 
 .. image:: translation-3-new.png
 
+Restore a page to the Navigation Menu
+***************************************
+It's possible to restore a deleted page to the Navigation Menu, if the deleted page is present in the Recycle bin.
+
+**Note!**
+If you restore a page in the navigation node that already exist in the structure, a copy will be created of the page in the Pages library.
+
+To restore a page fo the Navigation menu, do the following:
+
+1. Go to the Recycle bin in SharePoint.
+2. Restore the aspx page.
+
+.. image:: restorepage-recyclebin.png
+
+3. Open "Manage Content" and start the creation of a new page in the location where you want to restore the page.
+4. Click on "Advanced Settings" in the "Create Page" dialog and click on "Restore/Copy Page".
+
+.. image:: restorepage-restorecopypage.png
+
+5. Find the page that you restored from the Recycle Bin and select it.
+
+.. image:: restorepage-searchpage.png
+
+6. Create the page. 
+
+A new navigation node will now be created related to the restored page in the Pages library.
+
 Permissions
 *************
 To be able to edit or delete a page, you need the appropriate access rights to the physical page in SharePoint. The physical page is located in a publishing site and the permissions to the publishing site can be found on the Sites tab.
