@@ -241,7 +241,7 @@ Restore a page to the Navigation Menu
 It's possible to restore a deleted page to the Navigation Menu, if the deleted page is present in the Recycle bin.
 
 **Note!**
-If you restore a page in the navigation node that already exist in the structure, a copy will be created of the page in the Pages library.
+If you restore a page in the navigation node that already exists in the structure, a copy will be created in the Pages library.
 
 To restore a page fo the Navigation menu, do the following:
 
