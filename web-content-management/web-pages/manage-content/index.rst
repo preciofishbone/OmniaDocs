@@ -248,7 +248,7 @@ To restore a page fo the Navigation menu, do the following:
 1. Go to the Recycle bin in SharePoint.
 2. Restore the aspx page.
 
-.. image:: restorepage-recyclebin.png
+.. image:: restorepage-recyclebin-new.png
 
 3. Open "Manage Content" and start the creation of a new page in the location where you want to restore the page.
 4. Click on "Advanced Settings" in the "Create Page" dialog and click on "Restore/Copy Page".
