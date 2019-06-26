@@ -1,7 +1,7 @@
 Related News
 ===========================
 
-The Related News control display news articles that share any enterprise keyword with the current news article.
+The Related News control display news articles that share any enterprise keyword, or any of the defined properties, with the current news article.
 
 Here's an example:
 
