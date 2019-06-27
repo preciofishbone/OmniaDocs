@@ -14,7 +14,7 @@ There are two different ways of implementing new site templates in Omnia:
 
 The first option does not necessarily rule out the second. A possible, and rather common scenario, is that a developer implements a number of templates that a administrator then can edit to add some details.
 
-An important difference is that a developer can lock parts of, or the whole site template. A locked template can't be deleted but can be edited, or be cloned to form the base for a new template created here. The News Center template is an example of a developer implemented, locked site template.
+An important difference is that a developer can lock parts of, or the whole site template. A locked template can't be deleted but can be edited, or be cloned to form the base for a new template created here. 
 
 When you enter Site Templates, the existing templates are shown, for example:
 
