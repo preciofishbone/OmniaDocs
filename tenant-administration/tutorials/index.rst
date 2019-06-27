@@ -16,9 +16,9 @@ A tutorial can be set up to start automatically when a page is opened (see more 
 
 Editors options
 ********************
-An editor mus have Edit Permissions to a page to be able to work with tutorials there. A tutorial is always created for a specific page, the first step for the editor is therefore to go the page.
+An editor must have Edit Permissions to a page to be able to work with tutorials there. A tutorial is always created for a specific page, the first step for the editor is therefore to go the page.
 
-The tutorial options are accessed by selecting "Tutorials" in the Actions Menu.
+The tutorial options are accessed by selecting "Edit Tutorial" in the Actions Menu.
 
 .. image:: menu-tutorial.png
 
