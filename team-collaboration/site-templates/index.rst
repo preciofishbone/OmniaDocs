@@ -18,7 +18,7 @@ An important difference is that a developer can lock parts of, or the whole site
 
 When you enter Site Templates, the existing templates are shown, for example:
 
-.. image:: site-templates-1.png
+.. image:: site-templates-new.png
 
 Any existing template can be downloaded as JSON (normally only used by developers).
 
