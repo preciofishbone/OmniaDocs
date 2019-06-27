@@ -20,7 +20,7 @@ An editor must have Edit Permissions to a page to be able to work with tutorials
 
 The tutorial options are accessed by selecting "Edit Tutorial" in the Actions Menu.
 
-.. image:: menu-tutorial.png
+.. image:: menu-edit-tutorial.png
 
 The following options are then available (example with an existing Wizard tutorial):
 
