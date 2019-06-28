@@ -35,7 +35,7 @@ When you choose to add a simple page, the following is shown:
 .. image:: addpage2.png
 
 + **Title**: The title will be used in the current navigation and as the heading for the page.
-+ **Page layout**: Select one the page layouts available. 
++ **Page layout**: Select one of the page layouts available. (If there is only one Page Layout available, it will be preselected.)
 
 For a "simple" page, no more settings are needed.
 
