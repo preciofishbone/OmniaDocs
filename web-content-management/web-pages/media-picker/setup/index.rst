@@ -29,7 +29,7 @@ If the user selects "Make it web safe", the file size is downsized to the value 
 
 Select Search Providers
 ************************
-In the Med Picker settings in Omnia Admin (System/Settings/Media Picker), you can select which Search Providers to use for the Media Picker:
+In the Media Picker settings in Omnia Admin (System/Settings/Media Picker), you can select which Search Providers to use for the Media Picker:
 
 .. image:: admin-media-picker-providers.png
 
