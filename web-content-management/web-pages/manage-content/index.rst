@@ -35,7 +35,7 @@ When you choose to add a simple page, the following is shown:
 .. image:: addpage2.png
 
 + **Title**: The title will be used in the current navigation and as the heading for the page.
-+ **Page layout**: Select one the page layouts available. 
++ **Page layout**: Select one of the page layouts available. (If there is only one Page Layout available, it will be preselected.)
 
 For a "simple" page, no more settings are needed.
 
@@ -235,6 +235,33 @@ You can now edit the language edition of the page the normal way. Note that ever
 When you are finished, you publish the language edition the same way as for the master page, but now the button is named "Publish Translation". If something went wrong, you can delete the language edition of the page.
 
 .. image:: translation-3-new.png
+
+Restore a page to the Navigation Menu
+***************************************
+It's possible to restore a deleted page to the Navigation Menu, if the deleted page is present in the Recycle bin.
+
+**Note!**
+If you restore a page in the navigation node that already exists in the structure, a copy will be created in the Pages library.
+
+To restore a page to the Navigation Menu, do the following:
+
+1. Go to the Recycle bin in SharePoint.
+2. Restore the aspx page.
+
+.. image:: restorepage-recyclebin-new.png
+
+3. Open "Manage Content" and start the creation of a new page in the location where you want to restore the page.
+4. Click on "Advanced Settings" in the "Create Page" dialog and click on "Restore/Copy Page".
+
+.. image:: restorepage-restorecopypage.png
+
+5. Find the page that you restored from the Recycle bin and select it.
+
+.. image:: restorepage-searchpage.png
+
+6. Create the page. 
+
+A new navigation node will now be created related to the restored page in the Pages library.
 
 Permissions
 *************
