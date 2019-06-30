@@ -3,8 +3,9 @@ Release Notes June 2019
 
 - Omnia.Foundation (1.0.16056)
 - Omnia.Intranet (1.0.16070)
+- Omnia.DocumentManagement (1.0.16092)
 - Omnia.QMS (Cooming Soon)
-- Omnia.DocumentManagement (Cooming Soon)
+
 
 Features
 ---------------------------------
@@ -74,6 +75,21 @@ All modern blocks and components have been reviewed on several mobile devices to
 
 .. image:: mobileexperience.png
 
+Save to OneDrive 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+The Create Document Wizard can now be configured to allow the user to save to OneDrive.
+
+.. image:: dm-savetoonedrive.png
+
+Follow these steps to activate the feature:
+
+1. Log in as a global administrator in Office 365.
+2. Go to Omnia Admin > System > Settings > Azure AD.
+3. Click on Reconsent Azure Services. (In order to let the user save to OneDrive, additional permissions are needed by the Azure AD app).
+4. Go to System > Extensions and click on Omnia.DocumentManagement.
+5. Set the setting "integrated with onedrive" to "true".
+
 
 Bug Fixes and Small Improvements
 ----------------------------------
@@ -135,3 +151,14 @@ Bug Fixes and Small Improvements
 - Fixed issue with names sometimes adding null to the end of the name when creating an Office 365 Group.
 - Fixed problem with the filter in the Member of tab in the My Sites navigation.
 - Fixed accessibility bug in the Page Properties block.
+- It is now possible to rename a document template without having to manually map it again. (DM)
+- Fixed an issue with the Document History placeholder not being rendered in certain scenarios on publishing. (DM)
+- Added better error handling when SharePoint Search returns 403 error. (DM)
+- Ensured the icon to create new document in Controlled Documents Viewer is added by default when shown inside the Process Viewer in QMS. (DM)
+- Fixed scrollbar issue when running DM in Teams. (DM)
+- Made sure documents are paged correctly when shown in Controlled Documents Viewer inside the Process Viewer in QMS. (DM)
+- When a controlled document is published, it will now get prescanned to see if it includes any invalid uri. (DM)
+- Fixed problem with the send for comments workflow. It is now possible to complete a review task even if someone else has the document open. (DM)
+- Fixed some issues with sorting after doing a full text search in the Controlled Documents Viewer. (DM)
+- The properties section in the Create Document Wizard is now hidden if the document type don't have any properties. (DM)
+- Fixed issue with default values on properties not being able to be translated. (DM)
