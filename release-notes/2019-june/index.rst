@@ -4,7 +4,7 @@ Release Notes June 2019
 - Omnia.Foundation (1.0.16056)
 - Omnia.Intranet (1.0.16070)
 - Omnia.DocumentManagement (1.0.16092)
-- Omnia.QMS (Cooming Soon)
+- Omnia.QMS (1.0.16077)
 
 
 Features
@@ -90,6 +90,19 @@ Follow these steps to activate the feature:
 4. Go to System > Extensions and click on Omnia.DocumentManagement.
 5. Set the setting "integrated with onedrive" to "true".
 
+Process Size
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If is now possible to edit the width of shapes for a process if the shapes are to small to fit the text.
+
+.. image:: qms-small-text.png
+
+.. image:: qms-editwidthshape.png
+
+.. image:: qms-small-text-2.png
+
+Custom process images can also be limited in size if needed.
+
 
 Bug Fixes and Small Improvements
 ----------------------------------
@@ -162,3 +175,8 @@ Bug Fixes and Small Improvements
 - Fixed some issues with sorting after doing a full text search in the Controlled Documents Viewer. (DM)
 - The properties section in the Create Document Wizard is now hidden if the document type don't have any properties. (DM)
 - Fixed issue with default values on properties not being able to be translated. (DM)
+- Fixed paging issue in the edit UI when having many related Controlled Documents on a process. (QMS)
+- Fixed issue with certain user names not being shown when a task was assigned in the Process Viewer. (QMS)
+- Fixed issue with overlapping process steps in modern Team Sites. (QMS)
+- Made it possible to select an AD Security Group when limiting read access on a published process. (QMS)
+- Fixed issue with indentation in content editor. (QMS)
