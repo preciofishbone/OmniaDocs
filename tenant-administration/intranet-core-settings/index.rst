@@ -8,7 +8,7 @@ The Intranet Core Settings are found under System-Settings-Intranet Core in Omni
 + **Disable e-mail notification on comments**: To send and e-mail notification to the page author or not when a user adds a comment.
 + **Enable Sharing through Yammer**: To activate Yammer Sharing, set this to True. See below for more information.
 + **Localization Language**: Add all Localization Languages here.
-+ **Media Picker Max File Size**: The file size enetered here triggers the message "The image is too big" when a user uploads file using the Media Picker.
++ **Media Picker Max File Size**: The file size entered here triggers the message "The image is too big" when a user uploads a file using the Media Picker.
 + **People Term Group Name**: As it says.
 + **Use New Media Picker**: Select to use the new Media Picker or the older version that is called "Image Picker".
 
