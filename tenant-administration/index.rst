@@ -14,6 +14,3 @@ Tenant Administration
    omnia-profiles/index
    targeting-definitions/index
    tutorials/index
-
-
-   
