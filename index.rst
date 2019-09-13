@@ -19,4 +19,5 @@ Topics
    quality-management/index
    tenant-administration/index
    release-notes/index
+   roadmap/index
    contribute-to-doc/index

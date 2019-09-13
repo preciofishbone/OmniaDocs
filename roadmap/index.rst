@@ -2,9 +2,8 @@ Roadmap
 ===================
 
 .. toctree::
-   :titlesonly:
-
+   :maxdepth: 2
+   
    in-development/index
    rolling-out/index
-   launched/index
-   previously-released/index
+   Launched <../release-notes/index>
