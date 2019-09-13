@@ -1,9 +1,6 @@
 Roadmap
 ===================
 
-.. toctree::
-   :maxdepth: 1
-   
-   in-development/index
-   rolling-out/index
-   Launched <../release-notes/index>
+* :doc:`In Development </roadmap/in-development/index>`
+* :doc:`Rolling Out </roadmap/rolling-out/index>`
+* :doc:`Launched </release-notes/index>`
