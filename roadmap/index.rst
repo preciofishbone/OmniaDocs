@@ -2,7 +2,7 @@ Roadmap
 ===================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    
    in-development/index
    rolling-out/index

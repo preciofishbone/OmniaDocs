@@ -18,6 +18,6 @@ Topics
    document-management/index
    quality-management/index
    tenant-administration/index
-   release-notes/index
    roadmap/index
+   release-notes/index
    contribute-to-doc/index
