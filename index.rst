@@ -1,5 +1,5 @@
-Omnia for Classic SharePoint
-============================
+Omnia (for Classic SharePoint)
+===============================
 
 .. note:: Are you looking for documentation related to Omnia for Modern SharePoint? `Please click here >> <https://omnia-docs-g2.readthedocs.io/>`_.
 
