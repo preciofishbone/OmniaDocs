@@ -31,7 +31,7 @@ What fields to display on each tab can be selected in the settings, se below.
 
 Settings for the Controlled Documents library
 **********************************************
-As a Site Administrator you can set a number of settings for the three lists in the Controlled Documents library.
+As a Site Collection Administrator you can set a number of settings for the three lists in the Controlled Documents library.
 
 **Note!**: You must edit the page in order for the settings to be available!
 
