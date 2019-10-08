@@ -1,8 +1,7 @@
-Omnia  Documentation
-==============================
+Omnia for Classic SharePoint (SharePoint Add-in)
+=================================================
 
-.. note:: This documentation is a work in progress and contributions can be made on our Github repo
-
+.. note:: Are you looking for documentation related to Omnia for Modern SharePoint (Azure AD App), :doc:`please go here >> <https://omnia-docs-g2.readthedocs.io>`
 
 Topics
 ------
