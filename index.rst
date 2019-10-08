@@ -1,7 +1,8 @@
-Omnia for Classic SharePoint (SharePoint Add-in)
-=================================================
+Omnia for Classic SharePoint
+============================
 
-.. note:: Are you looking for documentation related to Omnia for Modern SharePoint (Azure AD App), :doc:`please go here >> <https://omnia-docs-g2.readthedocs.io>`
+.. note:: Are you looking for documentation related to Omnia for Modern SharePoint? `Please click here >> <https://omnia-docs-g2.readthedocs.io/>`_.
+
 
 Topics
 ------
