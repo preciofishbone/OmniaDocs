@@ -1,7 +1,7 @@
-Omnia  Documentation
-==============================
+Omnia (for classic SharePoint)
+===============================
 
-.. note:: This documentation is a work in progress and contributions can be made on our Github repo
+.. note:: Please find Omnia (for modern SharePoint) documentation `here <https://omnia-docs-g2.readthedocs.io>`_.
 
 
 Topics
@@ -18,5 +18,6 @@ Topics
    document-management/index
    quality-management/index
    tenant-administration/index
+   roadmap/index
    release-notes/index
    contribute-to-doc/index

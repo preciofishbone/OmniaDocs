@@ -96,4 +96,15 @@ To target an Important Announcement, do the following:
 
 .. image:: important-announcements-targeted.png
 
+The High Priority Announcements Block
+***************************************
+There are som settings available for the High Priority Announcements Block. It can be reached by the cog wheel here:
 
+.. image:: high-priority-announcements-settings-cogwheel.png
+
+The following settings are available:
+
+.. image:: high-priority-announcements-settings.png
+
++ **Poll interval (minutes)**: Set a time interval in minutes on how often the page should poll for new announcements. Default=5 minutes.
++ **Background color** and **Text color**: You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using these two options.

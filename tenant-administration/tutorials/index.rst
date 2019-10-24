@@ -10,17 +10,17 @@ An editor creates and edits tutorials for selected publishing pages. An administ
 
 A user's options
 *******************
-A tutorial can be set up to start automatically when a page is opened (see more info below). But if it's not, users select the "Tutorial" option in the Actions Menu:
+A tutorial can be set up to start automatically when a page is opened (see more info below). But if it's not, users select the "Tutorial" icon in the heading:
 
-.. image:: tutorial-in-admin-menu-border.png
+.. image:: tutorial-icon-users.png
 
 Editors options
 ********************
-An editor mus have Edit Permissions to a page to be able to work with tutorials there. A tutorial is always created for a specific page, the first step for the editor is therefore to go the page.
+An editor must have Edit Permissions to a page to be able to work with tutorials there. A tutorial is always created for a specific page, the first step for the editor is therefore to go the page.
 
-The tutorial options are accessed by selecting "Tutorials" in the Actions Menu.
+The tutorial options are accessed by selecting "Edit Tutorial" in the Actions Menu.
 
-.. image:: menu-tutorial.png
+.. image:: menu-edit-tutorial.png
 
 The following options are then available (example with an existing Wizard tutorial):
 

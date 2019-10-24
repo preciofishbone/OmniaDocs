@@ -14,11 +14,11 @@ There are two different ways of implementing new site templates in Omnia:
 
 The first option does not necessarily rule out the second. A possible, and rather common scenario, is that a developer implements a number of templates that a administrator then can edit to add some details.
 
-An important difference is that a developer can lock parts of, or the whole site template. A locked template can't be deleted but can be edited, or be cloned to form the base for a new template created here. The News Center template is an example of a developer implemented, locked site template.
+An important difference is that a developer can lock parts of, or the whole site template. A locked template can't be deleted but can be edited, or be cloned to form the base for a new template created here. 
 
 When you enter Site Templates, the existing templates are shown, for example:
 
-.. image:: site-templates-1.png
+.. image:: site-templates-new.png
 
 Any existing template can be downloaded as JSON (normally only used by developers).
 
@@ -56,14 +56,14 @@ The following can be set on this tab:
 + **Default Secondary Administrator**: If empty, the user creating or requesting the site can set default secondary administrator of the site. If a specific group or user should be secondary administrator for all sites created from this template, add that group or user. Not available for sub sites or Office 365 Groups.
 + **Default Visitors**: You can use this to set a default visitor group (read permissions) to all sites created from this template. Let's say it's a template for community pages - then probably all users of the intranet should have read permission to all pages in the site. Not available for Office 365 Groups.
 + **Default member**: This option is available for Office 365 Groups only. If empty, the user creating the site will automatically become the default user (Owner) of the site. If a specific group or user should be default member for all sites created from this template, add that group or user. 
-+ **Conversations**: This option is available for Office 365 Groups only. The following alternatives are available: **Legacy Site Feed** - The "Conversations" link in Quick Launch will take users to a modern page with the user feed block on configured as a Site Feed. **Teams** - a Microsoft Teams group will be created, related to the Office 365 Group. The "Conversations" link in Quick Launch will take users to the group's chat in Teams. **Yammer** - a Yammer group will be created. The Yammer group will be automatically connected to a new Office 365 Group and team site. The "Conversations" link in Quick Launch will in this case take the user to the connected Yammer group.
++ **Conversations**: This option is available for Office 365 Groups only. The following alternatives are available: **None** - simply no conversations. **Legacy Site Feed** - The "Conversations" link in Quick Launch will take users to a modern page with the user feed block on configured as a Site Feed. **Teams** - a Microsoft Teams group will be created, related to the Office 365 Group. The "Conversations" link in Quick Launch will take users to the group's chat in Teams. **Yammer** - a Yammer group will be created. The Yammer group will be automatically connected to a new Office 365 Group and team site. The "Conversations" link in Quick Launch will in this case take the user to the connected Yammer group.
 + **Privacy**: This option is available for Office 365 Groups only. An Office 365 can be either public or private. In a public site alla users of the tenant can enter the site, read and edit all information. In a private site only actual members of the site can do that.
 + **Storage Quota (GBs)**: You can use this to set maximum storage in Gb that can be used by a site created from this template.
 + **Default Time Zone**: Select default time zone. Can always be changed by the user when creating or requesting a site.
 + **User can select language**: If the user, when creating or requesting a site, should be able to choose language, select this option. Not available for Office 365 Groups.
 + **User can select Omnia Profile**: If the user should be able to select an Omnia Profile during site creation, select this option.
 + **User can change privacy**: This option is available for Office 365 Groups only. When active, the user creating the group can change privacy. If not active, all Office 365 Groups will have the privacy setting you set here.
-+ **Allow Administration if Sharepoint Groups**: Available for Office 365 groups only. Check this option if it should possible to handle traditional Sharepoint Sharepoint groupd in the site.
++ **Allow Administration of Sharepoint Groups**: Available for Office 365 groups only. Check this option if it should be possible to handle traditional Sharepoint groups in the site.
 + **Unique Permission**: Only available for sub sites. Check if permission inheritance should not be on for sub sites created from this template.
 + **Send access request to**: Select receiver of access requests. Note that you can use the last option to enter an e-mail to any user of the site, but also note that a user must have owner permission to be able to grant permission to the site.
 
@@ -124,7 +124,7 @@ Here site information cen be edited if needed:
 + **Url**: The last part of the Url can be edited if needed.
 + **Language**: If the requester has selected the wrong language, change it here.
 + **Omnia Profile**: If profiles are used, you can select another Omnia Profile if needed. You can find more information on Omnia Profiles here: :doc:`Omnia Profiles </tenant-administration/omnia-profiles/index>`
-+ **Make Public in Site Directory**: This optiin can be changed here.
++ **Make Public in Site Directory**: This option can be changed here.
 
 Manage requests - Properties
 ----------------------------

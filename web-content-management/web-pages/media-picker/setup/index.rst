@@ -27,9 +27,17 @@ This setting is checked when a user selects an image in Media Picker. If the fil
 
 If the user selects "Make it web safe", the file size is downsized to the value set here.
 
+Select Search Providers
+************************
+In the Media Picker settings in Omnia Admin (System/Settings/Media Picker), you can select which Search Providers to use for the Media Picker:
+
+.. image:: admin-media-picker-providers.png
+
+Select or deselect providers in the column "Enable".
+
 Set up predefined Bing Search categories
 *******************************************
-1. Open Omnia Admin and select System/Settings/Media Picker.
+1. Open Omnia Admin and select System/Settings/Media Picker/Bing Search Settings.
 2. Click "Add".
 
 .. image:: bing-search-categories.png

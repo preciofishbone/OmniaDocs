@@ -107,6 +107,11 @@ A "Simple List" view displays the news articles without image in a simple list.
 
 .. image:: news-viewer-simple-list.png 
 
++ **Opacity**: (A description will be added soon.)
++ **Tranisition**: Available for "News Roller" and "News Roller (New UX)" only. Can be "Slide" or "Fade".
++ **Interval tim**: Available for "News Roller" and "News Roller (New UX)" only. Set number of milliseconds between transitions here. Default=6000.
++ **Number of laps**: Available for "News Roller" and "News Roller (New UX)" only. Set the number of times the news roller should show all articles before it stops. Default=0, which meens no stop.
++ **Show Title**: If you would like to show a title at the top of the News list, select this option and then add the Title in the field shown.
 + **Display News Center link**: Check if the link "Go to News Center" should be available at the end of the News Viewer.
 + **News Center Label**: Here you can change the label displayed for the News Center.
 + **Display no result message**: Check if a no result message should be shown if there are no news articles available in the list, for the loged in user.

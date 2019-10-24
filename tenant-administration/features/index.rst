@@ -86,12 +86,14 @@ Site scoped Omnia Features
 
 **Omnia Intranet Team Site – Controlled Documents** Deploys a document library specifically designed for controlled documents. Minor/Major versioning will be added to the library. Permission will be broken on the list. A SharePoint group “Controlled Documents Readers” will be added to the site and be given read access to the library. Everyone except external will be added to this readers group. The owners group will be the only group with contribute rights on the library. The “Recent” node in quick launch will be removed.
 
+**Omnia Team Site – Is Member** Makes the site available for the “Is Member” filter in the My Sites control. The “Recent” node in quick launch will be removed.
+
 **Omnia Intranet Team Site – Links** Deploys a links list to the site. The “Recent” node in quick launch will be removed.
 
 **Omnia Intranet Team Site – Reporting Documents** Deploys a document library specifically designed for reporting documents. Minor/Major versioning will be added to the library. Permission will be broken on the list. A SharePoint group “Reporting Documents Readers” will be added to the site and be given read access to the library. The owners group will be the only group with contribute rights on the library. The “Recent” node in quick launch will be removed.
 
 **Omnia Intranet Team Site – Tasks** Deploys a tasks list to the site. The “Recent” node in quick launch will be removed.
 
-**Omnia Team Site – Is Member** Makes the site available for the “Is Member” filter in the My Sites control. The “Recent” node in quick launch will be removed.
+**Omnia Intranet Team Site - Yammer Web Part** Mkes it possible to deploy the new Yammer Modern Web Part to the welcome page of a modern team site.
 
 

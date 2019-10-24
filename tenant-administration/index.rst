@@ -4,10 +4,13 @@ Tenant Administration
 .. toctree::
    :titlesonly:
 
-   logo/index
+   accessibility/index
    central-image-locations/index
-   tutorials/index
    color-themes/index
+   features/index
+   intranet-core-settings/index
+   logo/index
+   office365-integration/index
    omnia-profiles/index
    targeting-definitions/index
-   features/index
+   tutorials/index
