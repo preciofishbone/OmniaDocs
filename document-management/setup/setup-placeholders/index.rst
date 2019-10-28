@@ -3,7 +3,7 @@ Setup Place Holders in Word and Excel
 
 A document property place holder starts with [[ and ends with ]] and can be placed anywhere inside a DOCX document or within the header/footer of an XLSX document. Place holders support any document property. 
 
-**Important Note!** In a template you probably want the published copy of the template to include the placeholders. To ensure that the placeholders are not replaced by document properties on the template, you need to escape the placeholders using the character “\\”. An escaped placeholder using the example above would look like this:
+**Important Note!** In a template you probably want the published copy of the template to include the placeholders. To ensure that the placeholders are not replaced by document properties on the template, you need to escape the placeholders using the character “\\”. An escaped placeholder would look like this:
 
 \\[\\[_PubDate\\]\\]
 
