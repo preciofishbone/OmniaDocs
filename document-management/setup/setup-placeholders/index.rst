@@ -7,7 +7,7 @@ A document property place holder starts with [[ and ends with ]] and can be plac
 
 \\[\\[_PubDate\\]\\]
 
-**Note!** Another, and better, way is to use a dedicated Document Type for all templates and there set that the placeholders should not be replaced for documents of that type. In that case, place holders can be added as described below - escape characters are not needed. See the heading "The Publish tab" on this page: :doc:`Document Types </document-management/administrator/document-types/index>` for more information.
+Another, and most likely better, way is to use a dedicated Document Type for all templates and there set that the placeholders should not be replaced for documents of that type. In that case, place holders can be added as described below - escape characters are not needed. See the heading "The Publish tab" on this page: :doc:`Document Types </document-management/administrator/document-types/index>` for more information.
 
 Make sure to use the internal name (or the short name) of the property, example:
 
