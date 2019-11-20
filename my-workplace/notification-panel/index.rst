@@ -74,7 +74,7 @@ A Notification Panel can also be placed in the Header. It has to be activated in
 
 .. image:: notification-panel-icon.png
 
-This Notification Panel has it's own settings. Select "Show Settings" in the Action Menu and click the cog whe to access them.
+This Notification Panel has it's own settings. Select "Show Settings" in the Action Menu and click the cog wheel to access them.
 
 .. image:: notification-header-settings.png
 
