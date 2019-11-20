@@ -44,6 +44,17 @@ If you are using Teams and/or Yammer in your solution, it is now possible to sho
 - In order for a Teams icon to show, you need to activate the Site Feature "Omnia Intranet Team Site - Microsoft Teams Icon".
 - In order for a Yammer icon to show, you need to activate the Site Feature "Omnia Intranet Team Site - Yammer Icon".
 
+Turn of Legacy Mode
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+It is now possible to turn of legacy mode for a site. This will disable all code running Angular and decrease the javascript load times. Note! Any custom extensions built on Angular will stop working if legacy mode is turned off. Follow these steps
+
+1. Go to the start page of the publishing site where you want deactivate legacy mode.
+2. Go into Omnia Admin.
+3. Remove the site collection feature "Omnia Legacy Support".
+4. Update the site features "Omnia Glue Site" and "Omnia Core Master Page".
+
+
 Bug Fixes and Small Improvements
 ----------------------------------
 
@@ -55,6 +66,7 @@ Bug Fixes and Small Improvements
 - Made sure that Omnia does not create three versions in the backend in SharePoint when publishing a page.
 - If only one targeting definition exists in a tenant, this definition will be preselected when targeting information.
 - Made sure mailto-links are supported in related links on a page.
+- Fixed issue with additional languages in multilingual pages (such as fr-ca).
 - Fixed issue with long navigation titles overlapping other nodes in the mega menu.
 - Fixed an issue in the user picker that made it really slow in some scenarios (especially IE11). 
 - Fixed console error [SiteUrl]/undefined that was registered a lot in tenants where user photo was missing for some users.
@@ -67,6 +79,7 @@ Bug Fixes and Small Improvements
 - Multi-lingual support fixed for titles in News Center blocks.
 - When adding a group to set permission in Omnia, distribution groups are now filtered out from the picker.
 - Fixed a small issue when editing targeted events in the Aggregated Calendar.
+- Fixed wysiwyg issue in rich text editor on banners.
 - Fixed issue with the People Rollup and page properties when running as a web part on a classic SharePoint page.
 - Fixed some issues related to changes in follow site api.
 - Made it possible to target information based on preferred language in the user profile.
@@ -83,5 +96,10 @@ Bug Fixes and Small Improvements
 - Show the document id when selecting a related document. (DM)
 - Made it impossible to cancel a workflow if someone has the document open for editing. (DM)
 - Made sure the correct drafts library is shown when navigating between modern team sites in the My Sites navigation. (DM)
-- Added a Copy Link option in the action menu of published documents.
+- Fixed issue with placeholders in footer of DOCX that didn't get replaced on publishing in certain scenarios. (DM)
+- Added a Copy Link option in the action menu of published documents. (DM)
+- Fixed an issue with validation of certain required properties on publishing. (DM)
+- Fixed problem adding more than one Document Subscription via the Controlled Documents Viewer block. (DM)
+- Fixed problem with strange word wrap och process steps and wysiwyg issue in the rich text editor. (QMS)
 - Fixed some issues with paging etc in the Controlled Documents Viewer when running inside of the Process Viewer in QMS. (DM/QMS)
+- Fixed issue with DM/QMS not loading properly on modern team sites in IE11. (DM/QMS)
