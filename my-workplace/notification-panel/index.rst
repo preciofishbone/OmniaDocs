@@ -70,7 +70,7 @@ You should primarily set colors through Theme colors in Omnia Admin (System/Sett
 
 Notification Panel in Header
 *****************************
-A Notification Panel can also be placed in the Header. It has be activated in Omnia Admin. When it is an icon is shown:
+A Notification Panel can also be placed in the Header. It has to be activated in Omnia Admin. When it is, an icon is shown:
 
 .. image:: notification-panel-icon.png
 
