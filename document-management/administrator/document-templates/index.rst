@@ -18,10 +18,6 @@ Use the icons to the left to (from left to right): edit the template, delete the
 + **Document Profile**: States which Document Profile the template is connected to. You can go to the settings for the Document Profile by clicking the link.
 + **Categories**: States category set for the template, if any.
 
-To edit the settings for a template, or to delete it, use the icons:
-
-.. image:: document-templates-list-icons-new.png
-
 **Tip!** When editing a template you can “update” by uploading another, updated file, but still use the same template name and other settings.
 
 Using Categories
