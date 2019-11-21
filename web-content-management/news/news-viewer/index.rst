@@ -116,12 +116,12 @@ A "Simple List" view displays the news articles without image in a simple list.
 + **Show Title**: If you would like to show a title at the top of the News list, select this option and then add the Title in the field shown.
 + **Display News Center link**: Check if the link "Go to News Center" should be available at the end of the News Viewer.
 + **News Center Label**: Here you can change the label displayed for the News Center.
-+ **Open Page as Dialog**: If you would like the News article to be opened in a dialogue, instead of in a new window, select this option. See below for an example.
++ **Open Page as Dialog**: If you would like the News article to be opened in a dialogue, instead of a page, select this option. See below for an example.
 + **Display no result message**: Check if a no result message should be shown if there are no news articles available in the list, for the loged in user.
 
 If a news article has not been read by the user (it is considered read when the user has browsed to the news article page), the title will be shown in bold.
 
-Here's an example of a News article displayed in a dialog (instead of in a new window):
+Here's an example of a News article displayed in a dialog:
 
 .. Image:: news-dialog-example.png
 
