@@ -65,7 +65,7 @@ Deploys the content types:
 
 **Omnia Intranet Quick Polls WebPart** Deploys a web part definition of the Omnia Control “Quick Polls” to the web part gallery.
 
-**Omnia Legacy Support** Omnia Legacy Support can be turned off by deacticating this Feature. This will disable all code running Angular and decrease the javascript load times. **Important note!** Any custom extensions built on Angular will stop working if legacy mode is turned off. If Legacy Support is turned iff, the following two Site Features needs to be updated: “Omnia Glue Site” and “Omnia Core Master Page”.
+**Omnia Legacy Support** Omnia Legacy Support can be turned off by deactivating this Feature. This will disable all code running Angular and decrease the javascript load times. **Important note!** Any custom extensions built on Angular will stop working if legacy mode is turned off. If Legacy Support is turned iff, the following two Site Features needs to be updated: “Omnia Glue Site” and “Omnia Core Master Page”.
 
 **Omnia Site Directory Web Part** Deploys web part definition of the Omnia Control “Site Directory” to the web part gallery.
 Omnia User Feed Web Part Deploys a web part definition of the Omnia Control “User Feed” to the web part gallery.
