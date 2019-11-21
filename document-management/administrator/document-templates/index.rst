@@ -14,8 +14,7 @@ Use the icons to the left to (from left to right): edit the template, delete the
 + **Language**: Select language for a list of templates in that language.
 + **(Symbol)**: This colummn indicates the file type.
 + **Template Name**: Name of the template.
-+ **Scope**: In this column you can see if the template is applicable for Controlled Documents Only, or for general documents as well (in this case the field is empty).
-+ **Document Profile**: States which Document Profile the template is connected to. You can go to the settings for the Document Profile by clicking the link.
++ **Scope**: In this column you can see if the template is applicable for Controlled Documents Only, or for general documents as well (in this case the field is empty). + **Document Profile**: States which Document Profile the template is connected to. You can go to the settings for the Document Profile by clicking the link.
 + **Categories**: States category set for the template, if any.
 
 **Tip!** When editing a template you can “update” by uploading another, updated file, but still use the same template name and other settings.
