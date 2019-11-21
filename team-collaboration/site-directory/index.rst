@@ -40,6 +40,16 @@ To implement a Site Directory, note the following:
 +   The Site Directory can be added as a web part to a standard Sharepoint site or as a block to a Quick Page.
 +   The web part/block can be added to any web part zone/area, but note that the Site Directory requires some space.
 
+Icons for Teams and Yammer
+***************************
+If you are using Microsoft Teams and/or Yammer in your solution, The Site Directory can indicate when a Team Site is attached to a Teams group or a Yammer group. This is indicated by an icon. 
+
+Here's an example with Teams groups attached to Project Altair and Project Apollo:
+
+.. image:: site-directory-icons.png
+
+A user can click the icon to go to the group.
+
 Settings for the control
 ************************
 The following settings are available for the control:
