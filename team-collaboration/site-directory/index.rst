@@ -42,7 +42,7 @@ To implement a Site Directory, note the following:
 
 Icons for Teams and Yammer
 ***************************
-If you are using Microsoft Teams and/or Yammer in your solution, The Site Directory can indicate when a Team Site is attached to a Teams group or a Yammer group. This is indicated by an icon. 
+If you are using Microsoft Teams and/or Yammer in your solution, the Site Directory can indicate when a Team Site is attached to a Teams group or a Yammer group. This is indicated by an icon. 
 
 Here's an example with Teams groups attached to Project Altair and Project Apollo:
 

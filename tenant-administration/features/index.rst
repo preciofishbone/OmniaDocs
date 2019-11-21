@@ -65,6 +65,8 @@ Deploys the content types:
 
 **Omnia Intranet Quick Polls WebPart** Deploys a web part definition of the Omnia Control “Quick Polls” to the web part gallery.
 
+**Omnia Legacy Support** 
+
 **Omnia Site Directory Web Part** Deploys web part definition of the Omnia Control “Site Directory” to the web part gallery.
 Omnia User Feed Web Part Deploys a web part definition of the Omnia Control “User Feed” to the web part gallery.
 
