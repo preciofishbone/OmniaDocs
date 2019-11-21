@@ -7,7 +7,9 @@ Management of Document Templates is handled here. The templates can be available
 
 The list of available templates can look like this:
 
-.. image:: document-templates-list-new-border.png
+.. image:: document-templates-list-new2.png
+
+Use the icons to the left to (from left to right): edit the template, delete the template or download a copy of the template.
 
 + **Language**: Select language for a list of templates in that language.
 + **(Symbol)**: This colummn indicates the file type.
