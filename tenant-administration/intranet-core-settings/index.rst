@@ -9,7 +9,7 @@ The Intranet Core Settings are found under System-Settings-Intranet Core in Omni
 + **Enable Header Notification Panel**: To be able to add an icon in the header, for access to the Noticifation Panel, set this option to "True".
 + **Enable Sharing through Yammer**: To activate Yammer Sharing, set this to True. See below for more information.
 + **Localization Languages**: Add all Localization Languages here.
-+ **Managed Property for Link Icon**: (A descripttion will be added soon).
++ **Managed Property for Link Icon**: Select Managed Property for the icons indication attached Yammer or Teams groups in My Sites and Site Directory.
 + **Media Picker Max File Size**: The file size entered here triggers the message "The image is too big" when a user uploads a file using the Media Picker.
 + **People Term Group Name**: As it says.
 + **Use New Media Picker**: Select to use the new Media Picker or the older version that is called "Image Picker".
