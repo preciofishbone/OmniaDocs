@@ -3,7 +3,7 @@ My Sites
 
 The My Sites control makes it possible for an end user to navigate to all sites that the user has access to.
 
-.. image:: my-sites-b-new2.png
+.. image:: mysites-icons.png
 
 Four tabs can be configured in the control:
 
@@ -18,6 +18,8 @@ Two things will happen when a user follows a site:
 
 + The site will be available as a quick link in the "Following" tab in the My Sites control.
 + Any conversations in the newsfeed on the site will be available in the user feed on the start page.
+
+If you are using Microsoft Teams and/or Yammer in your solution, My Sites can indicate when a Team Site is attached to a Teams group or a Yammer group. This is indicated by an icon. See HR Department and Project Jupiter (Teams) and Supplier Conference 2019 (Yammer) in the image above. A user can click the icon to go to the group.
 
 Settings for the control
 *************************

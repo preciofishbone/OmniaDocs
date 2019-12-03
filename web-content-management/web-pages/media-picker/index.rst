@@ -79,7 +79,7 @@ Settings for an image
 ----------------------
 When the image has been selected, the following settings can be made:
 
-.. image:: global-image-bank-settings-new.png
+.. image:: global-image-bank-settings-new2.png
 
 + **Image Type**: Select image type. Can be used for filtering the image list, see above.
 + **Image Category**: Select image category. Can be used for filtering the list, see above.
@@ -87,6 +87,7 @@ When the image has been selected, the following settings can be made:
 + **Landscape**: Click the Landscape preview and use the selection on the image to decide wich part of the image to show when it's used in landscape format.
 + **Square**: Click the Square preview and use the selection on the image to decide wich part of the image to show when it's used in square format.
 + **Filters**: Use the filters to adjust the image; Sepia coloring, Grayscale coloring, Brightness, Contrast and Saturation.
++ **Info**: Use the Info tab to edit the file name and enter Alt Text for the image.
 
 Don't forget to save your changes when you're done.
 

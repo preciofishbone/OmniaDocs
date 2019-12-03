@@ -73,7 +73,9 @@ The Display Settings tab
 ---------------------------
 On this tab the following settings are available:
 
-.. image:: news-viewer-settings-display-new.png
+.. image:: news-viewer-settings-display.png
+
+Many more options can be available depending on View Template selected, see below.
 
 + **View Template**: The view template defines how the result should be rendered on the page. There are six options:
 
@@ -107,16 +109,23 @@ A "Simple List" view displays the news articles without image in a simple list.
 
 .. image:: news-viewer-simple-list.png 
 
-+ **Opacity**: (A description will be added soon.)
++ **Opacity**: Sets the opacity for the image. 1 is no opacity. Available for "New Roller (New UX)".
 + **Tranisition**: Available for "News Roller" and "News Roller (New UX)" only. Can be "Slide" or "Fade".
 + **Interval tim**: Available for "News Roller" and "News Roller (New UX)" only. Set number of milliseconds between transitions here. Default=6000.
 + **Number of laps**: Available for "News Roller" and "News Roller (New UX)" only. Set the number of times the news roller should show all articles before it stops. Default=0, which meens no stop.
 + **Show Title**: If you would like to show a title at the top of the News list, select this option and then add the Title in the field shown.
 + **Display News Center link**: Check if the link "Go to News Center" should be available at the end of the News Viewer.
 + **News Center Label**: Here you can change the label displayed for the News Center.
++ **Open Page as Dialog**: If you would like the News article to be opened in a dialogue, instead of a page, select this option. See below for an example.
 + **Display no result message**: Check if a no result message should be shown if there are no news articles available in the list, for the loged in user.
 
 If a news article has not been read by the user (it is considered read when the user has browsed to the news article page), the title will be shown in bold.
+
+Here's an example of a News article displayed in a dialog:
+
+.. Image:: news-dialog-example.png
+
+You can open the page from here by clicking the link in the low right corner.
 
 The Custom Colors tab
 ----------------------

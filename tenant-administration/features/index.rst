@@ -65,6 +65,8 @@ Deploys the content types:
 
 **Omnia Intranet Quick Polls WebPart** Deploys a web part definition of the Omnia Control “Quick Polls” to the web part gallery.
 
+**Omnia Legacy Support** Omnia Legacy Support can be turned off by deactivating this Feature. This will disable all code running Angular and decrease the javascript load times. **Important note!** Any custom extensions built on Angular will stop working if legacy mode is turned off. If Legacy Support is turned iff, the following two Site Features needs to be updated: “Omnia Glue Site” and “Omnia Core Master Page”.
+
 **Omnia Site Directory Web Part** Deploys web part definition of the Omnia Control “Site Directory” to the web part gallery.
 Omnia User Feed Web Part Deploys a web part definition of the Omnia Control “User Feed” to the web part gallery.
 
@@ -90,9 +92,13 @@ Site scoped Omnia Features
 
 **Omnia Intranet Team Site – Links** Deploys a links list to the site. The “Recent” node in quick launch will be removed.
 
+**Omnia Intranet Team Site - Microsoft Teams Icon** When this feature is activated, an icon indicates if a Team Site is attached to a Microsoft Teams group. This is shown in My Sites and in the Site Diretory.
+
 **Omnia Intranet Team Site – Reporting Documents** Deploys a document library specifically designed for reporting documents. Minor/Major versioning will be added to the library. Permission will be broken on the list. A SharePoint group “Reporting Documents Readers” will be added to the site and be given read access to the library. The owners group will be the only group with contribute rights on the library. The “Recent” node in quick launch will be removed.
 
 **Omnia Intranet Team Site – Tasks** Deploys a tasks list to the site. The “Recent” node in quick launch will be removed.
+
+**Omnia Intranet Team Site - Yammer Icon** When this feature is activated, an icon indicates if a Team Site is attached to a Yammer group. This is shown in My Sites and in the Site Diretory.
 
 **Omnia Intranet Team Site - Yammer Web Part** Mkes it possible to deploy the new Yammer Modern Web Part to the welcome page of a modern team site.
 
