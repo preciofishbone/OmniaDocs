@@ -1,10 +1,10 @@
 Release Notes November 2019
 ========================================
 
-- Omnia.Foundation (1.0.X)
-- Omnia.Intranet (1.0.X)
-- Omnia.QMS (1.0.X)
-- Omnia.DocumentManagement (1.0.X)
+- Omnia.Foundation (1.0.16993)
+- Omnia.Intranet (1.0.17007)
+- Omnia.QMS (1.0.16909)
+- Omnia.DocumentManagement (1.0.16979)
 
 Features
 ---------------------------------
