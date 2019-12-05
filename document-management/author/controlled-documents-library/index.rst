@@ -252,9 +252,10 @@ Assigned To Me
 As it says, this list displays all tasks that have been assigned to you.
 
 It can be:
-Tasks from Send for Comments workflows.
-Tasks from Publish workflows.
-Tasks for review when set Review Date has passed.
+
++ Tasks from Send for Comments workflows.
++ Tasks from Publish workflows.
++ Tasks for review when set Review Date has passed.
 
 To work with a task, just click the Title. You can click the link to read the document. To see additional information about the document, click the i icon. 
  
@@ -262,14 +263,11 @@ If it’s a task for reviewing a document when the Review Date has passed, you c
 
 Assigned By Me
 ----------------
-This list displays all Tasks created, when you sent a document for comments or when publishing a document.
- 
-To check the progress for any of the tasks, click the Title. 
+This list displays all Tasks created, when you sent a document for comments or when publishing a document. To check the progress for any of the tasks, click the Title. 
  
 Completed Tasks
 -----------------
 As it says, this tab displays a list of completed tasks. You can click the link to a task for more information, for example to see the comment(s).
- 
 
 More useful Options for a published document
 ********************************************
