@@ -136,7 +136,7 @@ An alternative is to upload an existing document, but normally it should be used
 
 Upload is selected in the "Add" menu:
 
-.. inmage:: dm-add-upload.png
+.. image:: dm-add-upload.png
 
 A Document Type has to be selected for an uploaded document and the document has to be tagged with the required metadata, or he document can't be published.
 
@@ -149,6 +149,7 @@ Move a document to the Controlled Documents library
 You can move a document, or several if you like, from any other Documents library in this Team Site, to the Controlled Documents library, and thus make them a Controlled Documents Draft.
 
 Do the following:
+
 1. Click “Add” and select "Move".
 2. Open the library.
 
@@ -218,7 +219,7 @@ To create a new draft of a published document, do the following:
 
 4. Choose what is to be done:
 
-.. image:: create-new-draft-2-new2.
+.. image:: create-new-draft-2-new2.png
 
 As you see you can even upload a document to base the new draft on. This can be useful for example when you want to publish a new edition of a document you have uploaded as it is. Perhaps you have received a new version of a document from a supplier?
 
@@ -248,9 +249,7 @@ There are some more useful options for a published document, you can for example
 
 Related Documents
 --------------------
-Description of this option is found here:
-
-:doc:`Related Documents </document-management/author/related-documents/index>`
+Description of this option is found here: :doc:`Related Documents </document-management/author/related-documents/index>`
 
 Checking a document's properties
 ---------------------------------
@@ -293,7 +292,7 @@ The feedback posts for the document is shown. You can click the dust bin to dele
 
 Read Receipt Status
 --------------------
-Read Receipt Status can be checked here. See this page for a description: :doc:`Read & Understodd </document-management/author/read-understood/index>`
+Read Receipt Status can be checked here. See this page for a description: :doc:`Read & Understood </document-management/author/read-understood/index>`
 
 Move a published document
 -----------------------------
