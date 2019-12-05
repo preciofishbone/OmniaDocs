@@ -243,6 +243,34 @@ If a template is selected, this document is from now on related to the template 
 
 Even if a template is not selected for the second edition, the author gets a new chance the next time a new draft is created.
 
+The Tasks tab
+***************
+Using the Tasks tab you can see three different lists:
+
+Assigned To Me
+----------------
+As it says, this list displays all tasks that have been assigned to you.
+
+It can be:
+Tasks from Send for Comments workflows.
+Tasks from Publish workflows.
+Tasks for review when set Review Date has passed.
+
+To work with a task, just click the Title. You can click the link to read the document. To see additional information about the document, click the i icon. 
+ 
+If it’s a task for reviewing a document when the Review Date has passed, you check the document and can decide what to do; set a new Review Date, unpublish the document or create a new draft of the document.
+
+Assigned By Me
+----------------
+This list displays all Tasks created, when you sent a document for comments or when publishing a document.
+ 
+To check the progress for any of the tasks, click the Title. 
+ 
+Completed Tasks
+-----------------
+As it says, this tab displays a list of completed tasks. You can click the link to a task for more information, for example to see the comment(s).
+ 
+
 More useful Options for a published document
 ********************************************
 There are some more useful options for a published document, you can for example check the Properties, see the Document History, see Feedback that users has sent and Move a document.
