@@ -64,7 +64,9 @@ On this tab the following settings are available:
 + **Show Search Box**: If users should be able to search the documents displayed by the controll, the option should be checked.
 + **Open in Office Web Apps**: If a document, when a user clicks the link, should be opened in Office Web Apps, the option should be checked. If not checked, documents will open in the full application.
 + **Open in New Window**: If the documents should be opened in a new window, when the user clicks a link, select this option.
-+ **Show "Subscribe To..."**: If the "Subscribe To" column should be displayed, select the box.
++ **Show "Subscribe To..."**: If the "Subscribe To" link should be displayed, helping users to subscribe to the documents that are listed in this control, select the box.
+
+**Note!** Do not use "Show Subscribe To .." for a control using filters. When a user clicks the subscribe link, the subscription added is always for the default list, no matter what filtering the user has done, making it difficult for a user to understand what he or she subscribes to.
 
 The Query tab
 --------------
