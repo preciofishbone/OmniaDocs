@@ -18,7 +18,7 @@ It can also be scheduled to appear automatically to the end user via settings in
 
 .. image:: userprofiles-settings.png
 
-+ **Show Dialog**: The schedule that should be used to show the User Profile Completion Wizard do the end user.
++ **Show Dialog**: The schedule that should be used to show the User Profile Completion Wizard to the end user. The dialog is shown on all Omnia pages and are shown until the user closes the dialog.
 + **Localization**: Select which language to localize the Title and Description in. Available localization labels can be set in System > Settings > Intranet Core.
 + **Title**: The overall title that should be shown in the Wizard when no specific section is selected.
 + **Description**: The overall description that should be shown in the Wizard when no specific section is selected.
