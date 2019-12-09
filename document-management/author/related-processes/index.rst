@@ -9,7 +9,7 @@ Authors can relate documents to processes using the menu for the document on the
 
 .. image:: relate-processes-1.png
  
-The next step is to choose to relate to processes in this site or to a site anywhere else (All sites):
+The next step is to choose to relate to a processes in this site or to a site anywhere else (All sites):
 
 .. image:: relate-processes-2.png
 
