@@ -21,7 +21,15 @@ On this tab you can set the following:
 
 + **Source Url**: The current navigation will be based on the navigation settings that is used on the site of the source url.
 + **Start Level**: The current navigation will start on a specific level in the navigation structure. 1 = Start, 2 = Second level, 3= Third level etc. The default value is 3.
-+ **Show parent siblings**: (A description will be added soon).
++ **Show parent siblings**: To always show all main nodes, select this setting. If not selected, only the current node is shown.
+
+Here are two examples. First WITH Show parent siblings selected:
+
+.. image:: show-parent.png
+
+This is how the same current navigation will look with Show parent sibling NOT selected:
+
+.. image:: show-parent-not.png
 
 The Custom Colors tab
 ----------------------
