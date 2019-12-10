@@ -1,8 +1,6 @@
 Omnia Features
 ==============
 
-**Note!** The information on this page is being updated. Unfortunately all information is not up to date at the moment, but will be soon.
-
 Here all Omnia Site collection features and Site features are listed. It's used for activation and installation of features, normally by a programmer.
 
 Note that permissions to handle features (activate, deactivate etc) is set on the "Permissions" page under "System", and only Site Collection Features and Site Features are applicable for this documentation. Only Global Administrators can see and edit Tenant scoped Omnia Features.
