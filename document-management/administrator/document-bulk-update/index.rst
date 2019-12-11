@@ -1,4 +1,4 @@
-Document Bulk Update
+Documents Bulk Update
 ===========================
 
 Use this option to bulk update any of the defined document management properties. One example could be if a colleague will no longer be document owner for a number of documents. With this option you can easily replace that name with another. Note that not all properties can be replaced, for example Approver. 
