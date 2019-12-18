@@ -1,8 +1,8 @@
 Release Notes November 2019
 ========================================
 
-- Omnia.Foundation (1.0.16993)
-- Omnia.Intranet (1.0.17007)
+- Omnia.Foundation (1.0.17064)
+- Omnia.Intranet (1.0.17083)
 - Omnia.QMS (1.0.16909)
 - Omnia.DocumentManagement (1.0.16979)
 
@@ -44,10 +44,10 @@ If you are using Teams and/or Yammer in your solution, it is now possible to sho
 - In order for a Teams icon to show, you need to activate the Site Feature "Omnia Intranet Team Site - Microsoft Teams Icon".
 - In order for a Yammer icon to show, you need to activate the Site Feature "Omnia Intranet Team Site - Yammer Icon".
 
-Turn of Legacy Mode
+Turn off Legacy Mode
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-It is now possible to turn of legacy mode for a site. This will disable all code running Angular and decrease the javascript load times. Note! Any custom extensions built on Angular will stop working if legacy mode is turned off. Follow these steps
+It is now possible to turn off legacy mode for a site. This will disable all code running Angular and decrease the javascript load times. Note! Any custom extensions built on Angular will stop working if legacy mode is turned off. Follow these steps
 
 1. Go to the start page of the publishing site where you want deactivate legacy mode.
 2. Go into Omnia Admin.
