@@ -53,7 +53,7 @@ Here you can set the type of permissions to be used in Controlled Documents libr
 
 Approvers Group
 ***************
-Select if an approvers permission group will be used for approval, in this tenant, select location, and then type the name of the permission group.
+If this option is selected a specific permission group will be created for approvers in every Team Site with a Controlled Documents library. Note that this should normally be selected. Not using permission groups is for specialized implementation only. Also note that you can still set what type of approval to use for each Document Type.
 
 .. image:: approvers-controlled.png
 
