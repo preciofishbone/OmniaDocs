@@ -7,21 +7,31 @@ A copy of all published document's editions are normally placed in an archive, b
 
 The following information is available in the archive:
 
-.. image:: archived-documents-new-border.png
+.. image:: archived-documents-new2.png
  
 You can search for documents and sort the list on the headings, to make it easier to find information about a certain document edition.
 
-There's a folder for all editions fo a document, and within that folder you find a folder for each edition.
+To be able to see information about a specific edition, click the i-icon.
 
-.. image:: archived-documents-editions.png
-
-To be able to see information about a specific edition, open the editions folder, select the document and click the i-icon.
-
-.. image:: archive-icon-new.png
+.. image:: archive-icon-new2.png
  
-Information about the edition, for example dates and time for the period when the edition was published, is shown to the right.
+The property information for the document is shown to the right. To see the document history, for example the dates when the editions was available for users (published), click the link:
 
-.. image:: archive-info.png
+.. image:: archive-info-new.png
+
+Something like the following is shown:
+
+.. image:: archive-info-document-history.png
+
+Note that the edition you selected, and the editions before that, is listed. To get a list of all editions you have to select the last one. In this example, there is an edition 4, that is not listed here, as we selected edition 3.
+
+As you can see, you can even see the the workflow history for each edition listed. This is the same information that is available through the Published tab in the Controlled Documents library. Here's an example with one of the posts exapnded:
+
+.. image:: archive-info-document-history-expanded.png
+
+
+
+
 
 
 
