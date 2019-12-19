@@ -25,7 +25,7 @@ Something like the following is shown:
 
 Note that the edition you selected, and the editions before that, is listed. To get a list of all editions you have to select the last one. In this example, there is an edition 4, that is not listed here, as we selected edition 3.
 
-As you can see, you can even see the the workflow history for each edition listed. This is the same information that is available through the Published tab in the Controlled Documents library. Here's an example with one of the posts exapnded:
+As you can see, you can even access the workflow history for each edition listed. This is the same information that is available through the Published tab in the Controlled Documents library. Here's an example with one of the posts expanded:
 
 .. image:: archive-info-document-history-expanded.png
 
