@@ -78,7 +78,9 @@ This Notification Panel has it's own settings. Do the following to access them:
 
 1. Edit the page.
 2. Show Settings.
-2. Open the Notification Panel by clicking the cog wheel.
+3. Open the settings for the Notification Panel by clicking the cog wheel.
+
+Something like the following is shown:
 
 .. image:: notification-header-settings.png
 
