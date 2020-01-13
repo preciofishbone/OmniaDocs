@@ -103,3 +103,8 @@ Bug Fixes and Small Improvements
 - Fixed problem with strange word wrap och process steps and wysiwyg issue in the rich text editor. (QMS)
 - Fixed some issues with paging etc in the Controlled Documents Viewer when running inside of the Process Viewer in QMS. (DM/QMS)
 - Fixed issue with DM/QMS not loading properly on modern team sites in IE11. (DM/QMS)
+
+.. toctree::
+   :titlesonly:
+   
+   2019-november-patch1/index
