@@ -1,14 +1,14 @@
 Release Notes November 2019 Patch 1
 ========================================
 
-Omnia.Foundation (x.x.xxxxx)
+Omnia.Foundation (1.0.17203)
 ----------------------------------------
 - Fixed issue with the My Sites block taking up space on the page even if empty.
 - Fixed issue with the RSS Reader in the notification panel.
 - Fixed issue with the icons in the My Sites Navigation.
 - Fixed issue with not being able to click on the settings icon of the Notification Panel if there is an active notification count.
 
-Omnia.Intranet (x.x.xxxxx)
+Omnia.Intranet (1.0.17203)
 ----------------------------------------
 - Fixed issue with the notification count not showing correctly for the default active tab in the notification panel.
 - Fixed issue with the Document Rollup not loading as expected in certain scenarios.
@@ -20,7 +20,7 @@ Omnia.Intranet (x.x.xxxxx)
 - Fixed style issue with selected page in current navigation.
 - Fixed issue with comments not being possible to disabled on a page.
 
-Omnia.DocumentManagement (x.x.xxxxx)
+Omnia.DocumentManagement (1.0.17102)
 ----------------------------------------
 - Fixed issue with superscript and subscript in DOCX being wrong in some scenarios in the published version of a controlled document.
 - Fixed a problem when updating many controlled documents in batch update.
