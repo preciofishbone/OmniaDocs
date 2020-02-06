@@ -86,6 +86,9 @@ Bug Fixes and Small Improvements
 - Fixed issue with Banner Group getting error if special characters is used in the name.
 - It is now possible to save a document type without selecting a default document template.
 - Fixed bug in Aggregated Calendar when the built-in field Category was changed to multi-value.
+- The Script/Html block has been updated with a new look and feel and the possibility to separate HTML, Script and CSS.
+- The Create Page dialog has a new look and feel.
+- It is now possible to check in a page and share it with other authors before it is published.
 - Added possibility to download a document template in Omnia Admin. (DM)
 - Fixed issue that occured in certain environments where it was not possible to find specific documents in the Bulk Update when searching on a person field. (DM)
 - When you create a new draft from the Controlled Documents Viewer, you will now get the same UX as if you create it through the Publish view in the team site. (DM)
