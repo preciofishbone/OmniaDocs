@@ -1,13 +1,10 @@
 Omnia Feed 2.0
 ============================================================================
 
-    
+Omnia feed has received a major technical upgrade. The design is brand new, and the app is prepared for new features throughout the year. 
 
-Enhanced look and feel and improved performance.
-----------------------------------------------------------
+The app can be downloaded on App Store and Google Play. The update is not forced so depending on the setting on the users phone the app will update accordingly.
 
-Support for Omnia for Modern SharePoint.
------------------------------------------------------------
 
 .. image:: omnia-feed-one.png 
     :width: 24%
