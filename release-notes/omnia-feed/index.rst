@@ -10,4 +10,10 @@ Support for Omnia for Modern SharePoint.
 -----------------------------------------------------------
 
 
-.. image:: omnia-feed-one.png .. image:: omnia-feed-two.png .. image:: omnia-feed-three.png .. image:: omnia-feed-four.png
+.. image:: omnia-feed-one.png 
+
+.. image:: omnia-feed-two.png 
+
+.. image:: omnia-feed-three.png 
+
+.. image:: omnia-feed-four.png
