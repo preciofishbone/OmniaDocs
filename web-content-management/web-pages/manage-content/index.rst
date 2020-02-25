@@ -98,7 +98,7 @@ Four different types of items can be added to the list of links:
 + Custom Link
 + Heading
 
-A custom link can be created to anything you can reach through an Url. Headings are use to create sections in a longer link list.
+A custom link can be created to anything you can reach through an Url. A Custom link can also be used to create a mailto link. Headings are use to create sections in a longer link list.
 
 Sort the links
 ------------------

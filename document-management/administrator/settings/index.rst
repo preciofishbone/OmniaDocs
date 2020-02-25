@@ -53,15 +53,9 @@ Here you can set the type of permissions to be used in Controlled Documents libr
 
 Approvers Group
 ***************
-Here you can set the type of permissions to be used in Controlled Documents libraries in the tenant.
+If this option is selected a specific permission group will be created for approvers in every Team Site with a Controlled Documents library. Note that this should normally be selected. Not using permission groups is for specialized implementation only. Also note that you can still set what type of approval to use for each Document Type.
 
-.. image:: authors-controlled.png
-
-+ **Document Authors Group**: This is the default setting. A specific permission group will be used for authors.
-+ **Site Owners**: All site owners will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
-+ **Site Owners and Members**: All site owners and all Members will have permissions to work with Controlled Documents. No specific permission group for authors is needed.
-
-**Note!** This setting is not enabled right away. It will be enabled when the feature "Omnia Document Management Authoring Site" is either activated or updated for a site.
+.. image:: approvers-controlled.png
 
 Retention Manager
 *******************

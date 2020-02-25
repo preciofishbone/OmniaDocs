@@ -67,3 +67,23 @@ The Custom Colors tab
 You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using this tab.
 
 .. image:: notification-custom-colors.png
+
+Notification Panel in Header
+*****************************
+A Notification Panel can also be placed in the Header. It has to be activated in Omnia Admin. When it is, an icon is shown:
+
+.. image:: notification-panel-icon.png
+
+This Notification Panel has it's own settings. Do the following to access them:
+
+1. Edit the page.
+2. Show Settings.
+3. Open the settings for the Notification Panel by clicking the cog wheel.
+
+Something like the following is shown:
+
+.. image:: notification-header-settings.png
+
+These settings works exactly the same as for other Notification Panels, see above.
+
+

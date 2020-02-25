@@ -28,9 +28,9 @@ Enter or edit the name here. The name is displayed when selecting Document profi
 
 .. image:: general-tab-new2.png
 
-The Layouts tab
-****************
-A Template is a prepared document that an author can use as a starting point when creating a document of a certain type. A Template Document can contain as much content as is applicable. Regarding Microsoft Word Document Templates, the prepared document will normally contain a set heading and in some cases a set footer, with fields that can be populated with data when the document is published. See separate section for information on how to create Template Documents: (Link) [Creating a Template Document](/Docs/en-us/creating-a-layout-document/index.html)
+The Templates tab
+*******************
+A Template is a prepared document that an author can use as a starting point when creating a document of a certain type. A Template Document can contain as much content as is applicable. Regarding Microsoft Word Document Templates, the prepared document will normally contain a set heading and in some cases a set footer, with fields that can be populated with data when the document is published. 
 
 There can be one or more templates defined for a Document Profile. Here’s an example:
 
@@ -126,7 +126,7 @@ Use the fields the following way:
 + **Allow multiple selections**: Some fields, for example Person, can in some cases have more than one value. If that is the case for the property you are adding, select this option. (If the option is not applicable, it's not shown.)
 + **Default Value**: Setting a Default Value is always optional. See it as a way to help authors to set correct values. You can set either a fixed value or set that the value from one of the site properties should be used. If it should happen that no data is available in some instances, no default value will then be set.
 
-When you select "Managed Metadata", additional options are displayed:
+When you select "Managed Metadata" as Type, additional options are displayed:
  
 .. image:: add-property-settings-metadata.png
 
