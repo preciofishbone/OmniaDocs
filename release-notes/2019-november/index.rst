@@ -108,3 +108,4 @@ Bug Fixes and Small Improvements
    :titlesonly:
    
    2019-november-patch1/index
+   2019-november-patch2/index
