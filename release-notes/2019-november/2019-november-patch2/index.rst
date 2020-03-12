@@ -2,7 +2,7 @@ Release Notes November 2019 Patch 2
 ========================================
 
 Omnia.Foundation (1.0.17333)
-Omnia.Intranet (1.0.17326)
+Omnia.Intranet (1.0.17359)
 ----------------------------------------
 
 Fixed issues with:
@@ -24,6 +24,9 @@ Fixed issues with:
 - All-tab in My Sites displayed twice.
 - Email notification not being sent when a new comment is added to a page.
 - Omnia Search Center Feature not removing duplicate logos in SharePoint Search Center.
+- Taxonmy fields values not displayed correct when viewing the document information.
+- Date & Time format not being displayed correct for All Day events in the Aggregated Calendar.
+- Showing followed sites on SharePoint OnPremise.
 
 
 Omnia.DocumentManagement (1.0.17308)
