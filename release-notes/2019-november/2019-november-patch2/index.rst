@@ -1,9 +1,8 @@
 Release Notes November 2019 Patch 2
 ========================================
 
-Omnia.Foundation (1.0.17333)
-Omnia.Intranet (1.0.17359)
-----------------------------------------
+Omnia.Foundation (1.0.17333) / Omnia.Intranet (1.0.17359)
+-------------------------------------------------------------
 
 Fixed issues with:
 
