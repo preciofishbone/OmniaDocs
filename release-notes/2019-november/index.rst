@@ -59,6 +59,7 @@ Bug Fixes and Small Improvements
 ----------------------------------
 
 - Fixed an issue with banners floating on top of other blocks in some scenarios.
+- The UI of the Script/HTML block has changed to make it easier to separate CSS, Script and HTML.
 - Possibility to add Alt text in the Media Picker.
 - Fixed issue with tutorial only loading after mouse click in some environments.
 - Fixed word break issues for Firefox in the News Viewer.
