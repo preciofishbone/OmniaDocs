@@ -11,7 +11,7 @@ The following is shown:
 
 .. image:: script-html-content.png
 
-Use the desigated areas for:
+Use the designated areas for:
 
 + **HTML**: Add HTML here.
 + **CSS**: To set CSS for the content in this field, add it here.
