@@ -71,25 +71,26 @@ General Tab
 **************
 The general tab has three fields:
 
-.. image:: manage-content-general-new.png
+.. image:: manage-content-general-new2.png
 
 + **Status**: At the top of the page you can see the status of this particular version of the page. If it says "draft", this version is not published, and therefore not available for others.
 + **Title**: This is a required field and sets the title of the page. (If this is a term-driven page it will set the term title. If it is a physical page, it will set the Title field of the aspx page.)
 + **Summary**: This text will be shown below the title on the page. (If this is a term-driven page, it will set the term description. If it is a physical page, it will set the Comments field on the aspx page.)
-+ **Image**: Browse for an image using the built-in asset picker in SharePoint or enter a url to an external image. The image will be shown on top of the page. Leave blank, if the title should appear on top instead. If the image is internal (stored in the current site collection), a link will appear with the possibility to edit image renditions. Note! The system will automatically add "?RenditionID=1001" to the url when you pick an image using the Browse button. Remove this query string if you want to render the image in original format.
 + **Enable legacy web parts** If Quick Pages is activated, this check box is displayed. Quick Pages loads much, much faster, but legacy web parts can't be used on such pages. If you are about to add a banner or a quick poll to a page, you must see to that this check box is checked.
++ **Image**: Browse for an image using the built-in asset picker in SharePoint or enter a url to an external image. The image will be shown on top of the page. Leave blank, if the title should appear on top instead. If the image is internal (stored in the current site collection), a link will appear with the possibility to edit image renditions. Note! The system will automatically add "?RenditionID=1001" to the url when you pick an image using the Browse button. Remove this query string if you want to render the image in original format.
+
 
 Content Tab
 ************
 The content tab includes a content editor based on [TinyMCE] (https://www.tinymce.com). Click "Edit in Advanced Mode" to use SharePoint content editing instead. Note! If Quick Pages has been activated, Advanced mode is not available. "Edit in Advanced Mode" is missing from the image for that reason.
 
-.. image:: manage-content-content-new.png
+.. image:: manage-content-content-new2.png
 
 Links Tab
 **********
 Using the links tab you can create structured links that will appear on the right-hand side of a page. 
 
-.. image:: manage-content-links-new.png
+.. image:: manage-content-links-new2.png
 
 Four different types of items can be added to the list of links:
 
@@ -116,7 +117,7 @@ Properties Tab
 ****************
 The properties tab displays all page properties that have been configured as editable for the current publishing site. The available properties are configured by an administrator using Omnia Admin. 
 
-.. image:: manage-content-properties-new.png
+.. image:: manage-content-properties-new2.png
 
 Note! If the field "Review Date" is present, you should normally add a suitable date there. Then the page will be indicated in "Content Management" in Omnia Admin, when the date is passed.
 
@@ -124,7 +125,7 @@ Navigation Tab
 ****************
 The navigation tab includes all settings related to navigation for the page.
 
-.. image:: manage-content-navigation-new.png
+.. image:: manage-content-navigation-new2.png
 
 + **Navigation Term title**: By default, the navigation title will be the same as the page title, but it is possible to customize the navigation title. Check the box "Customize" and then change the title. All navigation components will now display this title instead of the page title.
 + **Friendly Url Segment**: The friendly url to the page is built up of segments from all parent nodes in the navigation. The last segment in the url can be edited. By default it is set to the title, but excluding special characters.
@@ -137,15 +138,15 @@ Site Tab
 **********
 The site tab holds information about the current publishing site. It is possible to navigate to the pages library where the physical page is located.
 
-The site permissions part displays all SharePoint groups that have access to the page. Click on "Edit Permissions" to go to the SharePoint UI and add users to the different groups.
+The site permissions part displays all SharePoint groups that have access to the page. Click on "Edit Permissions" to go to the SharePoint UI and add users to the different groups (at the bottom of the page, not shown in the image below).
 
-.. image:: manage-content-site-new.png
+.. image:: manage-content-site-new2.png
 
 Statistics tab
 **************
 Using this tab you can see statistics for the page.
 
-.. image:: manage-content-statistics-vision-pagehits.png
+.. image:: manage-content-statistics-vision-pagehits-new.png
 
 Select "Page Hits" or Unique Visitors". If you select Page Hits you can also select "Include Sub Pages".
 
@@ -155,11 +156,15 @@ Reports
 ********
 Using this tab you can view and export some reports about publishing pages in the tenant.
 
-.. image:: manage-content-reports-border.png
+.. image:: manage-content-reports-tab.png
+
+Something like the following can be shown:
+
+.. image:: manage-content-reports-new.png
 
 Use the left-most list to select report:
 
-.. image:: manage-content-reports-list.png
+.. image:: manage-content-reports-list-new.png
 
 + **Usage**: Lists the most viewed pages.
 + **Review**: Lists the pages that needs review.
@@ -167,31 +172,32 @@ Use the left-most list to select report:
 
 You can use the other fields at the top to filter a list:
 
-.. image:: manage-content-reports-list-filter.png
+.. image:: manage-content-reports-list-filter-new.png
 
 Use the button to the far right to export the chosen list (filtered if you have done that) to Excel.
 
-.. image:: manage-content-reports-list-export-excel.png
+.. image:: manage-content-reports-list-export-excel-new.png
 
 If the list is long, use the navigation below the list, the navigate to any page within the report.
 
-.. image:: manage-content-reports-navigate-pages-border.png
+.. image:: manage-content-reports-navigate-pages-border-new.png
 
-Edit - Save - Publish 
-**********************
+Edit - Save - Check in - Publish 
+***********************************
 If you open the Manage Content UI by clicking on the "Quick Edit" button on a web page, then it will automatically be checked out and ready for editing.
 
 If you click on a page in the navigation structure in the Manage Content UI and the page is not checked out to you, you need to click on "Edit" to start editing.
 
 .. image:: editbutton.png
 
-If you click on "Save", all changes will be saved, but the page will still be checked out to you.
+The following options are avilable for saving (or not):
 
-If you click on "Undo Changes", any changes made since the last save will be discarded and the page will be checked in.
+.. image:: saving.png
 
-If you click on "Publish", the page will be published. Note! The page will not be shown in any navigation components until it has been published at least once.
-
-.. image:: savepublishbuttons.png
++ **Save**: All changes will be saved, but the page will still be checked out to you.
++ **Undo Changes**: Any changes made since the last save will be discarded and the page will be checked in.
++ **Check in**: All changes will saved and the page will be checked in so other authors can see the changes.
++ **Publish**: The page will be published. Note! The page will not be shown in any navigation components until it has been published at least once.
 
 If you want to preview changes before you publish a page, you need to save the changes and then click on "Open Page". The page will now be opened in a separate tab.
 
@@ -220,7 +226,7 @@ Translations
 *************
 It may be possible to work with the content in several languages. If it is, you can select language while editing a page:
 
-.. image:: translation-1-new.png
+.. image:: translation-1-new2.png
 
 If the page already exists in the selected language, it is displayed and you can continue working on the content.
 
@@ -234,7 +240,7 @@ You can now edit the language edition of the page the normal way. Note that ever
 
 When you are finished, you publish the language edition the same way as for the master page, but now the button is named "Publish Translation". If something went wrong, you can delete the language edition of the page.
 
-.. image:: translation-3-new.png
+.. image:: translation-3-new2.png
 
 Restore a page to the Navigation Menu
 ***************************************
