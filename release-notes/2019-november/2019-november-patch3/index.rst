@@ -21,7 +21,7 @@ Fixed issues with:
 
 
 
-Enhancements - "Due to the ongoing, unprecedented situation we have done the following improvements in Omnia:"
+Enhancements - "We have done the following improvements to try and mitigate the issues e.g. throttling and service interruptions, caused by the unprecedented demand on Microsoft Services due to COVID-19 pandemic:"
 
 - Omnia will now display an informational message when it has problems connecting to SharePoint Services.
 - Improvements regarding CSOM calls to SharePoint with enhanced retry logic.
