@@ -12,7 +12,7 @@ Fixed issues with:
 - Combo boxes rendering issues in some browsers.
 - Showing the number of comments after comment deletion. (#115908)
 - Problems with duplicate comments added. (#117538, #117564, #117497)
-- Showing new term values added using the taxonomy picker. (#117516)
+- Adding and showing new term value using the taxonomy picker. (#117516)
 - Showing the date value in the document rollup. (#117597, #117627)
 - News Viewer filtering on special characters. (#116308)
 - Size of Important Announcements text. 
