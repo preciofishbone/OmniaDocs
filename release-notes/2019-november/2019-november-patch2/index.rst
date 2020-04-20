@@ -23,13 +23,10 @@ Fixed issues with:
 - All-tab in My Sites displayed twice.
 - Email notification not being sent when a new comment is added to a page.
 - Omnia Search Center Feature not removing duplicate logos in SharePoint Search Center.
-- Taxonmy fields values not displayed correct when viewing the document information.
-- Date & Time format not being displayed correct for All Day events in the Aggregated Calendar.
+- Taxonmy fields values not displayed correct when viewing the document information.(#117180)
+- Date & Time format not being displayed correct for All Day events in the Aggregated Calendar.  (#117151)
 - Showing followed sites on SharePoint OnPremise.
 - Issues with news targeting for some customers (#117353,#117446,#117388)
-- Taxonomy Field Values not being displayed correct in document rollup (#117180)
-- Time not being displayed correct for all day events in Aggregated Calendar (#117151)
-- Displaying Followed Sites in SharePoint On-Premise environments.
 
 
 Omnia.DocumentManagement (1.0.17308)
