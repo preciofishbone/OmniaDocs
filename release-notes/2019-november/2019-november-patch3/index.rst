@@ -34,7 +34,7 @@ Omnia.DocumentManagement (1.0.17461-411)
 Fixed issues with:
 
 - Document types not showing up correct in document type picker. (#117986)
-- Issues with SVG files using special characters. (#116934)
+- Issues with SVG files using special characters in file name. (#116934)
 
 
 Quality.Management.System (1.0.17414-204)
