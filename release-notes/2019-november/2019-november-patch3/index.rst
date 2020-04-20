@@ -7,11 +7,11 @@ Omnia.Foundation (1.0.17479-218) / Omnia.Intranet (1.0.17518-224)
 Fixed issues with:
 
 
-- Adding comments on mobile devices. (#115782,#118342)
+- Adding comments using mobile devices. (#115782,#118342)
 - Adding links to documents in a Banner Block when on a sub publishing site. 
-- Combo boxes not showing correct in some browsers.
-- Showing the number of comments after deletion. (#115908)
-- Problems with duplicate comments. (#117538, #117564, #117497)
+- Combo boxes rendering issues in some browsers.
+- Showing the number of comments after comment deletion. (#115908)
+- Problems with duplicate comments added. (#117538, #117564, #117497)
 - Showing new term values added using the taxonomy picker. (#117516)
 - Showing the date value in the document rollup. (#117597, #117627)
 - News Viewer filtering on special characters. (#116308)
