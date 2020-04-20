@@ -26,9 +26,9 @@ Fixed issues with:
 - Taxonmy fields values not displayed correct when viewing the document information.
 - Date & Time format not being displayed correct for All Day events in the Aggregated Calendar.
 - Showing followed sites on SharePoint OnPremise.
-- Issues with news targeting for some customers [117353], [117446], [117388]
-- Taxonomy Field Values not being displayed correct in document rollup [117180]
-- Time not being displayed correct for all day events in Aggregated Calendar [117151]
+- Issues with news targeting for some customers (#117353,#117446,#117388)
+- Taxonomy Field Values not being displayed correct in document rollup (#117180)
+- Time not being displayed correct for all day events in Aggregated Calendar (#117151)
 - Displaying Followed Sites in SharePoint On-Premise environments.
 
 
