@@ -7,10 +7,10 @@ Release Notes 28.0.0 (Preview)
 New Features
 ---------------------------------
 
-Important Announcments Rich Text Support
+Important Announcements  Rich Text Support
 ************************************************
 
-We now support Rich Text in Important Accouncements. 
+We now support Rich Text in Important Announcements. 
 
 .. image:: important-announcements-rte.png
 
@@ -33,7 +33,7 @@ A new block has been added that makes it easy to add media to other areas of the
 
 Improved Managed Content
 ************************************************
-It is now possible to move a page with children to another location in the struture. Simply choose to move like before and follow the steps to move a page and its children. 
+It is now possible to move a page with children to another location in the structure. Simply choose to move like before and follow the steps to move a page and its children. 
 If the target location is connected to a specific publishing site, you will get prompted to choose to move the selected page and its children physical pages to the new publishing site or just move the navigation nodes.
 
 .. image:: move-pages.png
@@ -43,7 +43,7 @@ Improved Mega Menu
 ************************************************
 (#107044)
 
-It is now possible to set the sorting of columns in the mega menu to use the same sorting as shown in Managed Content. Simply turn of the "Enable auto arrange collumns" to enable custom sorting.
+It is now possible to set the sorting of columns in the mega menu to use the same sorting as shown in Managed Content. Simply turn of the "Enable auto arrange columns" to enable custom sorting.
 
 .. image:: cross-site-mega-menu.png
 
@@ -57,8 +57,9 @@ Omnia can now be displayed in Microsoft Teams to enhance your digital workplace 
 
 .. image:: omnia-ms-teams.png
 
-Improved Search Experince
+Improved Search Experience
 ************************************************
+(#109309, #107344, #108063)
 A new way of showing search results has been introduced. This new mode is more flexible and provides a better search experience for end user. 
 
 You can now preview pages & documents directly in the search result before opening them.
@@ -70,7 +71,7 @@ The new advanced search flyout offers a more detailed search experience with sup
 
 Change portal display Language
 ************************************************
-Its now possible to see the page content, current and mega menu in a other available languanges. Users can choose what languange to see the portal in the Omnia Header.
+Its now possible to see the page content, current and mega menu in a other available languages. Users can choose what language to see the portal in the Omnia Header.
 
 .. image:: portal-lang.png
 
@@ -106,33 +107,45 @@ Enhancements
 - Omnia look & feel improvements. (#106917)
 - Profile Completion: Display message informing user that a change to the profile image cant be reverted after a new image is uploaded. (#106298)
 - Navigation node hover text translation support. (#101774)
+- You can now disable support for legacy pages and hide the option in Manage Content. (#102851)
 
 
+Omnia Document Management
+
+- Read receipt support when publishing ODM documents. (#110992)
+- Get a link to a document from ODM blocks. (#113605)
+- Show more information when hovering taxonomy values in ODM block. (#114454)
 
 
 Fixes
 ------------------------------------
 
 - Various IE11 improvement. (#116572, #114995)
-- Taxonomy Field Values displayed as Chip issues.(#115280)
+- Taxonomy Field Values displayed as Chip issues. (#115280)
 - Quick Search: URL problems for Quick Pages. (#106336, #111441)
 - Aggregated Calendar rendering issues. (#114137)
 - User Feed - Show more issues. (#115914)
 - Related links and open in Office Web Apps settings issues. (#112240)
-- Issues with navigation nodes in menga menu. (#111091, #105853)
+- Issues with navigation nodes in mega menu. (#111091, #105853)
 - Issues with missing site icons in My Sites. (#106260)
 - Button positions in create / request sites dialog. (#106971, #103230)
 - Issue with access denied when working with images in Banner block. (#116688)
 - Issue with Omnia footer in dialog windows. (#117219)
-- Showing the correct translation languange e.g. English English Canadian. (#111534)
-- Aggregated Calendar various fixes. (#113991, #106644, #108949, #109988, 107054)
+- Showing the correct translation language e.g. English English Canadian. (#111534)
+- Aggregated Calendar various fixes. (#113991, #106644, #108949, #109988, #107054, #113200)
 - Cant remove link in content editor using RTE editor. (#112781)
 - Improvements to Site Template Properties management in Omnia Admin. (#112124)
-- News Center page shown in trending pages block. (#115911)
+- News Centre page shown in trending pages block. (#115911)
 - Swedish translation of Enterprise Keywords, rendering issues. (#112453)
 - Swedish translation of Review date, rendering issues. (#102238)
 - Showing completed tasks in My Tasks. (#119617)
 - Last updated documents shows documents form sites not followed by the user. (#114614)
+- Issues with scheduled publishing and prompt messages. (#116488)
+- Issues with navigation in mobile devices. (#116938)
+- Sites not getting the correct Icon from Site Template settings. (#108707)
+- Issues with Quick Search All Sites Scope. (#112351)
+- Issue with related links icons not rendering correct. (#114416)
+- Quick Search: Better support for wildcard search. (#108186, #107165)
 
 
 Omnia Document Management
@@ -143,6 +156,7 @@ Omnia Document Management
 - Issue with showing the correct file type icon. (#115372)
 - Saving issues with "/" charachter in document name. (#114820)
 - Issues when updating column settngs on ODM block. (#108701)
+
 
 Quality Management System
 
