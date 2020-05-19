@@ -78,15 +78,13 @@ Its now possible to see the page content, current and mega menu in a other avail
 
 Improved Page Review Workflow
 ************************************************
-We have improved page review workflow to make it more flexible. 
-
-You can now configure specific page review for different publishing sites with different rule and notification settings.
+We have improved page review workflow to make it more flexible. You can now configure specific page review for different publishing sites with different rule and notification settings.
 
 .. image:: review-admin.png
 
 A message is displayed on the page that the review date is surpassed. An author can quickly set a new review date for a page directly from the page.
 
-.. image:: review:-notification.png
+.. image:: review-notification.png
 
 Find and update all pages and needs review in Manage Content Review Reports.
 
@@ -104,8 +102,8 @@ Enhancements
 - Several improvements to align with WCAG 2.1 AA. (#114277)
 - Improved behaviour of Request Access for Office 365 Groups.
 - Pre-Allocate height for Omnia Header on SharePoint Team Sites.
-- Omnia document Management: Review job will now self heal if something went wrong during previous runs.
-- Omnia look & feel improvements. (#106917)
+- Omnia document Management: Review job will now try to self heal if something went wrong during previous runs.
+- Omnia blocks small look & feel improvements. (#106917)
 - Profile Completion: Display message informing user that a change to the profile image cant be reverted after a new image is uploaded. (#106298)
 - Navigation node hover text translation support. (#101774)
 - You can now disable support for legacy pages and hide the option in Manage Content. (#102851)
@@ -163,11 +161,3 @@ Quality Management System
 
 - Filtering on QMS Issues not working as expected. (#113016)
 - Issues with saving changes to QMS processes. (#109411)
-
-
-.. toctree::
-   :titlesonly:
-   
-   2019-november-patch1/index
-   2019-november-patch2/index
-   2019-november-patch3/index
