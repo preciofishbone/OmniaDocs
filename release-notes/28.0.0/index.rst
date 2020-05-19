@@ -60,12 +60,13 @@ Omnia can now be displayed in Microsoft Teams to enhance your digital workplace 
 Improved Search Experience
 ************************************************
 (#109309, #107344, #108063)
+
 A new way of showing search results has been introduced. This new mode is more flexible and provides a better search experience for end user. 
 
 You can now preview pages & documents directly in the search result before opening them.
 Configure what to display in the quick and advanced search area. 
 
-.. image:: search-quick-preview-page
+.. image:: search-quick-preview-page.png
 
 The new advanced search flyout offers a more detailed search experience with support for refiners without having the user leave their current context. 
 
