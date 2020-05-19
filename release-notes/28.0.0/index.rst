@@ -66,9 +66,11 @@ A new way of showing search results has been introduced. This new mode is more f
 You can now preview pages & documents directly in the search result before opening them.
 Configure what to display in the quick and advanced search area. 
 
-.. image:: search-quick-preview-page.png
+.. image:: omnia-modern-search-quick.png
 
 The new advanced search flyout offers a more detailed search experience with support for refiners without having the user leave their current context. 
+
+.. image:: omnia-modern-search-advanced.png
 
 Change portal display Language
 ************************************************
@@ -145,6 +147,8 @@ Fixes
 - Issues with Quick Search All Sites Scope. (#112351)
 - Issue with related links icons not rendering correct. (#114416)
 - Quick Search: Better support for wildcard search. (#108186, #107165)
+- Problems with RSS feed not displaying correct. (#116399)
+- Issue with Member of view in My sites. (#112432, #115548, #113141)
 
 
 Omnia Document Management
@@ -155,6 +159,7 @@ Omnia Document Management
 - Issue with showing the correct file type icon. (#115372)
 - Saving issues with "/" charachter in document name. (#114820)
 - Issues when updating column settngs on ODM block. (#108701)
+- Problem with legacy mode on authoring sites when using modern pages. (#119489)
 
 
 Quality Management System
