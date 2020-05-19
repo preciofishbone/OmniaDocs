@@ -15,7 +15,7 @@ We now support Rich Text in Important Announcements.
 .. image:: important-announcements-rte.png
 
 
-When Rich Text is added to an Important Announcement a "show more >>" link is displayed in the notification message in the header.
+When Rich Text is added to an Important Announcement a "Show more >>" link is displayed in the notification message in the header.
 
 
 .. image:: important-announcements-notification.png
@@ -27,7 +27,7 @@ Click on the link to open the announcement in a dialog window for more informati
 Media Block
 ************************************************
 
-A new block has been added that makes it easy to add media to other areas of the page. Add the block to the page in Edit Page mode and select the media you would like to display
+A new block has been added that makes it easy to show images and videos. Add the Media block to the page/layout in Edit Page mode and select the media you would like to display to the end user. 
 
 .. image:: media-block.png
 
