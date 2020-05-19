@@ -10,7 +10,7 @@ New Features
 Important Announcements  Rich Text Support
 ************************************************
 
-We now support Rich Text in Important Announcements. 
+It is now possible to add Rich Text content to an Important Announcements.
 
 .. image:: important-announcements-rte.png
 
@@ -20,7 +20,7 @@ When Rich Text is added to an Important Announcement a "Show more >>" link is di
 
 .. image:: important-announcements-notification.png
 
-Click on the link to open the announcement in a dialog window for more information.
+Users can click on the link to open the announcement in a dialog window for more information.
 
 .. image:: important-announcements-dialog.png
 
@@ -34,7 +34,7 @@ A new block has been added that makes it easy to show images and videos. Add the
 Improved Managed Content
 ************************************************
 It is now possible to move a page with children to another location in the structure. Simply choose to move like before and follow the steps to move a page and its children. 
-If the target location is connected to a specific publishing site, you will get prompted to choose to move the selected page and its children physical pages to the new publishing site or just move the navigation nodes.
+If the target location is connected to a specific publishing site, you will get prompted to choose if you want to move the physical pages of the selected page and its children to the new publishing site or just move the navigation nodes.
 
 .. image:: move-pages.png
 
@@ -74,7 +74,7 @@ The new advanced search flyout offers a more detailed search experience with sup
 
 Change portal display Language
 ************************************************
-Its now possible to see the page content, current and mega menu in a other available languages. Users can choose what language to see the portal in the Omnia Header.
+Its now possible to see the page content, current and mega menu in a other available languages. Users can choose which language to render the portal content in via the Omnia Header.
 
 .. image:: portal-lang.png
 
