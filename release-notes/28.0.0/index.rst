@@ -43,7 +43,7 @@ Improved Mega Menu
 ************************************************
 (#107044)
 
-It is now possible to set the sorting of columns in the mega menu to use the same sorting as shown in Managed Content. Simply turn of the "Enable auto arrange columns" to enable custom sorting.
+It is now possible to set the sorting of columns in the mega menu to use the same sorting as shown in Managed Content. Simply turn off the "Enable auto arrange columns" to enable custom sorting.
 
 .. image:: cross-site-mega-menu.png
 
