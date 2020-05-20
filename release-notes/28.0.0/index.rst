@@ -27,13 +27,13 @@ Users can click on the link to open the announcement in a dialog window for more
 Media Block
 ************************************************
 
-A new block has been added that makes it easy to show images and videos. Add the Media block to the page/layout in Edit Page mode and select the media you would like to display to the end user. 
+A new block has been added that makes it easy to show images and videos. Add the Media block to the page/layout and select the media you would like to display to the end user. 
 
 .. image:: media-block.png
 
 Improved Managed Content
 ************************************************
-It is now possible to move a page with children to another location in the structure. Simply choose to move like before and follow the steps to move a page and its children. 
+It is now possible to move a page with children to another location in the structure. Simply choose to move and follow the steps to move a page and its children. 
 If the target location is connected to a specific publishing site, you will get prompted to choose if you want to move the physical pages of the selected page and its children to the new publishing site or just move the navigation nodes.
 
 .. image:: move-pages.png
@@ -74,13 +74,13 @@ The new advanced search flyout offers a more detailed search experience with sup
 
 Change portal display Language
 ************************************************
-Its now possible to see the page content, current and mega menu in a other available languages. Users can choose which language to render the portal content in via the Omnia Header.
+Its now possible to see the page content, current and mega menu in other available languages. Users can choose which language to render the portal content in via the Omnia Header.
 
 .. image:: portal-lang.png
 
 Improved Page Review Workflow
 ************************************************
-We have improved page review workflow to make it more flexible. You can now configure specific page review for different publishing sites with different rule and notification settings.
+We have improved page review workflow to make it more flexible. You can now have a specific page review settings for each available publishing site.
 
 .. image:: review-admin.png
 
@@ -88,7 +88,7 @@ A message is displayed on the page that the review date is surpassed. An author 
 
 .. image:: review-notification.png
 
-Find and update all pages and needs review in Manage Content Review Reports.
+Find and update all pages and that needs content review in Manage Content Reports: Review view.
 
 .. image:: review-report.png
 
@@ -109,6 +109,7 @@ Enhancements
 - Profile Completion: Display message informing user that a change to the profile image cant be reverted after a new image is uploaded. (#106298)
 - Navigation node hover text translation support. (#101774)
 - You can now disable support for legacy pages and hide the option in Manage Content. (#102851)
+- Quick Search: Better support for wildcard search. (#108186, #107165)
 
 
 Omnia Document Management
@@ -146,7 +147,6 @@ Fixes
 - Sites not getting the correct Icon from Site Template settings. (#108707)
 - Issues with Quick Search All Sites Scope. (#112351)
 - Issue with related links icons not rendering correct. (#114416)
-- Quick Search: Better support for wildcard search. (#108186, #107165)
 - Problems with RSS feed not displaying correct. (#116399)
 - Issue with Member of view in My sites. (#112432, #115548, #113141)
 
