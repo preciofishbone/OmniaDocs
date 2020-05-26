@@ -110,6 +110,7 @@ Enhancements
 - Navigation node hover text translation support. (#101774)
 - You can now disable support for legacy pages and hide the option in Manage Content. (#102851)
 - Quick Search: Better support for wildcard search. (#108186, #107165)
+- Possible to show more information about users in quick search. (#105955)
 
 
 Omnia Document Management
@@ -149,6 +150,7 @@ Fixes
 - Issue with related links icons not rendering correct. (#114416)
 - Problems with RSS feed not displaying correct. (#116399)
 - Issue with Member of view in My sites. (#112432, #115548, #113141)
+- Rendering issues for Banner block on mobile devices. (#112436)
 
 
 Omnia Document Management
