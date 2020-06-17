@@ -1,4 +1,4 @@
-Release Notes 28.0.0 (Preview)
+Release Notes 28.0.0
 ========================================
 *NOTE: Items might be added, altered or removed.*
 
