@@ -209,7 +209,7 @@ If the page has children (sub pages), you move the page and all sub pages in one
 
 Click on "Move Page" and select a target parent page. 
 
-.. image: move-example.png
+.. image:: move-example.png
 
 If the target parent page is in the same publishing site, the page will be moved to the new location without any further options. If the target parent page is in another publishing site, there are two options:
 
