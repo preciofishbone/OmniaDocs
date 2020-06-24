@@ -9,7 +9,7 @@ Settings
 **********
 The following settings are available for the control:
 
-.. image:: cross-sites-mega-menu-settings.png
+.. image:: cross-sites-mega-menu-settings-new.png
 
 The General tab
 ----------------
@@ -17,6 +17,9 @@ On this tab you can set the following:
 
 + **Static Display Levels**: Defines the number of levels in the navigation term set that will always be displayed in the menu.
 + **Dynamic Display Levels**: Defines the number of levels in the navigation term set that should be displayed in the mega menu when a user clicks an item in the static menu.
++ **Enable Auto Arrange**: The columns in the mega menu can be sorted automatically (default) or the same way as shown in the navigation when you edit pages. If you would the latter, deselect this option. 
+**Maximum number of columns**: Set the number of columns to be shown in each "row" of the menu. Available only when the opton above is turned off.
+**Mega menu maximum height and width**: Here you can set a specific height and width for the navigation flyout area.
 + **Show mobile parents siblings**: To save space in a mobile environment, this option can be used to select not to show the sub options (siblings) to the main heading (parent).
 + **Allow external users**: If the mega menu should be displayed for external users as well, this option must be selected. Otherwise external users may experience a CTD.
 
