@@ -1,5 +1,5 @@
-Quick Search
-===========================
+Quick Search and Advanced Search
+====================================
 
 .. toctree::
    :titlesonly:
@@ -32,7 +32,7 @@ Here's an example of a page preview:
 
 .. image:: search-page-preview.png
 
-Users can select "Advanced Search" to go to Enterprise Search Center for a more detailed search.
+Users can click a link to go to Advanced search (what the link actually is called can be set).
 
 .. image:: advanced-search-link.png
 
@@ -42,7 +42,7 @@ Here's an advanced search example:
 
 .. image:: advanced-search-example.png
 
-The search result is no divided into three tabs. Refiners can alos be available, if set up (see below).
+The search result is now divided into three tabs. Refiners can also be available, if set up (see below).
 
 Settings for the control
 *************************
@@ -54,7 +54,7 @@ The Search Config tab
 ----------------------
 The following can be set here:
 
-+ **Search Categories**: Available search sategories are listed. You can edited or delete them using the icons. New search categories can be created, see below. Search categories are used to divide the Quick search result an d to be displayed as tabs in the Advances search.
++ **Search Categories**: Available search categories are listed. You can edit or delete them using the icons. New search categories can be created, see below. Search categories are used to divide the Quick search result and to be displayed as tabs in the Advanced search.
 + **Search Templates**: Available search templates are listed. (More information will be added soon).
 
 Create a new Search category
@@ -68,10 +68,10 @@ Use these settings to create the category:
 .. image:: search-new-category.png
 
 1. Add a name for the search category under Title.
-2. Select a search resulta source from the list.
+2. Select a search result source from the list.
 3. Type the search query. (More information will added about this soon).
 4. Decide if search result will take wild card characters into account.
-5. Select one or more Search templates. (More information will be added sbout this soon).
+5. Select one or more search templates. (More information will be added sbout this soon).
 6. Save the new search category.
 
 The Quick Search tab
@@ -81,7 +81,7 @@ You can set the following on this tab:
 .. image:: quick-search-settings-quick.png
 
 + **Search Categories**: The selected search categories for Quick search are listed. You can add or remove categories using the list to the right.
-+ **Title/Row limit**: For each selected search category can set the number of search results to be shown for each category. **Important note!** This setting is valid for Quick search only. When a user chooses to display the Advanced search, all search results are shown there per category.
++ **Title/Row limit**: For each selected search category you can set the number of search results to be shown. **Important note!** This setting is valid for Quick search only. When a user chooses to display the Advanced search, all search results are shown there per category.
 
 The Advanced Search tab
 ------------------------
@@ -89,13 +89,13 @@ Here you handle settings for Advanced search:
 
 .. image:: search-settings-advanced.png
 
-+ **Use Sharepoint Search Center**: If you want to use a Sharepoint Search Center instead of Omnias, select this option.
++ **Use Sharepoint Search Center**: If you want to use a Sharepoint Search Center instead, select this option.
 + **Sharepoint Search Center Url**: To be able to use a Sharepoint Search Center, you must add the Url here.
-+ **Refiner position**: Refiners can be shown to the left ot to the right, default setting is left. Note that for any refiners to be shown you must add refiners, see below. 
++ **Refiner position**: Refiners can be shown to the left or to the right. Default setting is left. Note that for any refiners to be shown you must add refiners, see below. 
 + **Search Categories**: The selected search categories for Advanced search are listed. You can add or remove categories using the list to the right.
 + **Title, Item Per Page, Refiners**: Existing settings for search categories are shown here. To edit the settings, click the pen.
 
-The following settings are avilable for a search category (valid for Advanced searh only):
+The following settings are avilable for a search category (valid for Advanced search only):
 
 .. image:: search-settings-advanced-details.png
 
@@ -117,7 +117,7 @@ To add a new refiner, do the following:
 5. Click Save.
 6. Click Save on the main settings page as well (very important, or your changes may not be saved!)
 
-Here's an example of an Advanced search with Document Owner as refiner at the left. Also note the navigation at the bottom.
+Here's an example of an Advanced search flyout with Document Owner as refiner at the left. Also note the navigation at the bottom.
 
 .. image:: advanced-search-navigation.png
 
