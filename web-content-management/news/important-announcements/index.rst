@@ -108,9 +108,9 @@ To target an Important Announcement, do the following:
 
 .. image:: important-announcements-targeted.png
 
-The High Priority Announcements Block
+High Priority Announcements settings
 ***************************************
-There are som settings available for the High Priority Announcements Block. It can be reached by the cog wheel here:
+There are som settings available for High Priority Announcements. It can be reached by the cog wheel here:
 
 .. image:: high-priority-announcements-settings-cogwheel.png
 
