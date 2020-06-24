@@ -203,12 +203,15 @@ If you want to preview changes before you publish a page, you need to save the c
 
 Move Page
 ***********
-There are two prerequisites in order to be able to move a page in the navigation structure:
+To be able to move a page, it must be checked out, meaning you must edit the page.
 
-+ The page needs to be checked out. pp
-+ The page cannot have any children.
+If the page has children (sub pages), you move the page and all sub pages in one go.
 
-Click on "Move Page" and select a target parent page. If the target parent page is in the same publishing site, the page will be moved to the new location without any further notice. If the target parent page is in another publishing site, there are two options:
+Click on "Move Page" and select a target parent page. 
+
+.. image: move-example.png
+
+If the target parent page is in the same publishing site, the page will be moved to the new location without any further options. If the target parent page is in another publishing site, there are two options:
 
 + Keep the physical page in the source publishing site and move the navigation node.
 + Move the physical page to the target publishing site.
