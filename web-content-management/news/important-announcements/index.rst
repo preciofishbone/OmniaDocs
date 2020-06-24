@@ -63,14 +63,26 @@ New Important Announcement
 ----------------------------
 To add a new Important Announcement, click the link "Add Important Announcement" and the following is shown:
 
-.. image:: new-important-announcements.png
+.. image:: new-important-announcements-new.png
 
-1. Add a Title and a Description.
-2. Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages, and in the Notification panel. Important Announcements with Normal priority will be displayed in the notification panel only.
-3. Set the order for this Imortant Announcement when there are several displayed.
-4. Set the start and end date of the Important Announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.
-5. Decide to allow comments or not. The default is to allow comments. If allowed, users can add comments, and even comment other comments (and so can you of course) the same way as for example for news.
-6. Decide to let users close an announcement when it's read, or not (only applicable for High priority announcements). Default is on. A good reason to have this option active is that when an announcement is closed, the user can't see any new comments. You can for example use comments to inform about developments and when the problem is solved.
+1. Add a Title and a Summary.
+2. Add an image if you wish. This image is used in the details dialog, see below for an example.
+3. Add a description if needed (Detail). Shown for High priority announcements and used in the header only. Here you can use Rich Text for formatting. If you add content here a Show more link is shown in the message, that users can click on to read the details. See images below for an example.
+4. Set the Priority. Important Announcements with High priority will be displayed below the cross site mega menu on all pages, and in the Notification panel. Important Announcements with Normal priority will be displayed in the notification panel only.
+5. Set the order for this Imortant Announcement when there are several displayed.
+6. Set the start and end date of the Important Announcement. You can set exact times within the dates if needed. Start and end dates are optional, but we recommend that you always at least set an end date.
+7. Choose Type and Status if needed.
+8. Decide to allow comments or not. The default is to allow comments. If allowed, users can add comments, and even comment other comments (and so can you of course) the same way as for example for news.
+9. Decide to let users close an announcement when it's read, or not (only applicable for High priority announcements). Default is on. A good reason to have this option active is that when an announcement is closed, the user can't see any new comments. You can for example use comments to inform about developments and when the problem is solved.
+10. You can also target the Important Announcement. See below (Heading "Targeting").
+
+When details are added to an Important Announcement a "Show more" link is added. Here's an example:
+
+.. image:: important-detail-more.png
+
+When a user clicks the link the detailed text is shown, for example:
+
+.. image:: important-detail-shown.png
 
 Edit and republish
 -------------------
