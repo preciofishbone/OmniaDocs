@@ -203,11 +203,11 @@ If you want to preview changes before you publish a page, you need to save the c
 
 If you forgot to save
 ------------------------
-If you leave a page youk have edited, without having saved the changes, the following message is shown:
+If you leave a page you have edited, without having saved the changes, the following message is shown:
 
 .. image:: page-not-saved.png
 
-You can click "Cancel" to continue editing, save the normal way or do any of the other normal actions. When you click "OK" the following is shown:
+You can click "Cancel" to continue editing, and then save the normal way or do any of the other normal actions. When you click "OK" the following is shown:
 
 .. image:: page-not-saved-options.png
 
