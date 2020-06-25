@@ -12,3 +12,5 @@ Available languages are shown, for example:
 If another language is selected, the flag changes to indicate that.
 
 .. image:: language-other.png
+
+Default language can also be chosen, and that is the language that is defined for the user in Sharepoint.
