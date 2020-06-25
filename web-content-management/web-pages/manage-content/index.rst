@@ -201,6 +201,18 @@ The following options are avilable for saving (or not):
 
 If you want to preview changes before you publish a page, you need to save the changes and then click on "Open Page". The page will now be opened in a separate tab.
 
+If you forgot to save
+------------------------
+If you leave a page youk have edited, without having saved the changes, the following message is shown:
+
+.. image:: page-not-saved.png
+
+You can click "Cancel" to continue editing, save the normal way or do any of the other normal actions. When you click "OK" the following is shown:
+
+.. image:: page-not-saved-options.png
+
+Choose what you want to do and click "OK".
+
 Move Page
 ***********
 To be able to move a page, it must be checked out, meaning you must edit the page.
