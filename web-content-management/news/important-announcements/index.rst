@@ -1,17 +1,15 @@
 Important Announcements
 ===========================
 
-Important Announcements are displayed in the Important Announcements control, in the Notification panel. Important Announcements can  have Normal priority or High priority.
+Important Announcements can have Normal priority or High priority.
 
-The end user experience
-***********************
 All Important Announcements messages are shown in the the Notification panel, for example:
 
 .. image:: important-announcements-notification-panel-frame.png
 
-Imnportant Announcements with Normal priority are shown in the Notification panel only. Important Announcements with High priority are displayed below the cross site mega menu on all pages in the intranet, both publishing pages and team sites.
+Imnportant Announcements with Normal priority are shown in the Notification panel only. Important Announcements with High priority are displayed below the cross site mega menu on all pages in the intranet, both publishing pages and team sites, as well as in the Notification panel.
 
-When the message has been read, the user can choose to close the message by clicking he x, if it is allowed. In the settings for each important announcement, the editor can set if the user will be able to close the message manually.
+When the message has been read, the user can choose to close the message by clicking the x, if it is allowed. In the settings for each important announcement, the editor can set if the user will be able to close the message manually.
 
 .. image:: high-important-message.png
 
@@ -110,13 +108,13 @@ To target an Important Announcement, do the following:
 
 High Priority Announcements settings
 ***************************************
-There are som settings available for High Priority Announcements. It can be reached by the cog wheel here:
+There are some settings available for High Priority Announcements. It can be reached by the cog wheel here:
 
 .. image:: high-priority-announcements-settings-cogwheel.png
 
-The following settings are available:
+You can set the following here:
 
 .. image:: high-priority-announcements-settings.png
 
-+ **Poll interval (minutes)**: Set a time interval in minutes on how often the page should poll for new announcements. Default=5 minutes.
++ **Poll interval (minutes)**: Set a time interval in minutes for how often the page should poll for new announcements. Default=5 minutes.
 + **Background color** and **Text color**: You should primarily set colors through Theme colors in Omnia Admin (System/Settings/Default colors). If you still would like custom colors for the control, you can set them using these two options.
