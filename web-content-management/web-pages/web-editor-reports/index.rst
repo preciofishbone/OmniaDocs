@@ -65,7 +65,7 @@ Then the following can be set:
 + **Notification Icon**: You can also select an icon for the notification - Built in or Custom, and then select icon. If you select "Custom", you can choose any image as icon. 
 + **Enable Quick Review**: Select to enable Quick Review or not. If Quick Review is active, the link "here" is shown in the notification (see above) so the editor can change review directly. If this option is not active the notification is slightly different. See below for an example.
 + **In Advance Email Review Reminder**: Select this option if the review responsible should be notified before review date has passed, and then set the number of days.
-+ **Review Reminder Report Interval**: If this option is not active, the review responsible will be notified once for each site that needs to be reviewed. If you activate this option, you set the number of days, months or years for the interval between notifications for the review reminder report. This means the review responsiböe will receive reminders if a site is not reviewed.
++ **Review Reminder Report Interval**: If this option is not active, the review responsible will be notified once for each site that needs to be reviewed. If you activate this option, you set the number of days, months or years for the interval between notifications for the review reminder report. This means the review responsible will receive additional reminders if a site is not reviewed.
 
 The review notification on the page can look like this when Enable Quick Review is NOT active:
 
