@@ -29,13 +29,27 @@ The editor can just click "Update" and it's done!
 
 Page Review settings
 ----------------------
-Under "Content Managament" in Omnia Admin, an administrator can handle a number of settings for page review. Note that these setting are set per site collection.
+Under "Content Managament" in Omnia Admin, an administrator can handle a number of settings for page review. Note that these setting are set per site.
 
 The settings are available here:
 
 .. image:: page-review-settings-menu.png
 
-The first step is to decide if Page Review should be active or not. If it should be active, select "Enable Page Review".
+The active site which you set the settings for is shown here:
+
+.. image:: page-review-settings-site.png
+
+In the above example, it's the site Intranet.
+
+To select another site to set review settings for, click the icon:
+
+.. image:: page-review-settings-icon.png
+
+Click the site in the list. Note the link at the bottom, you can use to go to the site and have a look, if in doubt.
+
+.. image:: page-review-settings-icon-list.png
+
+The first step, when the correct site is selected, is to decide if Page Review should be active or not. If it should be active, select "Enable Page Review".
 
 .. image:: page-review-settings-settings-activate.png
 
