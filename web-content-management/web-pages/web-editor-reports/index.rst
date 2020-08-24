@@ -5,7 +5,7 @@ When "Content Management" is selected in Omnia Admin, the first page displays an
 
 .. image:: content-management-overview-new.png
 
-Note the two units "Past review date", one for "your" pages, and one for all other pages. Your pages are all pages where you are the contact person (your name is added in the field "Contact"). By clicking the unit you can see a list of the pages in question. You can even click the link to the page to go there. The field "Review Date" must be active in "Page Properties" (Content Management - Properties) in Omnia Admin for this to work.
+Note the two units "Past review date", one for "your" pages, and one for all other pages. Your pages are all pages youo are Review Responsibe for (see beloew under Page Review settings for more information). By clicking the unit you can see a list of the pages in question. You can even click the link to the page to go there. The field "Review Date" must be active in "Page Properties" (Content Management - Properties) in Omnia Admin for this to work.
 
 Click for more details. Here's an example from a Past review date report:
 
