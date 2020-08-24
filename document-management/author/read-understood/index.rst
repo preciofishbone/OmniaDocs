@@ -1,6 +1,6 @@
 Read & Understood
 ===========================
-When a controlled document is published, the author can choose to send a notification to some users, and when doing so, can also choose to receive read receipts, to make sure the notification has reached them. The notifications are sent when the document is approved for publishing.
+When a controlled document is published, the author can choose to send a notification to some users, and when doing so, can also choose to receive read receipts, to make sure the notification has reached them. The notifications are sent when the document is approved for publishing. Notifications are sent by e-mail and tasks are also created.
 
 Sending notifications is always voluntary. The decision is made when the document is published. If any colleagues should be notified of the new edition, "Notify people" is selected and people or groups are then added to the field.
 
