@@ -10,7 +10,7 @@ The Targeting Definitions that should be possible to use is set up here. This wi
 
 There's two main approaches, either you create a Targeting Definition for a user profile and tie that definition to a term set or part of a term set (the term set must already exist). The result will be one ore more fields where the editor can select terms for targeting. A suitable example could be if targeting should be possible to one or more countries or locations.
 
-The other approach is to create target groups for example based on AD groups or other permission groups available. If needed you can map several permission groups to form a single Target Definition.
+The other approach is to create target groups for example based on AD groups or other permission groups available. 
 
 Create a new Targeting Definition
 **********************************
@@ -45,18 +45,18 @@ If you choose the type "User Profile", the following can be set:
 
 Group Membership Definitions
 ------------------------------
-If you choose the type "User Profile", the following can be set:
+If you choose the type "Group Memebership", the following can be set:
 
 .. image:: targeting-group-membership.png
 
 + **Display name**: The field name the editor or administrator will see.
-+ **Mappings**: You can set up a number of mappings. A mapping consists of one or more groups. Create a mapping this way:
++ **Mappings**: You can set up a number of mappings, each mapping as a row in the mapping list. Create a mapping this way:
 
-1. Type a name for the mapping.
-2. Use the next field to add one or more groups.
+1. Type a name (Group Mapping Title) for the mapping.
+2. Use the next field to add one a group.
 3. Click "Add mapping to the list".
 
-For addional mappings, repeat the process.
+For additional mappings, repeat the process. If needed you can set up several mappings with the same name and you can set use a group in several different mappings (ie with different names).
 
 Edit or delete a targeting definition
 **************************************
