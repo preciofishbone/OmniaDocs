@@ -7,6 +7,7 @@ Quick Search and Advanced Search
    setup/setup-search-center/index
    setup/setup-delve-people-search/index
    setup/setup-result-source/index
+   modern-search/index
 
 The Quick Search control makes it possible for the end user to search for content and people in the tenant without going to the Enterprise Search Center. The Quick Search is shown across all SharePoint sites in Omnia.
 
@@ -46,7 +47,9 @@ The search result is now divided into three tabs. Refiners can also be available
 
 Settings for the control
 *************************
-The following settings are available:
+To make these settings available, you must first activate modern search, see: :doc:`Modern Search </my-workplace/quick-search/modern-search/index>`
+
+When Modern Saerh has been activated, the following settings are available:
 
 .. image:: quick-search-settings-new.png
 
@@ -55,7 +58,7 @@ The Search Config tab
 The following can be set here:
 
 + **Search Categories**: Available search categories are listed. You can edit or delete them using the icons. New search categories can be created, see below. Search categories are used to divide the Quick search result and to be displayed as tabs in the Advanced search.
-+ **Search Templates**: Available search templates are listed. (More information will be added soon).
++ **Search Templates**: Available search templates are listed. 
 
 Create a new Search category
 -----------------------------
@@ -69,9 +72,9 @@ Use these settings to create the category:
 
 1. Add a name for the search category under Title.
 2. Select a search result source from the list.
-3. Type the search query. (More information will added about this soon).
+3. Type the search query. 
 4. Decide if search result will take wild card characters into account.
-5. Select one or more search templates. (More information will be added sbout this soon).
+5. Select one or more search templates. 
 6. Save the new search category.
 
 The Quick Search tab
