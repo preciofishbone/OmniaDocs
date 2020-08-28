@@ -61,7 +61,7 @@ Omnia can now be displayed in Microsoft Teams to enhance your digital workplace 
 Page Feedback
 ************************************************
 
-Omnia now supports page feed.
+Omnia now supports page feed funcitonality do make it easier for end users to report needed changes e.g. the page contact.
 
 .. image:: page-feedback-button.png
 
@@ -69,11 +69,11 @@ Page feedback dialog window
 
 .. image:: page-feedback-send.png
 
-A message is displayed on the page for the page editors when new feedback has is available.
+A message is displayed on the page for the page editors when new feedback is available.
 
 .. image:: page-feedback-notification.png
 
-View and act on all page feedback added to a specific page using the page feedback panel. 
+View all Page Feedback added to a specific page using the page feedback panel. 
 
 .. image:: page-feedback-panel.png
 
