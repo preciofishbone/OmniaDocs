@@ -57,6 +57,32 @@ Omnia can now be displayed in Microsoft Teams to enhance your digital workplace 
 
 .. image:: omnia-ms-teams.png
 
+
+Page Feedback
+************************************************
+
+Omnia now supports page feed.
+
+.. image:: page-feedback-button.png
+
+.. image:: page-feedback-send.png
+
+A message is displayed on the page for the page editors when new feedback has is available.
+
+.. image:: page-feedback-notification.png
+
+View and act on all page feedback added to a specific page using the page feedback panel. There is also an Page Feedback report available in the Manage Content Reports area.
+
+.. image:: page-feedback-panel.png
+
+.. image:: page-feedback-report.png
+
+Settings can be set for a publishing site or on block level.
+
+.. image:: page-feedback-omnia-admin.png
+
+.. image:: page-feedback-block-settings.png
+
 Improved Search Experience
 ************************************************
 (#109309, #107344, #108063)
@@ -91,6 +117,7 @@ A message is displayed on the page that the review date is surpassed. An author 
 Find and update all pages and that needs content review in Manage Content Reports: Review view.
 
 .. image:: review-report.png
+
 
 Improved Page Content Management - Prompt for changes
 ************************************************
