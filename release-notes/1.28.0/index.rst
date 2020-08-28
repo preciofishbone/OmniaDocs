@@ -65,21 +65,27 @@ Omnia now supports page feed.
 
 .. image:: page-feedback-button.png
 
+Page feedback dialog window
+
 .. image:: page-feedback-send.png
 
 A message is displayed on the page for the page editors when new feedback has is available.
 
 .. image:: page-feedback-notification.png
 
-View and act on all page feedback added to a specific page using the page feedback panel. There is also an Page Feedback report available in the Manage Content Reports area.
+View and act on all page feedback added to a specific page using the page feedback panel. 
 
 .. image:: page-feedback-panel.png
 
+There is also an Page Feedback report available in the Manage Content Reports area.
+
 .. image:: page-feedback-report.png
 
-Settings can be set for a publishing site or on block level.
+Settings can be set for a publishing site
 
 .. image:: page-feedback-omnia-admin.png
+
+or on block level.
 
 .. image:: page-feedback-block-settings.png
 
