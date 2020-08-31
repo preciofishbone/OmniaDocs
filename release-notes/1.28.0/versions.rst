@@ -26,5 +26,4 @@ Fixes
 Microsoft
 ***********************
 
-- Microsoft 365 apps say farewell to Internet Explorer 11. Read more: https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666
 - Microsoft is retiring the SharePoint Newsfeed feature in SharePoint Online. The company feed was made read-only in June 2018, but the API was still working as expected. Without further notice the API has now stopped working as well. This change makes it impossible to render this block. We are really sorry about the inconvenience this may cause. Site Feeds are still working as expected, but we strongly recommend to start looking at alternatives such as Team News, MS Teams or Yammer. Read more: https://techcommunity.microsoft.com/t5/microsoft-sharepoint-blog/in-june-2018-we-re-making-changes-to-the-native-social/ba-p/178430
