@@ -10,13 +10,13 @@ Subscribe to published Controlled Documents
 ************************************************
 (#115730)
 
-It is now possible to set subscribe to a specific published controlled document. Click the Follow/unfollow button in the information panel of a document to start or stop following the document. 
+It is now possible to set subscribe to a specific published controlled document. Click the Follow/Unfollow button in the information panel of a document to start or stop following the document. 
 
 .. image:: odm-follow-button.png
 
-The followed documents are displayed in the new followed controlled documents block. Add the block to the notification panel to get notified on updates.
+The followed documents are displayed in the new followed controlled documents block. Add the block to the notification panel to get notified on updates. You can show the documents in two views. List view or Grouped by TimeSpan.
 
-.. image:: odm-followed-controlled-documents
+.. image:: odm-followed-controlled-documents.png
 
 Create Document Wizard Improvements.
 ************************************************
