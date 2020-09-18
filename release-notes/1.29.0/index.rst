@@ -76,10 +76,10 @@ Fixes
 - Issues with My Links panel double scrollbars.
 - Issue for pages faulty showing "The page you're looking for doesn't exist" in some tenants.
 - My Site & My Links panels closing unexpectedly.
-- Color and style rendering issues for banners.
+- Colour and style rendering issues for banners.
 - Field alignment in User Feed Block.
-- Wrong url send to page when notfied for feedback.
-- Globla menu rendering issues. content overlapping for some clients.
+- Wrong URL send when notified for added page feedback.
+- Global menu rendering issues. content overlapping for some clients.
 - Rendering issues for Media Picker filters.
 - Problems accessing Manage Content on some clients.
 - Dialog issues for sharing from User Feed Block.
