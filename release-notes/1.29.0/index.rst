@@ -87,11 +87,7 @@ Fixes
 - English labels for Page Feedback updated.
 - Problems loading Page Feedback Panel on some clients.
 - Issues rendering Page Feedback Button for some clients.
-- My Links - updated icon for follow / unfollow not being the same for some clients.
-
-
-
-
+- My Links - updated icon for follow nad unfollow not being the same for some clients.
 
 
 
