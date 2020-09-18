@@ -73,11 +73,35 @@ Fixes
 - Issues showing title and summary in legacy pages. (#103227)
 - Action link margin issues for Aggregated Calendar block. (#106914)
 - News Viewer - New item icon not being aligned. (#109161)
+- Issues with My Links panel double scrollbars.
+- Issue for pages faulty showing "The page you're looking for doesn't exist" in some tenants.
+- My Site & My Links panels closing unexpectedly.
+- Color and style rendering issues for banners.
+- Field alignment in User Feed Block.
+- Wrong url send to page when notfied for feedback.
+- Globla menu rendering issues. content overlapping for some clients.
+- Rendering issues for Media Picker filters.
+- Problems accessing Manage Content on some clients.
+- Dialog issues for sharing from User Feed Block.
+- Aggregated Calendar, button alignment.
+- English labels for Page Feedback updated.
+- Problems loading Page Feedback Panel on some clients.
+- Issues rendering Page Feedback Button for some clients.
+- My Links - updated icon for follow / unfollow not being the same for some clients.
+
+
+
+
+
 
 
 Omnia Document Management
 
 - Create wizard dialog showing double scrolls in some browsers. (#115327)
+- Rendering issues in document creation wizards for large number of document types.
+- Labels for delete draft buttons change to be more consistant.
+- Issue with paging sometimes not working for some clients.
+
 
 
 .. toctree::
