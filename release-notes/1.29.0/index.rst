@@ -1,4 +1,4 @@
-Release Notes 1.29.0 (Preview)
+Release Notes 1.29.0
 ========================================
 *NOTE: Items might be added, altered or removed.*
 
