@@ -38,6 +38,8 @@ Enhancements
 - Added support for wildcard search for people rollup block search. (#108483)
 - Loading experience for Site Directory (#104748)
 - Added support for browsers that are not able to handle | char in URL. (#117996, #118492, #118550)
+- Page Feedback publishing site specific settings is now supported.
+- News Viewer localization Support when viewed in Microsoft Teams Custom App.
 
 
 Omnia Document Management
@@ -47,7 +49,11 @@ Omnia Document Management
 - Added icon for XSLM in document viewer. (#120935)
 - Show or hide properties in the creation wizard.
 - New view in the Controlled Document Block to show drafts for the current user.
+- Page Feedback email to SharePoint group support.
 
+Quality Management System
+
+- Added rectangle shape to default shapes.
 
 Fixes
 ------------------------------------
