@@ -94,6 +94,7 @@ Fixes
 - Problems loading Page Feedback Panel on some clients.
 - Issues rendering Page Feedback Button for some clients.
 - My Links, updated icon for follow and unfollow not being the same for some clients.
+- Issues with error handling for some components when logged in as external users. (#107453, #118047, #118691)
 
 
 
