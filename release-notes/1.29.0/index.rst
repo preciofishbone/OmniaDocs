@@ -95,6 +95,13 @@ Fixes
 - Issues rendering Page Feedback Button for some clients.
 - My Links, updated icon for follow and unfollow not being the same for some clients.
 - Issues with error handling for some components when logged in as external users. (#107453, #118047, #118691)
+- Issue with media picker showing image on edit in some use cases.
+- Aggregated calendar not showing all events in month view. 
+- User Feed block title not rendering on some clients.
+- Banner content color not applied correctly.
+- SPFx pre allocated height not working in some environments.
+- Background issues in dialog for document rollup dialog.
+- Task rollup sometimes shows task that were already completed.
 
 
 
