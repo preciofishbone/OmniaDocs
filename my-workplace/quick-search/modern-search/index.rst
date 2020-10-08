@@ -27,7 +27,7 @@ These settings are available:
 
 .. image:: modern-search-settings-all.png
 
-See this page for a detailed description of the settings: :doc:`Quick Search and Advanced Search </my-workplace/quick-search/index>`
+See this page for a detailed description of the settings: :doc:`Quick Search and Advanced Search </my-workplace/quick-search/index.html#settings-for-the-control>`
 
 
 
