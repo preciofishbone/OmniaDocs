@@ -13,7 +13,7 @@ To be able to use modern search it must first be activated. Do the following:
 
 3. Select "ENABLE FEATURES".
 
-.. image:: modern-search-header-enable-features.png
+.. image:: modern-search-header-enable-features-frame.png
 
 4. Select "Enable Modern Search".
 
@@ -27,7 +27,7 @@ These settings are available:
 
 .. image:: modern-search-settings-all.png
 
-See this page for a detailed description of the settings: :doc:`Quick Search and Advanced Search </my-workplace/quick-search/index.html#settings-for-the-control>`
+See this page for a detailed description of the settings: :doc:`Quick Search and Advanced Search </my-workplace/quick-search/index>`
 
 
 
