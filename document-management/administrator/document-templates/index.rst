@@ -69,6 +69,8 @@ To upload a document to use as a template:
 3. Click "Browse"  to find the document on your computer and select it.
 4. Click "Save".
 
+**Important Note!**: The maximum size for a template document is 50 MB.
+
 Controlled Documents Only or general template
 ----------------------------------------------
 If this template is applicable for Controlled Documents only, do the following:
