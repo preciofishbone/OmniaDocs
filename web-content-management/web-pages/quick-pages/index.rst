@@ -12,11 +12,13 @@ To enable Quick Pages, do the following:
 3. Click "Enable Quick Pages".
 4. Select option here:
 
-.. image:: enable-quickpages-2.png
+.. image:: enable-quickpages-2-new.png
 
-The difference between the first two options is the checkbox the editor will use, if it's checked by default or not. If you would like Quick Pages to always be active, unless an editor turns it off for a page, select "checked by default".
+If you select the first option, support for legacy webparts is disabled completely. No checkbox is shown for the author.
 
-The editor will find the checkbox here:
+The difference between the second and the third options is what the checkbox the editor will use will look like, if it's checked by default or not. If you would like Quick Pages to always be active, unless an editor turns it off for a page, select "checked by default", the third option.
+
+If a checkbox will be shown, the editor will find it here:
 
 .. image:: enable-quickpages-checkbox-new.png 
 
