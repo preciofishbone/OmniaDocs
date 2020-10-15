@@ -11,7 +11,7 @@ The Wizard works slightly differently for Controlled Documents and for "normal" 
 
 When used for "normal" documents the steps are as follows:
 
-1. Select template.
+1. Select template. (You can search if the list is long.)
 2. Add a title for the new document.
 3. Select list of team sites: SUGGESTED, FOLLOWED or ALL. Default is the site where the wizard was started, shown under SUGGESTED. When ALL is selected, the user can search for any site the user has access to.
 4. Select a team site to save the document in (in the Documents library there). 
@@ -32,6 +32,8 @@ When used for Controlled Documents, the steps are as follows:
 1. Select type of document to create. 
 2. Select a template. (You can select ALL if the template you want is not listed under SUGGESTED.)
 
+In both cases you can search if the list is long.
+
 **In the middle**:
 
 3. Type a name for the document.
@@ -42,6 +44,19 @@ When used for Controlled Documents, the steps are as follows:
 5. Select the team site where the document will be saved in the Controlled Documents library. 
 
 Only team sites with a Controlled Documents library, and that the author has access to, are shown inte list. Default site is where the wizard was started, shown under SUGGESTED. When ALL is selected, the user can search for any site he or she has access to.
+
+File names for documents
+*************************
+If you need to check the file name for the document, when you have entered a title, click "Show more".
+
+.. image:: docwizard-show-more.png
+
+If need be, the file name can now be edited:
+
+.. image:: docwizard-show-more-name.png
+
+
+
 
 
 
