@@ -55,6 +55,10 @@ If need be, the file name can now be edited:
 
 .. image:: docwizard-show-more-name.png
 
+Tip - Create documents from a Controlled Documents Viewer
+***********************************************************
+If set up that way, it can be possible for users to create documents from a Controlled Documents Viewer, using the Create Document Wizard. See this page for more information on how to do that: :doc:`Create a document from the Controlled Documents Viewer </document-management/end-user/create-document-from-rollup/index>`
+
 
 
 
