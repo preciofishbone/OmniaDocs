@@ -21,7 +21,7 @@ Use the settings this way:
 + **Yes, but support legacy webparts by default**: Support for legacy webparts is enabled. A checkbox is shown, and is selected by default, meaning an author has to deselect the checkbox to make a page into a Quick Page.
 + **No**: Quick Pages is not used, all pages are legacy pages. A checkbox is not shown.
 
-If a checkbox will be shown, the editor will find it here:
+If a checkbox is shown, the editor will find it here:
 
 .. image:: enable-quickpages-checkbox-new.png 
 
