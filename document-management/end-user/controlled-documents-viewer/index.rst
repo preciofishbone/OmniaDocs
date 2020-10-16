@@ -72,6 +72,11 @@ On this tab the following settings are available:
 
 **Note!** Do not use "Show Subscribe To .." for a control using filters. When a user clicks the subscribe link, the subscription added is always for the default list, no matter what filtering the user has done, making it difficult for a user to understand what he or she subscribes to.
 
+There are two alternatives to following all documents in a list (cklick the links for more information):
+
++ :doc:`Controlled Documents Subscription </document-management/end-user/controlled-documents-subscription/index>`
++ Followed Controlled Documents (link to be added).
+
 The Query tab
 --------------
 This tab is used to decide which Controlled Documents to display in the control.
