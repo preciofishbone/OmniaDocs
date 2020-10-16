@@ -29,9 +29,11 @@ Users can click the i-icon to display all properties for the document.
 
 Here's an example:
 
-.. image:: controlled-documents-viewer-properties-new2.png
+.. image:: controlled-documents-viewer-properties-new3.png
 
 Everyone can use the links at the top (to be able to open this window, a user must have access to the document) to see the Document History or go to the library to read the other Controlled Documents published from there.
+
+Everyone can also choose to follow a document from here. See this page for more information about how this works: (linke to be added).
 
 If you are assigned as author to the Controlled Documents library where the document reside, you can use the buttons at the bottom to create a new draft of the documents or unpublish the document. No one else will see these buttons.
 
@@ -45,6 +47,8 @@ The icon to the far right...
 
 The feedback is sent to the Controlled Documents library from where the document is published, and the authors can read it there. A mail can also be sent (depends on settings) to either the document owner or the approver.
 
+Additional columns can be added, see below. 
+
 Settings for the control
 *************************
 The settings are organized in six tabs, see the sections below.
@@ -53,7 +57,7 @@ The General tab
 -----------------
 On this tab the following settings are available:
 
-.. image:: controlled-documents-viewer-refiners-new2.png
+.. image:: controlled-documents-viewer-general-new3.png
 
 + **Title**: Add the title shown to users for the control.
 + **Search scope**: The search scope can be either Published Documents or Archived Documents. Published Document is the default.
@@ -63,7 +67,7 @@ On this tab the following settings are available:
 + **Paging Type**: Select "Classic", as seen in the images at the top of the page, or "Scroll".
 + **Show Search Box**: If users should be able to search the documents displayed by the controll, the option should be checked.
 + **Open in Office Web Apps**: If a document, when a user clicks the link, should be opened in Office Web Apps, the option should be checked. If not checked, documents will open in the full application.
-+ **Open in New Window**: If the documents should be opened in a new window, when the user clicks a link, select this option.
++ **Open in new window**: If the documents should be opened in a new window, when the user clicks a link, select this option.
 + **Show "Subscribe To..."**: If the "Subscribe To" link should be displayed, helping users to subscribe to the documents that are listed in this control, select the box.
 
 **Note!** Do not use "Show Subscribe To .." for a control using filters. When a user clicks the subscribe link, the subscription added is always for the default list, no matter what filtering the user has done, making it difficult for a user to understand what he or she subscribes to.
@@ -104,8 +108,9 @@ The Refiners tab
 -------------------
 This tab is used to set property fields to use as refiners.
 
-.. image:: controlled-documents-viewer-refiners-new2.png
+.. image:: controlled-documents-viewer-refiners-new3.png
 
++ **Result Limit**: Here you can set the number of documents that should be displayed in the list.
 + **Location**: Select where the refiners should be placed: left, right, top.
 + **No Of Columns Per Row**: Set the number of refiners that should be displayed per row.
 + **Refiner**: Select the refiners to be used here and set limit and order ny to the right for each refiner.
