@@ -33,11 +33,15 @@ Here you can set a number of options that may be needed for PDF conversions.
 
 First select the conversion method to see the settings for the method.
 
-Create New Document UI for Controlled Documents
-***********************************************
-Select Classic or Modern UI for new document in Controlled Documents.
+Document Wizard Default Mode
+********************************
+Use these settings to decide what should be available in the Create New Document Wizard.
 
-.. image:: document-ui.png
+.. image:: document-ui-new.png
+
++ **User Choice**: Creation of both "normal" documents and Controlled Documents are available.
++ **Controlled Document**: If the wizard should be used to create Controlled Documents only, select this option.
++ **Non-Controlled Document**: If the wizard should be used to create "normal" documents only, select this option.
 
 Authors of Controlled Documents
 ***********************************
