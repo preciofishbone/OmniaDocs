@@ -7,3 +7,4 @@ End User
    controlled-documents-subscription/index
    controlled-documents-viewer/index
    create-document-wizard/index
+   create-document-from-rollup/index
