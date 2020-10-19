@@ -33,7 +33,7 @@ Here's an example:
 
 Everyone can use the links at the top (to be able to open this window, a user must have access to the document) to see the Document History or go to the library to read the other Controlled Documents published from there.
 
-Everyone can also choose to follow a document from here. See this page for more information about how this works: (linke to be added).
+Everyone can also choose to follow a document from here. See this page for more information about how this works: :doc:`Followed Controlled Documents </document-management/end-user/followed-controlled-documents/index>`
 
 If you are assigned as author to the Controlled Documents library where the document reside, you can use the buttons at the bottom to create a new draft of the documents or unpublish the document. No one else will see these buttons.
 
