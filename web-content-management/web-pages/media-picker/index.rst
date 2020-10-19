@@ -8,7 +8,7 @@ Media Picker
     
 The Media Picker can be used to add an image or a video to the page image area or to the page content. Any image on the editor's computer can be selected, as well as from any central image location registered in Omnia Admin. An image can be pasted from the clipboard as well. Besides that Bing can be used to find images. Regarding Bing, only images that are free to use and share will be available.
 
-Videos can be selected from your company's Stream in Office 365, or from YouTube.
+Videos can be selected from your company's Stream in Microsoft 365, or from YouTube.
 
 To use the Media Picker it needs to be activated in Omnia Admin (Systems/Settings/Intranet Core). If the Media Picker is not activated, the Image Picker will be used instead, see: :doc:`Image Picker </web-content-management/web-pages/image-picker/index>`
 
@@ -105,7 +105,7 @@ The setting for maximum image size is set in Omnia Admin, see the "Setup Media P
 
 Video
 ******
-For Video, select either "Microsoft Stream" for your company's Office 365 Stream, or "YouTube".
+For Video, select either "Microsoft Stream" for your company's Microsoft 365 Stream, or "YouTube".
 
 .. image:: video.png
 

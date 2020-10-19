@@ -7,7 +7,7 @@ User Feed
    setup-user-feed/index
    setup-everyone-site/index
 
-**Note!** The User Feed in Omnia is based on the SharePoint Newsfeed. Microsoft recommends using other techniques withing the Office 365 suite for social capabilities.
+**Note!** The User Feed in Omnia is based on the SharePoint Newsfeed. Microsoft recommends using other techniques withing the Microsoft 365 suite for social capabilities.
 
 Please read more here: https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/In-June-2018-we-re-making-changes-to-the-native-social/ba-p/178430
 
