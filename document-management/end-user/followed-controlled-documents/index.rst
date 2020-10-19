@@ -3,9 +3,9 @@ Followed Controlled Documents
 
 Use this block to display a list of the controlled documents the logged in user follows.
 
-When a users reads the information about a document (available by clicking the i icon), the user can choose to follow the document:
+When a users reads the information about a document (available by clicking the i icon) in the Controlled Documents Viewer , the user can choose to follow the document:
 
-.. image:: follow-controlled-document.png
+.. image:: follow-controlled-document-arrow.png
 
 (A user can unfollow a document the same way, but also see below.)
 
