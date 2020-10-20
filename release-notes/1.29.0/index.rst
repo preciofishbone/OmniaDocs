@@ -5,19 +5,19 @@ Release Notes 1.29.0
 New Features
 ---------------------------------
 
-Subscribe to published Controlled Documents
+Follow published Controlled Documents
 ************************************************
 (#115730)
 
-It is now possible to set subscribe to a specific published controlled document. Click the Follow/Unfollow button in the information panel of a document to start or stop following the document. 
+It is now possible to follow a specific published controlled document. Click the Follow/Unfollow button in the information panel of a document to start or stop following the document. 
 
 .. image:: odm-follow-button.png
 
-The followed documents are displayed in the new followed controlled documents block. Add the block to the notification panel to get notified on updates. You can show the documents in two views. List view or Grouped by TimeSpan.
+The followed documents are displayed in the new Followed Controlled Documents block. Add the block to the notification panel to get notified on updates. You can show the documents in two views. List view or Grouped by TimeSpan.
 
 .. image:: odm-followed-controlled-documents.png
 
-Create Document Wizard Improvements.
+Create Document Wizard Improvements
 ************************************************
 We have done some changes to the Document Create Wizard to make it more user friendly. The template selection & properties area has switched places. The File Name property is now hidden by default but can easily be accessed via the show more link.
 
