@@ -28,9 +28,9 @@ Here, you can se these settings:
 
 .. image:: followed-controlled-documents-settings-general.png
 
-+ **Day Limit**: If you don't want old documents in this list, set the maximum number of days since last update for a document. If it's more days than that, the document will not be displayed in the list. 0 means any number of days.
-+ **Row Limit per Subscription**: (A description will be added soon.)
-+ **View**: Select View for the list; "List" or "Grouped By Timespan". In the example images above, View is selected. 
++ **Day Limit**: Set the number of days back the system will check if an update has happened. 0 means no limit.
++ **Row Limit**: Here you can set the total number of items to show in the list.
++ **View**: Select View for the list; "List" or "Grouped By Timespan". In the example images above, List is selected. 
 + **Open in Office Web Apps**: When this box is selected, documents are opened in the web application. When not selected, in the installed application on the users computer.
 
 Custom colors
