@@ -28,60 +28,6 @@ Enter or edit the name here. The name is displayed when selecting Document profi
 
 .. image:: general-tab-new2.png
 
-The Templates tab
-*******************
-A Template is a prepared document that an author can use as a starting point when creating a document of a certain type. A Template Document can contain as much content as is applicable. Regarding Microsoft Word Document Templates, the prepared document will normally contain a set heading and in some cases a set footer, with fields that can be populated with data when the document is published. 
-
-There can be one or more templates defined for a Document Profile. Here’s an example:
-
-.. image:: templates-tab.png
-
-To see a list of templates for another of the languages you use, select the language in the list.
-
-**Note!** This tab and the "Document templates" setting are connected. Changes you make here for Controlled Documents Templates are reflected in "Document Templates" and vice versa.
-
-Adding a new template
---------------------------
-Do the following:
-
-1. Click "Add new template".
-
-.. image:: add-new-template.png
-
-You can either link to an existing, published controlled document, or prepare and upload a new document, to use as a template.
-
-Link to Document
------------------
-To link to a document:
-
-1. Enter the document-id and click "Find".
-2. When you have found the document, click "Save".
-
-**Note:** When a new edition of the linked document is published, the template is automatically updated. When an editor creates a new document based on document type with a linked document as template, the latest edition is always used. Existing, published documents are not changed.
-
-Upload document
----------------
-To upload a document to use as a template:
-
-1. Select "Upload Document".
-2. Set a name. This name is displayed for the author, so make sure it’s really understandable.
-3. Click "Browse"  to find the document on your computer and select it.
-
-.. image:: add-new-template-browse.png
-
-4. Click "Save".
-
-Editing and removing templates
--------------------------------
-To edit or remove a template, use the icons:
-
-.. image:: adding-template.png 
-
-**Tip!**
-When editing a template you can “update” by uploading another, updated file, but still use the same template name.
-
-.. image:: edit-template-browse.png
-
 The Properties tab
 *******************
 Properties are inhereted, from the top settings ("Controlled Documents") and, if you are grouping Document profiles, sub profiles inherit from it's "mother", the top group profile.
@@ -111,7 +57,7 @@ On the Property tab you define the properties fields to be used for this Documen
 
 1. To add a new property, click the link.
 
-.. image:: add-new-property.png
+.. image:: add-new-property-new.png
  
 2. Set the following:
 
@@ -128,10 +74,11 @@ Use the fields the following way:
 
 When you select "Managed Metadata" as Type, additional options are displayed:
  
-.. image:: add-property-settings-metadata.png
+.. image:: add-property-settings-metadata-new.png
 
 + **Term set**: If a suitable term set exists, select it.
 + **Create new term set**: If no suitable term set exists, click the link to create a new term set.
++ **Default Value**: You can choose to set a default value for the property here, either a fixed value or a from the site property.
 
 If the term set has more than one level, for example country-city-office you can select which level to start on and also limit number of levels shown.
 
@@ -219,5 +166,84 @@ To delete a property, do the following:
 .. image:: delete-property-2.png
 
 **NOTE!** An inherited property can only be deleted where it was added (at "mother"). For an inherited property to not be used on a profile, set status to "Hidden".
+
+Required (on Publishing)
+---------------------------
+You can set that certain properties are manadatory for publishing. If these properties are not filled in, publishing is simply not possible. A property must be visible (see below) for this setting to be edited. 
+
+1. To edit the setting, click the edit icon.
+
+.. image:: document-profiles-edit-icon.png
+
+2. Then select or deselect Required.
+
+.. image:: document-profiles-edit-icon-required.png
+
+Visibility
+------------
+A property can be visible or not in the Create New Document Wizard. If user's should be able to set the property, it must be visible. Use these setting to turn visibilty on or off.
+
+1. To edit the setting, click the edit icon.
+
+.. image:: document-profiles-edit-icon.png
+
+2. For Visible, you can set the following:
+
+.. image:: document-profiles-edit-icon-visible.png
+
+The Templates tab
+*******************
+A Template is a prepared document that an author can use as a starting point when creating a document of a certain type. A Template Document can contain as much content as is applicable. Regarding Microsoft Word Document Templates, the prepared document will normally contain a set heading and in some cases a set footer, with fields that can be populated with data when the document is published. 
+
+There can be one or more templates defined for a Document Profile. Here’s an example:
+
+.. image:: templates-tab.png
+
+To see a list of templates for another of the languages you use, select the language in the list.
+
+**Note!** This tab and the "Document templates" setting are connected. Changes you make here for Controlled Documents Templates are reflected in "Document Templates" and vice versa.
+
+Adding a new template
+--------------------------
+Do the following:
+
+1. Click "Add new template".
+
+.. image:: add-new-template.png
+
+You can either link to an existing, published controlled document, or prepare and upload a new document, to use as a template.
+
+Link to Document
+-----------------
+To link to a document:
+
+1. Enter the document-id and click "Find".
+2. When you have found the document, click "Save".
+
+**Note:** When a new edition of the linked document is published, the template is automatically updated. When an editor creates a new document based on document type with a linked document as template, the latest edition is always used. Existing, published documents are not changed.
+
+Upload document
+---------------
+To upload a document to use as a template:
+
+1. Select "Upload Document".
+2. Set a name. This name is displayed for the author, so make sure it’s really understandable.
+3. Click "Browse"  to find the document on your computer and select it.
+
+.. image:: add-new-template-browse.png
+
+4. Click "Save".
+
+Editing and removing templates
+-------------------------------
+To edit or remove a template, use the icons:
+
+.. image:: adding-template.png 
+
+**Tip!**
+When editing a template you can “update” by uploading another, updated file, but still use the same template name.
+
+.. image:: edit-template-browse.png
+
 
 
