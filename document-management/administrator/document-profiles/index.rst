@@ -181,7 +181,7 @@ You can set that certain properties are manadatory for publishing. If these prop
 
 Visibility
 ------------
-A property can be visible or not in the Create New Document Wizard. If user's should be able to set the property, it must be visible. Use these setting to turn visibilty on or off.
+Use this setting to decide when properties should be visible for editing.
 
 1. To edit the setting, click the edit icon.
 
@@ -190,6 +190,10 @@ A property can be visible or not in the Create New Document Wizard. If user's sh
 2. For Visible, you can set the following:
 
 .. image:: document-profiles-edit-icon-visible.png
+
++ **Visible**: The property is available in the Create New Document Wizard and for editing in the Controlled Documents library.
++ **Hidden in new form**: The property is NOT available in the Create New Document Wizard, but is available for editing in the Controlled Documents library.
++ **Hidden**: The property is not available for editing, neither in the Wizard nor in the Controlled Documents library.
 
 The Templates tab
 *******************
