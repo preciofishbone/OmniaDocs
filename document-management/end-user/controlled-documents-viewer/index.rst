@@ -60,7 +60,7 @@ On this tab the following settings are available:
 .. image:: controlled-documents-viewer-general-new3.png
 
 + **Title**: Add the title shown to users for the control.
-+ **Search scope**: The search scope can be either Published Documents or Archived Documents. Published Document is the default.
++ **Search scope**: The search scope can be either Published Documents, Draft Documents or Archived Documents. Published Document is the default. In eihther case, those documents listes are only those documents the logged in user is allowed to see.
 + **Default Sort Order**: You can select a default sort order from the list.
 + **Sort Direction**: Set sort direction - Ascending or Descending.
 + **Page Size**: Set the number of documents to be shown on ech "page" of the list.
