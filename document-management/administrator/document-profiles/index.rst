@@ -168,7 +168,7 @@ To delete a property, do the following:
 
 Required (on Publishing)
 ---------------------------
-You can set that certain properties are manadatory for publishing. If these properties are not filled in, publishing is simply not possible. A property must be visible (see below) for this setting to be edited. 
+You can set that certain properties are mandatory for publishing. If these properties are not filled in, publishing is simply not possible. A property must be visible (see below) for this setting to be edited. 
 
 1. To edit the setting, click the edit icon.
 
@@ -188,10 +188,10 @@ Use this setting to decide when properties should be visible for editing.
 
 2. For Visible, you can set the following:
 
-.. image:: document-profiles-edit-icon-visible.png
+.. image:: document-profiles-edit-icon-visible-frame.png
 
 + **Visible**: The property is available in the Create New Document Wizard and for editing in the Controlled Documents library.
-+ **Hidden in new form**: The property is NOT available in the Create New Document Wizard, but is available for editing in the Controlled Documents library.
++ **Hidden in new form**: The property is not available in the Create New Document Wizard, but is available for editing in the Controlled Documents library.
 + **Hidden**: The property is not available for editing, neither in the Wizard nor in the Controlled Documents library.
 
 The Templates tab
