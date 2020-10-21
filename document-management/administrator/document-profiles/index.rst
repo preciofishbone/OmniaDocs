@@ -78,7 +78,6 @@ When you select "Managed Metadata" as Type, additional options are displayed:
 
 + **Term set**: If a suitable term set exists, select it.
 + **Create new term set**: If no suitable term set exists, click the link to create a new term set.
-+ **Default Value**: You can choose to set a default value for the property here, either a fixed value or a from the site property.
 
 If the term set has more than one level, for example country-city-office you can select which level to start on and also limit number of levels shown.
 
