@@ -4,6 +4,7 @@ Release Notes
 .. toctree::
    :titlesonly:
 
+   1.29.0/index
    1.28.0/index
    2019-november/index
    2019-june/index

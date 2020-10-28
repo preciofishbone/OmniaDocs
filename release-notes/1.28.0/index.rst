@@ -1,8 +1,5 @@
 Release Notes 1.28.0
 ========================================
-*NOTE: Items might be added, altered or removed.*
-
-
 
 New Features
 ---------------------------------
@@ -57,6 +54,38 @@ Omnia can now be displayed in Microsoft Teams to enhance your digital workplace 
 
 .. image:: omnia-ms-teams.png
 
+
+Page Feedback
+************************************************
+
+Omnia now supports page feed funcitonality do make it easier for end users to report needed changes e.g. the page contact.
+
+.. image:: page-feedback-button.png
+
+Page feedback dialog window
+
+.. image:: page-feedback-send.png
+
+A message is displayed on the page for the page editors when new feedback is available.
+
+.. image:: page-feedback-notification.png
+
+View all Page Feedback added to a specific page using the page feedback panel. 
+
+.. image:: page-feedback-panel.png
+
+There is also an Page Feedback report available in the Manage Content Reports area.
+
+.. image:: page-feedback-report.png
+
+Settings can be set for a publishing site
+
+.. image:: page-feedback-omnia-admin.png
+
+or on block level.
+
+.. image:: page-feedback-block-settings.png
+
 Improved Search Experience
 ************************************************
 (#109309, #107344, #108063)
@@ -91,6 +120,7 @@ A message is displayed on the page that the review date is surpassed. An author 
 Find and update all pages and that needs content review in Manage Content Reports: Review view.
 
 .. image:: review-report.png
+
 
 Improved Page Content Management - Prompt for changes
 ************************************************
@@ -167,3 +197,9 @@ Quality Management System
 
 - Filtering on QMS Issues not working as expected. (#113016)
 - Issues with saving changes to QMS processes. (#109411)
+
+
+.. toctree::
+   :titlesonly:
+   
+   versions

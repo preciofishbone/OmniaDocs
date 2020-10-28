@@ -5,7 +5,7 @@ The My Tasks control aggregates all tasks that have been assigned to the current
 **Note!**
 The My Tasks control is based on the search engine in SharePoint. It may take several minutes before a task assigned to the current user in a team site is shown on the start page.
 
-(The My Tasks control also supports aggregation of Tasks from Planner in Office 365. This feature requires some additional configuration in the tenant. Please consult your local Omnia contact.)
+(The My Tasks control also supports aggregation of Tasks from Planner in Microsoft 365. This feature requires some additional configuration in the tenant. Please consult your local Omnia contact.)
 
 All sites with tasks assigned to the user is displayed in a list, with the number of tasks assigned in each site.
 

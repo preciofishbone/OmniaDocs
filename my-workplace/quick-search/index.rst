@@ -7,6 +7,7 @@ Quick Search and Advanced Search
    setup/setup-search-center/index
    setup/setup-delve-people-search/index
    setup/setup-result-source/index
+   modern-search/index
 
 The Quick Search control makes it possible for the end user to search for content and people in the tenant without going to the Enterprise Search Center. The Quick Search is shown across all SharePoint sites in Omnia.
 
@@ -42,11 +43,13 @@ Here's an advanced search example:
 
 .. image:: advanced-search-example.png
 
-The search result is now divided into three tabs. Refiners can also be available, if set up (see below).
+The search result is now divided into a number of tabs (categories) as set up in the settings (see belwow). Refiners can also be available, if set up (see below).
 
 Settings for the control
 *************************
-The following settings are available:
+To make these settings available, you must first activate modern search, see: :doc:`Modern Search </my-workplace/quick-search/modern-search/index>`
+
+When Modern Search has been activated, the following settings are available:
 
 .. image:: quick-search-settings-new.png
 
@@ -55,7 +58,7 @@ The Search Config tab
 The following can be set here:
 
 + **Search Categories**: Available search categories are listed. You can edit or delete them using the icons. New search categories can be created, see below. Search categories are used to divide the Quick search result and to be displayed as tabs in the Advanced search.
-+ **Search Templates**: Available search templates are listed. (More information will be added soon).
++ **Search Templates**: Search Templates are created by developers and are simply listed here. A Search Template defines how to display a search result. If a search result happens to not match any Search Template, the Default search template is used. You can set Default search template by clicking any of the templates in the list. 
 
 Create a new Search category
 -----------------------------
@@ -67,12 +70,11 @@ Use these settings to create the category:
 
 .. image:: search-new-category.png
 
-1. Add a name for the search category under Title.
-2. Select a search result source from the list.
-3. Type the search query. (More information will added about this soon).
-4. Decide if search result will take wild card characters into account.
-5. Select one or more search templates. (More information will be added sbout this soon).
-6. Save the new search category.
++ **Title**: Add a title for the Search Category.
++ **Search Result Source**: Select Source from the list.
++ **Search Query**: Add the Search Query here.
++ **Support WildCard Character**: To be able to use a wildcard character in the query, this option must be selected.
++ **Search Templates**: Select one or more Search Templates from the list.
 
 The Quick Search tab
 ---------------------

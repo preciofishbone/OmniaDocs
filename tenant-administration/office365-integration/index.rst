@@ -1,4 +1,4 @@
-Office 365 Integration
+Microsoft 365 Integration
 ========================
 
 SPFx Integration
@@ -28,7 +28,7 @@ To be able to utilize features outside SharePoint, such as Planner, Teams and Ya
 
 .. image:: azuread-enableazureservices.png
 
-To enable Azure Services you need to be logged in as a Global Administrator in Office 365.
+To enable Azure Services you need to be logged in as a Global Administrator in Microsoft 365.
 
 1. Go to Omnia Admin > System > Settings > Azure AD.
 2. Click on Enable Azure Services.

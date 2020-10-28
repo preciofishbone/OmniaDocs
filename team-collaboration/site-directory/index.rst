@@ -12,7 +12,7 @@ This is an important difference to the My sites list, where one list displays al
 
 An owner of a site can decide to show the site in the Site Directory even for users that has no access, using the setting "Make public in Site Directory", available in "Team Site Quick Edit".
 
-Office 365 team sites that are created with Omnia site templates are also shown in the list.
+Microsoft 365 team sites that are created with Omnia site templates are also shown in the list.
 
 The user can view the list for all sites or for a certain type of site (a "type" is all sites created from a certain site template). 
 

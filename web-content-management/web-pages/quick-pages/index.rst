@@ -3,7 +3,7 @@ Quick Pages
 
 Quick Pages will load much faster (it's really a huge difference!). Quick pages has no support for traditional Sharepoint web parts. Only Quick Edit is available for a Quick Page, the Sharepoint mode "Advanced mode" is not available for such a page. 
 
-When Quick Pages is enabled for a site (yes, you activate Quick Pages per site) an editor can then decide to use Quick Pages or not for each page in the site, through a simple checkbox.
+When Quick Pages is enabled for a site (yes, you activate Quick Pages per site), there can be a checkbox available for the page editor that can be used to decide to use Quick Pages or not for each page in the site.
 
 To enable Quick Pages, do the following:
 
@@ -12,11 +12,16 @@ To enable Quick Pages, do the following:
 3. Click "Enable Quick Pages".
 4. Select option here:
 
-.. image:: enable-quickpages-2.png
+.. image:: enable-quickpages-2-new.png
 
-The difference between the first two options is the checkbox the editor will use, if it's checked by default or not. If you would like Quick Pages to always be active, unless an editor turns it off for a page, select "checked by default".
+Use the settings this way:
 
-The editor will find the checkbox here:
++ **Yes, disable support for legacy webparts**: Support for legacy webparts is disabled completely, all pages are Quick Pages. No checkbox is shown for the author.
++ **Yes**: Support for legacy webparts is enabled. A checkbox is shown, but is not selected by default, meaning all pages are Quick Pages by default.
++ **Yes, but support legacy webparts by default**: Support for legacy webparts is enabled. A checkbox is shown, and is selected by default, meaning an author has to deselect the checkbox to make a page into a Quick Page.
++ **No**: Quick Pages is not used, all pages are legacy pages. A checkbox is not shown.
+
+If a checkbox is shown, the editor will find it here:
 
 .. image:: enable-quickpages-checkbox-new.png 
 

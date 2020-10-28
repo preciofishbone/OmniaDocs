@@ -38,7 +38,7 @@ A property mapping supports the following settings.
 .. image:: userprofiles-propertymappings3.png
 
 + **Type**: Can be any of the following values: "Profile Picture", "Text", "Multiline Text" or "Term Set". You have to make sure the type match the related user property.
-+ **Property**: Select a built-in or custom property from the User Profile Properties in SharePoint. (Note! If "Profile Picture" is selected as Type, you do not have to select a property, because it will be stored in Office 365.)
++ **Property**: Select a built-in or custom property from the User Profile Properties in SharePoint. (Note! If "Profile Picture" is selected as Type, you do not have to select a property, because it will be stored in Microsoft 365.)
 + **Localization**: Select a language if you need to localize the label.
 + **Label**: The label that should be shown for the end user.
 + **Completeness Impact**: If the user complete this property, this decides what the impact should be on the profile completeness percentage. You can select "Low", "Medium" and "High".
