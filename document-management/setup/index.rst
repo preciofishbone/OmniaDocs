@@ -139,4 +139,4 @@ Built-in Search Properties
    setup-placeholders/index
    setup-legacywebparts/index
    setup-integrationwithqms/index
-   setup-notes-upgrading/index
+   notes-upgrading/index
