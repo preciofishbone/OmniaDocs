@@ -35,4 +35,4 @@ Changes & Fixes
 - Sorting of global menu navigation nodes when auto arrange is enabled. (#125408)
 - Issues with footer content when turning off legacy support. (#124065)
 - Some users redirected to blank page when creating new document. (#124747)
-- Buil in Icon issues when adding a new announcement. (#126020)
+- Built In Icon issues when adding a new announcement. (#126020)
