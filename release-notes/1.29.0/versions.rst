@@ -36,3 +36,19 @@ Changes & Fixes
 - Issues with footer content when turning off legacy support. (#124065)
 - Some users redirected to blank page when creating new document. (#124747)
 - Built In Icon issues when adding a new announcement. (#126020)
+
+
+1.29.3
+========================================
+
+Changes & Fixes
+***********************
+
+- Header sizes on the related links for pages aligned (#122111, #127350)
+- My Tasks and Last Updated Documents blocks fail to retrieve data in some situations (#127023)
+- Mega menu alignment issues when the auto arrange setting for nodes is turned off (#127176)
+- Tooltips on navigation nodes fail to load in some situations (#126834)
+- Issues with hyperlinks in QMS emails (#126181)
+- Page feedback report shows no data (#126019)
+- Issues with Swedish characters when saving QMS process descriptions (#126182, #126247)
+- Issues with the two-step rendering in page rollups (#125413)
