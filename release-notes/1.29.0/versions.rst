@@ -52,3 +52,14 @@ Changes & Fixes
 - Page feedback report shows no data (#126019)
 - Issues with Swedish characters when saving QMS process descriptions (#126182, #126247)
 - Issues with the two-step rendering in page rollups (#125413)
+
+
+1.29.4
+========================================
+
+Changes & Fixes
+***********************
+
+- DocumentRollup and AggregatedCalendar blocks fail to load data in some situations (#127779)
+- URL parameters change to lowercase (#128239)
+

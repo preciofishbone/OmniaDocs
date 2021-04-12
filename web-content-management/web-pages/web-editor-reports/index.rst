@@ -15,7 +15,9 @@ Click for more details. Here's an example from a Past review date report:
 
 Page Review
 *************
-If Page Review is active (set in Omnia Admin, see below), it works like this: When a page is past it's review date, something like the following is shown for editors (not to users reading the page):
+If Page Review is active, it works like this: When a page is past it's review date, one of two messages can be shown, depending on settings. One message is just shown for editors, the other for both editors and users. See below for more information about the settings.
+
+The message that are displayed solely for editors can look like this:
 
 .. image:: page-review-message.png
 
@@ -63,7 +65,7 @@ Then the following can be set:
 + **Notification Link Color**: Set the color for the link, in the review text.
 + **Notification Background**: Here you can set the background color for the review notification.
 + **Notification Icon**: You can also select an icon for the notification - Built in or Custom, and then select icon. If you select "Custom", you can choose any image as icon. 
-+ **Enable Quick Review**: Select to enable Quick Review or not. If Quick Review is active, the link "here" is shown in the notification (see above) so the editor can change review directly. If this option is not active the notification is slightly different. See below for an example.
++ **Enable Quick Review**: Select to enable Quick Review or not. If Quick Review is active, the link "here" is shown in the notification (see above) so the editor can change review directly. In this case, the message is shown only for editors. If this option is not active the notification is slightly different, and is also shown for users. See below for an example.
 + **In Advance Email Review Reminder**: Select this option if the review responsible should be notified before review date has passed, and then set the number of days.
 + **Review Reminder Report Interval**: If this option is not active, the review responsible will be notified once for each site that needs to be reviewed. If you activate this option, you set the number of days, months or years for the interval between notifications for the review reminder report. This means the review responsible will receive additional reminders if a site is not reviewed.
 
@@ -71,4 +73,4 @@ The review notification on the page can look like this when Enable Quick Review 
 
 .. image:: page-review-message-not.png
 
-Note the link to the review responsible instead of the "here" link, as seen in the example above.
+Note the link to the review responsible instead of the "here" link, as seen in the example above. Also note that this message is shown for both editors and users.
