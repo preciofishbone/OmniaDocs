@@ -33,7 +33,15 @@ Fixes
 - Ensured Custom action rendering for manage content (#109514).
 - Fixed an issue with the Trending pages block, it will now correctly default to current site (#107863).
 - Corrected an issue with site approval when the approver name is very long (#108567).
-- 
+- Fixed a glitch that would cause the rendering height to be incorrect (#121667, #117300).
+- Corrected an issue with priority that would sometimes cause duplicates (#108597).
+- Corrected issues related to manage content and translation preview (#116649).
+- Tutorial tooltip enhancements (#115376).
+- Corrected an issue what would occur when changing node segments (#119434).
+- Fixed an issue with the process step breadcrumb (#128264, #128548).
+- Fixed an issue in the localization UI (#129156).
+- Corrected an issue with the filtering of  the Manage Content report (#119833)
+
 
 Changes
 ************************
@@ -43,7 +51,6 @@ Changes
 - Link to news center now supports being right clicked and opened in a new tab (#107794).
 - The omnia master page will now indicate correct language allowing built in browser features to do correct translations.
 - Added a feature do exclude files by filetype in the "My Recent Documents" (#102800, #114550)
-- Changed the data storage for QMS to allow for larger processes (#126028, #126056).
 - Its now possible to search by document id when searching for related documents (#120300).
 - Added Start and End dates to the Aggregated Calendar detail’s view.
 - Better reactivity in the glue editor, no page reloads should now be needed to see new settings.
@@ -56,11 +63,19 @@ Changes
 - Several stability changes to localization (#120437).
 - Updated the permission checking of showing the site quick edit control (#114472).
 - The Controlled Document Viewer new correctly word-wrap on space. (#101541, #107194).
-- Targeting mappings are now sorted alphabetically(#107658)
+- Targeting mappings are now sorted alphabetically(#107658).
+- Several stability fixes to the glue page editor (#111295, #110827).
+- Responsiveness of the mega menu has been improved (#107814).
+- Improved design of the Mobile Refiners in the Document Rollup (#122425).
+- "Cascade to left" in the glue editor has been removed (#112301).
+- Its now possible to click on the notification indicator (#102926).
+- 
+
 
 New Features
 *****************************
 - The Footer now has multilingual support (#115318).
+- Changed the data storage for QMS to allow for larger processes (#126028, #126056, #124523)
 - My Sites now supports a direct link to MS Teams (#119911).
 
 For Developers
