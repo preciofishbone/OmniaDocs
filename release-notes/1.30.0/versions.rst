@@ -1,4 +1,4 @@
-1.30.0 - DRAFT
+1.30.0
 ========================================
 
 Fixes
@@ -46,13 +46,13 @@ Fixes
 Changes
 ************************
 - Updated aggregated calendar to work better with bright accent colors (#113520).
-- MS Teams apps can now be enhanced with the query parameters ìtenantheaderî, ìomniaheaderî to hide headers when creating an app. (#109700).
+- MS Teams apps can now be enhanced with the query parameters ‚Äútenantheader‚Äù, ‚Äúomniaheader‚Äù to hide headers when creating an app. (#109700).
 - Updated padding for some news viewer views, they now look better in the notification panel (#108563).
 - Link to news center now supports being right clicked and opened in a new tab (#107794).
 - The omnia master page will now indicate correct language allowing built in browser features to do correct translations.
 - Added a feature do exclude files by filetype in the "My Recent Documents" (#102800, #114550)
 - Its now possible to search by document id when searching for related documents (#120300).
-- Added Start and End dates to the Aggregated Calendar detailís view.
+- Added Start and End dates to the Aggregated Calendar detail‚Äôs view.
 - Better reactivity in the glue editor, no page reloads should now be needed to see new settings.
 - Titles are now more consistent in its word-break behavior.
 - There is now a clear button for the current search in the People Rollup.
