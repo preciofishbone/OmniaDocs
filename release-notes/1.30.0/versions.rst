@@ -1,4 +1,4 @@
-1.30.0 - DRAFT
+1.30.0
 ========================================
 
 Fixes
@@ -31,6 +31,7 @@ Fixes
 - Publishing sites are now correctly hidden from My Sites, if configured to do so (#102365).
 - Fixed an issue with validation of approver in ODM (#128165).
 - Ensured Custom action rendering for manage content (#109514).
+- Fixed an issue with notifications when publishing controlled documents in certain situations (#128037)
 - Fixed an issue with the Trending pages block, it will now correctly default to current site (#107863).
 - Corrected an issue with site approval when the approver name is very long (#108567).
 - Fixed a glitch that would cause the rendering height to be incorrect (#121667, #117300).
@@ -40,19 +41,32 @@ Fixes
 - Corrected an issue what would occur when changing node segments (#119434).
 - Fixed an issue with the process step breadcrumb (#128264, #128548).
 - Fixed an issue in the localization UI (#129156).
-- Corrected an issue with the filtering of  the Manage Content report (#119833)
+- Corrected an issue with the filtering of  the Manage Content report (#119833).
+- Corrected issues regarding statistics (#128437).
+- Fixed an issue in regars to document types not being available when creating a new controlled document (#129813).
+- Fixed issues with padding on blocks in some situations (#130923).
+- Corrected an issue with the prople rollup block not loading any content in some cases (#128585, #130746).
+- Corrected an issue with sites not showing up in the "My Sites"-block in some cases (#129892).
+- Fixed an issue with the statistics provider (#131137).
+- Fixed an issue with users having different UPN and email (#130779, #130358).
+- Fixed an issut with saving properties on pages and banners (#131756, #131797, #131896, #131892).
+- Corrected the sort order for people rollups (#131208).
+
+
+
+
 
 
 Changes
 ************************
 - Updated aggregated calendar to work better with bright accent colors (#113520).
-- MS Teams apps can now be enhanced with the query parameters ìtenantheaderî, ìomniaheaderî to hide headers when creating an app. (#109700).
+- MS Teams apps can now be enhanced with the query parameters ‚Äútenantheader‚Äù, ‚Äúomniaheader‚Äù to hide headers when creating an app. (#109700).
 - Updated padding for some news viewer views, they now look better in the notification panel (#108563).
 - Link to news center now supports being right clicked and opened in a new tab (#107794).
 - The omnia master page will now indicate correct language allowing built in browser features to do correct translations.
 - Added a feature do exclude files by filetype in the "My Recent Documents" (#102800, #114550)
 - Its now possible to search by document id when searching for related documents (#120300).
-- Added Start and End dates to the Aggregated Calendar detailís view.
+- Added Start and End dates to the Aggregated Calendar detail‚Äôs view.
 - Better reactivity in the glue editor, no page reloads should now be needed to see new settings.
 - Titles are now more consistent in its word-break behavior.
 - There is now a clear button for the current search in the People Rollup.
@@ -69,7 +83,7 @@ Changes
 - Improved design of the Mobile Refiners in the Document Rollup (#122425).
 - "Cascade to left" in the glue editor has been removed (#112301).
 - Its now possible to click on the notification indicator (#102926).
-- 
+
 
 
 New Features
