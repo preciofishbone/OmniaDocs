@@ -55,13 +55,6 @@ Fixes
 - Fixed an issue in regars to document types not being available when creating a new controlled document (#129813).
 - Fixed issues with padding on blocks in some situations (#130923).
 - Corrected an issue with the prople rollup block not loading any content in some cases (#128585, #130746).
-- Corrected an issue with sites not showing up in the "My Sites"-block in some cases (#129892).
-- Fixed an issue with the statistics provider (#131137).
-- Fixed an issue with users having different UPN and email (#130779, #130358).
-- Fixed an issut with saving properties on pages and banners (#131756, #131797, #131896, #131892).
-- Corrected the sort order for people rollups (#131208).
-
-
 
 
 
@@ -101,4 +94,10 @@ For Developers
 - Corrected the Field provisioning for Lookup Fields.
 - HTTP DELETE is now supported in the MSGraph API.
 
+
+
+.. toctree::
+   :titlesonly:
+   
+   versions
 
