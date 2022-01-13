@@ -8,11 +8,11 @@ New Features
 Page Rollup
 ************************************************
 
-It is now possible to show any pages as list or card view using the new Page Rollup block.
+It is now possible to rollup a number of pages  as a list or as cards using the new Page Rollup block.
 
 .. image:: page-rollup-employee-handbook.png
 
-There are a number of setings that can be configured to fine-tune the design and query of the rollup.
+There are a number of setings that can be configured to fine-tune the query and design of the rollup.
 
 .. image:: page-rollup-settings.png
 
