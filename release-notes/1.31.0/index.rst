@@ -34,3 +34,7 @@ Fixes
 - Fixed an issue with localizations in the Aggregated Calendar (#133804, #133923)
 
 
+.. toctree::
+   :titlesonly:
+   
+   versions
