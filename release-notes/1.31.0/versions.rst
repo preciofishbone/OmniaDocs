@@ -6,7 +6,7 @@ Changes & Fixes
 
 - Separate ISV header for every extension to reduce the risk of throttling 
 - Enable the use of the Microsoft Graph API for page roll-ups to reduce the risk of throttling
-- Enabke the use of the Microsoft Graph API for loading quick pages to reduce the risk of throttling
+- Enable the use of the Microsoft Graph API for loading quick pages to reduce the risk of throttling
 - Cache for targeting introduced to reduce the risk of throttling
 - Retry-After respected when SharePoint gets throttled to reduce the risk of throttling
 - Issue fixed related to left navigation disappearing in some situations (137007, 136236, 135796, 137261,)
