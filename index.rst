@@ -1,7 +1,7 @@
 Omnia for SharePoint
 ===============================
 
-.. note:: Please find Omnia for Microsoft 365 documentation `here <https://omnia-docs-g2.readthedocs.io>`_.
+.. note:: This is the old legacy documentation. Please find the up to date Omnia documentation `here <https://omnia-docs-g2.readthedocs.io>`_.
 
 
 Topics
