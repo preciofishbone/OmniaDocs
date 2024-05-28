@@ -26,7 +26,7 @@ You can use the following short names for built-in properties in ODM:
 - _Lang: Content Language:
 - _RevDate: Review Date.
 
-There's also a special Place Holder if you need to show Document History somewhere in the document:
+There's also a special Place Holder if you need to show Document History somewhere in a Microsoft Word document (note, this place holders works in Word only):
 
 [[_DocHistory]]
 
